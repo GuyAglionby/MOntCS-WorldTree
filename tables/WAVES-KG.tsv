@@ -1,0 +1,18 @@
+subj	rel	obj	id	flag
+absorbance|n	at location	surface|n	1c4c-073b-e376-e874	0
+absorbance|n	derivational morphology	absorb|v	1c4c-073b-e376-e874	0
+absorb|v	agent	surface|n	1c4c-073b-e376-e874	0
+absorb|v	patient	wave|n	1c4c-073b-e376-e874	0
+absorb|v	synonym	stop|v	1c4c-073b-e376-e874	0
+go through|v	synonym	transmit|v	b995-043c-620d-e558	0
+transmittance|n	antonym	refraction|n	b995-043c-620d-e558	0
+transmittance|n	at location	surface|n	b995-043c-620d-e558	0
+transmit|v	derivational morphology	transmittance|n	b995-043c-620d-e558	0
+refraction|n	at location	surface|n	bfe1-0c07-3b4a-cfc2	0
+refract|v	agent	wave|n	bfe1-0c07-3b4a-cfc2	0
+refract|v	derivational morphology	refraction|n	bfe1-0c07-3b4a-cfc2	0
+refract|v	result	change direction|vp	bfe1-0c07-3b4a-cfc2	0
+reflection|n	at location	surface|n	c2d6-e332-6199-27ac	0
+reflect|v	agent	wave|n	c2d6-e332-6199-27ac	0
+reflect|v	derivational morphology	reflection|n	c2d6-e332-6199-27ac	0
+reflect|v	result	change direction|vp	c2d6-e332-6199-27ac	0

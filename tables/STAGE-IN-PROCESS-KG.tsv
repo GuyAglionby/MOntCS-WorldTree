@@ -1,0 +1,33 @@
+subj	rel	obj	id	flag
+water cycle|ns	has subcomponent	precipitation|n	12e1-c575-a443-87f3	0
+water cycle|ns	kind of	process|n	12e1-c575-a443-87f3	0
+life cycle|ns	has subcomponent	adulthood|n	1323-e32a-5c92-8dbb	0
+life cycle|ns	kind of	process|n	1323-e32a-5c92-8dbb	0
+water cycle|ns	has subcomponent	condensation|n	533a-06f9-f6cc-18f4	0
+water cycle|ns	kind of	process|n	533a-06f9-f6cc-18f4	0
+tide cycle|ns	has subcomponent	low tide|ns	568b-892b-0284-5037	0
+tide cycle|ns	kind of	process|n	568b-892b-0284-5037	0
+sexual reproduction|ns	has subcomponent	fertilization|n	7062-9b88-0291-7a17	0
+sexual reproduction|ns	kind of	process|n	7062-9b88-0291-7a17	0
+life cycle|ns	has subcomponent	reproduction|n	7289-5346-1246-0060	0
+life cycle|ns	kind of	process|n	7289-5346-1246-0060	0
+tide cycle|ns	has subcomponent	high tide|ns	8317-e088-279b-ba21	0
+tide cycle|ns	kind of	process|n	8317-e088-279b-ba21	0
+carbon cycle|ns	has subcomponent	decomposition|n	8343-85e2-dc31-6005	0
+carbon cycle|ns	kind of	process|n	8343-85e2-dc31-6005	0
+rock cycle|ns	has subcomponent	coal|n	8372-00a5-181a-ed20	0
+rock cycle|ns	kind of	process|n	8372-00a5-181a-ed20	0
+life cycle|ns	has subcomponent	growth|n	9102-2919-4524-85be	0
+life cycle|ns	kind of	process|n	9102-2919-4524-85be	0
+sexual reproduction|ns	has subcomponent	gamete development|ns	95a9-c39d-4224-47ce	0
+sexual reproduction|ns	kind of	process|n	95a9-c39d-4224-47ce	0
+carbon dioxide-oxygen cycle|ns	has subcomponent	oxygen|n	b221-8fe0-8d8a-0e36	0
+carbon dioxide-oxygen cycle|ns	kind of	process|n	b221-8fe0-8d8a-0e36	0
+metamorphosis|n	has subcomponent	pupa stage|ns	cc84-f709-3933-9af1	0
+metamorphosis|n	kind of	process|n	cc84-f709-3933-9af1	0
+life cycle|ns	has subcomponent	metamorphosis|n	cda4-808d-0e93-2541	0
+life cycle|ns	kind of	process|n	cda4-808d-0e93-2541	0
+water cycle|ns	has subcomponent	evaporation|n	d013-ec1c-88f4-fae9	0
+water cycle|ns	kind of	process|n	d013-ec1c-88f4-fae9	0
+life cycle|ns	has subcomponent	egg|n	e76c-d8bc-9c51-ca6b	0
+life cycle|ns	kind of	process|n	e76c-d8bc-9c51-ca6b	0

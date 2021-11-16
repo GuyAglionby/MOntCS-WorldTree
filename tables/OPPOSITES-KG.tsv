@@ -1,0 +1,64 @@
+subj	rel	obj	id	flag
+contract|v	antonym	expand|v	09ab-1fe4-7db0-b767	0
+wet|j	antonym	dry|j	11df-b5ab-f051-1665	0
+acquired characteristic|jn	kind of	characteristic|n	1ad3-28d4-f347-46a4	0
+acquired characteristic|jn	synonym	learned characteristic|jn	1ad3-28d4-f347-46a4	0
+inherited characteristic|jn	antonym	acquired characteristic|jn	1ad3-28d4-f347-46a4	0
+inherited characteristic|jn	antonym	learned characteristic|jn	1ad3-28d4-f347-46a4	0
+inherited characteristic|jn	kind of	characteristic|n	1ad3-28d4-f347-46a4	0
+learned characteristic|jn	kind of	characteristic|n	1ad3-28d4-f347-46a4	0
+take|v	antonym	leave|v	1e0d-885b-8ca3-3c13	0
+north|n	antonym	south|n	239f-1e40-536f-7447	0
+changed|j	antonym	unchanged|j	2dc2-c468-20d4-4a8d	0
+changed|n	derivational morphology	change|v	2dc2-c468-20d4-4a8d	0
+change|v	derivational morphology	change|n	2dc2-c468-20d4-4a8d	0
+near|j	antonym	away|j	2fb5-7bf0-d5d7-3224	0
+near|j	antonym	far|j	2fb5-7bf0-d5d7-3224	0
+renewable|j	antonym	nonrenewable|j	3033-d050-eb10-b696	0
+low|j	antonym	high|j	34f5-9386-edae-d952	0
+die|v	antonym	live|v	3650-2d8d-42b9-299b	0
+nonliving|j	antonym	living|j	3650-2d8d-42b9-299b	0
+toward|n	antonym	away|j	435c-2049-11ca-61c5	0
+warm-blooded|j	antonym	cold-blooded|j	4581-6e67-e838-1ec2	0
+manmade|j	antonym	natural|j	5072-7d9d-63a0-5042	0
+good health|jn	synonym	healthy|j	6567-a1de-cf55-de30	0
+poor health|jn	antonym	good health|jn	6567-a1de-cf55-de30	0
+poor health|jn	synonym	bad health|jn	6567-a1de-cf55-de30	0
+poor health|jn	synonym	unhealthy|j	6567-a1de-cf55-de30	0
+rough|j	antonym	smooth|j	65ea-394c-44cb-2b42	0
+dimmer|j	antonym	brighter|j	67b1-cfae-5a8e-a28c	0
+die|v	antonym	live|v	6cac-66f1-b8ce-e7ea	0
+die|v	antonym	survive|v	6cac-66f1-b8ce-e7ea	0
+far|j	antonym	close|j	769f-6117-1272-9b62	0
+cold|j	antonym	warm|j	7747-5d53-fc0d-16f3	0
+keep warm|vj	antonym	become cold|vj	7747-5d53-fc0d-16f3	0
+incomplete|j	antonym	complete|j	7f18-4f2c-c82d-c191	0
+different|j	antonym	same|j	86bd-c659-9db3-f443	0
+insulator|n	antonym	conductor|n	9493-f99f-c366-f5bc	0
+absorb|v	patient	light|n	9f3b-6ec5-eb1c-178d	0
+absorb|v	patient	sound|n	9f3b-6ec5-eb1c-178d	0
+reflect|v	antonym	absorb|v	9f3b-6ec5-eb1c-178d	0
+reflect|v	patient	light|n	9f3b-6ec5-eb1c-178d	0
+reflect|v	patient	sound|n	9f3b-6ec5-eb1c-178d	0
+winter|n	antonym	summer|n	9fc2-699f-7287-fc0d	0
+plant tree|vp	antonym	cut down tree|vp	aa7b-a050-ec29-97a1	0
+definite|j	antonym	variable|j	b3e1-3703-6490-1530	0
+increase|v	antonym	decrease|v	bfdf-b468-ee22-1b60	0
+below|j	antonym	above|j	cabb-556b-730d-bbc7	0
+small|j	antonym	large|j	cdf2-1b98-7d70-6ea5	0
+bigger|j	derivational morphology	big|j	e5c0-79e6-37a7-4b77	0
+big|j	antonym	small|j	e5c0-79e6-37a7-4b77	0
+large|j	antonym	small|j	e5c0-79e6-37a7-4b77	0
+larger|j	derivational morphology	large|j	e5c0-79e6-37a7-4b77	0
+smaller|j	derivational morphology	small|j	e5c0-79e6-37a7-4b77	0
+negative impact|jn	antonym	positive impact|jn	ed09-025e-89b8-d48f	0
+negative impact|jn	has negative impact on	entity|n	ed09-025e-89b8-d48f	0
+negative impact|jn	kind of	impact|n	ed09-025e-89b8-d48f	0
+positive impact|jn	has positive impact on	entity|n	ed09-025e-89b8-d48f	0
+positive impact|jn	kind of	impact|n	ed09-025e-89b8-d48f	0
+less|j	antonym	more|j	f0c2-63b1-42a5-416b	0
+cool|j	antonym	hot|j	f402-34bf-e178-2a72	0
+stay cool|vj	antonym	become hot|vj	f402-34bf-e178-2a72	0
+dark|j	antonym	light|j	f487-43a6-3837-b86b	0
+safe|j	antonym	danger|n	fd2d-7763-c40b-59a9	0
+safe|j	antonym	harm|n	fd2d-7763-c40b-59a9	0

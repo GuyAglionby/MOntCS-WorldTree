@@ -1,0 +1,447 @@
+subj	rel	obj	id	flag
+car move|av	at location	road|n	010c-39f3-1b7a-7408	0
+liquid|n	at location	container|n	02c3-9c98-38d9-3711	0
+liquid|n	has property	shape|j	02c3-9c98-38d9-3711	0
+matter|n	has property	shape|j	02c3-9c98-38d9-3711	0
+matter|n	has property	volume|n	02c3-9c98-38d9-3711	0
+digestion|n	has subcomponent	stomach acid break down food|avp	0323-62a6-1a45-17a9	0
+photosynthesize|v	at location	leaf|n	0514-7919-c1bf-6188	0
+photosynthesize|v	derivational morphology	photosynthesis|n	0514-7919-c1bf-6188	0
+photosynthesize|v	instrument	sunlight|n	0514-7919-c1bf-6188	0
+catch prey|vp	agent	predator|n	07b2-9ecc-9cbf-916e	0
+catch prey|vp	instrument	move|v	07b2-9ecc-9cbf-916e	0
+ride vehicle|vp	agent	human|n	08a9-b262-9252-9125	0
+birth|v	agent	mother|n	0bc0-292e-ad9a-9017	0
+birth|v	result	offspring|n	0bc0-292e-ad9a-9017	0
+transmit|v	agent	vehicle|n	0c4a-5373-ba1c-b533	0
+adult|n	kind of	animal|n	0cfa-af72-38ef-3394	0
+baby|n	causes	adult|n	0cfa-af72-38ef-3394	0
+child|n	kind of	animal|n	0cfa-af72-38ef-3394	0
+classify|v	instrument	sort kind|vp	0d00-93f4-5616-0efc	0
+classify|v	instrument	sort type|vp	0d00-93f4-5616-0efc	0
+classify|v	instrument	sort|v	0d00-93f4-5616-0efc	0
+heal bone|vp	instrument	vitamin d|ns	11e0-b0f3-137d-951c	0
+strengthen bone|vp	instrument	vitamin d|ns	11e0-b0f3-137d-951c	0
+protect soil|vp	instrument	crop rotation|ns	123d-8a65-3831-3fa1	0
+renew soil|vp	instrument	crop rotation|ns	123d-8a65-3831-3fa1	0
+attract|v	agent	magnet|n	178a-9dd1-8569-86f1	0
+attract|v	instrument	magnetism|n	178a-9dd1-8569-86f1	0
+magnet|n	derivational morphology	magnetism|n	178a-9dd1-8569-86f1	0
+magnet|n	has property	magnetic|j	178a-9dd1-8569-86f1	0
+metal|n	has property	ferromagnetic|j	178a-9dd1-8569-86f1	0
+metal|n	has property	magnetic|j	178a-9dd1-8569-86f1	0
+protect|v	beneficiary	internal organ|ns	1910-6fcf-a49a-634a	0
+protect|v	instrument	skeletal system|ns	1910-6fcf-a49a-634a	0
+add heat|vp	causes	kill bacterium|vp	1966-99de-7765-39de	0
+add heat|vp	causes	kill virus|vp	1966-99de-7765-39de	0
+learn|v	agent	human|n	1975-c17f-560c-aa4c	0
+learn|v	at location	school|n	1975-c17f-560c-aa4c	0
+learn|v	patient	skill|n	1975-c17f-560c-aa4c	0
+read|v	kind of	skill|n	1975-c17f-560c-aa4c	0
+conserve natural resource|vp	kind of	conservation|n	1b2f-e95c-68f1-e31e	0
+mouse birth|av	result	live young|jn	1d87-acba-1519-cd97	0
+mouse give birth|av	result	live young|jn	1d87-acba-1519-cd97	0
+disperse|v	agent	disperser|n	1f01-c949-a5e3-ab0c	0
+reproduce|v	agent	animal|n	1fb7-aefd-cae4-eba8	0
+animal|n	has property	aquatic|j	2125-ab14-605b-2b8c	0
+aquatic|j	at location	water|n	2125-ab14-605b-2b8c	0
+live|v	agent	animal|n	2125-ab14-605b-2b8c	0
+live|v	agent	plant|n	2125-ab14-605b-2b8c	0
+plant|n	has property	aquatic|j	2125-ab14-605b-2b8c	0
+magnet attract|av	patient	magnetic|j	23a8-e177-f667-e30f	0
+magnetic|j	antonym	nonmagnetic|j	23a8-e177-f667-e30f	0
+taste|v	agent	animal|n	2475-8eec-dc25-695b	0
+taste|v	patient	flavor|n	2475-8eec-dc25-695b	0
+attract|v	agent	feeder|n	24ab-b403-fcec-d327	0
+attract|v	patient	animal|n	24ab-b403-fcec-d327	0
+seal give birth|av	at location	beach|n	24ac-6c7a-db37-64ad	0
+absorb sound|vp	instrument	carpet|n	24ec-0ce6-3909-ccf6	0
+lay egg|vp	agent	mosquito|n	255a-a3ea-7373-252b	0
+mosquito lay egg|avp	at location	water|n	255a-a3ea-7373-252b	0
+animal|n	has subcomponent	instinctive behaviour|jn	277a-fd34-e20b-0e05	0
+material|n	at location	source|n	27bb-0f7f-8143-a8d1	0
+object|n	at location	source|n	27bb-0f7f-8143-a8d1	0
+substance|n	at location	source|n	27bb-0f7f-8143-a8d1	0
+reflect light|vp	instrument	shiny object|jn	2827-1a44-52ad-a63e	0
+reflect light|vp	instrument	shiny thing|jn	2827-1a44-52ad-a63e	0
+live birth|jn	at location	mother|n	292e-d25a-73fe-1e95	0
+environment|n	causes	acquired characteristic|jn	298a-b710-adc5-7d76	0
+organism|n	has subcomponent	acquired characteristic|jn	298a-b710-adc5-7d76	0
+organism|n	has subcomponent	life cycle|ns	2a41-18d2-9149-55f5	0
+eat insect|vp	agent	frog|n	2b35-626a-8c37-2225	0
+invent telephone|vp	agent	alexander graham bell|ns	2c3e-5dac-b4e5-5bc8	0
+invent telephone|vp	at location	Boston|n	2c3e-5dac-b4e5-5bc8	0
+compass|n	has subcomponent	needle|n	2d7b-fad0-6961-de51	0
+earth pole|ns	has positive impact on	compass|n	2d7b-fad0-6961-de51	0
+decay|v	agent	dead|n	2e43-6a8c-1231-65f1	0
+oxygen|n	at location	circulatory system|ns	2edb-1e09-a137-4362	0
+oxygen|n	at location	lung|n	2edb-1e09-a137-4362	0
+examine vehicle|vp	agent	person|n	2f5b-92ef-b906-5fc4	0
+examine vehicle|vp	beneficiary	pollution standard|ns	2f5b-92ef-b906-5fc4	0
+examine vehicle|vp	beneficiary	safety|n	2f5b-92ef-b906-5fc4	0
+examine vehicle|vp	synonym	vehicle inspection|ns	2f5b-92ef-b906-5fc4	0
+create|v	result	product|n	30c3-cdda-8d6b-d470	0
+form|v	result	product|n	30c3-cdda-8d6b-d470	0
+produce|v	result	product|n	30c3-cdda-8d6b-d470	0
+threaten|v	agent	threat|n	3125-5f0b-0b90-0577	0
+drink beverage|vp	agent	human|n	3141-c707-066a-00e2	0
+improve telescope|vp	result	better observation|jn	34b1-1886-e578-7fe0	0
+exert force|vp	agent	friction|n	3518-79e5-2f89-2bc0	0
+pollute|v	agent	human|n	3547-7689-fb87-ee96	0
+pollute|v	instrument	pollutant|n	3547-7689-fb87-ee96	0
+pollute|v	patient	environment|n	3547-7689-fb87-ee96	0
+breathe|v	patient	young amphibian|jn	359d-9e24-9685-50ca	0
+revolve|v	patient	something|n	3678-1c03-c983-ba31	0
+tire move|av	at location	road|n	379e-4bd0-e3d5-5a1a	0
+egg|n	causes	amphibian|n	37af-5fb1-9a80-3548	0
+hatch|v	agent	egg|n	37af-5fb1-9a80-3548	0
+star|n	causes	heat|n	38e7-c5c0-194b-1ed6	0
+control water|vp	instrument	transpiration|n	3944-665a-cd65-c185	0
+transpiration|n	derivational morphology	transpire|v	3944-665a-cd65-c185	0
+transpire|v	agent	plant|n	3944-665a-cd65-c185	0
+transpire|v	at location	leaf|n	3944-665a-cd65-c185	0
+earth|n	has subcomponent	axis|n	395b-4954-311f-4749	0
+rotate|v	agent	earth|n	395b-4954-311f-4749	0
+rotate|v	instrument	axis|n	395b-4954-311f-4749	0
+pull|v	instrument	magnet|n	39b0-792c-8e27-6758	0
+ocean|n	at location	earth|n	3aef-09ab-a751-dd44	0
+shiver|v	causes	create heat|vp	3b42-d1e1-9cb2-7b6b	0
+shiver|v	causes	heat body|vp	3b42-d1e1-9cb2-7b6b	0
+shiver|v	causes	shake body|vp	3b42-d1e1-9cb2-7b6b	0
+absorb oxygen|vp	at location	lung|n	3be5-7bd0-e7f9-b068	0
+blood|n	has subcomponent	oxygen|n	3be5-7bd0-e7f9-b068	0
+water cycle|ns	has subcomponent	water absorb solar energy|avp	3cac-554a-3149-cd7b	0
+animal|n	at location	habitat|n	3e03-880a-9209-2d6c	0
+feed|v	agent	animal|n	3e03-880a-9209-2d6c	0
+live|v	agent	animal|n	3e03-880a-9209-2d6c	0
+crop rotation|ns	at location	field|n	3f22-4f93-27fe-9ff0	0
+crop rotation|ns	causes	different plant|jn	3f22-4f93-27fe-9ff0	0
+plant|v	patient	crop|n	3f22-4f93-27fe-9ff0	0
+compact sediment|vp	instrument	extreme heat|jn	3f61-74b3-1327-f313	0
+compact sediment|vp	instrument	extreme pressure|jn	3f61-74b3-1327-f313	0
+compact sediment|vp	result	sedimentary rock|jn	3f61-74b3-1327-f313	0
+nurse|v	agent	mammal|n	40c7-9325-944b-d06d	0
+nurse|v	beneficiary	offspring|n	40c7-9325-944b-d06d	0
+monkey birth|av	result	live young|jn	42cd-f6a8-2bbb-3df6	0
+monkey give birth|av	result	live young|jn	42cd-f6a8-2bbb-3df6	0
+farm crop|vp	agent	farmer|n	4499-c264-9f56-7549	0
+farm crop|vp	result	food|n	4499-c264-9f56-7549	0
+farm plant|vp	agent	farmer|n	4499-c264-9f56-7549	0
+fox|n	has negative impact on	rabbit|n	44d8-65f9-148f-b060	0
+fox eat|av	patient	rabbit|n	44d8-65f9-148f-b060	0
+grey cloud|jn	causes	precipitation|n	457f-3767-5871-6ec8	0
+animal|n	has subcomponent	brain|n	4622-178e-e8e0-8022	0
+control animal|vp	agent	brain|n	4622-178e-e8e0-8022	0
+eliminate waste|vp	agent	living thing|jn	4637-2b52-badf-1d50	0
+sediment fall|av	at location	water|n	46c5-1cb0-c4c3-4a30	0
+container|n	has subcomponent	material|n	490c-5be7-2ff7-4bf2	0
+container|n	has subcomponent	object|n	490c-5be7-2ff7-4bf2	0
+container|n	has subcomponent	substance|n	490c-5be7-2ff7-4bf2	0
+body|n	has subcomponent	heart|n	4946-32e7-a9ee-d5ed	0
+pump blood|vp	agent	heart|n	4946-32e7-a9ee-d5ed	0
+bird|n	has subcomponent	beak|n	4a2b-185c-d16f-361d	0
+eat|v	instrument	beak|n	4a2b-185c-d16f-361d	0
+reflect light|vp	agent	mirror|n	4a90-d4de-70aa-2e38	0
+winter|n	causes	fall|n	4be0-3791-43d4-1cad	0
+destroy pathogen|vp	agent	white blood cell|ns	4bfa-70f5-4c5f-1484	0
+destroy pathogen|vp	at location	body|n	4bfa-70f5-4c5f-1484	0
+environment change|av	result	seasonal change|jn	4c74-590e-8dfe-012b	0
+transport food|vp	instrument	tissue|n	4cdf-2f38-c2ff-daa9	0
+transport mineral|vp	instrument	tissue|n	4cdf-2f38-c2ff-daa9	0
+transport water|vp	instrument	tissue|n	4cdf-2f38-c2ff-daa9	0
+migrate|v	agent	animal|n	4d20-3294-ea14-e444	0
+migrate|v	kind of	move|v	4d20-3294-ea14-e444	0
+adult amphibian|jn	at location	land|n	4e5c-f633-ddba-96d9	0
+windmill|n	has positive impact on	environment|n	4ed1-58db-05c6-ad49	0
+runoff|n	at location	cropland|n	4ee7-8c52-99b5-7674	0
+runoff|n	kind of	water|n	4ee7-8c52-99b5-7674	0
+lay egg|vp	agent	reptile|n	4f6f-b06b-3c90-bbbd	0
+burn|v	agent	dry wood|jn	50c2-119a-8445-c8b7	0
+friction|n	at location	surface|n	512a-c5ef-bcba-905d	0
+friction|n	causes	slow|j	512a-c5ef-bcba-905d	0
+friction|n	has negative impact on	motion|n	512a-c5ef-bcba-905d	0
+object|n	has subcomponent	surface|n	512a-c5ef-bcba-905d	0
+destroy plant|vp	agent	fire|n	5271-6a22-214e-2847	0
+fire destroy|av	patient	plant|n	5271-6a22-214e-2847	0
+revolve|v	agent	earth|n	5471-05b0-00bd-1669	0
+revolve|v	at location	sun|n	5471-05b0-00bd-1669	0
+dense liquid|jn	at location	down|j	54ff-9d51-da43-e4f9	0
+DNA|n	causes	gene|n	5524-96d8-a5d8-f0ce	0
+inheritance|n	causes	gene|n	5524-96d8-a5d8-f0ce	0
+offspring|n	has subcomponent	gene|n	5524-96d8-a5d8-f0ce	0
+parent|n	has subcomponent	gene|n	5524-96d8-a5d8-f0ce	0
+refract light|vp	instrument	prism|n	592f-eeca-3145-0e73	0
+earth tilt|ns	causes	summer|n	5949-8ca0-0ddf-811b	0
+ride|v	at location	surface|n	5961-40f8-e1b9-e456	0
+ride|v	kind of	move|v	5961-40f8-e1b9-e456	0
+human compete|av	synonym	race|n	599c-ede6-83d2-982c	0
+vehicle compete|av	synonym	race|n	599c-ede6-83d2-982c	0
+rise|v	agent	sun|n	5be6-58b4-ec52-40b2	0
+sun rise|av	at location	east|n	5be6-58b4-ec52-40b2	0
+electron microscope create|av	patient	picture|n	5de7-6e05-8a99-8d54	0
+1973|n	has subcomponent	invent cellular telephone|vp	5deb-bf64-c55b-92ee	0
+produce food|vp	agent	producer|n	606d-9382-a8e0-7000	0
+spring|n	causes	summer|n	6089-585e-73e5-ebd5	0
+earth|n	has subcomponent	mass|n	6239-5408-630b-6f9d	0
+moon|n	has subcomponent	mass|n	6239-5408-630b-6f9d	0
+bury seed|vp	causes	seed sprout|av	6433-f2de-3946-945e	0
+seed sprout|av	at location	soil|n	6433-f2de-3946-945e	0
+sprout|v	agent	seed|n	6433-f2de-3946-945e	0
+remora fish eat|av	instrument	attach shark|vp	6528-a45c-1abe-2e52	0
+remora fish eat|av	patient	food|n	6528-a45c-1abe-2e52	0
+cool body|vp	instrument	sweat|n	6641-7122-bf62-0870	0
+tinted lens reflect|av	patient	ultraviolet ray|ns	6835-a29c-ba48-1fb7	0
+break down sugar|vp	agent	organism|n	6891-0161-c8a9-b8c1	0
+break down sugar|vp	result	energy|n	6891-0161-c8a9-b8c1	0
+water cycle|ns	has subcomponent	water evaporate|av	68ad-c11b-2981-9be0	0
+water evaporate|av	goal	air|n	68ad-c11b-2981-9be0	0
+reflect|v	result	echo|v	68c7-53c9-4730-b283	0
+sound reflect|av	at location	surface|n	68c7-53c9-4730-b283	0
+sound reflect|av	synonym	echo|n	68c7-53c9-4730-b283	0
+observe|v	agent	scientist|n	6987-1a5d-58e9-399d	0
+observe|v	synonym	make observation|vp	6987-1a5d-58e9-399d	0
+classify|v	instrument	property|n	69c1-2991-2421-ce63	0
+classify|v	synonym	group material|vp	69c1-2991-2421-ce63	0
+classify|v	synonym	group object|vp	69c1-2991-2421-ce63	0
+orbit|v	agent	satellite|n	6a7c-945a-f6fc-9043	0
+orbit|v	patient	planet|n	6a7c-945a-f6fc-9043	0
+deflect air|vp	agent	jet stream|ns	6aa0-5875-fa94-91e5	0
+prevailing westerlies|jn	kind of	air|n	6aa0-5875-fa94-91e5	0
+roll|v	agent	round object|jn	6b85-a565-613d-eac0	0
+consumer|n	antonym	producer|n	6bf8-4a05-d7b7-8bc0	0
+eat food|vp	agent	consumer|n	6bf8-4a05-d7b7-8bc0	0
+floating arrow point|av	at location	compass|n	7058-f855-3d78-7d7f	0
+floating arrow point|av	patient	north|n	7058-f855-3d78-7d7f	0
+pant|v	agent	animal|n	709d-6f18-874c-f16a	0
+pant|v	instrument	tongue|n	709d-6f18-874c-f16a	0
+pant|v	result	cool|j	709d-6f18-874c-f16a	0
+lay egg|vp	agent	fish|n	70b7-f5bc-ff13-10f9	0
+metamorphoze|v	agent	amphibian|n	710f-aa1b-106c-0fef	0
+metamorphoze|v	derivational morphology	metamorphosis|n	710f-aa1b-106c-0fef	0
+lay egg|vp	agent	adult animal|jn	73df-7e6e-db00-ae55	0
+human|n	has negative impact on	animal|n	7652-630e-9dc2-c3d9	0
+byproduct|n	kind of	waste|n	7762-fb32-6a1f-62ec	0
+filter waste|vp	instrument	kidney|n	7762-fb32-6a1f-62ec	0
+kidney|n	has positive impact on	blood|n	7762-fb32-6a1f-62ec	0
+remove waste|vp	instrument	kidney|n	7762-fb32-6a1f-62ec	0
+animal|n	causes	echo|n	77e3-2567-0b8a-e691	0
+detect|v	instrument	echolocation|n	77e3-2567-0b8a-e691	0
+echo|n	kind of	sound|n	77e3-2567-0b8a-e691	0
+echolocation|n	causes	echo|n	77e3-2567-0b8a-e691	0
+sugar dissolve|av	at location	water|n	78d4-18c9-9484-0154	0
+precipitation|n	synonym	rain|n	7975-13c2-aeb2-5a9a	0
+water fall|av	synonym	precipitation|n	7975-13c2-aeb2-5a9a	0
+absorb carbon dioxide|vp	at location	air|n	7b20-0992-8ec1-c73c	0
+photosynthesize|v	agent	plant|n	7b20-0992-8ec1-c73c	0
+photosynthesize|v	instrument	absorb carbon dioxide|vp	7b20-0992-8ec1-c73c	0
+plane travel|av	at location	atmosphere|n	7c13-177b-1402-1e61	0
+winter|n	causes	spring|n	7f16-3900-214b-cfcc	0
+good bacteria|jn	at location	skin|n	7f29-f89e-48de-2b22	0
+grow|v	agent	bacteria|n	7f29-f89e-48de-2b22	0
+human|n	has subcomponent	skin|n	7f29-f89e-48de-2b22	0
+push button|vp	result	complete circuit|vp	7fb4-c254-3d90-1dad	0
+perform cellular respiration|vp	agent	cell|n	849d-06ff-794e-6880	0
+grow|v	agent	living thing|jn	866e-9867-c534-141c	0
+catch fish|vp	agent	human|n	86ed-0d8e-531e-34e3	0
+catch fish|vp	result	food|n	86ed-0d8e-531e-34e3	0
+kill fish|vp	agent	human|n	86ed-0d8e-531e-34e3	0
+kill fish|vp	result	food|n	86ed-0d8e-531e-34e3	0
+eat insect|vp	agent	insect|n	8735-9116-c537-0768	0
+electric car|jn	has subcomponent	electricity|n	8948-37e5-94f2-ca16	0
+regular car|jn	has subcomponent	gasoline|n	8948-37e5-94f2-ca16	0
+gas exchange|av	instrument	leaf|n	8958-fc28-d9ce-a1d6	0
+photosynthesize|v	instrument	leaf|n	8958-fc28-d9ce-a1d6	0
+bat give birth|av	result	live young|jn	8a30-65b6-7d7e-5aa2	0
+nut|n	has positive impact on	squirrel|n	8b17-5532-4eed-68b0	0
+event occur|av	at location	specific place|jn	8bd2-dcf4-9b89-5e77	0
+leaf tilt|av	goal	sunlight|n	900a-fda3-7a86-85db	0
+plant|n	has subcomponent	leaf|n	900a-fda3-7a86-85db	0
+reflect|v	instrument	white object|jn	902d-2137-8776-7a13	0
+reflect|v	patient	light|n	902d-2137-8776-7a13	0
+body|n	has subcomponent	nervous system|ns	904b-3cbd-8469-b307	0
+electrical signal|jn	kind of	observation|n	904b-3cbd-8469-b307	0
+summer|n	causes	fall|n	95a8-f71f-4e81-3332	0
+adapt|v	agent	animal|n	9714-8e2a-f6fb-91e4	0
+earth tilt|ns	causes	winter|n	9a54-fdc1-b863-633a	0
+animal avoid|av	patient	bad odor|jn	9a8e-ea9a-3158-05d6	0
+activate|v	patient	brake|n	9b86-7f8b-3dd3-f9e4	0
+brake|n	at location	wheel|n	9b86-7f8b-3dd3-f9e4	0
+predator eat|av	patient	animal|n	9bdc-0291-3f7e-751d	0
+water flow|av	at location	slope|n	9d72-710b-d88f-44ef	0
+store food|vp	has positive impact on	plant|n	9f6b-7d55-4edf-3f0b	0
+pebble|n	at location	water|n	a224-d742-be36-390f	0
+climb object|vp	agent	vine|n	a41a-a127-f2d9-ec5e	0
+moon reflect sunlight|avp	goal	Earth|n	a423-40e8-3886-4df5	0
+reflect sunlight|vp	agent	moon|n	a423-40e8-3886-4df5	0
+complete metamorphosis|jn	antonym	incomplete metamorphosis|jn	a4a0-25e7-ae9c-5654	0
+complete metamorphosis|jn	has subcomponent	pupa|n	a4a0-25e7-ae9c-5654	0
+metamorphoze|v	agent	insect|n	a4a0-25e7-ae9c-5654	0
+bacteria|n	causes	food poisoning|ns	a53c-6387-9cc9-d3e1	0
+cook food|vp	result	kill bacterium|vp	a53c-6387-9cc9-d3e1	0
+cook food|vp	result	kill virus|vp	a53c-6387-9cc9-d3e1	0
+virus|n	causes	food poisoning|ns	a53c-6387-9cc9-d3e1	0
+scratch glass|vp	instrument	quartz|n	a54c-e068-073d-def8	0
+cut down forest|vp	agent	human|n	a65f-d177-962c-f0fe	0
+cut down forest|vp	result	wood|n	a65f-d177-962c-f0fe	0
+cut down tree|vp	agent	human|n	a65f-d177-962c-f0fe	0
+cut down tree|vp	result	wood|n	a65f-d177-962c-f0fe	0
+cut down tree|vp	synonym	logging|n	a65f-d177-962c-f0fe	0
+logging|n	synonym	cut down forest|vp	a65f-d177-962c-f0fe	0
+store water|vp	agent	cactus|n	a74b-0f41-283a-36ff	0
+north star|ns	at location	sky|n	a7ec-4506-0e8a-ce2e	0
+transport mineral|vp	instrument	artery|n	a885-71a9-2e19-c391	0
+transport nutrient|vp	instrument	artery|n	a885-71a9-2e19-c391	0
+transport nutrient|vp	instrument	vein|n	a885-71a9-2e19-c391	0
+transport nutrient|vp	instrument	vein|n	a885-71a9-2e19-c391	0
+transport nutrient|vp	instrument	vein|n	a885-71a9-2e19-c391	0
+transport nutrient|vp	instrument	vein|n	a885-71a9-2e19-c391	0
+transport water|vp	instrument	artery|n	a885-71a9-2e19-c391	0
+transport water|vp	instrument	vein|n	a885-71a9-2e19-c391	0
+oxygen|n	at location	air|n	a8c6-3b66-4842-24bc	0
+oxygen|n	at location	respiratory system|ns	a8c6-3b66-4842-24bc	0
+eat acorn|vp	beneficiary	chipmunk|n	ac29-64bc-8dfb-4080	0
+daylight|n	synonym	sun shine|av	ac73-12b7-56aa-d852	0
+shine|v	agent	sun|n	ac73-12b7-56aa-d852	0
+sun shine|av	at location	location|n	ac73-12b7-56aa-d852	0
+young amphibian|jn	at location	water|n	ad33-c9d9-8287-cba0	0
+digest|v	agent	digestive system|ns	af05-e5d3-92da-de30	0
+digest|v	patient	food|n	af05-e5d3-92da-de30	0
+discard|v	agent	human|n	af78-4cfe-072e-5e89	0
+discard|v	patient	appliance|n	af78-4cfe-072e-5e89	0
+charles darwin study|av	patient	animal|n	b041-a123-9784-787f	0
+charles darwin study|av	patient	plant|n	b041-a123-9784-787f	0
+water meet land|avp	at location	beach|n	b130-8df0-86af-43ea	0
+rot|v	agent	dead organism|jn	b150-d213-b73e-de9d	0
+make food|vp	agent	human|n	b161-e6d7-f3ae-64bf	0
+make food|vp	instrument	heat|n	b161-e6d7-f3ae-64bf	0
+reduce bacterium|vp	result	prevent illness|vp	b267-35c1-c2c8-f1f0	0
+falling water produce electricity|avp	synonym	hydropower|n	b301-6de7-7042-2581	0
+baking soda react|av	instrument	vinegar|n	b39a-5a6f-9af1-b3de	0
+winter|n	causes	dormant plant|jn	b462-24cc-7651-6d33	0
+winter|n	causes	plant die|av	b462-24cc-7651-6d33	0
+drip|v	agent	liquid matter|jn	b492-a3a6-e0aa-0ea9	0
+weed use|av	patient	instrument|n	b5e7-965c-c67f-f9d9	0
+water absorb|av	patient	light energy|ns	b665-c869-0fbf-4c19	0
+communicate|v	instrument	sound|n	b7ef-37ee-c098-3cab	0
+talk|v	result	sound|n	b7ef-37ee-c098-3cab	0
+emit|v	agent	source|n	b877-a58b-f75a-3998	0
+generate|v	agent	source|n	b877-a58b-f75a-3998	0
+produce|v	agent	source|n	b877-a58b-f75a-3998	0
+carbon|n	at location	atmosphere|n	b8bd-0f06-439a-5721	0
+carbon|n	causes	greenhouse effect|ns	b8bd-0f06-439a-5721	0
+greenhouse effect|ns	causes	heat|n	b8bd-0f06-439a-5721	0
+planet|n	has subcomponent	atmosphere|n	b8bd-0f06-439a-5721	0
+impact|v	agent	factor|n	b94c-5bde-8d46-29de	0
+loosen soil|vp	instrument	tunnel|n	b964-cdbd-a226-4027	0
+enable|v	instrument	vehicle|n	bb32-0bc0-3629-6bca	0
+cluck|v	agent	chicken|n	bc64-518b-7a8b-fdab	0
+requirement|n	has positive impact on	survive|v	be10-2687-bb9c-5186	0
+survive|v	beneficiary	living thing|jn	be10-2687-bb9c-5186	0
+eye|n	has subcomponent	pupil|n	be64-4c22-3323-47e2	0
+light enter eye|avp	at location	pupil|n	be64-4c22-3323-47e2	0
+break rock|vp	agent	root|n	c083-9545-9c5e-f943	0
+grow|v	agent	root|n	c083-9545-9c5e-f943	0
+plant|n	has subcomponent	root|n	c083-9545-9c5e-f943	0
+improve design|vp	beneficiary	function|n	c1b8-cab4-eb78-9161	0
+break down food|vp	instrument	cell|n	c1cd-99dc-b931-3a4f	0
+break down food|vp	result	energy|n	c1cd-99dc-b931-3a4f	0
+egg|n	causes	baby|n	c284-c764-7abd-4e68	0
+develop trait|vp	agent	organism|n	c6fe-fa08-c304-093d	0
+develop trait|vp	result	survive|v	c6fe-fa08-c304-093d	0
+eat insect|vp	agent	salamander|n	cbd8-e54c-3cb6-1a48	0
+block sunlight|vp	instrument	large canopy|jn	ce2f-df98-e9c7-37ac	0
+block sunlight|vp	instrument	large tree|jn	ce2f-df98-e9c7-37ac	0
+glacier|n	has property	slow|j	cfd6-1d2a-381a-2ff1	0
+move|v	agent	glacier|n	cfd6-1d2a-381a-2ff1	0
+1927|n	has subcomponent	invent television|vp	d02c-a651-7238-c2f5	0
+female bird sit|av	at location	nest|n	d12c-45b3-893a-484c	0
+tectonic plate move|av	at location	fault line|ns	d28e-0ebd-8be3-a9d7	0
+cut down tree|vp	agent	timber company|ns	d54a-daf9-1853-05ac	0
+lay egg|vp	agent	bird|n	d579-8b7c-067c-da38	0
+cell|n	has subcomponent	nucleus|n	d916-5924-be80-0d88	0
+control cell|vp	instrument	nucleus|n	d916-5924-be80-0d88	0
+real|j	antonym	fake|j	dcd7-6da5-3ef6-3998	0
+water|n	has positive impact on	real plant|jn	dcd7-6da5-3ef6-3998	0
+control robot|vp	agent	computer|n	df77-f13b-3062-2718	0
+pull bone|vp	instrument	muscle|n	e044-428c-b438-7117	0
+pull bone|vp	result	move bone|vp	e044-428c-b438-7117	0
+push bone|vp	instrument	muscle|n	e044-428c-b438-7117	0
+push bone|vp	result	move bone|vp	e044-428c-b438-7117	0
+mammal birth|av	result	live young|jn	e060-5559-9564-4cf4	0
+mammal give birth|av	result	live young|jn	e060-5559-9564-4cf4	0
+have offspring|vp	agent	animal|n	e1b9-baf2-f4bd-c847	0
+have offspring|vp	instrument	lay egg|vp	e1b9-baf2-f4bd-c847	0
+reproduce|v	agent	animal|n	e1b9-baf2-f4bd-c847	0
+reproduce|v	instrument	lay egg|vp	e1b9-baf2-f4bd-c847	0
+eat animal|vp	instrument	hunt|v	e1e4-0797-e545-e336	0
+hunt|v	agent	animal|n	e1e4-0797-e545-e336	0
+hunt|v	kind of	kill|v	e1e4-0797-e545-e336	0
+hunt|v	patient	animal|n	e1e4-0797-e545-e336	0
+bark|v	agent	dog|n	e235-691b-277c-0115	0
+clear|j	antonym	opaque|j	e25c-9d2e-a369-8e52	0
+shine|v	agent	light|n	e25c-9d2e-a369-8e52	0
+shine|v	at location	clear|j	e25c-9d2e-a369-8e52	0
+catch fire|vp	agent	forest|n	e286-2d36-370a-0d17	0
+lay egg|vp	agent	frog|n	e2c1-2bf2-b9f6-97b9	0
+physicist study|av	patient	energy|n	e303-f8e1-4293-664d	0
+weather|v	result	round rock|vp	e357-f8b5-992c-2d25	0
+weather|v	result	smooth rock|vp	e357-f8b5-992c-2d25	0
+orbit|v	agent	planet|n	e35c-e251-2993-ac25	0
+orbit|v	patient	planet|n	e35c-e251-2993-ac25	0
+escape predator|vp	agent	animal|n	e4af-0fe7-8fbf-a009	0
+escape predator|vp	instrument	move|v	e4af-0fe7-8fbf-a009	0
+set|v	agent	sun|n	e565-87e6-6f00-1598	0
+sun set|av	at location	west|n	e565-87e6-6f00-1598	0
+sense|v	agent	living thing|jn	e58b-6fd8-4321-1a69	0
+sense|v	instrument	touch|v	e58b-6fd8-4321-1a69	0
+human wear|av	patient	gear|n	e58f-43aa-6175-9492	0
+breathe|v	agent	animal|n	e5c6-c007-ec45-6843	0
+panting|n	derivational morphology	pant|n	e7c9-77b1-0847-9902	0
+pant|v	agent	animal|n	e7c9-77b1-0847-9902	0
+pant|v	synonym	breathe|v	e7c9-77b1-0847-9902	0
+plant crop|vp	agent	human|n	e9e1-2164-9acf-637a	0
+plant crop|vp	result	food|n	e9e1-2164-9acf-637a	0
+friction|n	at location	surface|n	e9ed-3032-6736-3077	0
+motion|n	causes	friction|n	e9ed-3032-6736-3077	0
+object|n	has subcomponent	surface|n	e9ed-3032-6736-3077	0
+animal learn|av	patient	behavior|n	e9f6-16cc-4443-acc7	0
+food|n	at location	digestive system|ns	ea27-c3fc-7c64-eeb2	0
+food|n	has subcomponent	nutrient|n	ea27-c3fc-7c64-eeb2	0
+nutrient|n	at location	circulatory system|ns	ea27-c3fc-7c64-eeb2	0
+oxygen|n	at location	circulatory system|ns	ea27-c3fc-7c64-eeb2	0
+oxygen|n	at location	respiratory system|ns	ea27-c3fc-7c64-eeb2	0
+substance|n	at location	circulatory system|ns	ea27-c3fc-7c64-eeb2	0
+national park limit|av	patient	hunting|n	ec15-e4f0-40a4-c40e	0
+national park limit|av	patient	logging|n	ec15-e4f0-40a4-c40e	0
+national park limit|av	patient	mining|n	ec15-e4f0-40a4-c40e	0
+earthworm create|av	patient	tunnel|n	eccc-ccef-2b84-af94	0
+earthworm|n	at location	soil|n	eccc-ccef-2b84-af94	0
+hummingbird eat|av	patient	nectar|n	edcd-ed33-4439-04cb	0
+exhale|v	agent	animal|n	ef31-4d23-6b78-5f80	0
+exhale|v	patient	air|n	ef31-4d23-6b78-5f80	0
+exhale|v	source	lung|n	ef31-4d23-6b78-5f80	0
+exhale|v	synonym	expel air|vp	ef31-4d23-6b78-5f80	0
+build nest|vp	agent	bird|n	ef70-ad11-607b-edd7	0
+invent tool|vp	result	use tool|vp	efcb-faab-cd79-cd07	0
+invent|v	patient	tool|n	efcb-faab-cd79-cd07	0
+anchor plant|vp	at location	soil|n	efd2-9d11-3f32-24cc	0
+anchor plant|vp	instrument	root|n	efd2-9d11-3f32-24cc	0
+play|v	agent	human|n	f06d-9af1-c14f-fb25	0
+play|v	at location	beach|n	f06d-9af1-c14f-fb25	0
+play|v	instrument	warm temperature|jn	f06d-9af1-c14f-fb25	0
+shed fur|vp	agent	animal|n	f1a3-386d-38d5-de6d	0
+pluto|n	has property	orbit|n	f63b-aef7-81b2-c372	0
+warm front|jn	synonym	warm air|jn	f992-5698-76aa-c6de	0
+attract fly|vp	instrument	rotting meat smell|ns	fa71-3061-1c31-cead	0
+cook|v	instrument	microwave|n	fa81-4952-705a-d338	0
+cook|v	instrument	oven|n	fa81-4952-705a-d338	0
+louis pasteur create|av	patient	pasteurization|n	fbee-1879-a1dc-7106	0
+louis pasteur invent|av	patient	pasteurization|n	fbee-1879-a1dc-7106	0
+pasteurization|n	derivational morphology	pasteurize|v	fbee-1879-a1dc-7106	0
+night|n	has subcomponent	star|n	fc96-f0ff-1c18-337e	0
+star move|av	at location	horizon|n	fc96-f0ff-1c18-337e	0
+metamorphose|v	agent	moth|n	fdca-4f63-cab2-1b60	0
+metamorphosis|n	derivational morphology	metamorphose|v	fdca-4f63-cab2-1b60	0
+absorb energy|vp	agent	earth|n	fdf7-4e8f-a5ef-1fcd	0
+move|v	instrument	intense sound energy|jn	fedb-a67f-5daf-3a1d	0
+describe weather|vp	agent	weather report|ns	ff5e-bb4f-4d6f-449d	0

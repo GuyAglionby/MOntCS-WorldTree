@@ -1,0 +1,17 @@
+subj	rel	obj	id	flag
+month|n	has subcomponent	moon phase|ns	06da-bc83-aab7-015f	0
+repeat|v	agent	cycle|n	09b4-ea82-86eb-0584	0
+month|n	has subcomponent	moon orbit|av	1a29-2268-eeb7-edba	0
+year|n	has subcomponent	tree ring|ns	2c2b-310a-0ee6-e4a2	0
+year|n	has subcomponent	season|n	3085-e55b-e7a8-fd70	0
+day|n	has subcomponent	moon rise|av	363a-2bcb-006a-ecd5	0
+day|n	has subcomponent	cycle|n	a972-0cbb-3c14-b098	0
+year|n	has subcomponent	season|n	b376-a3d3-5d2e-8fd9	0
+day|n	has subcomponent	tide|n	cc3c-b438-6a44-57f6	0
+week|n	has subcomponent	moon phase|ns	d1de-2ec6-5323-1c1d	0
+year|n	has subcomponent	equinox|n	d8c7-06a7-c7ec-8653	0
+year|n	has subcomponent	season|n	e172-fe13-821d-196c	0
+day|n	has subcomponent	sun rise|av	f8be-9407-d60e-6282	0
+day|n	has subcomponent	sun set|av	f8be-9407-d60e-6282	0
+sun rise|av	synonym	sunrise|n	f8be-9407-d60e-6282	0
+sun set|av	synonym	sunset|n	f8be-9407-d60e-6282	0

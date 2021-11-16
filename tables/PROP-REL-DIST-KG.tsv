@@ -1,0 +1,18 @@
+subj	rel	obj	id	flag
+Pluto|n	has property	ninth planet|jn	0390-aada-ce88-9040	0
+Pluto|n	kind of	planet|n	0390-aada-ce88-9040	0
+planet|n	kind of	celestial object|jn	0390-aada-ce88-9040	0
+Sun|n	kind of	star|n	4e12-62f2-0830-d602	0
+star|n	kind of	celestial object|jn	4e12-62f2-0830-d602	0
+Boston|n	at location	atlantic ocean|ns	6d05-237f-42f2-6589	0
+Boston|n	kind of	city|n	6d05-237f-42f2-6589	0
+atlantic ocean|ns	kind of	ocean|n	6d05-237f-42f2-6589	0
+Earth|n	kind of	planet|n	a352-bde5-b854-f460	0
+Earth|n	has property	third planet|jn	a352-bde5-b854-f460	0
+planet|n	kind of	celestial object|jn	a352-bde5-b854-f460	0
+Moon|n	kind of	celestial object|jn	ae9e-abc3-9cb3-216c	0
+star|n	at location	far from Earth|ns	c14b-4971-7d32-d1d3	0
+star|n	at location	night sky|ns	c14b-4971-7d32-d1d3	0
+Jupiter|n	has property	fifth planet|jn	fe9e-0b3d-813c-75d7	0
+Jupiter|n	kind of	planet|n	fe9e-0b3d-813c-75d7	0
+planet|n	kind of	celestial object|jn	fe9e-0b3d-813c-75d7	0

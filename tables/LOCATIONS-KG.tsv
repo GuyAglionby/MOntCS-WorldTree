@@ -1,0 +1,78 @@
+subj	rel	obj	id	flag
+create diamond|vp	at location	underground|n	016e-d9e2-b804-44d7	0
+diamond|n	at location	underground|n	016e-d9e2-b804-44d7	0
+heat carbon|vp	result	diamond|n	016e-d9e2-b804-44d7	0
+pressure carbon|vp	result	diamond|n	016e-d9e2-b804-44d7	0
+ferns|n	at location	river|n	0339-be41-4854-631d	0
+sandy soil|jn	at location	dry environment|jn	03a5-9e41-f0e1-1cba	0
+bottom of swamp|ns	at location	swamp|n	071b-6b75-e037-a163	0
+create peate|vp	at location	bottom of swamp|ns	071b-6b75-e037-a163	0
+peat|n	at location	bottom of swamp|ns	071b-6b75-e037-a163	0
+water cycle|ns	at location	earth|n	0a6a-f5dd-7c73-ed64	0
+soil|n	at location	environment|n	0d29-3185-fc48-6cdd	0
+planet|n	at location	space|n	130f-0269-864e-a962	0
+blood|n	has subcomponent	oxygen|n	1de2-9254-a03f-38dc	0
+oxygenate blood|vp	at location	lungs|n	1de2-9254-a03f-38dc	0
+scaled animal|jn	has subcomponent	scale|n	3227-54bb-37d3-16c8	0
+scales|n	kind of	skin|n	3227-54bb-37d3-16c8	0
+algae|n	at location	water|n	3648-f2f7-ae08-d6f7	0
+landslide|n	at location	mountain|n	368d-e93c-2b60-3348	0
+carbon dioxide|ns	at location	air|n	3cff-4d77-9e27-7dc5	0
+slide|n	at location	playground|n	3eca-3ce1-9844-cc78	0
+farming|n	at location	farm|n	44ff-d8ea-db34-6805	0
+finish|n	synonym	end|n	4531-f506-ab6e-28b4	0
+race|n	at location	track|n	4531-f506-ab6e-28b4	0
+race|n	has subcomponent	finish|n	4531-f506-ab6e-28b4	0
+track|n	has subcomponent	finish|n	4531-f506-ab6e-28b4	0
+room|n	has subcomponent	floor|n	4584-32b2-fcfb-5c0d	0
+break down food|vp	agent	digestive system|ns	46e9-7c6d-a71b-e151	0
+break down food|vp	at location	digestive system|ns	46e9-7c6d-a71b-e151	0
+food|n	has subcomponent	simple substance|jn	46e9-7c6d-a71b-e151	0
+garden|n	at location	outside|n	4967-a59a-d4c4-9810	0
+satellite|n	at location	space|n	5304-c9bf-5300-f45d	0
+race|n	at location	track|n	568f-26e5-8d0a-e765	0
+race|n	has subcomponent	start|n	568f-26e5-8d0a-e765	0
+start|n	synonym	beginning|n	568f-26e5-8d0a-e765	0
+track|n	has subcomponent	start|n	568f-26e5-8d0a-e765	0
+volcanoes|n	at location	ocean|n	5ac1-fbf9-6335-c12a	0
+mantle|n	at location	underground|n	6520-839d-9b7c-bf0a	0
+plant|n	has subcomponent	leaf|n	6778-0a90-bf9d-69c4	0
+transpiration|n	at location	leaf|n	6778-0a90-bf9d-69c4	0
+northern|n	derivational morphology	north|n	6f6a-b026-39ea-057c	0
+northern hemisphere|jn	at location	north|n	6f6a-b026-39ea-057c	0
+southern hemisphere|jn	at location	south|n	6f6a-b026-39ea-057c	0
+southern|j	derivational morphology	south|n	6f6a-b026-39ea-057c	0
+playground|n	at location	outside|n	742b-5bfd-9404-9120	0
+water vapour|ns	at location	atmosphere|n	7896-0ee6-9c3c-f3c1	0
+city|n	kind of	town|n	940b-c972-2fd2-af0e	0
+town|n	at location	countryside|n	940b-c972-2fd2-af0e	0
+town|n	has property	solitary|j	940b-c972-2fd2-af0e	0
+chloroplast|n	at location	leaf|n	962d-0077-a672-6f9a	0
+plant|n	has subcomponent	leaf|n	962d-0077-a672-6f9a	0
+sun|n	at location	sky|n	ac56-e576-15bb-982e	0
+soil|n	at location	underground|n	acaa-fed9-9236-c8de	0
+bottom of area|ns	at location	area|n	bdbf-34c0-8ec2-7e7a	0
+ground|n	at location	bottom of area|ns	bdbf-34c0-8ec2-7e7a	0
+cloud|n	at location	sky|n	c345-0f27-1027-c29b	0
+fossil|n	at location	sedimentary rock|jn	c734-55b0-6cf4-c9d9	0
+hawaii|n	at location	ocean|n	d6fc-5f39-b200-7600	0
+flood plain|ns	at location	river|n	d7a4-ff12-2d63-e221	0
+natural resource|jn	at location	nature|n	df44-1d34-37d8-5123	0
+lava|n	at location	ground|n	e3b8-ecc6-db79-2049	0
+sidewalk|n	at location	outside|n	e6ce-9a90-4900-9861	0
+young rock|jn	at location	old rock|jn	e705-b72f-bb3e-a9a6	0
+country|n	at location	earth surface|ns	e838-2f71-4e61-66de	0
+earth surface|ns	at location	earth|n	e838-2f71-4e61-66de	0
+graph|n	has subcomponent	x axis|ns	ea3c-fe4b-4ca9-20ca	0
+independent variable|jn	at location	horizontal axis|jn	ea3c-fe4b-4ca9-20ca	0
+independent variable|jn	at location	x axis|ns	ea3c-fe4b-4ca9-20ca	0
+magma|n	at location	underground|n	eea8-cae1-e3a4-1a51	0
+earth|n	has subcomponent	earth surface|ns	f303-c24f-1db0-7fba	0
+soil|n	at location	earth surface|ns	f303-c24f-1db0-7fba	0
+water|n	at location	outside|n	f4ba-23a8-463c-21fe	0
+continental shelf|jn	at location	shore|n	f5d7-9f9c-58e6-9d14	0
+dependent variable|ns	at location	vertical axis|ns	ff76-3d5d-9e3f-ca56	0
+dependent variable|ns	at location	y axis|ns	ff76-3d5d-9e3f-ca56	0
+graph|n	has subcomponent	y axis|ns	ff76-3d5d-9e3f-ca56	0
+y axis|ns	synonym	vertical axis|ns	ff76-3d5d-9e3f-ca56	0
+ice|n	at location	arctic|n	fff8-5c88-0710-70ae	0

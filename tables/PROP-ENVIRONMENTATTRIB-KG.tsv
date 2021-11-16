@@ -1,0 +1,28 @@
+subj	rel	obj	id	flag
+tropical environment|jn	has property	warm|j	0a7a-e005-a69f-d3e8	0
+tropical environment|jn	kind of	environment|n	0a7a-e005-a69f-d3e8	0
+warm|j	instance of	temperature|n	0a7a-e005-a69f-d3e8	0
+desert|n	kind of	environment|n	0e2f-97e3-fb4f-3886	0
+desert|n	has property	dry|j	0e2f-97e3-fb4f-3886	0
+arctic|n	has subcomponent	snow|n	2fee-d74c-f33e-6a98	0
+arctic|n	at location	north|n	346e-7cc2-f910-5df4	0
+arctic|n	has property	cold|j	346e-7cc2-f910-5df4	0
+cold|j	kind of	temperature|n	346e-7cc2-f910-5df4	0
+dry|j	synonym	low water|qn	38b2-29c9-81cd-f86a	0
+desert|n	has property	high sunlight|qn	40ba-dc8a-ed49-44d6	0
+tundra|n	has property	cold|j	569d-9ee4-d775-7874	0
+tundra|n	kind of	environment|n	569d-9ee4-d775-7874	0
+cold environment|jn	has property	white|j	6884-ef70-63e5-81fa	0
+grassland|n	has property	high rainfall|qn	6d74-209a-d964-4666	0
+grassland|n	kind of	environment|n	6d74-209a-d964-4666	0
+arctic|n	kind of	environment|n	7e81-184a-3132-e57b	0
+arctic|n	has property	white|j	7e81-184a-3132-e57b	0
+arctic|n	has subcomponent	snow|n	7e81-184a-3132-e57b	0
+forest|n	kind of	environment|n	928d-a3e5-933a-978b	0
+forest|n	has property	green|j	928d-a3e5-933a-978b	0
+forest|n	has property	high rainfall|qn	d446-ee74-8b90-0757	0
+desert|n	has property	low rainfall|qn	dda3-c20d-4cc2-2323	0
+desert|n	has property	hot|j	de2e-ed32-b721-3787	0
+hot|j	kind of	temperature|n	de2e-ed32-b721-3787	0
+dense forest|jn	has property	dark|j	f9e1-ca2c-699a-ab24	0
+dense forest|jn	kind of	environment|n	f9e1-ca2c-699a-ab24	0

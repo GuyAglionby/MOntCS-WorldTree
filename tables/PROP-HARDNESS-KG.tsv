@@ -1,0 +1,11 @@
+subj	rel	obj	id	flag
+table|n	has property	hard|j	0227-a355-b0ea-7d16	0
+mica|n	has property	soft|j	2e56-4666-451b-5894	0
+cushion|n	has property	soft|j	4ff7-4d81-11f0-5105	0
+bone|n	has property	hard|j	6c5d-e42d-a164-2888	0
+down|n	has property	soft|j	8af1-27da-0fa3-eab5	0
+animal|n	has subcomponent	shell|n	9dc0-0ba6-dbb6-4ff7	0
+protect|v	instrument	shell|n	9dc0-0ba6-dbb6-4ff7	0
+rock|n	has property	hard|j	c86b-2598-26a1-c878	0
+solid|n	has property	hard|j	ea47-0dd8-dfeb-ca80	0
+scale|n	has property	hard|j	f344-9f75-ceae-9506	0

@@ -1,0 +1,158 @@
+subj	rel	obj	id	flag
+flashlight|n	causes	light|n	0e96-d216-e3de-ce65	0
+oil|n	has subcomponent	energy|n	124d-89c9-c195-2ea9	0
+push water|vp	agent	squid|n	1631-78fe-2811-ffb9	0
+push|v	agent	squid|n	1631-78fe-2811-ffb9	0
+push|v	patient	water|n	1631-78fe-2811-ffb9	0
+push|v	result	thrust|n	1631-78fe-2811-ffb9	0
+squid|n	causes	thrust|n	1631-78fe-2811-ffb9	0
+flower|n	has subcomponent	pollen|n	1788-1cd3-6a0a-82f2	0
+flower|n	has subcomponent	seed|n	1788-1cd3-6a0a-82f2	0
+wind blow|av	result	energy|n	185e-29ab-4975-8d8b	0
+supply|v	agent	source|n	1b18-2bc7-5809-6490	0
+solar energy|jn	kind of	energy|n	1ed3-919d-4a4c-1be7	0
+sunlight|n	kind of	solar energy|jn	1ed3-919d-4a4c-1be7	0
+sun|n	causes	solar energy|jn	1ed3-919d-4a4c-1be7	0
+heat|n	causes	hurricane|n	2030-ad1d-a83f-6581	0
+moisture|n	causes	hurricane|n	2030-ad1d-a83f-6581	0
+ocean heat|ns	causes	hurricane|n	2030-ad1d-a83f-6581	0
+ocean moisture|ns	causes	hurricane|n	2030-ad1d-a83f-6581	0
+grey cloud|jn	causes	precipitation|n	20a9-322c-b21a-3d54	0
+paper|n	has subcomponent	tree|n	228c-e968-0417-3f8d	0
+sunlight|n	causes	heat|n	2889-3edc-095a-6d6b	0
+shower|v	instrument	hot water|jn	2c77-4f27-a432-599c	0
+shower|v	instrument	shower|n	2c77-4f27-a432-599c	0
+wash|v	instrument	shower|v	2c77-4f27-a432-599c	0
+life|n	at location	earth|n	2d69-ee53-599f-9438	0
+live|v	derivational morphology	life|n	2d69-ee53-599f-9438	0
+live|v	instrument	energy|n	2d69-ee53-599f-9438	0
+sun|n	has subcomponent	energy|n	2d69-ee53-599f-9438	0
+hand dryer|ns	causes	heat|n	2e43-a74f-bca2-5d7f	0
+weathering process|ns	has subcomponent	water|n	2ec3-057c-c9d8-a7c4	0
+weathering process|ns	has subcomponent	wind|n	2ec3-057c-c9d8-a7c4	0
+wind|n	kind of	weather|n	2ec3-057c-c9d8-a7c4	0
+landfill|n	causes	pollution|n	3094-7527-5f14-50d9	0
+support plant|vp	instrument	stem|n	317e-c441-1f21-0244	0
+nutrient|n	has subcomponent	energy|n	31c6-d095-6939-21a9	0
+plant|n	has subcomponent	cell|n	3254-8f73-9122-fec8	0
+protect cell|vp	instrument	cell wall|ns	3254-8f73-9122-fec8	0
+support cell|vp	instrument	cell wall|ns	3254-8f73-9122-fec8	0
+flower|n	has subcomponent	fruit|n	3301-3fc5-5e6e-a711	0
+producer produce|av	result	sugar|n	35d8-b64d-a726-96c8	0
+producer|n	at location	ecosystem|n	35d8-b64d-a726-96c8	0
+radiator|n	causes	heat|n	41f9-05ef-9272-1100	0
+biofuel|n	has subcomponent	plant|n	4915-3ab4-00ec-853a	0
+car engine|ns	causes	heat|n	4aa8-45fb-6589-f574	0
+hot|j	similar to	heat|n	55b7-97a0-0554-156d	0
+warm|j	similar to	heat|n	55b7-97a0-0554-156d	0
+eat|v	agent	animal|n	5753-2812-04c2-af70	0
+eat|v	agent	plant|n	5753-2812-04c2-af70	0
+eat|v	patient	food|n	5753-2812-04c2-af70	0
+food|n	has subcomponent	energy|n	5753-2812-04c2-af70	0
+break down sugar|vp	agent	organism|n	5c21-873c-7d14-83ef	0
+break down sugar|vp	result	carbon dioxide|ns	5c21-873c-7d14-83ef	0
+break down sugar|vp	result	water|n	5c21-873c-7d14-83ef	0
+dairy|n	has subcomponent	Vitamin D|ns	5e8b-5290-a9f9-d771	0
+dairy|n	has subcomponent	vitamin d|ns	5e8b-5290-a9f9-d771	0
+fuel|n	has subcomponent	energy|n	623f-9df0-d179-3917	0
+complete electrical circuit|jn	has subcomponent	electrical energy|jn	647c-26b4-292b-4c96	0
+food|n	causes	odor|n	67c1-b3d2-faa6-6768	0
+animal eat|av	patient	plant|n	694b-d9ec-8c65-5a6a	0
+green plant|jn	kind of	plant|n	694b-d9ec-8c65-5a6a	0
+photosynthesis|n	derivational morphology	photosynthesize|v	694b-d9ec-8c65-5a6a	0
+photosynthesize|v	agent	green plant|jn	694b-d9ec-8c65-5a6a	0
+photosynthesize|v	result	food|n	694b-d9ec-8c65-5a6a	0
+dead organism|jn	has subcomponent	nutrient|n	779a-4a82-66a1-2ce6	0
+decomposer consume|av	patient	dead organism|jn	779a-4a82-66a1-2ce6	0
+nature|n	has subcomponent	natural resource|jn	782c-5d2a-36fe-5676	0
+star|n	causes	heat|n	8369-8669-0725-2c00	0
+star|n	causes	light|n	8369-8669-0725-2c00	0
+gasoline|n	has subcomponent	oil|n	8507-acd7-51e8-31a1	0
+burn gasoline|vp	result	pollution|n	86ae-9fcc-40d0-77ab	0
+burn oil|vp	result	pollution|n	86ae-9fcc-40d0-77ab	0
+pollution|n	derivational morphology	pollute|v	86ae-9fcc-40d0-77ab	0
+candle|n	causes	light|n	887f-3af4-3e07-807d	0
+fire|n	causes	heat|n	891f-4f5c-91a2-bd31	0
+fire|n	causes	light|n	891f-4f5c-91a2-bd31	0
+fire|n	causes	smoke|n	891f-4f5c-91a2-bd31	0
+pollute|v	agent	vehicle|n	8e30-5411-1171-26fa	0
+pollution|n	at location	air|n	8e30-5411-1171-26fa	0
+vehicle|n	causes	pollution|n	8e30-5411-1171-26fa	0
+lightning|n	causes	thunder|n	8f2c-46a2-91be-8eae	0
+oven|n	causes	heat|n	926d-355a-9b2c-c5d1	0
+protect cell|vp	instrument	cell membrane|ns	9315-2889-5172-d68d	0
+support cell|vp	instrument	cell membrane|ns	9315-2889-5172-d68d	0
+hot plate|ns	causes	heat|n	945f-acde-29f3-d573	0
+support tree|vp	instrument	trunk|n	9633-63de-89db-ce0e	0
+organism|n	has subcomponent	organic material|ns	964c-a4cf-22a6-5f49	0
+body of water|ns	has subcomponent	water|n	9a28-67a2-0019-9ec2	0
+body of water|ns	has subcomponent	water|n	9a28-67a2-0019-9ec2	0
+kinetic energy|jn	kind of	energy|n	9f23-854a-7dc0-c22e	0
+motion|n	synonym	kinetic energy|jn	9f23-854a-7dc0-c22e	0
+small animal shelter|av	at location	environment|n	a08d-16c5-c9ee-2af5	0
+small animal shelter|av	instrument	rock|n	a08d-16c5-c9ee-2af5	0
+light energy|ns	kind of	energy|n	a538-175f-9223-d117	0
+sunlight|n	kind of	light|n	a538-175f-9223-d117	0
+sunlight|n	kind of	light energy|ns	a538-175f-9223-d117	0
+sun|n	causes	light energy|ns	a538-175f-9223-d117	0
+sun|n	causes	light|n	a538-175f-9223-d117	0
+reproduce|v	result	offspring|n	a6ff-574e-11c6-a86c	0
+reproduction|n	derivational morphology	reproduce|v	a6ff-574e-11c6-a86c	0
+pollute|v	result	pollutant|n	a7fc-71a9-609d-ae33	0
+pollution|n	derivational morphology	pollute|v	a7fc-71a9-609d-ae33	0
+pollution|n	has subcomponent	pollutant|n	a7fc-71a9-609d-ae33	0
+photosynthesize|v	result	oxygen|n	a908-944e-04aa-71bc	0
+photosynthesize|v	beneficiary	plant|n	a9fc-ec58-9496-d635	0
+photosynthesize|v	instrument	carbon dioxide|ns	a9fc-ec58-9496-d635	0
+photosynthesize|v	instrument	sunlight|n	a9fc-ec58-9496-d635	0
+photosynthesize|v	instrument	water|n	a9fc-ec58-9496-d635	0
+photosynthesize|v	result	carbohydrate|n	a9fc-ec58-9496-d635	0
+photosynthesize|v	result	energy|n	a9fc-ec58-9496-d635	0
+photosynthesize|v	result	food|n	a9fc-ec58-9496-d635	0
+bird|n	at location	tree|n	b02a-dae3-93ce-c2b7	0
+shelter|v	at location	ecosystem|n	b02a-dae3-93ce-c2b7	0
+shelter|v	beneficiary	animal|n	b02a-dae3-93ce-c2b7	0
+shelter|v	beneficiary	bird|n	b02a-dae3-93ce-c2b7	0
+shelter|v	instrument	tree|n	b02a-dae3-93ce-c2b7	0
+tree|n	at location	ecosystem|n	b02a-dae3-93ce-c2b7	0
+tree produce|av	result	food|n	b02a-dae3-93ce-c2b7	0
+flower|n	has subcomponent	nectar|n	b03f-5050-0795-6e43	0
+producer|n	has subcomponent	energy|n	b19d-b086-7090-2115	0
+process|n	causes	waste product|jn	ba22-866b-15eb-3d9a	0
+physical cycle|ns	at location	Earth|n	bbf1-262a-c774-3f47	0
+physical cycle|ns	has subcomponent	energy|n	bbf1-262a-c774-3f47	0
+sun|n	causes	physical cycle|ns	bbf1-262a-c774-3f47	0
+hot substance|jn	causes	heat|n	bdf8-fbda-ff94-54f5	0
+cell|n	causes	carbon dioxide|ns	beb8-cabb-ae24-b0ab	0
+plant|n	has subcomponent	spice|n	bef6-e915-46ee-d0dd	0
+burn natural gas|vp	result	heat|n	c491-9f0f-8947-cd1b	0
+heat|n	kind of	energy|n	c491-9f0f-8947-cd1b	0
+battery|n	causes	electrical energy|jn	c6c3-2053-aaf7-86fe	0
+vibrate|v	agent	matter|n	cf64-935e-ea78-35a4	0
+vibrate|v	result	sound|n	cf64-935e-ea78-35a4	0
+plant|n	causes	fruit|n	cfb3-f3ae-f0d8-b6ca	0
+plant|n	has subcomponent	fruit|n	cfb3-f3ae-f0d8-b6ca	0
+cloud|n	causes	rain|n	d005-63fc-d3da-45e2	0
+sunlight|n	kind of	heat|n	d247-b029-3aab-0950	0
+sunlight|n	kind of	radiation|n	d247-b029-3aab-0950	0
+sun|n	causes	heat|n	d247-b029-3aab-0950	0
+sun|n	causes	radiation|n	d247-b029-3aab-0950	0
+plant|n	has subcomponent	fiber|n	d36c-a9f0-2f37-c0e1	0
+nuclear reaction|jn	causes	light|n	d567-d49e-293e-95bf	0
+nuclear reaction|jn	causes	light energy|ns	d567-d49e-293e-95bf	0
+star|n	has subcomponent	nuclear reaction|jn	d567-d49e-293e-95bf	0
+cooking|n	derivational morphology	cook|v	d59b-bac8-e191-05be	0
+cook|v	instrument	stove|n	d59b-bac8-e191-05be	0
+stove|n	causes	heat|n	d59b-bac8-e191-05be	0
+stove|n	has subcomponent	heat|n	d59b-bac8-e191-05be	0
+cloud|n	causes	precipitation|n	db52-3ce3-5e7f-1953	0
+organism|n	has subcomponent	organic matter|ns	ddb4-26f4-5edb-1f07	0
+sit|v	result	heat|v	e063-a513-3c32-87b1	0
+rain|n	kind of	water|n	e73f-198c-a896-b428	0
+coal mine|ns	has subcomponent	coal|n	ef7d-a3f3-6200-ea1d	0
+electromagnet|n	causes	magnetic field|ns	f662-7035-f75b-8046	0
+musical instrument|jn	causes	sound|n	f6ad-39ca-e8e1-b1d7	0
+musical instrument|jn	synonym	instrument|n	f6ad-39ca-e8e1-b1d7	0
+play instrument|vp	result	sound|n	f6ad-39ca-e8e1-b1d7	0
+play|v	patient	musical instrument|jn	f6ad-39ca-e8e1-b1d7	0
+fertilizer|n	causes	pollution|n	fb74-d393-266e-0f88	0

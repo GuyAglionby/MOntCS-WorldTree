@@ -1,0 +1,14 @@
+subj	rel	obj	id	flag
+month|n	has subcomponent	moon revolve|av	9baa-2f01-60c7-64fa	0
+moon revolve|av	at location	Earth|n	9baa-2f01-60c7-64fa	0
+revolution|n	derivational morphology	revolve|v	9baa-2f01-60c7-64fa	0
+revolve|v	agent	moon|n	9baa-2f01-60c7-64fa	0
+day|n	has subcomponent	earth rotate|av	d047-b416-20a3-5fca	0
+earth rotate|av	at location	earth's axis|ns	d047-b416-20a3-5fca	0
+earth|n	has subcomponent	earth's axis|ns	d047-b416-20a3-5fca	0
+rotate|v	agent	earth|n	d047-b416-20a3-5fca	0
+rotation|n	derivational morphology	rotate|v	d047-b416-20a3-5fca	0
+earth orbit|av	at location	sun|n	e682-f47d-cc9c-a67c	0
+earth year|ns	synonym	solar year|ns	e682-f47d-cc9c-a67c	0
+orbit|v	agent	earth|n	e682-f47d-cc9c-a67c	0
+year|n	has subcomponent	earth orbit|av	e682-f47d-cc9c-a67c	0

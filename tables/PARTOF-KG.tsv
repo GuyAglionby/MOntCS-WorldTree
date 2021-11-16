@@ -1,0 +1,191 @@
+subj	rel	obj	id	flag
+ground|n	has subcomponent	soil|n	004d-1843-0f4a-8ad4	0
+digestive system|ns	has subcomponent	esophagus|n	00f8-d40c-40bb-d78a	0
+sea turtle|ns	has subcomponent	flipper|n	0149-ae3f-4139-1e0b	0
+bird|n	has subcomponent	claw|n	06bb-097d-8689-544f	0
+body|n	has subcomponent	internal organ|ns	07a1-a8a2-97ac-1866	0
+animal|n	has subcomponent	leg|n	0949-9caa-3b15-44cd	0
+muscle|n	has subcomponent	muscle cell|ns	09b1-d7da-1e41-3064	0
+roller skate|ns	has subcomponent	wheel|n	0b44-5bde-7e62-3b5c	0
+environment|n	has subcomponent	soil|n	1004-3a8f-3732-df62	0
+body|n	has subcomponent	nose|n	1548-3b52-24c7-3f2d	0
+material|n	has subcomponent	surface|n	1676-0dc7-3e9b-615a	0
+year|n	has subcomponent	winter|n	1868-6ec4-8e36-8c79	0
+whole|n	has subcomponent	piece|n	18b6-e242-49e7-e95b	0
+cell|n	has subcomponent	cell membrane|ns	18c9-8e1d-c07f-850a	0
+digestive system|ns	has subcomponent	intestine|n	1a59-b031-9090-8933	0
+bat|n	has subcomponent	fur|n	1b62-5339-14e0-cd72	0
+body|n	has subcomponent	cell|n	2167-5f58-b8bb-6a22	0
+head|n	has subcomponent	eye|n	2173-1dd1-fdbb-cf94	0
+see|v	instrument	eye|n	2173-1dd1-fdbb-cf94	0
+size|n	has subcomponent	length|n	21f2-7587-e5e3-e55c	0
+protect|v	instrument	skeletal system|ns	23e8-c43f-6394-cd30	0
+support|v	instrument	skeletal system|ns	23e8-c43f-6394-cd30	0
+animal|n	has subcomponent	foot|n	25f9-09c2-3469-a2f8	0
+walk|v	instrument	foot|n	25f9-09c2-3469-a2f8	0
+feel|v	instrument	whisker|n	28be-f4f5-1057-562f	0
+fish|n	has subcomponent	whisker|n	28be-f4f5-1057-562f	0
+skeletal system|ns	has subcomponent	skeleton|n	290b-dd26-b289-0cff	0
+beach|n	has subcomponent	sand|n	2f45-350f-6049-7f1a	0
+environment|n	has subcomponent	atmosphere|n	2f7f-0fc8-1863-e47e	0
+nature|n	has subcomponent	atmosphere|n	2f7f-0fc8-1863-e47e	0
+animal|n	has subcomponent	fur|n	2f86-693e-7175-9932	0
+animal|n	has subcomponent	head|n	309f-f563-d657-27c8	0
+body|n	has subcomponent	arm|n	31c9-367f-4e89-4086	0
+manipulate|v	agent	person|n	31c9-367f-4e89-4086	0
+manipulate|v	instrument	arm|n	31c9-367f-4e89-4086	0
+manipulate|v	patient	object|n	31c9-367f-4e89-4086	0
+mammal|n	has subcomponent	fur|n	32f6-7c3e-e2cd-2bd0	0
+horse|n	has subcomponent	mane|n	3363-8e75-3412-4de0	0
+animal|n	has subcomponent	body|n	356b-17e1-59ba-230b	0
+animal|n	has subcomponent	nervous system|ns	356b-17e1-59ba-230b	0
+animal|n	has subcomponent	face|n	35ef-4ebe-9109-e5aa	0
+mountain|n	has subcomponent	mountain top|ns	3c27-844b-912b-1725	0
+day|n	has subcomponent	nighttime|n	3e94-319d-1ebd-7f62	0
+animal|n	has subcomponent	fat|n	4188-9584-ffec-75e5	0
+warmth|v	instrument	fat|n	4188-9584-ffec-75e5	0
+digestive system|ns	has subcomponent	mouth|n	4677-279f-1c3b-2333	0
+eat|v	instrument	mouth|n	4677-279f-1c3b-2333	0
+body|n	has subcomponent	hand|n	48a7-5d3b-ade1-3644	0
+animal|n	has subcomponent	shell|n	499d-e50e-b35d-35c2	0
+day|n	has subcomponent	daytime|n	4a85-2fef-539d-2162	0
+central nervous system|ns	has subcomponent	spinal cord|ns	4aa7-c643-26d8-965b	0
+river|n	has subcomponent	riverbed|n	4ac1-3c02-0e81-324b	0
+electric fan|jn	has subcomponent	electric motor|jn	4af0-b8cd-15fe-0f8d	0
+electric fan|jn	has subcomponent	vane|n	4af0-b8cd-15fe-0f8d	0
+electric fan|jn	kind of	fan|n	4af0-b8cd-15fe-0f8d	0
+rotate|v	instrument	electric motor|jn	4af0-b8cd-15fe-0f8d	0
+bird|n	has subcomponent	feather|n	4bd2-7739-d5e2-99a1	0
+plant|n	has subcomponent	thorn|n	4da2-ef1d-0184-bd32	0
+flower|n	has subcomponent	pollen|n	4dcf-7536-2995-3a73	0
+reproduce|v	instrument	pollen|n	4dcf-7536-2995-3a73	0
+reproduction|n	derivational morphology	reproduce|v	4dcf-7536-2995-3a73	0
+compost pile|ns	has subcomponent	microorganism|n	4eea-4745-39cb-2779	0
+body|n	has subcomponent	esophagus|n	546f-b1fd-1583-d394	0
+tree|n	has subcomponent	bark|n	555d-d839-0a6b-4a52	0
+young bird|ns	has subcomponent	down|n	56e3-240f-2f97-378b	0
+plant|n	has subcomponent	stem|n	5740-86a7-4529-25cd	0
+lady bug|ns	has subcomponent	spot|n	57af-885f-6ff9-f123	0
+bird|n	has subcomponent	beak|n	5924-9c1d-0eaf-2a30	0
+predator|n	has subcomponent	claw|n	59ba-92bd-94af-92fd	0
+Earth|n	has subcomponent	ground|n	5c63-e482-de31-72c0	0
+day|n	has subcomponent	afternoon|n	6349-70d1-a00d-308e	0
+breathe water|vp	instrument	gill|n	686d-e4be-a123-314f	0
+fish|n	has subcomponent	gill|n	686d-e4be-a123-314f	0
+berry|n	has subcomponent	seed|n	68ec-a8a5-cd5a-02df	0
+ocean|n	has subcomponent	continental shelf|jn	6a9b-a68f-335c-2a51	0
+plant cell|ns	has subcomponent	cell wall|ns	6c0f-ee50-8f2c-401e	0
+protect cell membrane|vp	instrument	cell wall|ns	6c0f-ee50-8f2c-401e	0
+plant|n	has subcomponent	root|n	6cdd-9626-9859-7279	0
+tree|n	has subcomponent	root|n	6cdd-9626-9859-7279	0
+telescope|n	has subcomponent	lens|n	70de-f5de-18c7-7030	0
+island|n	has subcomponent	beach|n	713f-c921-0aa1-83b1	0
+eyeglass|n	has subcomponent	lens|n	7567-766c-728b-ee63	0
+animal|n	has subcomponent	skin|n	75d4-d09a-466c-e258	0
+lamp|n	has subcomponent	light bulb|ns	7632-c932-9c6d-27f0	0
+stove|n	has subcomponent	burner|n	7871-bd79-e7cc-a799	0
+protect|v	instrument	shell|n	7a5a-d5b3-8af9-29c1	0
+turtle|n	has subcomponent	shell|n	7a5a-d5b3-8af9-29c1	0
+tree|n	has subcomponent	leaf|n	7f97-3a19-456e-8fdc	0
+animal|n	has subcomponent	limb|n	8091-5cea-a07b-4718	0
+experiment|n	causes	observation|n	818d-dd35-8a71-3881	0
+experiment|n	causes	result|n	818d-dd35-8a71-3881	0
+observation|n	derivational morphology	observe|v	818d-dd35-8a71-3881	0
+cell|n	has subcomponent	cell nucleus|ns	88b6-8bff-95aa-75e1	0
+adult tree|jn	has subcomponent	large canopy|jn	89c5-b875-494c-f260	0
+digestive system|ns	has subcomponent	stomach|n	89e6-524b-d877-7386	0
+monkey|n	has subcomponent	fur|n	8a86-fa7b-a229-2953	0
+wasp|n	has subcomponent	sting|n	8f77-75b9-8616-35c0	0
+conduct electricity|vp	instrument	wire|n	9298-f573-0659-38d2	0
+conduct|v	patient	electricity|n	9298-f573-0659-38d2	0
+electrical circuit|ns	has subcomponent	wire|n	9298-f573-0659-38d2	0
+environment|n	has subcomponent	water|n	9321-c12e-e67d-201b	0
+hold|v	instrument	handle|n	977f-e85c-57e4-6900	0
+object|n	has subcomponent	handle|n	977f-e85c-57e4-6900	0
+central nervous system|ns	has subcomponent	brain|n	9adf-5c73-e94c-f250	0
+generation|n	has subcomponent	parent|n	9bdb-b605-9a16-135a	0
+cactus|n	has subcomponent	cactus spine|ns	9dd0-2043-666a-aa5f	0
+protect|v	instrument	cactus spine|ns	9dd0-2043-666a-aa5f	0
+plant|n	has subcomponent	seed|n	9e7f-c460-d954-2617	0
+mouse|n	has subcomponent	fur|n	9f96-8d81-abd0-2bc1	0
+support tree|vp	instrument	trunk|n	a036-70b7-7cb6-d950	0
+tree|n	has subcomponent	trunk|n	a036-70b7-7cb6-d950	0
+environment|n	has subcomponent	object|n	a25b-83dd-c184-0d1b	0
+reflect light|vp	instrument	tinted lens|jn	a33f-4863-f3b8-8871	0
+reflect light|vp	result	protection|n	a33f-4863-f3b8-8871	0
+sunglasses|n	has subcomponent	tinted lens|jn	a33f-4863-f3b8-8871	0
+tinted lens|jn	kind of	lens|n	a33f-4863-f3b8-8871	0
+sandpaper|n	has property	rough|j	a67b-fecc-2c14-cefb	0
+soil|n	has subcomponent	bacterium|n	a696-287a-78cf-6b8a	0
+piano|n	has subcomponent	key|n	a887-85b8-05c7-c5e8	0
+body|n	has subcomponent	heart|n	a9a4-1a6c-b84b-528b	0
+animal|n	has subcomponent	brain|n	aa4b-35f5-0dc1-afbe	0
+circulatory system|ns	has subcomponent	heart|n	aac5-9b7d-012e-9bac	0
+bicycle|n	has subcomponent	pedal|n	ab36-04fe-8434-d4b1	0
+pedal|v	instrument	pedal|n	ab36-04fe-8434-d4b1	0
+respiratory system|ns	has subcomponent	lung|n	abc0-1f2b-3484-cf27	0
+body|n	has subcomponent	wrist|n	ac78-13ef-41eb-82ab	0
+rabbit|n	has subcomponent	long ear|jn	ad4a-8ca1-6b50-8927	0
+animal|n	has subcomponent	bone|n	aea0-195f-c237-c935	0
+animal|n	has subcomponent	skeletal system|ns	af66-465f-0191-efbd	0
+body|n	has subcomponent	brain|n	b29a-9bdd-4596-0296	0
+eye|n	has subcomponent	retina|n	b526-c089-192f-6567	0
+see|v	instrument	eye|n	b526-c089-192f-6567	0
+see|v	patient	light|n	b526-c089-192f-6567	0
+kit|n	has subcomponent	instruction|n	b92a-e5e4-b486-4375	0
+fire|n	has subcomponent	flame|n	bccb-923d-9495-c7af	0
+body|n	has subcomponent	bone cell|ns	c049-ad89-f8b6-65d5	0
+protect|v	instrument	fur|n	c72d-59a5-2ef3-0271	0
+protect|v	instrument	hair|n	c72d-59a5-2ef3-0271	0
+skin|n	has subcomponent	fur|n	c72d-59a5-2ef3-0271	0
+skin|n	has subcomponent	hair|n	c72d-59a5-2ef3-0271	0
+warmth|v	instrument	fur|n	c72d-59a5-2ef3-0271	0
+warmth|v	instrument	hair|n	c72d-59a5-2ef3-0271	0
+house|n	has subcomponent	window|n	cbf9-c0cb-677f-ddce	0
+trout|n	has subcomponent	gill|n	ce79-c43f-0cd5-ed36	0
+animal|n	has subcomponent	lung|n	d1c9-6993-fd7a-b8e9	0
+breathe|v	instrument	lung|n	d1c9-6993-fd7a-b8e9	0
+attract pollinator|vp	instrument	flower|n	d42a-e547-fdf9-9c35	0
+plant|n	has subcomponent	flower|n	d42a-e547-fdf9-9c35	0
+produce seed|vp	instrument	flower|n	d42a-e547-fdf9-9c35	0
+shelter|v	at location	environment|n	d883-1167-2927-a7f7	0
+shelter|n	derivational morphology	shelter|v	d883-1167-2927-a7f7	0
+shelter|v	beneficiary	organism|n	d883-1167-2927-a7f7	0
+generation|n	has subcomponent	offspring|n	d97c-35a6-227e-6198	0
+aquatic animal|jn	at location	water|n	dba6-6a33-ccd7-4653	0
+aquatic animal|jn	has subcomponent	fin|n	dba6-6a33-ccd7-4653	0
+aquatic animal|jn	kind of	animal|n	dba6-6a33-ccd7-4653	0
+move|v	instrument	fin|n	dba6-6a33-ccd7-4653	0
+fish|n	has subcomponent	scale|n	dc30-f318-31e7-5c0b	0
+blubber|n	kind of	thermal insulator|ns	e069-66e7-52de-03e7	0
+insulate|v	instrument	blubber|n	e069-66e7-52de-03e7	0
+insulate|v	instrument	thermal insulator|ns	e069-66e7-52de-03e7	0
+insulate|v	result	warmth|n	e069-66e7-52de-03e7	0
+sea mammal|ns	has subcomponent	blubber|n	e069-66e7-52de-03e7	0
+thermal insulator|ns	kind of	insulator|n	e069-66e7-52de-03e7	0
+animal|n	has subcomponent	eye|n	e0eb-f67a-6f99-b25b	0
+see|v	instrument	eye|n	e0eb-f67a-6f99-b25b	0
+hand|n	has subcomponent	finger|n	e3cb-84d0-f086-f8b8	0
+protect|v	instrument	shell|n	e4da-e98f-0e23-2742	0
+snail|n	has subcomponent	shell|n	e4da-e98f-0e23-2742	0
+circulatory system|ns	has subcomponent	blood|n	e576-3be7-5e76-3b07	0
+plant|n	has subcomponent	fruit|n	e5ad-f4c8-aca4-466f	0
+tree|n	has subcomponent	fruit|n	e5ad-f4c8-aca4-466f	0
+object|n	has subcomponent	surface|n	eb92-b0cd-c257-9bcf	0
+green plant|jn	has subcomponent	leaf|n	ecf3-617e-32df-416b	0
+vertebrate animal|ns	has subcomponent	backbone|n	ed5f-9928-2947-21bc	0
+vertebrate animal|ns	kind of	animal|n	ed5f-9928-2947-21bc	0
+seashell|n	kind of	shell|n	ed93-78bd-8d20-1b58	0
+water animal|ns	has subcomponent	seashell|n	ed93-78bd-8d20-1b58	0
+car|n	has subcomponent	wheel|n	ee81-6896-fd50-40b6	0
+guitar string|ns	kind of	string|n	f0bc-89f4-573b-edfe	0
+guitar|n	has subcomponent	guitar string|ns	f0bc-89f4-573b-edfe	0
+make sound|vp	instrument	guitar string|ns	f0bc-89f4-573b-edfe	0
+plant cell|ns	has subcomponent	chloroplast|n	f1b0-1ed6-289e-c065	0
+digestive system|ns	has subcomponent	small intestine|ns	f653-454d-6b95-5714	0
+environment|n	has subcomponent	organism|n	f7a7-6ffc-be3e-d21d	0
+pine tree|ns	has subcomponent	needle|n	fa53-580c-737e-18b6	0
+crab|n	kind of	water animal|ns	fb95-007e-8829-b2aa	0
+crab|n	has subcomponent	seashell|n	fb95-007e-8829-b2aa	0
+human|n	has subcomponent	eye|n	ff3b-674b-328e-5e4f	0
+see|v	instrument	eye|n	ff3b-674b-328e-5e4f	0

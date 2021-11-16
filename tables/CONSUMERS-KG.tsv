@@ -1,0 +1,183 @@
+subj	rel	obj	id	flag
+consumer eat organism|avp	has negative impact on	organism|n	10c2-8847-99e1-057b	0
+consumer eat organism|avp	has positive impact on	consumer|n	10c2-8847-99e1-057b	0
+scavenger eat dead organism|avp	has positive impact on	scavenger|n	207c-b6d1-fb72-d730	0
+carnivore eat animal|avp	has negative impact on	animal|n	20a3-dcb5-8ce4-ae5c	0
+carnivore eat animal|avp	has positive impact on	carnivore|n	20a3-dcb5-8ce4-ae5c	0
+omnivore eat animal|avp	has negative impact on	animal|n	20a3-dcb5-8ce4-ae5c	0
+omnivore eat animal|avp	has positive impact on	omnivore|n	20a3-dcb5-8ce4-ae5c	0
+predator eat animal|avp	has negative impact on	animal|n	20a3-dcb5-8ce4-ae5c	0
+predator eat animal|avp	has positive impact on	predator|n	20a3-dcb5-8ce4-ae5c	0
+omnivore eat animal|avp	has negative impact on	animal|n	3b62-4057-84c9-7743	0
+omnivore eat animal|avp	has positive impact on	omnivore|n	3b62-4057-84c9-7743	0
+omnivore eat animal|avp	structural-agent	omnivore|n	3b62-4057-84c9-7743	0
+omnivore eat animal|avp	structural-patient	animal|n	3b62-4057-84c9-7743	0
+omnivore eat animal|avp	structural-verb	eat|v	3b62-4057-84c9-7743	0
+omnivore eat plant|avp	has negative impact on	plant|n	3b62-4057-84c9-7743	0
+omnivore eat plant|avp	has positive impact on	omnivore|n	3b62-4057-84c9-7743	0
+omnivore eat plant|avp	structural-agent	omnivore|n	3b62-4057-84c9-7743	0
+omnivore eat plant|avp	structural-patient	plant|n	3b62-4057-84c9-7743	0
+omnivore eat plant|avp	structural-verb	eat|v	3b62-4057-84c9-7743	0
+tuna eat fish|avp	has negative impact on	fish|n	4134-b88a-654b-1cf3	0
+tuna eat fish|avp	has positive impact on	tuna|n	4134-b88a-654b-1cf3	0
+tuna eat fish|avp	structural-agent	tuna|n	4134-b88a-654b-1cf3	0
+tuna eat fish|avp	structural-patient	fish|n	4134-b88a-654b-1cf3	0
+tuna eat fish|avp	structural-verb	eat|v	4134-b88a-654b-1cf3	0
+herbivore eat plant|avp	has negative impact on	plant|n	57e4-c7f7-0031-fb0a	0
+herbivore eat plant|avp	has positive impact on	herbivore|n	57e4-c7f7-0031-fb0a	0
+herbivore eat plant|avp	structural-agent	herbivore|n	57e4-c7f7-0031-fb0a	0
+herbivore eat plant|avp	structural-patient	plant|n	57e4-c7f7-0031-fb0a	0
+herbivore eat plant|avp	structural-verb	eat|v	57e4-c7f7-0031-fb0a	0
+eagle eat rabbit|avp	has negative impact on	rabbit|n	5ac6-9dc1-9a19-3eaa	0
+eagle eat rabbit|avp	has positive impact on	eagle|n	5ac6-9dc1-9a19-3eaa	0
+eagle eat rabbit|avp	structural-agent	eagle|n	5ac6-9dc1-9a19-3eaa	0
+eagle eat rabbit|avp	structural-patient	rabbit|n	5ac6-9dc1-9a19-3eaa	0
+eagle eat rabbit|avp	structural-verb	eat|v	5ac6-9dc1-9a19-3eaa	0
+lizard eat insect|avp	has negative impact on	insect|n	625d-d91e-b300-b6dc	0
+lizard eat insect|avp	has positive impact on	lizard|n	625d-d91e-b300-b6dc	0
+lizard eat insect|avp	structural-agent	lizard|n	625d-d91e-b300-b6dc	0
+lizard eat insect|avp	structural-patient	insect|n	625d-d91e-b300-b6dc	0
+lizard eat insect|avp	structural-verb	eat|v	625d-d91e-b300-b6dc	0
+human eat seed|avp	has negative impact on	seed|n	733f-086d-4dee-dbc3	0
+human eat seed|avp	has positive impact on	human|n	733f-086d-4dee-dbc3	0
+human eat seed|avp	structural-agent	human|n	733f-086d-4dee-dbc3	0
+human eat seed|avp	structural-patient	seed|n	733f-086d-4dee-dbc3	0
+human eat seed|avp	structural-verb	eat|v	733f-086d-4dee-dbc3	0
+human eat crop|avp	has negative impact on	crop|n	76c8-6933-622a-64f6	0
+human eat crop|avp	has positive impact on	human|n	76c8-6933-622a-64f6	0
+human eat crop|avp	structural-agent	human|n	76c8-6933-622a-64f6	0
+human eat crop|avp	structural-patient	crop|n	76c8-6933-622a-64f6	0
+human eat crop|avp	structural-verb	eat|v	76c8-6933-622a-64f6	0
+cow eat plant|avp	has negative impact on	plant|n	8280-558f-d30b-c051	0
+cow eat plant|avp	has positive impact on	cow|n	8280-558f-d30b-c051	0
+cow eat plant|avp	structural-agent	cow|n	8280-558f-d30b-c051	0
+cow eat plant|avp	structural-patient	plant|n	8280-558f-d30b-c051	0
+cow eat plant|avp	structural-verb	eat|v	8280-558f-d30b-c051	0
+bird eat berry|avp	has negative impact on	berry|n	a6aa-97ee-2e4a-a9ad	0
+bird eat berry|avp	has positive impact on	bird|n	a6aa-97ee-2e4a-a9ad	0
+bird eat berry|avp	structural-agent	bird|n	a6aa-97ee-2e4a-a9ad	0
+bird eat berry|avp	structural-patient	berry|n	a6aa-97ee-2e4a-a9ad	0
+bird eat berry|avp	structural-verb	eat|v	a6aa-97ee-2e4a-a9ad	0
+bird eat seed|avp	has negative impact on	seed|n	a6aa-97ee-2e4a-a9ad	0
+bird eat seed|avp	has positive impact on	bird|n	a6aa-97ee-2e4a-a9ad	0
+bird eat seed|avp	structural-agent	bird|n	a6aa-97ee-2e4a-a9ad	0
+bird eat seed|avp	structural-patient	seed|n	a6aa-97ee-2e4a-a9ad	0
+bird eat seed|avp	structural-verb	eat|v	a6aa-97ee-2e4a-a9ad	0
+bird eat insect|avp	has negative impact on	insect|n	a872-f6a2-a467-59ec	0
+bird eat insect|avp	has positive impact on	bird|n	a872-f6a2-a467-59ec	0
+bird eat insect|avp	structural-agent	bird|n	a872-f6a2-a467-59ec	0
+bird eat insect|avp	structural-patient	insect|n	a872-f6a2-a467-59ec	0
+bird eat insect|avp	structural-verb	eat|v	a872-f6a2-a467-59ec	0
+alligator eat bird|avp	has negative impact on	bird|n	aa17-e87c-2259-5f04	0
+alligator eat bird|avp	has positive impact on	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat bird|avp	structural-agent	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat bird|avp	structural-patient	bird|n	aa17-e87c-2259-5f04	0
+alligator eat bird|avp	structural-verb	eat|v	aa17-e87c-2259-5f04	0
+alligator eat fish|avp	has negative impact on	fish|n	aa17-e87c-2259-5f04	0
+alligator eat fish|avp	has positive impact on	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat fish|avp	structural-agent	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat fish|avp	structural-patient	fish|n	aa17-e87c-2259-5f04	0
+alligator eat fish|avp	structural-verb	eat|v	aa17-e87c-2259-5f04	0
+alligator eat frog|avp	has negative impact on	frog|n	aa17-e87c-2259-5f04	0
+alligator eat frog|avp	has positive impact on	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat frog|avp	structural-agent	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat frog|avp	structural-patient	frog|n	aa17-e87c-2259-5f04	0
+alligator eat frog|avp	structural-verb	eat|v	aa17-e87c-2259-5f04	0
+alligator eat mouse|avp	has negative impact on	mouse|n	aa17-e87c-2259-5f04	0
+alligator eat mouse|avp	has positive impact on	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat mouse|avp	structural-agent	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat mouse|avp	structural-patient	mouse|n	aa17-e87c-2259-5f04	0
+alligator eat mouse|avp	structural-verb	eat|v	aa17-e87c-2259-5f04	0
+alligator eat turtle|avp	has negative impact on	turtle|n	aa17-e87c-2259-5f04	0
+alligator eat turtle|avp	has positive impact on	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat turtle|avp	structural-agent	alligator|n	aa17-e87c-2259-5f04	0
+alligator eat turtle|avp	structural-patient	turtle|n	aa17-e87c-2259-5f04	0
+alligator eat turtle|avp	structural-verb	eat|v	aa17-e87c-2259-5f04	0
+insect eat crop|avp	has negative impact on	crop|n	b14c-4d0f-e45f-43ce	0
+insect eat crop|avp	has positive impact on	insect|n	b14c-4d0f-e45f-43ce	0
+insect eat crop|avp	structural-agent	insect|n	b14c-4d0f-e45f-43ce	0
+insect eat crop|avp	structural-patient	crop|n	b14c-4d0f-e45f-43ce	0
+insect eat crop|avp	structural-verb	eat|v	b14c-4d0f-e45f-43ce	0
+eagle eat lizard|avp	has negative impact on	lizard|n	d28f-0727-460f-5ab6	0
+eagle eat lizard|avp	has positive impact on	eagle|n	d28f-0727-460f-5ab6	0
+eagle eat lizard|avp	structural-agent	eagle|n	d28f-0727-460f-5ab6	0
+eagle eat lizard|avp	structural-patient	lizard|n	d28f-0727-460f-5ab6	0
+eagle eat lizard|avp	structural-verb	eat|v	d28f-0727-460f-5ab6	0
+eagle eat snake|avp	has negative impact on	snake|n	d28f-0727-460f-5ab6	0
+eagle eat snake|avp	has positive impact on	eagle|n	d28f-0727-460f-5ab6	0
+eagle eat snake|avp	structural-agent	eagle|n	d28f-0727-460f-5ab6	0
+eagle eat snake|avp	structural-patient	snake|n	d28f-0727-460f-5ab6	0
+eagle eat snake|avp	structural-verb	eat|v	d28f-0727-460f-5ab6	0
+hawk eat lizard|avp	has negative impact on	lizard|n	d28f-0727-460f-5ab6	0
+hawk eat lizard|avp	has positive impact on	hawk|n	d28f-0727-460f-5ab6	0
+hawk eat lizard|avp	structural-agent	hawk|n	d28f-0727-460f-5ab6	0
+hawk eat lizard|avp	structural-patient	lizard|n	d28f-0727-460f-5ab6	0
+hawk eat lizard|avp	structural-verb	eat|v	d28f-0727-460f-5ab6	0
+hawk eat snake|avp	has negative impact on	snake|n	d28f-0727-460f-5ab6	0
+hawk eat snake|avp	has positive impact on	hawk|n	d28f-0727-460f-5ab6	0
+hawk eat snake|avp	structural-agent	hawk|n	d28f-0727-460f-5ab6	0
+hawk eat snake|avp	structural-patient	snake|n	d28f-0727-460f-5ab6	0
+hawk eat snake|avp	structural-verb	eat|v	d28f-0727-460f-5ab6	0
+raccoon eat garbage|avp	has negative impact on	garbage|n	dc84-e95a-58d3-7e87	0
+raccoon eat garbage|avp	has positive impact on	raccoon|n	dc84-e95a-58d3-7e87	0
+raccoon eat garbage|avp	structural-agent	raccoon|n	dc84-e95a-58d3-7e87	0
+raccoon eat garbage|avp	structural-patient	garbage|n	dc84-e95a-58d3-7e87	0
+raccoon eat garbage|avp	structural-verb	eat|v	dc84-e95a-58d3-7e87	0
+raccoon eat trash|avp	has negative impact on	trash|n	dc84-e95a-58d3-7e87	0
+raccoon eat trash|avp	has positive impact on	raccoon|n	dc84-e95a-58d3-7e87	0
+raccoon eat trash|avp	structural-agent	raccoon|n	dc84-e95a-58d3-7e87	0
+raccoon eat trash|avp	structural-patient	trash|n	dc84-e95a-58d3-7e87	0
+raccoon eat trash|avp	structural-verb	eat|v	dc84-e95a-58d3-7e87	0
+raccoon eat waste|avp	has negative impact on	waste|n	dc84-e95a-58d3-7e87	0
+raccoon eat waste|avp	has positive impact on	raccoon|n	dc84-e95a-58d3-7e87	0
+raccoon eat waste|avp	structural-agent	raccoon|n	dc84-e95a-58d3-7e87	0
+raccoon eat waste|avp	structural-patient	waste|n	dc84-e95a-58d3-7e87	0
+raccoon eat waste|avp	structural-verb	eat|v	dc84-e95a-58d3-7e87	0
+rabbit eat plant|avp	has negative impact on	plant|n	dce1-e1d6-17ae-e024	0
+rabbit eat plant|avp	has positive impact on	rabbit|n	dce1-e1d6-17ae-e024	0
+rabbit eat plant|avp	structural-agent	rabbit|n	dce1-e1d6-17ae-e024	0
+rabbit eat plant|avp	structural-patient	plant|n	dce1-e1d6-17ae-e024	0
+rabbit eat plant|avp	structural-verb	eat|v	dce1-e1d6-17ae-e024	0
+squirrel eat edible plant|avp	has negative impact on	plant|n	de30-46f9-f287-cf05	0
+squirrel eat edible plant|avp	has positive impact on	squirrel|n	de30-46f9-f287-cf05	0
+squirrel eat fruit|avp	has negative impact on	fruit|n	de30-46f9-f287-cf05	0
+squirrel eat fruit|avp	has positive impact on	squirrel|n	de30-46f9-f287-cf05	0
+bee eat pollen|avp	has negative impact on	pollen|n	de5e-63cc-6e02-60b7	0
+bee eat pollen|avp	has positive impact on	bee|n	de5e-63cc-6e02-60b7	0
+bee eat pollen|avp	structural-agent	bee|n	de5e-63cc-6e02-60b7	0
+bee eat pollen|avp	structural-patient	pollen|n	de5e-63cc-6e02-60b7	0
+bee eat pollen|avp	structural-verb	eat|v	de5e-63cc-6e02-60b7	0
+bear eat animal|avp	has negative impact on	animal|n	e451-b512-f1d6-5d36	0
+bear eat animal|avp	has positive impact on	bear|n	e451-b512-f1d6-5d36	0
+bear eat animal|avp	structural-agent	bear|n	e451-b512-f1d6-5d36	0
+bear eat animal|avp	structural-patient	animal|n	e451-b512-f1d6-5d36	0
+bear eat animal|avp	structural-verb	eat|v	e451-b512-f1d6-5d36	0
+bear eat berry|avp	has negative impact on	berry|n	e451-b512-f1d6-5d36	0
+bear eat berry|avp	has positive impact on	bear|n	e451-b512-f1d6-5d36	0
+bear eat berry|avp	structural-agent	bear|n	e451-b512-f1d6-5d36	0
+bear eat berry|avp	structural-patient	berry|n	e451-b512-f1d6-5d36	0
+bear eat berry|avp	structural-verb	eat|v	e451-b512-f1d6-5d36	0
+bear eat insect|avp	has negative impact on	insect|n	e451-b512-f1d6-5d36	0
+bear eat insect|avp	has positive impact on	bear|n	e451-b512-f1d6-5d36	0
+bear eat insect|avp	structural-agent	bear|n	e451-b512-f1d6-5d36	0
+bear eat insect|avp	structural-patient	insect|n	e451-b512-f1d6-5d36	0
+bear eat insect|avp	structural-verb	eat|v	e451-b512-f1d6-5d36	0
+eagle eat fish|avp	has negative impact on	fish|n	efb4-baee-b1ad-1184	0
+eagle eat fish|avp	has positive impact on	eagle|n	efb4-baee-b1ad-1184	0
+eagle eat fish|avp	structural-agent	eagle|n	efb4-baee-b1ad-1184	0
+eagle eat fish|avp	structural-patient	fish|n	efb4-baee-b1ad-1184	0
+eagle eat fish|avp	structural-verb	eat|v	efb4-baee-b1ad-1184	0
+carnivore eat animal|avp	has negative impact on	animal|n	f2b6-e2f5-8939-94ae	0
+carnivore eat animal|avp	has positive impact on	carnivore|n	f2b6-e2f5-8939-94ae	0
+carnivore eat animal|avp	structural-agent	carnivore|n	f2b6-e2f5-8939-94ae	0
+carnivore eat animal|avp	structural-patient	animal|n	f2b6-e2f5-8939-94ae	0
+carnivore eat animal|avp	structural-verb	eat|v	f2b6-e2f5-8939-94ae	0
+meadow vole eat insect|avp	has negative impact on	insect|n	f42a-5078-a2d5-d36a	0
+meadow vole eat insect|avp	has positive impact on	meadow vole|ns	f42a-5078-a2d5-d36a	0
+meadow vole eat plant|avp	has negative impact on	plant|n	f42a-5078-a2d5-d36a	0
+meadow vole eat plant|avp	has positive impact on	meadow vole|ns	f42a-5078-a2d5-d36a	0
+predator eat prey|avp	has negative impact on	prey|n	fb00-41ad-f198-b5ac	0
+predator eat prey|avp	has positive impact on	predator|n	fb00-41ad-f198-b5ac	0
+predator eat prey|avp	structural-agent	predator|n	fb00-41ad-f198-b5ac	0
+predator eat prey|avp	structural-patient	prey|n	fb00-41ad-f198-b5ac	0
+predator eat prey|avp	structural-verb	eat|v	fb00-41ad-f198-b5ac	0

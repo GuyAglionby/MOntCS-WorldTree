@@ -1,0 +1,23 @@
+subj	rel	obj	id	flag
+animal|n	has subcomponent	fur|n	0e13-f49d-f3ee-6cd6	0
+earth|n	has subcomponent	crust|n	27e0-dacf-5177-e23c	0
+cell membrane|ns	at location	cell|n	3992-7d34-e964-2e4f	0
+cell membrane|ns	kind of	membrane|n	3992-7d34-e964-2e4f	0
+bark|n	at location	branch|n	4bbd-68e4-692b-c8db	0
+bark|n	at location	branch|n	4bbd-68e4-692b-c8db	0
+bark|n	at location	branch|n	4bbd-68e4-692b-c8db	0
+bark|n	at location	branch|n	4bbd-68e4-692b-c8db	0
+bark|n	at location	tree trunk|ns	4bbd-68e4-692b-c8db	0
+protective|j	derivational morphology	protect|v	4bbd-68e4-692b-c8db	0
+protect|v	instrument	bark|n	4bbd-68e4-692b-c8db	0
+tree trunk|ns	kind of	trunk|n	4bbd-68e4-692b-c8db	0
+tree|n	has subcomponent	branch|n	4bbd-68e4-692b-c8db	0
+tree|n	has subcomponent	tree trunk|ns	4bbd-68e4-692b-c8db	0
+animal|n	has subcomponent	skin|n	87f9-3bab-fa6f-f24c	0
+coast|n	at location	water|n	8d65-5a72-dae4-fb86	0
+coast|n	synonym	shore|n	8d65-5a72-dae4-fb86	0
+scaled animal|jn	has subcomponent	scale|n	ae2c-3485-b503-7d22	0
+scaled animal|jn	kind of	animal|n	ae2c-3485-b503-7d22	0
+shore|n	at location	water|n	bf74-5557-dd78-d5c8	0
+cover hand|vp	instrument	glove|n	bfcf-e1cc-cbe0-f10f	0
+earth|n	has subcomponent	mantle|n	d7f8-a2da-a673-23e2	0

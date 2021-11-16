@@ -1,0 +1,129 @@
+subj	rel	obj	id	flag
+grow large|vp	agent	object|n	0672-8ba1-8bef-c7c2	0
+grow large|vp	result	size increase|av	0672-8ba1-8bef-c7c2	0
+object|n	has property	size|j	0672-8ba1-8bef-c7c2	0
+electrical insulator|jn	has negative impact on	electricity|n	0ad2-d22e-525e-0038	0
+flow|v	agent	electricity|n	0ad2-d22e-525e-0038	0
+prevent flow|vp	instrument	electrical insulator|jn	0ad2-d22e-525e-0038	0
+pasteurize|v	derivational morphology	pasteurization|n	0b35-65f7-11a2-d41e	0
+pasteurize|v	has negative impact on	bacteria|n	0b35-65f7-11a2-d41e	0
+pasteurize|v	patient	milk|n	0b35-65f7-11a2-d41e	0
+pasteurize|v	result	less bacterium|qn	0b35-65f7-11a2-d41e	0
+grow|v	agent	plant|n	15b7-2dad-aa86-409b	0
+grow|v	has positive impact on	height|n	15b7-2dad-aa86-409b	0
+grow|v	has positive impact on	mass|n	15b7-2dad-aa86-409b	0
+grow|v	has positive impact on	size|n	15b7-2dad-aa86-409b	0
+prevent|v	result	decrease|v	1653-a7fe-e9be-42ca	0
+use raw material|vp	result	waste|n	1875-8ce4-1858-8652	0
+glacier melt|av	result	water|n	19c9-47bf-de91-1f2e	0
+ice melt|av	result	water|n	19c9-47bf-de91-1f2e	0
+rain|v	result	water|n	19c9-47bf-de91-1f2e	0
+snow melt|av	result	water|n	19c9-47bf-de91-1f2e	0
+storm|n	causes	water|n	19c9-47bf-de91-1f2e	0
+loose soil|jn	has subcomponent	oxygen|n	1ab8-7900-02c0-a2d6	0
+less precipitation|qn	result	drought|n	2298-6f12-b46e-4f4e	0
+precipitation|n	has positive impact on	drought|n	2298-6f12-b46e-4f4e	0
+fall|v	result	move down|vp	2522-2f06-9dd6-6bf1	0
+decompose|v	at location	soil|n	2fd8-2d03-ccfe-ca27	0
+decompose|v	result	organic matter|ns	2fd8-2d03-ccfe-ca27	0
+drought|n	at location	environment|n	3492-2519-a7cc-d552	0
+drought|n	causes	less water|qn	3492-2519-a7cc-d552	0
+climb|v	result	high|j	375c-f58a-32b0-42bf	0
+high|j	similar to	altitude|n	375c-f58a-32b0-42bf	0
+decompose|v	at location	soil|n	39b8-47a9-eee1-d2d4	0
+decompose|v	result	nutrient|n	39b8-47a9-eee1-d2d4	0
+decomposition|n	derivational morphology	decompose|v	39b8-47a9-eee1-d2d4	0
+warm|v	instrument	heat|n	39ec-9974-829d-ba5e	0
+warm|v	result	hot|j	39ec-9974-829d-ba5e	0
+cool|v	result	cold|j	3a9b-81b5-1a3a-40a0	0
+cool|v	result	decrease heat|vp	3a9b-81b5-1a3a-40a0	0
+cool|v	result	decrease temperature|vp	3a9b-81b5-1a3a-40a0	0
+grow|v	agent	animal|n	3c39-efea-ce7b-afa8	0
+grow|v	has positive impact on	height|n	3c39-efea-ce7b-afa8	0
+grow|v	has positive impact on	mass|n	3c39-efea-ce7b-afa8	0
+grow|v	has positive impact on	size|n	3c39-efea-ce7b-afa8	0
+condense|v	agent	gas|n	3e90-e3f3-440d-008e	0
+condense|v	instrument	boiling point|ns	3e90-e3f3-440d-008e	0
+cool gas|vp	result	condense|v	3e90-e3f3-440d-008e	0
+pollute|v	goal	environment|n	4d82-5c75-1ac1-abdd	0
+pollute|v	result	poison|n	4d82-5c75-1ac1-abdd	0
+pollute|v	result	pollution|n	4d82-5c75-1ac1-abdd	0
+use|v	result	decrease amount|vp	57c5-f27f-1d68-9a7a	0
+erode soil|vp	instrument	animal|n	5e75-4bbb-dae0-311f	0
+erode soil|vp	instrument	water|n	5e75-4bbb-dae0-311f	0
+erode soil|vp	instrument	wind|n	5e75-4bbb-dae0-311f	0
+erode soil|vp	result	less soil|qn	5e75-4bbb-dae0-311f	0
+hide|v	instrument	camouflage|n	60e9-1f2b-145c-00bd	0
+hide|v	instrument	reduce visibility|vp	60e9-1f2b-145c-00bd	0
+shrink|v	result	decrease size|vp	628f-08c3-a230-9bfb	0
+attract|v	result	move close|vp	6e2c-b252-430e-971b	0
+bad weather|jn	has negative impact on	visibility|n	703d-4bda-4bbc-790e	0
+store water|vp	at location	dry environment|jn	7626-ebfe-aa54-61db	0
+store water|vp	beneficiary	organism|n	7626-ebfe-aa54-61db	0
+shower|n	causes	steam|n	79a0-2fbc-edea-0d50	0
+get|v	patient	object|n	7a74-426d-ec77-f296	0
+get|v	result	increase|v	7a74-426d-ec77-f296	0
+heat|v	has positive impact on	temperature|n	7afc-2bcd-13a5-2d35	0
+heat|v	result	temperature increase|av	7afc-2bcd-13a5-2d35	0
+carpool|v	derivational morphology	carpooling|n	7fce-27b1-e8ef-0b83	0
+carpool|v	result	less car|qn	7fce-27b1-e8ef-0b83	0
+planet pull|av	instrument	gravity|n	8025-2d3b-7ecb-0aff	0
+animal|n	has subcomponent	fur|n	84a3-fb47-5416-db66	0
+fur|n	causes	warm|j	84a3-fb47-5416-db66	0
+fur|n	has property	thick|j	84a3-fb47-5416-db66	0
+warm|j	antonym	cold|j	84a3-fb47-5416-db66	0
+winter|n	has property	cold|j	84a3-fb47-5416-db66	0
+destroy|v	result	reduce amount|vp	84bb-0231-2480-1c8b	0
+dry|v	has negative impact on	water|n	85c8-f683-bc89-7bc5	0
+dry|v	result	less liquid|qn	85c8-f683-bc89-7bc5	0
+dry|v	result	less water|qn	85c8-f683-bc89-7bc5	0
+dry|v	result	less wet|qn	85c8-f683-bc89-7bc5	0
+grow|v	result	increase number|vp	8a51-fb44-d9d2-73ae	0
+grow|v	result	increase size|vp	8a51-fb44-d9d2-73ae	0
+grow|v	result	increase strength|vp	8a51-fb44-d9d2-73ae	0
+grow|v	result	increase value|vp	8a51-fb44-d9d2-73ae	0
+heat solid|vp	result	melt|v	8cbb-8bf8-bfbd-681e	0
+melt|v	agent	solid|n	8cbb-8bf8-bfbd-681e	0
+melt|v	instrument	heat|n	8cbb-8bf8-bfbd-681e	0
+melt|v	instrument	melting point|ns	8cbb-8bf8-bfbd-681e	0
+heat|v	instrument	heat|n	9469-8559-7f35-1bbd	0
+heat|v	synonym	add heat|vp	9469-8559-7f35-1bbd	0
+communicate|v	instrument	tool|n	95f3-60ac-0a8c-04ca	0
+communication|n	derivational morphology	communicate|v	95f3-60ac-0a8c-04ca	0
+magnify|v	instrument	magnifying glass|ns	97fc-be7c-5115-2a2e	0
+magnify|v	instrument	microscope|n	97fc-be7c-5115-2a2e	0
+see small thing|vp	instrument	magnify|v	97fc-be7c-5115-2a2e	0
+prevent transfer|vp	instrument	thermal insulator|ns	a469-8103-d86d-9765	0
+thermal insulator|ns	has negative impact on	heat|n	a469-8103-d86d-9765	0
+pant|v	agent	animal|n	a6e0-b058-5e81-743d	0
+pant|v	instrument	hang tongue|vp	a6e0-b058-5e81-743d	0
+pant|v	result	cool body|vp	a6e0-b058-5e81-743d	0
+boil|v	agent	liquid|n	ae9d-5e74-afa3-d031	0
+boil|v	instrument	heat|n	ae9d-5e74-afa3-d031	0
+heat liquid|vp	result	boil|v	ae9d-5e74-afa3-d031	0
+survive|v	beneficiary	organism|n	b42b-3273-90bc-24a0	0
+cool|v	result	decrease temperature|vp	b71d-3add-69c0-1d03	0
+lose|v	result	decrease|v	bbaf-fd47-e244-3163	0
+recycle|v	result	resource|n	bbe2-8087-7d0d-2480	0
+protect|v	result	resist damage|vp	bbeb-6bd2-a93f-7e6c	0
+add salt|vp	goal	liquid|n	be88-c9f0-da8b-be7a	0
+add salt|vp	result	decrease melting point|vp	be88-c9f0-da8b-be7a	0
+add salt|vp	goal	solid|n	c03c-a689-cb2e-24a6	0
+add salt|vp	result	decrease freezing point|vp	c03c-a689-cb2e-24a6	0
+windshield wiper|ns	has positive impact on	visibility|n	cafa-1156-b030-e5db	0
+spring|n	at location	environment|n	cc1b-e49e-5ba9-05af	0
+spring|n	causes	food|n	cc1b-e49e-5ba9-05af	0
+boil|v	result	less liquid|qn	cdef-3753-0d9d-1e92	0
+recycle|v	result	water|n	ce64-9ef7-3084-5195	0
+winter|n	causes	cold|j	d428-62e1-fa35-44c4	0
+winter|n	causes	decrease temperature|vp	d428-62e1-fa35-44c4	0
+source|n	causes	increase|v	da68-3173-2681-d90e	0
+slow down|v	result	less speed|qn	dae9-2ad1-04de-57b4	0
+slow|v	result	less speed|qn	dae9-2ad1-04de-57b4	0
+exercise|n	derivational morphology	exercise|v	e28b-b306-768c-9265	0
+exercise|v	result	strong|j	e28b-b306-768c-9265	0
+increase strength|vp	instrument	exercise|v	e28b-b306-768c-9265	0
+sink|v	result	move down|vp	ed1e-f72b-9918-7c56	0
+exothermic reaction|jn	causes	heat|n	ed83-0798-7781-6842	0
+reproduce|v	derivational morphology	reproduction|n	f7af-2923-694c-51cf	0
+decade|n	has subcomponent	carbon dioxide|ns	ff69-4994-ef75-6ef3	0

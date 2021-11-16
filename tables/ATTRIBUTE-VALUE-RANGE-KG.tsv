@@ -1,0 +1,116 @@
+subj	rel	obj	id	flag
+lowest|j	synonym	least amount|jn	0079-9b02-51a6-b9f2	0
+lowest|j	synonym	least number|jn	0079-9b02-51a6-b9f2	0
+lowest|j	synonym	least value|jn	0079-9b02-51a6-b9f2	0
+fewest|j	synonym	least number|jn	0105-c0af-766a-ccab	0
+fewest|j	synonym	lowest number|jn	0105-c0af-766a-ccab	0
+dim|j	synonym	little light|qn	0c2b-7128-7a4c-4f92	0
+cloud|n	at location	sky|n	0d83-db1e-d92b-0bf0	0
+cloudy|j	synonym	many cloud|qn	0d83-db1e-d92b-0bf0	0
+fewer|j	synonym	less number|jn	17e7-deeb-44f0-1758	0
+fewer|j	synonym	lower number|jn	17e7-deeb-44f0-1758	0
+windy|j	synonym	high wind speed|jn	18c4-e5f9-2e96-516d	0
+oxygen rich|ns	synonym	many oxygen|qn	1e1f-c155-78c5-ca89	0
+shade|j	synonym	low sunlight|jn	1f5a-cea7-e36d-cd4e	0
+colder|j	synonym	lower temperature|jn	246e-dd6e-6e09-988a	0
+cooler|j	synonym	lower temperature|jn	246e-dd6e-6e09-988a	0
+same|j	synonym	equal|j	24b3-b5a1-ba81-3488	0
+same|j	synonym	identical|j	24b3-b5a1-ba81-3488	0
+light|j	synonym	low weight|jn	2e40-b4c8-727f-c33f	0
+greater|j	synonym	higher value|jn	2f53-db43-c6e9-95bc	0
+greater|j	synonym	more value|jn	2f53-db43-c6e9-95bc	0
+warmer|j	synonym	greater temperature|jn	3c5b-8471-16d4-f1b2	0
+warmer|j	synonym	higher temperature|jn	3c5b-8471-16d4-f1b2	0
+drier|j	synonym	less moisture|qn	3cfa-bd2a-6867-18ba	0
+drier|j	synonym	less water|qn	3cfa-bd2a-6867-18ba	0
+drier|j	synonym	less wetness|qn	3cfa-bd2a-6867-18ba	0
+smaller|j	synonym	less size|jn	4159-4c81-0f08-e0d7	0
+smaller|j	synonym	lower size|jn	4159-4c81-0f08-e0d7	0
+moist|j	synonym	high moisture|jn	4765-ccbd-4fbb-78b8	0
+abundant|j	synonym	high number|jn	486b-5779-6446-5a7c	0
+longest|j	synonym	greatest length|jn	4c40-fb3b-92a4-0c8d	0
+deepest|j	synonym	greatest depth|jn	5082-9c3c-a9c7-f968	0
+dark|j	synonym	dark color|jn	520f-4fa4-acef-f45f	0
+dry|j	synonym	low moisture|qn	5554-6d9d-779d-d5f5	0
+dry|j	synonym	low moisture|qn	5554-6d9d-779d-d5f5	0
+dry|j	synonym	low moisture|qn	5554-6d9d-779d-d5f5	0
+dry|j	synonym	low moisture|qn	5554-6d9d-779d-d5f5	0
+dry|j	synonym	low water|qn	5554-6d9d-779d-d5f5	0
+bright|j	synonym	many light|qn	56a9-dbc0-3e13-141a	0
+endangered|j	synonym	low population|jn	5d3f-973a-b9e6-a13f	0
+warm|j	synonym	medium heat energy|jn	63df-d3d9-56dc-161a	0
+warm|j	synonym	medium temperature|jn	63df-d3d9-56dc-161a	0
+high|j	synonym	many something|qn	7fa0-943d-7998-baa0	0
+favorite|j	synonym	highest preference|jn	83b3-fd83-a8f1-e3f8	0
+greatest|j	synonym	highest|j	842e-1407-d27c-3e94	0
+greatest|j	synonym	largest|j	842e-1407-d27c-3e94	0
+greatest|j	synonym	most|j	842e-1407-d27c-3e94	0
+damp|j	synonym	many water|qn	870d-1249-13fb-d0a1	0
+high|j	synonym	great altitude|jn	8887-e704-c02a-b51a	0
+thin|j	synonym	small width|jn	8986-ae56-f6e2-8292	0
+taller|j	synonym	greater height|jn	89ba-3b1e-ab64-a131	0
+taller|j	synonym	greater size|jn	89ba-3b1e-ab64-a131	0
+larger|j	synonym	greater size|jn	8b56-35cc-d534-8cad	0
+larger|j	synonym	higher size|jn	8b56-35cc-d534-8cad	0
+larger|j	synonym	more size|jn	8b56-35cc-d534-8cad	0
+clear|j	antonym	cloudy|j	9038-72cb-9b3b-4af6	0
+clear|j	instance of	weather|n	9038-72cb-9b3b-4af6	0
+clear weather|jn	antonym	rainy weather|jn	9038-72cb-9b3b-4af6	0
+cloudy|j	instance of	weather|n	9038-72cb-9b3b-4af6	0
+sunny|j	instance of	weather|n	9038-72cb-9b3b-4af6	0
+sunny|j	synonym	clear|j	9038-72cb-9b3b-4af6	0
+far|j	synonym	great distance|jn	94b7-fbe6-74cf-eba2	0
+little|j	synonym	low amount|jn	94ca-8f0b-e958-f1a5	0
+flexible|j	synonym	high flexibility|jn	98b6-2bc9-0f82-84f9	0
+strong|j	synonym	high strength|jn	9a78-e47c-3ee1-6028	0
+lighter|j	synonym	less weight|qn	9d6c-c552-fb86-cb2b	0
+lighter|j	synonym	lower weight|qn	9d6c-c552-fb86-cb2b	0
+microscopic|j	synonym	very small|qj	9de1-83af-1cb8-6667	0
+loud|j	synonym	high sound energy|jn	9f4e-2412-59cc-3383	0
+loud|j	synonym	high sound intensity|jn	9f4e-2412-59cc-3383	0
+hot|j	synonym	high heat energy|jn	9ff8-543c-2f35-5d3f	0
+hot|j	synonym	high temperature|jn	9ff8-543c-2f35-5d3f	0
+largest|j	synonym	greatest size|jn	a183-80da-46fa-bfa6	0
+most|j	synonym	majority|n	a65e-9ac4-5d0e-ac50	0
+snowy|j	synonym	many snow|qn	a85f-1cbe-a3a6-14e1	0
+shorter|j	synonym	less height|jn	b346-9120-f053-18eb	0
+shorter|j	synonym	smaller height|jn	b346-9120-f053-18eb	0
+indented|v	synonym	little deep|qj	b3e6-7562-a0b7-db2a	0
+long|j	synonym	great length|jn	b416-cff8-0999-48a9	0
+bright|j	synonym	bright color|jn	b5e2-521d-a85b-cf14	0
+bright|j	synonym	light color|jn	b5e2-521d-a85b-cf14	0
+intense|j	synonym	high intensity|jn	b626-264a-fc02-81b7	0
+heaviest|j	synonym	greatest mass|jn	b772-685d-841d-f24b	0
+heaviest|j	synonym	greatest weight|jn	b772-685d-841d-f24b	0
+extreme|j	synonym	high value|qn	b8d9-4ead-699d-2b5e	0
+cold|j	synonym	low temperature|jn	cf2a-6257-0c5c-7445	0
+heavy|j	synonym	many weight|qn	cf35-7fb9-d732-4bba	0
+close|j	synonym	low distance|jn	cf37-a1ef-e60b-f8e7	0
+ancient|j	synonym	very old|qn	d2aa-4c9c-560c-3a18	0
+old|j	similar to	time|n	d2aa-4c9c-560c-3a18	0
+resemble|j	synonym	similar characteristics|jn	d334-56dc-2e90-fe13	0
+faster|j	synonym	higher speed|jn	dcd4-5303-c509-88ec	0
+tall|j	synonym	great height|jn	e189-7b50-e22f-29e3	0
+clean|j	antonym	polluted|j	e1ae-b51c-1770-3db1	0
+clean|n	has subcomponent	little pollutant|qn	e1ae-b51c-1770-3db1	0
+low|j	synonym	low altitude|jn	e1cc-1d09-9103-7301	0
+low|j	synonym	low elevation|jn	e1cc-1d09-9103-7301	0
+low|j	synonym	low height|jn	e1cc-1d09-9103-7301	0
+shortest|j	synonym	least length|jn	e288-5cf7-f60d-4e8d	0
+shortest|j	synonym	smallest length|jn	e288-5cf7-f60d-4e8d	0
+distant|j	synonym	great distance|jn	e3f2-57ec-2aec-341a	0
+wider|j	synonym	greater width|jn	e4bc-1333-59ab-707a	0
+dimmer|j	synonym	less bright|jn	e70f-e13e-37af-1fda	0
+higher|j	synonym	above amount|jn	ecca-9a1d-3074-cd00	0
+higher|j	synonym	above number|jn	ecca-9a1d-3074-cd00	0
+higher|j	synonym	above value|jn	ecca-9a1d-3074-cd00	0
+higher|j	synonym	greater amount|jn	ecca-9a1d-3074-cd00	0
+higher|j	synonym	greater number|jn	ecca-9a1d-3074-cd00	0
+higher|j	synonym	greater value|jn	ecca-9a1d-3074-cd00	0
+stopped|j	synonym	0 speed|jn	ee86-88ae-2535-1a42	0
+stopped|j	synonym	no speed|jn	ee86-88ae-2535-1a42	0
+stopped|j	synonym	zero speed|jn	ee86-88ae-2535-1a42	0
+stop|j	synonym	0 speed|jn	ee86-88ae-2535-1a42	0
+stop|j	synonym	no speed|jn	ee86-88ae-2535-1a42	0
+stop|j	synonym	zero speed|jn	ee86-88ae-2535-1a42	0
+deeper|j	synonym	greater depth|jn	fddd-e3d7-b93b-187c	0

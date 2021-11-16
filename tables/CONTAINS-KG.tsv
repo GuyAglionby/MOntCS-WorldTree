@@ -1,0 +1,110 @@
+subj	rel	obj	id	flag
+water container|ns	has subcomponent	water|n	055f-62da-6f0f-9be5	0
+muscular system|ns	has subcomponent	muscle|n	0685-babe-a257-9fbe	0
+top soil layer|jn	has subcomponent	many nutrient|qn	0738-f2c4-03a7-3a8b	0
+beach ball|ns	has subcomponent	gas|n	0b3c-fc05-1642-9a08	0
+wasp stinger|ns	has subcomponent	poison|n	1177-e0d7-4358-0204	0
+wasp|n	has subcomponent	wasp stinger|ns	1177-e0d7-4358-0204	0
+acidic rainwater|jn	has subcomponent	acid|n	1632-1fa8-8c28-5669	0
+room|n	has subcomponent	wall|n	1c37-9df2-350b-3c5a	0
+tree|n	has subcomponent	wood|n	1d29-f8d7-5834-aa6c	0
+soil|n	has subcomponent	humus|n	24c1-678f-d0a3-2af7	0
+soil|n	has subcomponent	water|n	24c1-678f-d0a3-2af7	0
+soil|n	has subcomponent	weathered rock|jn	24c1-678f-d0a3-2af7	0
+field|n	has subcomponent	soil|n	2cc1-d93b-cea8-3b51	0
+carbonated beverage|jn	has subcomponent	carbon dioxide|ns	3145-65d7-0fa3-5857	0
+dissolve|v	agent	carbon dioxide|ns	3145-65d7-0fa3-5857	0
+moon's surface|ns	has subcomponent	flat area|jn	3583-4f7d-77df-e26c	0
+ocean|n	has subcomponent	wave|n	3836-b248-bdff-be59	0
+animal waste|ns	has subcomponent	nitrogen|n	391c-4df9-175e-987e	0
+nervous system|ns	has subcomponent	nerve|n	4695-199f-eeab-4611	0
+Earth|n	has subcomponent	ecosystem|n	49a0-acc7-6fce-867f	0
+rock|n	has subcomponent	iron|n	49e4-dd5f-a48b-76cc	0
+swimming pool|ns	has subcomponent	water|n	4a43-1f50-d613-de3e	0
+plant cell|ns	has subcomponent	chloroplast|n	4e64-cd5b-9e82-e218	0
+flour reproduce|av	instrument	pollen|n	5505-0403-08c0-3571	0
+flour|n	has subcomponent	pollen|n	5505-0403-08c0-3571	0
+rock|n	has subcomponent	aluminum|n	5c99-06b6-7e1e-f150	0
+runoff|n	at location	cropland|n	6029-2646-fb11-8753	0
+runoff|n	has subcomponent	chemical|n	6029-2646-fb11-8753	0
+runoff|n	has subcomponent	fertilizer|n	6029-2646-fb11-8753	0
+runoff|n	has subcomponent	pesticide|n	6029-2646-fb11-8753	0
+runoff|n	has subcomponent	pollutant|n	6029-2646-fb11-8753	0
+channel|n	has subcomponent	moving water|jn	65d2-8c35-9f57-0830	0
+moving|n	derivational morphology	move|v	65d2-8c35-9f57-0830	0
+magnet|n	has subcomponent	north pole|ns	6c20-4dbe-71da-0428	0
+magnet|n	has subcomponent	south pole|ns	6c20-4dbe-71da-0428	0
+trashcan|n	has subcomponent	garbage|n	7101-b26e-c0b0-1347	0
+trashcan|n	has subcomponent	trash|n	7101-b26e-c0b0-1347	0
+trashcan|n	has subcomponent	waste|n	7101-b26e-c0b0-1347	0
+ferrous metal|jn	has subcomponent	iron|n	7114-deda-e0a0-d3e9	0
+dry environment|jn	has subcomponent	little water|qn	7376-0d97-1227-bd6a	0
+pencil lead|ns	has subcomponent	mineral graphite|ns	73ef-3026-389a-20a2	0
+ecosystem|n	has subcomponent	living organism|ns	7a75-f74f-4c98-0f01	0
+berry|n	has subcomponent	seed|n	7f04-fd94-0d22-9ee4	0
+animal|n	has subcomponent	bladder|n	8334-8d96-8065-aa1c	0
+bladder|n	has subcomponent	urine|n	8334-8d96-8065-aa1c	0
+ecosystem|n	has subcomponent	nonliving thing|jn	8635-6b8d-0003-dc16	0
+moon's surface|ns	has subcomponent	highlands|n	893f-916b-8ee1-9b98	0
+refrigerator|n	has subcomponent	harmful chemical|jn	89d4-504e-26ea-25da	0
+Earth|n	has subcomponent	air|n	982f-f6c0-b9e8-e203	0
+Earth|n	has subcomponent	water|n	982f-f6c0-b9e8-e203	0
+desert environment|ns	has subcomponent	little food|qn	9bf8-7511-a722-e068	0
+electric car|jn	has subcomponent	electric motor|jn	9d1d-a854-c8ac-a4db	0
+electric car|jn	kind of	car|n	9d1d-a854-c8ac-a4db	0
+electric motor|jn	kind of	motor|n	9d1d-a854-c8ac-a4db	0
+natural ecosystem|jn	has subcomponent	native living thing|jn	9ed1-18d0-0ac0-c299	0
+bubble|n	has subcomponent	gas|n	a0e7-290b-5de1-5648	0
+limb|n	has subcomponent	bone|n	a237-4e63-f4c8-5e35	0
+fertilizer|n	has subcomponent	chemical|n	a288-7e08-49cc-7661	0
+tennis ball|ns	has subcomponent	air|n	a34e-4c17-742b-c689	0
+forest|n	has subcomponent	plant|n	a54a-a04c-71eb-ba0a	0
+forest|n	has subcomponent	tree|n	a54a-a04c-71eb-ba0a	0
+ocean|n	has subcomponent	many salt water|qn	a67b-a673-e85b-6310	0
+zoo exhibit|ns	has subcomponent	required item|ns	adb3-8ad7-befa-74c9	0
+solar system|ns	has subcomponent	moon|n	b776-8099-262d-4b06	0
+balloon|n	has subcomponent	gas|n	b859-0a35-7eea-8222	0
+body of water|ns	has subcomponent	water|n	b927-5436-1d17-c396	0
+tree|n	has subcomponent	wood|n	bcc7-8811-5dcd-6e0f	0
+earth|n	has subcomponent	ocean|n	c0ad-4856-2d41-4fa9	0
+ocean|n	has subcomponent	many water|qn	c0ad-4856-2d41-4fa9	0
+pumpkin|n	has subcomponent	seed|n	c0ed-56a6-3f1e-b66c	0
+lunar surface|jn	at location	moon|n	c13a-75d9-afb9-ad21	0
+lunar surface|jn	has subcomponent	many crater|qn	c13a-75d9-afb9-ad21	0
+moon's surface|ns	at location	moon|n	c13a-75d9-afb9-ad21	0
+moon's surface|ns	has subcomponent	many crater|qn	c13a-75d9-afb9-ad21	0
+moon's surface|ns	synonym	lunar surface|jn	c13a-75d9-afb9-ad21	0
+moon's surface|ns	at location	moon|n	d0ac-a3a5-dadc-df10	0
+moon's surface|ns	has subcomponent	mountain|n	d0ac-a3a5-dadc-df10	0
+cold environment|jn	has subcomponent	few organism|qn	d0ac-f4c5-d526-2831	0
+food|n	has subcomponent	carbohydrate|n	d11d-a195-7042-efcc	0
+plant stem|ns	has subcomponent	tube|n	d534-dac5-f81f-1e26	0
+plant transport nutrient|avp	instrument	stem|n	d534-dac5-f81f-1e26	0
+plant transport water|avp	instrument	stem|n	d534-dac5-f81f-1e26	0
+earth's surface|ns	at location	earth|n	d9ac-bf1e-2efc-8abb	0
+earth's surface|ns	has subcomponent	mountain|n	d9ac-bf1e-2efc-8abb	0
+glass|n	has subcomponent	water|n	d9da-e54d-cd61-36aa	0
+constellation|n	has subcomponent	star|n	db62-4c2e-6a9d-8b12	0
+soil|n	has subcomponent	nutrient|n	ddcc-3b71-b14e-97d1	0
+chloroplast|n	has subcomponent	chlorophyll|n	e856-9caa-346e-b925	0
+breath|n	has subcomponent	water vapor|ns	ece6-3b70-33f4-3b98	0
+fruit|n	has subcomponent	seed|n	ef49-c852-8727-d2dd	0
+sunlight|n	has subcomponent	ultraviolet light|ns	f1ae-4d95-7b44-91f9	0
+atmosphere|n	has subcomponent	gas|n	f1c6-1bc9-dda0-fc31	0
+atmosphere|n	has subcomponent	liquid|n	f1c6-1bc9-dda0-fc31	0
+atmosphere|n	has subcomponent	solid|n	f1c6-1bc9-dda0-fc31	0
+electromagnet|n	has subcomponent	cylindrical ferrous metal|jn	f2e1-4ca1-4bfd-cbce	0
+electromagnet|n	has subcomponent	wire|n	f2e1-4ca1-4bfd-cbce	0
+dissolve|v	derivational morphology	dissolved|n	f32e-0424-d7c1-e558	0
+water|n	has subcomponent	dissolved oxygen|jn	f32e-0424-d7c1-e558	0
+animal body|ns	has subcomponent	artery|n	f4b3-b8dc-89a2-0c84	0
+animal body|ns	has subcomponent	vein|n	f4b3-b8dc-89a2-0c84	0
+bicycle|n	has subcomponent	axle|n	f684-f2bb-f419-a1f1	0
+bicycle|n	has subcomponent	lever|n	f684-f2bb-f419-a1f1	0
+bicycle|n	has subcomponent	pulley|n	f684-f2bb-f419-a1f1	0
+bicycle|n	has subcomponent	screw|n	f684-f2bb-f419-a1f1	0
+bicycle|n	has subcomponent	wheel|n	f684-f2bb-f419-a1f1	0
+rock|n	has subcomponent	many metal|qn	f853-8175-3c98-28c5	0
+assemble|v	patient	kit|n	f8d3-af6e-2588-10ed	0
+kit|n	has subcomponent	material|n	f8d3-af6e-2588-10ed	0
+multicellular organism|jn	has subcomponent	many cell|qn	fd39-82bf-ca1d-2605	0

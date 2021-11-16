@@ -1,0 +1,100 @@
+subj	rel	obj	id	flag
+light travel|av	at location	vacuum|n	0350-5cfd-debd-dee8	0
+burn|v	patient	paper|n	0368-ac19-6961-eb96	0
+discover shape|vp	instrument	feel|v	064c-653b-1ec4-4e84	0
+discover shape|vp	instrument	touch|v	064c-653b-1ec4-4e84	0
+specialize|v	agent	cell|n	097c-4fb9-56b6-3b8d	0
+flowing|n	derivational morphology	flow|v	108e-8a75-dafd-6b0e	0
+flowing liquid push|av	patient	object|n	108e-8a75-dafd-6b0e	0
+preserve organism|vp	instrument	sedimentary rock|jn	198d-4495-e5b7-1477	0
+reproduce|v	agent	living thing|jn	1ef5-5d4e-fdf8-9d2a	0
+shine|v	agent	sunlight|n	1f7b-30af-4177-e9d5	0
+sunlight shine|av	at location	window|n	1f7b-30af-4177-e9d5	0
+radiation affect|av	patient	distant object|jn	3274-5890-ead5-c376	0
+renewable resource|jn	has property	replaceable|j	372a-9e36-7f56-af5c	0
+replaceable|j	derivational morphology	replace|v	372a-9e36-7f56-af5c	0
+replace|v	patient	renewable resource|jn	372a-9e36-7f56-af5c	0
+survive|v	agent	single-cell organism|jn	3c3e-7d13-68ab-07e8	0
+hard object|jn	has property	high vibration|jn	3d6b-ad3e-adb6-5537	0
+low object|jn	has property	low vibration|jn	3d6b-ad3e-adb6-5537	0
+vibrate|v	derivational morphology	vibration|n	3d6b-ad3e-adb6-5537	0
+photosynthesis|n	derivational morphology	photosynthesize|v	4184-5780-8914-8264	0
+photosynthesize|v	agent	plant cell|ns	4184-5780-8914-8264	0
+plant cell|ns	antonym	animal cell|ns	4184-5780-8914-8264	0
+replace tree|vp	synonym	plant tree|vp	431d-1679-5bc8-6a2c	0
+reproduce|v	agent	female|n	4484-111e-3dfa-198e	0
+reproduce|v	agent	male|n	4484-111e-3dfa-198e	0
+shelter|n	derivational morphology	shelter|v	489e-9103-cfb3-9d2e	0
+shelter|v	agent	animal|n	489e-9103-cfb3-9d2e	0
+shelter|v	agent	human|n	489e-9103-cfb3-9d2e	0
+shelter|v	beneficiary	animal|n	489e-9103-cfb3-9d2e	0
+shelter|v	instrument	protection|n	489e-9103-cfb3-9d2e	0
+weather|n	causes	shelter|v	489e-9103-cfb3-9d2e	0
+electricity power|av	patient	electromagnet|n	4ca4-9068-7f5a-d63a	0
+reuse|v	derivational morphology	reusable|j	5cac-4930-3622-9502	0
+human|n	has property	literacy|n	63ed-2a75-b0ec-771b	0
+read|v	kind of	literacy|n	63ed-2a75-b0ec-771b	0
+write|v	kind of	literacy|n	63ed-2a75-b0ec-771b	0
+echolocate|v	agent	bat|n	6b7f-061c-c3e6-7b6a	0
+animal|n	has subcomponent	water|n	6c80-eaba-4b68-6003	0
+photosynthesis|n	derivational morphology	photosynthesize|v	731c-4521-3f2e-d41e	0
+photosynthesize|v	agent	plant cell|ns	731c-4521-3f2e-d41e	0
+pull|v	agent	object|n	77b1-b251-ee0c-a4b4	0
+pull|v	instrument	mechanical energy|jn	77b1-b251-ee0c-a4b4	0
+pull|v	patient	object|n	77b1-b251-ee0c-a4b4	0
+push|v	agent	object|n	77b1-b251-ee0c-a4b4	0
+push|v	antonym	pull|v	77b1-b251-ee0c-a4b4	0
+push|v	instrument	mechanical energy|jn	77b1-b251-ee0c-a4b4	0
+push|v	patient	object|n	77b1-b251-ee0c-a4b4	0
+identify|v	instrument	property|n	8661-5700-67ef-4ac8	0
+brain control|av	patient	nervous system|ns	90b2-edef-d99f-687c	0
+control body|vp	instrument	brain|n	90b2-edef-d99f-687c	0
+control body|vp	instrument	nervous system|ns	90b2-edef-d99f-687c	0
+closed circuit|jn	antonym	open circuit|jn	9454-afc8-6751-3910	0
+electricity flow|av	instrument	closed circuit|jn	9454-afc8-6751-3910	0
+hover|v	agent	hummingbird|n	984e-bccb-a608-55b8	0
+hummingbird|n	kind of	bird|n	984e-bccb-a608-55b8	0
+discover color|vp	instrument	look|v	a10f-b463-32a7-a229	0
+change shape|vp	instrument	flexibility|n	ac40-d9c4-86a2-f4bb	0
+flexibility|n	derivational morphology	flexible|j	ac40-d9c4-86a2-f4bb	0
+survive|v	instrument	store fat|vp	affa-2d72-5000-4e10	0
+complete|v	instrument	help|n	b7ec-6a4c-7e51-eb10	0
+finish|v	instrument	help|n	b7ec-6a4c-7e51-eb10	0
+help|n	derivational morphology	help|v	b7ec-6a4c-7e51-eb10	0
+communicate|v	instrument	telephone|n	c04b-7952-e97c-e5a7	0
+telephone|v	agent	human|n	c04b-7952-e97c-e5a7	0
+telephone|v	derivational morphology	telephone|n	c04b-7952-e97c-e5a7	0
+prevent illness|vp	instrument	vaccine|n	c170-8ed0-d311-238e	0
+vaccine|n	causes	less illness|qn	c170-8ed0-d311-238e	0
+aquatic animal|jn	at location	water|n	c46f-1a47-b825-6df0	0
+aquatic animal|jn	has subcomponent	fin|n	c46f-1a47-b825-6df0	0
+move|v	agent	aquatic animal|jn	c46f-1a47-b825-6df0	0
+move|v	instrument	fin|n	c46f-1a47-b825-6df0	0
+bicycle|n	has subcomponent	pedal|n	c4de-157a-1fb4-0ec8	0
+bike|n	synonym	bicycle|n	c4de-157a-1fb4-0ec8	0
+pedal|v	agent	human|n	c4de-157a-1fb4-0ec8	0
+pedal|v	derivational morphology	pedal|n	c4de-157a-1fb4-0ec8	0
+pedal|v	patient	bike|n	c4de-157a-1fb4-0ec8	0
+bacterium digest|av	patient	food|n	df29-0616-310f-2dfb	0
+swimming|j	derivational morphology	swim|v	e16d-34f6-506f-e5b0	0
+swim|v	agent	animal|n	e16d-34f6-506f-e5b0	0
+swim|v	agent	human|n	e16d-34f6-506f-e5b0	0
+swim|v	at location	water|n	e16d-34f6-506f-e5b0	0
+swim|v	kind of	move|v	e16d-34f6-506f-e5b0	0
+get|v	source	source|n	e6fb-12a1-939d-e850	0
+non-contact force affect|av	patient	distant object|jn	e900-125c-4981-68a5	0
+specialize|v	agent	multi-cell organism|ns	eb36-f98b-9b4f-d15e	0
+identify|v	instrument	composition|n	f245-df47-6b3e-b4f6	0
+magnetism affect|av	patient	distant object|jn	f273-cb72-b4dd-f0ab	0
+reuse|v	patient	renewable resource|jn	f290-4de0-34ab-0f52	0
+recycle|v	derivational morphology	recyclable|j	f450-c52a-cebe-ac01	0
+recycle|v	patient	recyclable material|jn	f450-c52a-cebe-ac01	0
+sound|n	at location	air|n	f672-4bbb-6fff-373c	0
+metamorphose|v	derivational morphology	metamorphosis|n	f700-0f5f-be06-c22a	0
+metamorphose|v	instrument	pressure|n	f700-0f5f-be06-c22a	0
+metamorphose|v	patient	shale|n	f700-0f5f-be06-c22a	0
+metamorphose|v	result	slate|n	f700-0f5f-be06-c22a	0
+detect|v	instrument	eye|n	fdba-70d0-fcc6-e529	0
+see|v	instrument	eye|n	fdba-70d0-fcc6-e529	0
+see|v	patient	light|n	fdba-70d0-fcc6-e529	0
+sense|v	instrument	eye|n	fdba-70d0-fcc6-e529	0

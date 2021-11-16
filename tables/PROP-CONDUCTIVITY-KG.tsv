@@ -1,0 +1,19 @@
+subj	rel	obj	id	flag
+conduct|v	instrument	metal|n	0439-8c06-da63-6721	0
+conduct|v	patient	heat|n	0439-8c06-da63-6721	0
+heat|n	at location	metal|n	0439-8c06-da63-6721	0
+conduct|v	derivational morphology	conductor|n	23bf-e586-9387-c883	0
+conduct|v	instrument	metal|n	23bf-e586-9387-c883	0
+conduct|v	patient	electricity|n	23bf-e586-9387-c883	0
+electricity|n	at location	metal|n	23bf-e586-9387-c883	0
+insulate|v	instrument	rubber|n	3bc7-7251-4566-95f7	0
+insulate|v	instrument	down feather|ns	718f-36ed-de51-9dfb	0
+conduct|v	instrument	water|n	86c1-8ea4-6a5c-6283	0
+electricity|n	at location	water|n	86c1-8ea4-6a5c-6283	0
+heat|n	at location	water|n	86c1-8ea4-6a5c-6283	0
+insulate|v	derivational morphology	insulator|n	8f3b-ed0c-5dae-f30e	0
+insulate|v	instrument	wood|n	8f3b-ed0c-5dae-f30e	0
+insulate|v	instrument	wax|n	acae-d127-8de0-100d	0
+insulate|v	instrument	brick|n	c4f6-ee5c-204a-6f07	0
+conduct|v	instrument	nervous system|ns	f64e-1b60-6e48-9b5a	0
+electricity|n	at location	nervous system|ns	f64e-1b60-6e48-9b5a	0

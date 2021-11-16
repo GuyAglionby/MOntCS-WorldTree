@@ -1,0 +1,19 @@
+subj	rel	obj	id	flag
+gaseous matter|jn	has property	variable volume|jn	42dd-0aaa-7736-eea9	0
+gaseous matter|jn	instance of	matter|n	42dd-0aaa-7736-eea9	0
+gaseous|n	kind of	phase|n	42dd-0aaa-7736-eea9	0
+liquid matter|jn	has property	variable shape|jn	5458-220e-3046-62d2	0
+liquid matter|jn	instance of	matter|n	5458-220e-3046-62d2	0
+liquid|n	kind of	phase|n	5458-220e-3046-62d2	0
+gaseous matter|jn	has property	variable shape|jn	77a9-72bb-f1d8-77ff	0
+gaseous matter|jn	instance of	matter|n	77a9-72bb-f1d8-77ff	0
+gaseous|n	kind of	phase|n	77a9-72bb-f1d8-77ff	0
+solid matter|jn	has property	definite volume|jn	92b1-8801-0e59-845e	0
+solid matter|jn	instance of	matter|n	92b1-8801-0e59-845e	0
+solid|n	kind of	phase|n	92b1-8801-0e59-845e	0
+liquid matter|jn	has property	definite volume|jn	d048-a12a-4f58-5472	0
+liquid matter|jn	instance of	matter|n	d048-a12a-4f58-5472	0
+liquid|n	kind of	phase|n	d048-a12a-4f58-5472	0
+solid matter|jn	has property	definite shape|jn	d068-9891-46a3-e999	0
+solid matter|jn	instance of	matter|n	d068-9891-46a3-e999	0
+solid|n	kind of	phase|n	d068-9891-46a3-e999	0

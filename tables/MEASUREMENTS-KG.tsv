@@ -1,0 +1,56 @@
+subj	rel	obj	id	flag
+length|n	kind of	distance|n	067d-1aca-bec2-8141	0
+length|n	kind of	measure|n	067d-1aca-bec2-8141	0
+object|n	has property	length|n	067d-1aca-bec2-8141	0
+humidity|n	at location	air|n	1c42-416a-fc92-2b03	0
+humidity|n	at location	atmosphere|n	1c42-416a-fc92-2b03	0
+humidity|n	kind of	measure|n	1c42-416a-fc92-2b03	0
+climate|n	kind of	measure|n	1dba-dc42-8ca9-0ab2	0
+climate|n	kind of	weather|n	1dba-dc42-8ca9-0ab2	0
+elevation|n	kind of	distance|n	2168-c389-224e-2ee9	0
+elevation|n	kind of	measure|n	2168-c389-224e-2ee9	0
+distance|n	kind of	measure|n	27bc-337b-3807-6f55	0
+far|j	kind of	distance|n	27bc-337b-3807-6f55	0
+ocean|n	has subcomponent	tide|n	4b4a-63a2-a913-8b18	0
+tidal range|ns	kind of	measure|n	4b4a-63a2-a913-8b18	0
+tidal range|ns	kind of	vertical distance|jn	4b4a-63a2-a913-8b18	0
+tidal|j	derivational morphology	tide|n	4b4a-63a2-a913-8b18	0
+streak|n	kind of	color|n	5f16-d62c-3e05-6719	0
+streak|n	kind of	measure|n	5f16-d62c-3e05-6719	0
+mass|n	kind of	measure|n	6dd3-883b-2639-04d5	0
+mass|n	similar to	matter|n	6dd3-883b-2639-04d5	0
+height|n	kind of	length|n	833b-2c13-d01b-2ac2	0
+height|n	kind of	measure|n	833b-2c13-d01b-2ac2	0
+fast|j	kind of	speed|n	87c6-f5c1-2d8f-e14a	0
+move|v	has property	speed|n	87c6-f5c1-2d8f-e14a	0
+speed|n	kind of	measure|n	87c6-f5c1-2d8f-e14a	0
+circle|n	has property	diameter|n	8c47-06f1-9f0f-10c4	0
+diameter|n	kind of	length|n	8c47-06f1-9f0f-10c4	0
+diameter|n	kind of	measure|n	8c47-06f1-9f0f-10c4	0
+density|n	kind of	measure|n	8d85-3a9e-2f98-5a9b	0
+density|n	similar to	mass|n	8d85-3a9e-2f98-5a9b	0
+density|n	similar to	volume|n	8d85-3a9e-2f98-5a9b	0
+change height|vp	at location	slope|n	a72b-b781-e72f-5fc8	0
+slope|n	kind of	measure|n	a72b-b781-e72f-5fc8	0
+move|v	has property	speed|n	b753-a285-8304-024a	0
+move|v	result	change location|vp	b753-a285-8304-024a	0
+speed|n	similar to	distance|n	b753-a285-8304-024a	0
+speed|ns	similar to	time|n	b753-a285-8304-024a	0
+position|n	causes	potential energy|jn	b7c8-a816-2ceb-d787	0
+potential energy|jn	kind of	measure|n	b7c8-a816-2ceb-d787	0
+object|n	has property	thickness|n	cd12-aac7-4181-607b	0
+thickness|n	derivational morphology	thick|j	cd12-aac7-4181-607b	0
+thickness|n	kind of	measure|n	cd12-aac7-4181-607b	0
+temperature|n	kind of	measure|n	d753-423d-5ce7-53ce	0
+temperature|n	synonym	heat energy|ns	d753-423d-5ce7-53ce	0
+work|n	kind of	measure|n	dcf5-861f-9ab6-f238	0
+work|n	similar to	distance|n	dcf5-861f-9ab6-f238	0
+work|n	similar to	force|n	dcf5-861f-9ab6-f238	0
+population|n	kind of	measure|n	f274-b61a-7bc7-123e	0
+population|n	similar to	number|n	f274-b61a-7bc7-123e	0
+species|n	has property	population|n	f274-b61a-7bc7-123e	0
+rainfall|n	kind of	measure|n	f2a1-5807-2b1e-fef3	0
+rainfall|n	synonym	rain|n	f2a1-5807-2b1e-fef3	0
+altitude|n	at location	sky|n	fb85-28a2-6923-fc43	0
+altitude|n	kind of	distance|n	fb85-28a2-6923-fc43	0
+altitude|n	kind of	measure|n	fb85-28a2-6923-fc43	0

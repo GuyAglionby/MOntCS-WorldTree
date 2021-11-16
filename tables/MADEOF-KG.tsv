@@ -1,0 +1,115 @@
+subj	rel	obj	id	flag
+sedimentary rock|jn	has subcomponent	small particle|jn	07cd-40e2-cfed-90ab	0
+sedimentary rock|jn	kind of	rock|n	07cd-40e2-cfed-90ab	0
+mountain|n	has subcomponent	rock|n	08ba-3817-d41e-1db2	0
+mountain|n	has subcomponent	soil|n	08ba-3817-d41e-1db2	0
+alloy|n	has subcomponent	metal|n	0e62-579f-977d-4046	0
+complex machine|jn	has subcomponent	simple machine|jn	1127-1d6b-54d0-d6ec	0
+magnet|n	has subcomponent	ferromagnetic metals|jn	1389-2bb5-b15b-83a7	0
+magnet|n	has subcomponent	magnetic metals|jn	1389-2bb5-b15b-83a7	0
+spoon|n	has subcomponent	metal|n	13cc-db5a-cd32-130d	0
+sandpaper|n	kind of	paper|n	15aa-4b8f-b148-a827	0
+sandpaper|n	has subcomponent	sand|n	15aa-4b8f-b148-a827	0
+material|n	has subcomponent	atom|n	1758-a1b7-4083-9e99	0
+material|n	has subcomponent	particle|n	1758-a1b7-4083-9e99	0
+matter|n	has subcomponent	atom|n	1758-a1b7-4083-9e99	0
+matter|n	has subcomponent	particle|n	1758-a1b7-4083-9e99	0
+substance|n	has subcomponent	atom|n	1758-a1b7-4083-9e99	0
+substance|n	has subcomponent	particle|n	1758-a1b7-4083-9e99	0
+soil|n	has subcomponent	small mineral|jn	17a3-86be-a2ea-bdb8	0
+soil|n	has subcomponent	small rock|jn	17a3-86be-a2ea-bdb8	0
+skeletal system|ns	has subcomponent	bone|n	1868-9bad-b9cc-1302	0
+78% nitrogen|ns	structural-noun	nitrogen|n	18df-4496-f1cf-d9b1	0
+78% nitrogen|qn	structural-noun	nitrogen|n	18df-4496-f1cf-d9b1	0
+78% nitrogen|ns	structural-quantifier	78|q	18df-4496-f1cf-d9b1	0
+78% nitrogen|qn	structural-quantifier	78|q	18df-4496-f1cf-d9b1	0
+atmosphere|n	has subcomponent	78% nitrogen|ns	18df-4496-f1cf-d9b1	0
+odor|n	has subcomponent	little gas|qn	1baf-ecbe-1359-5aed	0
+living things|jn	has subcomponent	cell|n	1e00-1b04-66ee-0a91	0
+plant|n	has subcomponent	plant cell|ns	1e1d-6ed6-25e3-5f30	0
+soda can|ns	has subcomponent	aluminum|n	1e72-b6e0-1d37-50bc	0
+sand|n	has subcomponent	small particle|jn	2651-d09d-1434-a5a6	0
+small particle|jn	kind of	particle|n	2651-d09d-1434-a5a6	0
+heart|n	has subcomponent	muscle|n	2873-6fdd-acf5-f314	0
+sleet|n	has subcomponent	ice|n	2dfb-6788-d488-9db9	0
+substance|n	has subcomponent	matter|n	3395-b5a2-ae2d-39c2	0
+ethanol|n	has subcomponent	corn|n	3d75-5f69-8d42-ccec	0
+rock|n	has subcomponent	mineral|n	434b-e8da-e5c7-d52e	0
+glacier|n	has subcomponent	ice|n	45f8-9d9a-e897-a211	0
+glacier|n	has subcomponent	snow|n	45f8-9d9a-e897-a211	0
+rubber eraser|jn	has subcomponent	rubber|n	45f8-aa77-a322-62d5	0
+star|n	has subcomponent	gas|n	4916-83af-ba89-9fc8	0
+organism|n	has subcomponent	organic matter|ns	4a84-1ddc-0a0c-3839	0
+material|n	has subcomponent	matter|n	4cf8-b1e2-9544-c98c	0
+brass|n	has subcomponent	copper|n	4daa-873d-0753-0b46	0
+brass|n	has subcomponent	zinc|n	4daa-873d-0753-0b46	0
+Earth's surface|ns	has subcomponent	rock|n	4e22-86f8-32a0-7375	0
+paper clip|ns	has subcomponent	ferromagnetic metals|jn	4e29-cc71-c464-bcb5	0
+paper clip|ns	has subcomponent	magnetic metals|jn	4e29-cc71-c464-bcb5	0
+sleeping bag|ns	has subcomponent	insulator|n	5061-4f39-030f-89fa	0
+wire|n	has subcomponent	metal|n	5b47-bd0e-73fe-67d6	0
+food web|ns	has subcomponent	consumer|n	5b69-37eb-8085-8e85	0
+food web|ns	has subcomponent	organism|n	5b69-37eb-8085-8e85	0
+food web|ns	has subcomponent	predator|n	5b69-37eb-8085-8e85	0
+food web|ns	has subcomponent	prey|n	5b69-37eb-8085-8e85	0
+food web|ns	has subcomponent	producer|n	5b69-37eb-8085-8e85	0
+continental shelf|jn	has subcomponent	sediment|n	6082-9118-c751-6e77	0
+peat|n	at location	swamp|n	63dd-a852-6c17-7b9a	0
+peat|n	has subcomponent	decaying vegetation|jn	63dd-a852-6c17-7b9a	0
+sand dune|ns	has subcomponent	sand|n	6424-1a31-0f40-5b1b	0
+newspaper|n	has subcomponent	paper|n	674c-94e4-e533-3536	0
+population|n	at location	area|n	6937-c405-6853-efb2	0
+population|n	has subcomponent	organism|n	6937-c405-6853-efb2	0
+electricity|n	has subcomponent	moving charged particles|jn	6952-5428-3a54-cea9	0
+electricity|n	has subcomponent	moving charges|jn	6952-5428-3a54-cea9	0
+sand|n	has subcomponent	small mineral|jn	6bdb-a6bb-4fe3-15cc	0
+sand|n	has subcomponent	small rock|jn	6bdb-a6bb-4fe3-15cc	0
+living thing|jn	has subcomponent	cell|n	6f96-e0e9-ed70-4dbc	0
+nest|n	has subcomponent	branch|n	72f9-9ce2-3aae-5fc6	0
+burner|n	has subcomponent	metal|n	7750-9e0a-ea70-dbc3	0
+Earth|n	has subcomponent	rock|n	7b54-c9f1-86da-860b	0
+light bulb filament|ns	has subcomponent	tungsten|n	7c54-4231-0b22-1768	0
+light bulb|ns	has subcomponent	light bulb filament|ns	7c54-4231-0b22-1768	0
+object|n	has subcomponent	material|n	80a3-454d-e8e0-3de2	0
+object|n	has subcomponent	matter|n	80a3-454d-e8e0-3de2	0
+object|n	has subcomponent	substance|n	80a3-454d-e8e0-3de2	0
+plastic spoon|jn	has subcomponent	plastic|n	8b02-862f-518d-c59b	0
+quartz|n	has property	six side|qn	8d0a-7ce6-0ab0-d9f0	0
+quartz|n	has property	transparent|j	8d0a-7ce6-0ab0-d9f0	0
+quartz|n	has subcomponent	crystal|n	8d0a-7ce6-0ab0-d9f0	0
+cloud|n	has subcomponent	water vapor|ns	9084-fc84-0b6a-a720	0
+carbohydrate|n	has subcomponent	sugars|n	93e8-b9fd-8d3a-5601	0
+furniture|n	has subcomponent	wood|n	9486-6e1f-f8b7-e8b8	0
+canyon|n	has subcomponent	rock|n	9752-f5f1-f7af-ff0e	0
+electrical signals|jn	has subcomponent	electrical energy|jn	9fdf-4f3f-bffe-4d9e	0
+conductor|n	derivational morphology	conduct|v	a49d-0411-7e72-17d8	0
+conduct|v	instrument	conductor|n	a49d-0411-7e72-17d8	0
+thermal conductor|ns	kind of	conductor|n	a49d-0411-7e72-17d8	0
+thermal energy|ns	at location	thermal conductor|ns	a49d-0411-7e72-17d8	0
+cook|v	instrument	frying pan|ns	a955-8642-4044-5a48	0
+cook|v	instrument	pan|n	a955-8642-4044-5a48	0
+cook|v	instrument	pot|n	a955-8642-4044-5a48	0
+frying pan|ns	has subcomponent	metal|n	a955-8642-4044-5a48	0
+pan|n	has subcomponent	metal|n	a955-8642-4044-5a48	0
+pot|n	has subcomponent	metal|n	a955-8642-4044-5a48	0
+society|n	has subcomponent	human|n	ab30-97e0-586f-d18a	0
+community|n	has subcomponent	organism|n	aeb7-e5f7-0e84-12fd	0
+glacier|n	has subcomponent	ice|n	b901-aa66-c858-54e7	0
+iron nail|ns	has subcomponent	iron|n	b9dd-961e-269e-aa5d	0
+soil|n	has subcomponent	solid particles|jn	cb4c-e3f2-22b6-3fa4	0
+plain|n	has subcomponent	flat land surface|jn	cc01-9fbb-f4cc-3fb0	0
+nerve cell|ns	kind of	cell|n	cdba-a39e-8a33-7324	0
+nerve|n	has subcomponent	nerve cell|ns	cdba-a39e-8a33-7324	0
+wax crayon|ns	has subcomponent	wax|n	cfdd-9d59-af2b-ed66	0
+sunlight|n	has subcomponent	color|n	d021-8931-f6a6-1ede	0
+eyeglasses|n	has subcomponent	lens|n	d298-28e7-40fc-3b25	0
+lens|n	has subcomponent	glass|n	d298-28e7-40fc-3b25	0
+light pollution|ns	has subcomponent	light|n	d780-ac6a-0037-1b59	0
+metal fork|jn	has subcomponent	metal|n	dc33-a410-c511-acad	0
+matter|n	has subcomponent	molecule|n	e2d6-bafd-aaaa-efd3	0
+earth surface|ns	has subcomponent	ocean|n	eacd-3358-450a-87db	0
+riverbank|n	has subcomponent	soil|n	ef09-d826-3c2b-205c	0
+rainbow|n	has subcomponent	color|n	f5f9-0163-0873-51ba	0
+dissolve|v	result	solution|n	f688-9579-bfb6-61d1	0
+solution|n	has subcomponent	substance|n	f688-9579-bfb6-61d1	0
+wave|n	has subcomponent	moving water|jn	fb40-15de-e88b-9743	0

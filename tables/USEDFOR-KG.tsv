@@ -1,0 +1,389 @@
+subj	rel	obj	id	flag
+reflect light ray|vp	instrument	sunglasses|n	010f-22bb-c786-5a0e	0
+sunglasses|n	at location	eye|n	010f-22bb-c786-5a0e	0
+communicate|v	instrument	internet|n	0197-4516-5bc8-bc8f	0
+keep warm|vj	instrument	greenhouse|n	029c-4b0e-d2c0-2383	0
+protect plant|vp	instrument	greenhouse|n	029c-4b0e-d2c0-2383	0
+excrete urine|vp	source	bladder|n	02bd-4712-66b2-5c24	0
+store urine|vp	instrument	bladder|n	02bd-4712-66b2-5c24	0
+cook food|vp	instrument	burn natural gas|vp	0331-acb0-62fe-f352	0
+produce electricity|vp	instrument	oil|n	06de-ca22-f447-d929	0
+lift heavy object|vp	instrument	lever|n	08ea-2bfc-e6e1-9c7d	0
+move heavy object|vp	instrument	lever|n	08ea-2bfc-e6e1-9c7d	0
+lift|v	instrument	pulley|n	09a7-d167-d5dc-c71b	0
+lift|v	patient	object|n	09a7-d167-d5dc-c71b	0
+lower|v	instrument	pulley|n	09a7-d167-d5dc-c71b	0
+lower|v	patient	object|n	09a7-d167-d5dc-c71b	0
+monitor location|vp	instrument	tag|n	09b3-241c-6fef-fc12	0
+electrical device|jn	at location	home|n	0a68-679d-5a83-b70b	0
+industry|n	has subcomponent	electrical device|jn	0a68-679d-5a83-b70b	0
+measure earthquake magnitude|vp	instrument	seismometer|n	0b41-0bce-3131-bd88	0
+measure earthquake strength|vp	instrument	seismometer|n	0b41-0bce-3131-bd88	0
+protect plant|vp	instrument	greenhouse|n	0b8a-d16a-4a24-14c5	0
+navigate|v	at location	ocean|n	0cb5-7f02-de35-7c66	0
+navigate|v	at location	sea|n	0cb5-7f02-de35-7c66	0
+navigate|v	instrument	compass|n	0cb5-7f02-de35-7c66	0
+describe size|vp	instrument	size|n	0cdb-042b-7900-4dee	0
+filter|n	derivational morphology	filter|v	0d7e-4532-27b4-43c9	0
+separate liquid|vp	instrument	filter|n	0d7e-4532-27b4-43c9	0
+stop vehicle|vp	instrument	brake|n	0dab-6edc-e179-77ac	0
+stop vehicle|vp	instrument	friction|n	0dab-6edc-e179-77ac	0
+vehicle|n	has subcomponent	brake|n	0dab-6edc-e179-77ac	0
+plant|n	has subcomponent	seed|n	0e62-10ed-825a-6a1b	0
+seed|n	causes	plant|n	0e62-10ed-825a-6a1b	0
+seed|n	has subcomponent	food|n	0e62-10ed-825a-6a1b	0
+produce electricity|vp	instrument	wind|n	1136-1a04-e6e6-5b99	0
+offspring|n	has subcomponent	inherited characteristic|jn	13fe-fbb8-d3d3-8bb8	0
+parent|n	has subcomponent	inherited characteristic|jn	13fe-fbb8-d3d3-8bb8	0
+fossil|n	has property	old|j	1eeb-eb2c-909d-8762	0
+learn|v	instrument	study fossil|vp	1eeb-eb2c-909d-8762	0
+measure distance|vp	instrument	tape measure|ns	1f6a-7744-7f91-26b5	0
+measure length|vp	instrument	tape measure|ns	1f6a-7744-7f91-26b5	0
+determine direction|vp	instrument	compass|n	20bd-0367-a504-562b	0
+protect young bird|vp	instrument	nest|n	217b-abe7-6613-655c	0
+observe|v	derivational morphology	observation|n	23fc-b5e5-a912-d966	0
+observe|v	instrument	sense|n	23fc-b5e5-a912-d966	0
+light|j	antonym	dark|j	242f-83db-8289-87e9	0
+lightbulb|n	causes	light|n	242f-83db-8289-87e9	0
+see|v	instrument	lightbulb|n	242f-83db-8289-87e9	0
+absorb light|vp	instrument	chlorophyll|n	26fe-ab70-b4a4-fe79	0
+plant|n	has subcomponent	chlorophyll|n	26fe-ab70-b4a4-fe79	0
+find location|vp	instrument	sonar|n	2ab2-9c07-636c-eaca	0
+cook|v	instrument	heat|n	2c1e-d35c-e708-676c	0
+cook|v	instrument	stove|n	2c1e-d35c-e708-676c	0
+generate heat|vp	agent	stove|n	2c1e-d35c-e708-676c	0
+cure|v	instrument	medicine|n	2d70-c601-74c1-0594	0
+cure|v	patient	sick|n	2d70-c601-74c1-0594	0
+cure|v	patient	sick people|jn	2d70-c601-74c1-0594	0
+produce electricity|vp	instrument	tidal energy|ns	2dc8-0f5e-7f78-4dce	0
+cool|v	instrument	long ear|jn	3031-35f3-a6f5-2fe0	0
+jackrabbit|n	has subcomponent	long ear|jn	3031-35f3-a6f5-2fe0	0
+animals|n	causes	mechanical energy|jn	314c-0a7a-af6a-91c2	0
+move|v	instrument	mechanical energy|jn	314c-0a7a-af6a-91c2	0
+measure|v	instrument	lab equipment|ns	3274-4c02-12ec-75d8	0
+observe|v	instrument	lab equipment|ns	3274-4c02-12ec-75d8	0
+describe|v	instrument	information|n	3375-b363-3db7-2e3f	0
+cook|v	at location	stove|n	33c7-1992-4659-d284	0
+cook|v	instrument	frying pan|ns	33c7-1992-4659-d284	0
+cook|v	instrument	heat|n	33c7-1992-4659-d284	0
+cook|v	instrument	pan|n	33c7-1992-4659-d284	0
+cook|v	patient	food|n	33c7-1992-4659-d284	0
+describe|v	instrument	property|n	33f0-39de-0983-aad8	0
+hear|v	agent	animal|n	372c-c52a-b8f0-bc43	0
+sense sound|vp	instrument	hear|v	372c-c52a-b8f0-bc43	0
+hide|v	instrument	live underground|vp	384c-ef0b-e148-70c7	0
+identify pure substance|vp	instrument	melting point|ns	3be9-54e5-8748-516c	0
+pure substance|jn	has subcomponent	melting point|ns	3be9-54e5-8748-516c	0
+move|v	instrument	flipper|n	3c99-764d-9b3a-2cf0	0
+hold|v	instrument	handle|n	3efa-7e97-63b6-90a3	0
+object|n	has subcomponent	handle|n	3efa-7e97-63b6-90a3	0
+compass point|av	instrument	natural magnetism|jn	3fd7-d689-6b35-21ac	0
+measure time|vp	instrument	second|n	40b8-ce9a-9919-60f8	0
+observe celestial object|vp	instrument	telescope|n	4383-694e-b4d4-cd5d	0
+observe distant object|vp	instrument	telescope|n	4383-694e-b4d4-cd5d	0
+observe moon|vp	instrument	telescope|n	4383-694e-b4d4-cd5d	0
+observe planet|vp	instrument	telescope|n	4383-694e-b4d4-cd5d	0
+observe sky|vp	instrument	telescope|n	4383-694e-b4d4-cd5d	0
+observe star|vp	instrument	telescope|n	4383-694e-b4d4-cd5d	0
+migrate|v	instrument	magnetic field|ns	472e-feaf-d532-1ec1	0
+adjust temperature|vp	agent	animal|n	4822-2d16-dd11-2f6f	0
+adjust temperature|vp	instrument	sweat|n	4822-2d16-dd11-2f6f	0
+sweat|v	result	cool|j	4822-2d16-dd11-2f6f	0
+eat food|vp	agent	animal|n	4842-3518-d7ab-f670	0
+eat food|vp	agent	living thing|jn	4842-3518-d7ab-f670	0
+eat food|vp	result	energy|n	4842-3518-d7ab-f670	0
+eat food|vp	result	nutrient|n	4842-3518-d7ab-f670	0
+take in|v	synonym	eat|v	4842-3518-d7ab-f670	0
+measure distance|vp	instrument	meter stick|ns	48c0-261e-72f5-c101	0
+measure height|vp	instrument	meter stick|ns	48c0-261e-72f5-c101	0
+measure length|vp	instrument	meter stick|ns	48c0-261e-72f5-c101	0
+lift flag|vp	at location	flagpole|n	48c6-f72a-6698-6d01	0
+lift flag|vp	instrument	pulley|n	48c6-f72a-6698-6d01	0
+fat|n	causes	warmth|n	493d-cec9-f090-4547	0
+warmth|n	derivational morphology	warm|j	493d-cec9-f090-4547	0
+record image|vp	instrument	camera|n	4e11-ed6b-eba8-a1e4	0
+cool|v	instrument	freezer|n	4ef7-13ee-3d35-8a37	0
+experiment|n	has subcomponent	safety goggle|ns	4ffd-30e8-918c-9a42	0
+protect|v	instrument	safety goggle|ns	4ffd-30e8-918c-9a42	0
+safety goggle|ns	at location	eye|n	4ffd-30e8-918c-9a42	0
+defend|v	agent	sea anemone|ns	5370-e57f-fe6d-c32b	0
+defend|v	instrument	poison dart|ns	5370-e57f-fe6d-c32b	0
+sea anemone|ns	has subcomponent	poison dart|ns	5370-e57f-fe6d-c32b	0
+attract prey|vp	instrument	light|n	552c-12e5-34a3-40d6	0
+deep sea animal|ns	has subcomponent	light|n	552c-12e5-34a3-40d6	0
+measure time|vp	instrument	clock|n	563d-53cc-0a8a-e8da	0
+measure time|vp	instrument	stopwatch|n	563d-53cc-0a8a-e8da	0
+measure time|vp	instrument	watch|n	563d-53cc-0a8a-e8da	0
+coloration|n	derivational morphology	color|n	566f-8e4a-7d9c-2034	0
+find mate|vp	instrument	coloration|n	566f-8e4a-7d9c-2034	0
+protect hand|vp	instrument	thermal glove|ns	56cf-e6c1-7c3f-a742	0
+heat building|vp	instrument	burn natural gas|vp	56e7-2bed-6272-00f4	0
+plant|n	has subcomponent	stem|n	5708-ce9b-2605-1881	0
+store water|vp	instrument	stem|n	5708-ce9b-2605-1881	0
+aquatic animal move|av	instrument	webbed feet|jn	577f-1491-e68d-776d	0
+aquatic animal|jn	has subcomponent	webbed feet|jn	577f-1491-e68d-776d	0
+animal|n	at location	shelter|n	593d-3e3b-bb10-5476	0
+live|v	agent	animal|n	593d-3e3b-bb10-5476	0
+live|v	instrument	shelter|n	593d-3e3b-bb10-5476	0
+describe|v	instrument	measure|v	5a08-2415-0853-06c5	0
+plant|n	has subcomponent	waxy leaf|jn	5b67-9424-b9f5-a268	0
+store water|vp	instrument	waxy leaf|jn	5b67-9424-b9f5-a268	0
+measure mass|vp	instrument	balance|n	5c76-a005-e9c2-354a	0
+measure weight|vp	instrument	balance|n	5c76-a005-e9c2-354a	0
+protect|v	instrument	scale|n	6085-14ee-581d-00b5	0
+scaled animal|jn	has subcomponent	scale|n	6085-14ee-581d-00b5	0
+add|v	instrument	calculator|n	61e6-58a6-0d23-51c3	0
+divide|v	instrument	calculator|n	61e6-58a6-0d23-51c3	0
+multiply|v	instrument	calculator|n	61e6-58a6-0d23-51c3	0
+subtract|v	instrument	calculator|n	61e6-58a6-0d23-51c3	0
+feel heat|vp	at location	skin|n	6206-bd50-4980-0cf3	0
+feel heat|vp	instrument	nerve|n	6206-bd50-4980-0cf3	0
+feel pressure|vp	at location	skin|n	6206-bd50-4980-0cf3	0
+feel pressure|vp	instrument	nerve|n	6206-bd50-4980-0cf3	0
+see|v	kind of	sense|v	627d-87b0-4a4a-7cad	0
+see|v	patient	visual thing|ns	627d-87b0-4a4a-7cad	0
+protect body|vp	instrument	skin|n	66b1-8f1d-a430-34b4	0
+access small space|vp	instrument	skinny beak|jn	69ed-b6ca-35e1-902c	0
+bird|n	has subcomponent	skinny beak|jn	69ed-b6ca-35e1-902c	0
+obtain food|vp	instrument	skinny beak|jn	69ed-b6ca-35e1-902c	0
+centimeter|n	has property	short|j	6a16-9fca-b59e-5353	0
+centimeter|n	kind of	distance|n	6a16-9fca-b59e-5353	0
+centimeter|n	kind of	length|n	6a16-9fca-b59e-5353	0
+measure|v	result	length|n	6a16-9fca-b59e-5353	0
+cold food|jn	has property	fresh|j	6a65-ea3c-4a26-f044	0
+transport|v	derivational morphology	transportation|n	6b1d-7b44-edfd-1acc	0
+transport|v	instrument	vehicle|n	6b1d-7b44-edfd-1acc	0
+separate|v	instrument	sifter|n	6c0c-f513-3f7d-0aba	0
+separate|v	patient	mixture|n	6c0c-f513-3f7d-0aba	0
+find food|vp	instrument	smell|j	6e34-c92d-1310-8c3a	0
+capture food|vp	instrument	spiderweb|n	700a-4b04-6cef-9114	0
+spider|n	causes	spiderweb|n	700a-4b04-6cef-9114	0
+carbon monoxide detector|ns	at location	building|n	700b-a6df-26e1-165b	0
+carbon monoxide detector|ns	has positive impact on	human|n	700b-a6df-26e1-165b	0
+carbon monoxide|ns	has negative impact on	human|n	700b-a6df-26e1-165b	0
+organize quantitative information|vp	instrument	graph|n	7423-4510-f89e-0e50	0
+breathe water|vp	agent	aquatic animal|jn	743b-9053-1b87-b6ae	0
+breathe water|vp	instrument	gills|n	743b-9053-1b87-b6ae	0
+remove tree|vp	instrument	chainsaw|n	74e5-2cb4-0250-7901	0
+centimeter|n	kind of	distance|n	7579-287a-1bb4-c6c7	0
+kilometer|n	kind of	distance|n	7579-287a-1bb4-c6c7	0
+meter|n	kind of	distance|n	7579-287a-1bb4-c6c7	0
+burn coal|vp	result	heat|n	7599-58ef-3f3c-3428	0
+observe distant object|vp	instrument	binoculars|n	75e2-b653-053f-5e09	0
+vine climb|av	instrument	curling stem|ns	7623-6dd6-7402-2c35	0
+protect|v	instrument	hard object|jn	773a-31a5-f976-927c	0
+protect|v	instrument	strong object|jn	773a-31a5-f976-927c	0
+recycle plant|vp	instrument	compost pile|ns	7740-696e-1fd8-35b8	0
+transport liquid|vp	instrument	tube|n	79d6-2fd6-a4dc-26f2	0
+detect odor|vp	instrument	smell|j	79eb-3a4e-d5f4-4f1b	0
+measure wind speed|vp	instrument	anemometer|n	7a68-d438-ce92-5fb1	0
+compare density|vp	instrument	container|n	7aad-8a6b-a25f-4c00	0
+liquid|n	has property	density|n	7aad-8a6b-a25f-4c00	0
+flower|n	has subcomponent	seed|n	7ce5-9209-691b-8810	0
+measure volume|vp	instrument	measuring cup|ns	7dea-a87e-e497-6cef	0
+substance|n	has subcomponent	volume|n	7dea-a87e-e497-6cef	0
+object|n	has subcomponent	purpose|n	7e9a-996d-16bb-0273	0
+magnify|v	instrument	electron microscope|ns	7f26-bdb8-7b40-b225	0
+magnify|v	patient	small object|jn	7f26-bdb8-7b40-b225	0
+magnify|v	result	big|j	7f26-bdb8-7b40-b225	0
+measure length|vp	instrument	ruler|n	80e7-ecfd-5d68-a0d3	0
+measure length|vp	patient	object|n	80e7-ecfd-5d68-a0d3	0
+measure temperature|vp	instrument	thermometer|n	8346-8315-1f24-a5be	0
+pencil lead|ns	has subcomponent	mineral graphite|ns	842b-2665-a2a2-db2a	0
+rocket engine|ns	causes	gas|n	8516-201c-6c25-aa84	0
+rocket engine|ns	causes	speed|n	8516-201c-6c25-aa84	0
+rocket engine|ns	causes	thrust|n	8516-201c-6c25-aa84	0
+plant light|ns	has positive impact on	plant|n	852a-f5d6-a737-525f	0
+plant light|ns	similar to	sunlight|n	852a-f5d6-a737-525f	0
+hit object|vp	instrument	lever|n	85c3-2cbb-57b0-1a1b	0
+communicate|v	instrument	radio|n	88df-eb0d-45e8-287f	0
+resource|n	has subcomponent	energy|n	9109-c77c-e952-4935	0
+communicate|v	instrument	television|n	911e-1d6c-cbba-c371	0
+tv|n	synonym	television|n	911e-1d6c-cbba-c371	0
+capture animal|vp	at location	container|n	9124-5b04-dfef-8bd1	0
+container|n	has subcomponent	air hole|ns	9124-5b04-dfef-8bd1	0
+hold animal|vp	at location	container|n	9124-5b04-dfef-8bd1	0
+measure time|vp	instrument	stopwatch|n	91bf-d72e-f4e5-1526	0
+refract|v	instrument	prism|n	9218-9ed1-8bb7-6d03	0
+start current|vp	at location	electrical circuit|ns	9580-9f11-5f23-3df4	0
+start current|vp	instrument	switch|n	9580-9f11-5f23-3df4	0
+stop current|vp	at location	electrical circuit|ns	9580-9f11-5f23-3df4	0
+stop current|vp	instrument	switch|n	9580-9f11-5f23-3df4	0
+fresh food|jn	at location	refrigerator|n	9b09-3c82-e0da-574f	0
+hunt food|vp	instrument	camouflage|n	9be9-a346-c5bb-8681	0
+hunt prey|vp	instrument	camouflage|n	9be9-a346-c5bb-8681	0
+predict weather|vp	instrument	satellite|n	9c09-1905-9028-692b	0
+human body|ns	has subcomponent	cell|n	9f3e-4023-78c7-8a78	0
+repair cell|vp	instrument	protein|n	9f3e-4023-78c7-8a78	0
+burn natural gas|vp	at location	furnace|n	9f86-6ae1-8a59-fef8	0
+burn natural gas|vp	at location	stove|n	9f86-6ae1-8a59-fef8	0
+burn natural gas|vp	result	heat|n	9f86-6ae1-8a59-fef8	0
+move|v	instrument	ship|n	a047-3def-21a6-4a8e	0
+move|v	patient	human|n	a047-3def-21a6-4a8e	0
+move|v	patient	product|n	a047-3def-21a6-4a8e	0
+ship|n	at location	water|n	a047-3def-21a6-4a8e	0
+sample|v	patient	water|n	a199-9882-c322-d4d8	0
+water|n	has property	quality|j	a199-9882-c322-d4d8	0
+bird|n	has subcomponent	wing|n	a1e0-a2f2-a898-9507	0
+fly|v	agent	bird|n	a1e0-a2f2-a898-9507	0
+fly|v	at location	air|n	a1e0-a2f2-a898-9507	0
+fly|v	instrument	wing|n	a1e0-a2f2-a898-9507	0
+measure air pressure|vp	instrument	barometer|n	a341-f03e-05a7-a158	0
+camouflage|v	instrument	mimic|v	a444-d39d-478b-b605	0
+mimicry|n	derivational morphology	mimic|v	a444-d39d-478b-b605	0
+mimicry|n	has negative impact on	predator|n	a444-d39d-478b-b605	0
+mimicry|n	has positive impact on	prey|n	a444-d39d-478b-b605	0
+test water|vp	agent	water company|ns	a462-a04a-e149-ba3f	0
+test water|vp	at location	lab|n	a462-a04a-e149-ba3f	0
+test water|vp	has positive impact on	human|n	a462-a04a-e149-ba3f	0
+treat water|vp	instrument	remove harmful substance|vp	a55e-c07d-73ca-c903	0
+animal|n	has subcomponent	whisker|n	a57e-6830-a887-2134	0
+feel|v	instrument	whisker|n	a57e-6830-a887-2134	0
+communicate|v	agent	human|n	a5c9-d7a4-8421-bb2e	0
+communicate|v	instrument	telephone|n	a5c9-d7a4-8421-bb2e	0
+remove hot object|vp	instrument	thermal insulator|ns	a79c-b257-b8ca-1792	0
+bee|n	has subcomponent	stinger|n	a8c3-f9b0-6fbf-1116	0
+defend|v	instrument	stinger|n	a8c3-f9b0-6fbf-1116	0
+sting|v	agent	bee|n	a8c3-f9b0-6fbf-1116	0
+sting|v	agent	wasp|n	a8c3-f9b0-6fbf-1116	0
+sting|v	instrument	stinger|n	a8c3-f9b0-6fbf-1116	0
+wasp|n	has subcomponent	stinger|n	a8c3-f9b0-6fbf-1116	0
+communicate|v	agent	animal|n	a948-3b4d-ac8c-27e6	0
+communicate|v	instrument	sound|n	a948-3b4d-ac8c-27e6	0
+describe|v	instrument	function|n	aa9b-a7b0-3501-e36c	0
+identify|v	instrument	function|n	aa9b-a7b0-3501-e36c	0
+fuel|n	has subcomponent	energy|n	ab43-8cff-27a8-2727	0
+octopus hide|av	instrument	ink|n	abfc-b22e-6516-5cd4	0
+hide|v	beneficiary	animal|n	ac8a-77b3-7190-7751	0
+hide|v	beneficiary	prey|n	ac8a-77b3-7190-7751	0
+hide|v	instrument	camouflage|n	ac8a-77b3-7190-7751	0
+protect|v	beneficiary	animal|n	ac8a-77b3-7190-7751	0
+protect|v	beneficiary	prey|n	ac8a-77b3-7190-7751	0
+protect|v	instrument	camouflage|n	ac8a-77b3-7190-7751	0
+measure weight|vp	instrument	scale|n	af64-6dc9-a2bb-291d	0
+air hole|ns	has positive impact on	oxygen|n	af9a-c935-366d-7d50	0
+oxygen|n	has positive impact on	animal|n	af9a-c935-366d-7d50	0
+car|n	has subcomponent	passenger|n	b04b-4f83-a205-9f51	0
+car|n	has subcomponent	seat belt|ns	b04b-4f83-a205-9f51	0
+prevent injury|vp	beneficiary	passenger|n	b04b-4f83-a205-9f51	0
+prevent injury|vp	instrument	seat belt|ns	b04b-4f83-a205-9f51	0
+bird|n	has subcomponent	beak|n	b24f-9ed8-9950-8c23	0
+catch prey|vp	instrument	beak|n	b24f-9ed8-9950-8c23	0
+warn|v	beneficiary	people|n	b2a4-7842-5cbe-d717	0
+warn|v	instrument	communicate|v	b2a4-7842-5cbe-d717	0
+warn|v	patient	danger|n	b2a4-7842-5cbe-d717	0
+burn coal|vp	at location	power station|ns	b47d-ee7e-9ebb-f9db	0
+produce electricity|vp	instrument	burn coal|vp	b47d-ee7e-9ebb-f9db	0
+heat|v	instrument	heat source|ns	b504-fe0c-2e70-84b4	0
+measure rainfall|vp	instrument	distance|n	b5f6-d3ac-47c9-1478	0
+measure rainfall|vp	instrument	length|n	b5f6-d3ac-47c9-1478	0
+heat|v	instrument	heat source|ns	b62f-8dfd-e486-3a96	0
+catch prey|vp	instrument	claw|n	b69b-8370-5427-d472	0
+predator|n	has subcomponent	claw|n	b69b-8370-5427-d472	0
+kill|v	instrument	pesticide|n	b73d-f638-b1f4-580c	0
+pesticide|n	has negative impact on	insect|n	b73d-f638-b1f4-580c	0
+pesticide|n	has positive impact on	plant|n	b73d-f638-b1f4-580c	0
+protect plant|vp	instrument	pesticide|n	b73d-f638-b1f4-580c	0
+electrical device|jn	has subcomponent	electricity|n	b8fe-4fe5-0eae-a038	0
+electricity|n	kind of	energy|n	b8fe-4fe5-0eae-a038	0
+reflect|v	instrument	mirror|n	b913-a040-66e7-599a	0
+reflect|v	patient	light|n	b913-a040-66e7-599a	0
+communicate|v	instrument	telephone|n	ba4a-e0d4-486c-cf9f	0
+telephone|n	has positive impact on	human|n	ba4a-e0d4-486c-cf9f	0
+telephone|n	has subcomponent	sound|n	ba4a-e0d4-486c-cf9f	0
+store|v	instrument	cactus stem|ns	baa9-9ba4-d21a-6e99	0
+water|n	at location	cactus stem|ns	baa9-9ba4-d21a-6e99	0
+identify inheritance|vp	instrument	punnett square|ns	bb82-e504-ef30-e04f	0
+inheritance|n	derivational morphology	inherit|v	bb82-e504-ef30-e04f	0
+inherit|v	patient	trait|n	bb82-e504-ef30-e04f	0
+protect|v	instrument	sharp object|jn	bc7a-22e8-2ef0-acba	0
+monitor|v	result	information|n	bc99-3dfb-5779-7a60	0
+burn natural gas|vp	result	electricity|n	bd63-e63d-6604-125c	0
+generate electricity|vp	synonym	produce electricity|vp	bd63-e63d-6604-125c	0
+power plant|ns	causes	electricity|n	bd63-e63d-6604-125c	0
+power plant|ns	synonym	power station|ns	bd63-e63d-6604-125c	0
+avoid predator|vp	instrument	hide|v	bf07-ffd0-f0cf-8f16	0
+cool|v	instrument	fan|n	bfd4-dd07-9a84-6de0	0
+cool|v	patient	human|n	bfd4-dd07-9a84-6de0	0
+cool|v	patient	room|n	bfd4-dd07-9a84-6de0	0
+move person|vp	instrument	airplane|n	c1b8-6b6a-cfa4-5354	0
+move product|vp	instrument	airplane|n	c1b8-6b6a-cfa4-5354	0
+cook liquid food|vp	instrument	pot|n	c2f2-f064-d77c-ef38	0
+navigate|v	instrument	star|n	c381-bba2-237d-3fe2	0
+show change|vp	instrument	line graph|ns	c760-71d8-d5c0-0ffb	0
+show datum|vp	instrument	line graph|ns	c760-71d8-d5c0-0ffb	0
+lower|v	instrument	inclined plane|jn	c98e-3a98-2020-c736	0
+raise|v	instrument	inclined plane|jn	c98e-3a98-2020-c736	0
+survive|v	instrument	adaptation|n	ce2e-f178-dc1d-ad3c	0
+burn wood|vp	result	heat|n	cf2f-78eb-312b-8a6f	0
+float|v	at location	water|n	d1de-5423-b933-d777	0
+float|v	instrument	tail|n	d1de-5423-b933-d777	0
+reflect light|vp	instrument	reflector|n	d1eb-53c2-e0c6-1431	0
+reflect light|vp	synonym	reflect light ray|vp	d1eb-53c2-e0c6-1431	0
+animal|n	has subcomponent	long tail|jn	d234-71ad-ea30-a569	0
+animal|n	has subcomponent	thick tail|jn	d234-71ad-ea30-a569	0
+move|v	at location	water|n	d234-71ad-ea30-a569	0
+move|v	instrument	long tail|jn	d234-71ad-ea30-a569	0
+move|v	instrument	thick tail|jn	d234-71ad-ea30-a569	0
+cook food|vp	instrument	pot|n	d359-b51f-d170-0bbf	0
+obtain information|vp	instrument	sense|v	d459-a147-6ed7-082c	0
+produce electricity|vp	instrument	burn biofuel|vp	d4e2-9dc8-72be-627f	0
+protect|v	beneficiary	animal|n	d5fc-0707-ab28-947f	0
+protect|v	instrument	shelter|n	d5fc-0707-ab28-947f	0
+describe|v	instrument	location|n	d725-e207-be31-4742	0
+conserve water|vp	at location	dry environment|jn	d7fb-3cde-4016-edb4	0
+survive|v	instrument	conserve water|vp	d7fb-3cde-4016-edb4	0
+produce light|vp	instrument	laser|n	d822-a791-3a67-8bb7	0
+bird|n	has subcomponent	lung|n	dd98-da47-1a80-ab63	0
+breathe|v	instrument	lung|n	dd98-da47-1a80-ab63	0
+breathe|v	patient	air|n	dd98-da47-1a80-ab63	0
+land animal|jn	has subcomponent	lung|n	dd98-da47-1a80-ab63	0
+conserve energy|vp	instrument	hibernation|n	de27-24b6-09fb-9efc	0
+hibernate|v	agent	animal|n	de27-24b6-09fb-9efc	0
+hibernate|v	derivational morphology	hibernation|n	de27-24b6-09fb-9efc	0
+hibernate|v	has positive impact on	energy|n	de27-24b6-09fb-9efc	0
+detect texture|vp	instrument	touch|v	df67-2c42-2ea5-500d	0
+heat|v	beneficiary	building|n	dff5-88e0-55c8-e6a6	0
+heat|v	beneficiary	substance|n	dff5-88e0-55c8-e6a6	0
+heat|v	instrument	electricity|n	dff5-88e0-55c8-e6a6	0
+see microscopic thing|vp	instrument	microscope|n	e15b-3e85-4d7a-42ea	0
+see small thing|vp	instrument	microscope|n	e15b-3e85-4d7a-42ea	0
+see specimen|vp	instrument	microscope|n	e15b-3e85-4d7a-42ea	0
+grow|v	agent	plant|n	e1d3-5fb3-b1c4-5332	0
+grow|v	instrument	tissue|n	e1d3-5fb3-b1c4-5332	0
+grow|v	result	tall|j	e1d3-5fb3-b1c4-5332	0
+plant|n	has subcomponent	stem|n	e1d3-5fb3-b1c4-5332	0
+tissue|n	at location	stem|n	e1d3-5fb3-b1c4-5332	0
+make product|vp	agent	manufacturer|n	e25b-edcb-7b09-f967	0
+make product|vp	instrument	material|n	e25b-edcb-7b09-f967	0
+product|v	has subcomponent	material|n	e25b-edcb-7b09-f967	0
+attract pollinator|vp	agent	plant|n	e470-cbe8-086a-5af9	0
+attract pollinator|vp	instrument	nectar|n	e470-cbe8-086a-5af9	0
+plant|n	has subcomponent	nectar|n	e470-cbe8-086a-5af9	0
+animal|n	has subcomponent	eye|n	e47e-e5e2-c6d2-61ed	0
+see|v	agent	animal|n	e47e-e5e2-c6d2-61ed	0
+see|v	instrument	eye|n	e47e-e5e2-c6d2-61ed	0
+see|v	synonym	sense light|vp	e47e-e5e2-c6d2-61ed	0
+study history|vp	instrument	old object|jn	e62c-4993-16db-bb58	0
+measure earthquake|vp	instrument	seismograph|n	eb11-ce60-5982-6b34	0
+communicate|v	instrument	computer|n	eb81-1c0b-6039-ee96	0
+find information|vp	instrument	computer|n	eb81-1c0b-6039-ee96	0
+store energy|vp	instrument	carbohydrate|n	ebd5-35a8-c591-ca03	0
+transport energy|vp	instrument	carbohydrate|n	ebd5-35a8-c591-ca03	0
+measure volume|vp	instrument	graduated cylinder|jn	eefd-f260-5dc6-2267	0
+white tile|jn	kind of	streak plate|ns	efad-c789-3790-7d85	0
+travel|v	instrument	vehicle|n	f06b-ece5-aa6c-f069	0
+study animal|vp	instrument	capture animal|vp	f155-8605-3db8-2634	0
+magnify|v	instrument	magnifying glass|ns	f2e4-3457-4480-2a9e	0
+magnify|v	result	large|j	f2e4-3457-4480-2a9e	0
+see|v	instrument	magnifying glass|ns	f2e4-3457-4480-2a9e	0
+thick feather|jn	causes	warmth|n	f42f-c815-0b10-13ce	0
+thick fur|jn	causes	warmth|n	f42f-c815-0b10-13ce	0
+tree|n	has property	age|j	f506-1d0a-e402-7818	0
+tree|n	has subcomponent	ring|n	f506-1d0a-e402-7818	0
+identify boiling point|vp	instrument	heat liquid|vp	f685-05f4-46b2-1a83	0
+move rocket|vp	instrument	rocket engine|ns	fad8-89d3-6199-bc6f	0
+see|v	instrument	light|n	fb9d-3818-fb1e-48de	0
+see|v	instrument	refraction|n	fb9d-3818-fb1e-48de	0
+farm|v	agent	human|n	ff67-56ea-3f47-20c2	0
+farm|v	instrument	cropland|n	ff67-56ea-3f47-20c2	0

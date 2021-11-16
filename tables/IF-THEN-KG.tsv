@@ -1,0 +1,391 @@
+subj	rel	obj	id	flag
+touch|v	result	expose|v	010a-f960-ad4b-537c	0
+kick|v	patient	object|n	01ef-1f36-abd7-9217	0
+kick|v	result	force|n	01ef-1f36-abd7-9217	0
+move apart|v	agent	pole|n	042f-c182-4483-578d	0
+move apart|v	synonym	separate|v	042f-c182-4483-578d	0
+source|n	has subcomponent	requirement|n	063d-b437-ec5f-4fbf	0
+break|v	result	crack|n	0671-af0e-d6f3-eacf	0
+parallel circuit|jn	has subcomponent	many pathway|qn	0be5-a05c-01aa-32ac	0
+scratch|v	patient	soft material|jn	0d14-a620-1810-48a3	0
+soft|j	antonym	hard|j	0d14-a620-1810-48a3	0
+cause|v	result	increase|v	0db5-f9d6-7b0f-b515	0
+eat|v	agent	organism|n	0ddf-dd31-cd78-80b4	0
+eat|v	patient	food|n	0ddf-dd31-cd78-80b4	0
+apart|v	instrument	space|n	0f01-9270-d298-1254	0
+boil|v	patient	liquid|n	0f2d-b1e3-27a6-75b9	0
+boil|v	result	hot|j	0f2d-b1e3-27a6-75b9	0
+learn|v	instrument	information|n	1021-0803-058c-48ef	0
+grow|v	agent	plant|n	105a-5720-e63b-0413	0
+compete|v	agent	animal|n	1510-dba6-1988-692c	0
+compete|v	result	take resource|vp	1510-dba6-1988-692c	0
+blue object|jn	has subcomponent	blue light|jn	1761-802d-4af8-c594	0
+produce|v	agent	source|n	1766-eb05-3dea-6d20	0
+lost|v	at location	sea|n	182a-86c7-c75d-8968	0
+sea|n	antonym	land|n	182a-86c7-c75d-8968	0
+die|v	result	dead|j	1868-70f2-364b-04e1	0
+jet stream|ns	causes	cold weather|jn	1876-6b7a-984c-60e2	0
+material|n	has property	property|n	1e4c-46e8-996c-f2f7	0
+object|n	has property	property|n	1e4c-46e8-996c-f2f7	0
+object|n	has subcomponent	material|n	1e4c-46e8-996c-f2f7	0
+break material|vp	result	powder|n	1e78-ceed-2d2f-4125	0
+rub material|jn	result	powder|n	1e78-ceed-2d2f-4125	0
+rub material|jn	source	streak plate|ns	1e78-ceed-2d2f-4125	0
+lack|v	antonym	contain|v	1f45-a351-2610-20e8	0
+hot object|jn	has subcomponent	hot surface|jn	1f6c-e898-01cc-8759	0
+release|v	result	decrease amount|vp	1f93-a702-d4f5-1d46	0
+flood|v	agent	river|n	2107-bbdb-3936-d0cb	0
+flood|v	at location	flood plain|ns	2107-bbdb-3936-d0cb	0
+flood|v	result	sediment|n	2107-bbdb-3936-d0cb	0
+flood|v	result	soil|n	2107-bbdb-3936-d0cb	0
+environment|n	has property	cold|j	2460-c937-4e53-293a	0
+environment|n	has property	temperature|n	2460-c937-4e53-293a	0
+atmosphere|n	has property	temperature|n	2511-f015-94c8-0157	0
+temperature rise|av	result	glacier melt|av	2511-f015-94c8-0157	0
+hard|j	antonym	soft|j	2523-8171-1306-a08f	0
+scratch|v	instrument	hard|j	2523-8171-1306-a08f	0
+light|n	has property	color|j	255c-ea3b-7584-7dc9	0
+reflect|v	patient	lightbulb|n	255c-ea3b-7584-7dc9	0
+scratch|v	agent	glacier|n	26a1-44de-dc7d-c9ee	0
+scratch|v	patient	rock|n	26a1-44de-dc7d-c9ee	0
+dissolve|v	agent	substance|n	274b-e89f-86fa-6446	0
+dissolve|v	kind of	add|v	274b-e89f-86fa-6446	0
+dissolve|v	patient	substance|n	274b-e89f-86fa-6446	0
+fall|n	has subcomponent	less daylight|qn	27ac-0696-3449-6bd2	0
+season|n	has subcomponent	daylight amount|ns	27ac-0696-3449-6bd2	0
+summer|n	has subcomponent	many daylight|qn	27ac-0696-3449-6bd2	0
+animal|n	at location	underground|n	281d-889f-2ea8-3c89	0
+fire|n	at location	surface|n	281d-889f-2ea8-3c89	0
+surface|n	antonym	underground|n	281d-889f-2ea8-3c89	0
+object touch|av	result	change temperature|vp	284d-e19c-6811-6a99	0
+process|n	has subcomponent	raw material|jn	2851-a2b0-f5df-dae7	0
+scratch|v	agent	fingernail|n	2863-93fe-ff62-7b41	0
+scratch|v	patient	soft material|jn	2863-93fe-ff62-7b41	0
+freeze|v	result	expand|v	2946-6e9f-c2f8-2575	0
+excess heat|jn	causes	die|v	2a84-8168-a68d-adac	0
+discover|v	result	discovery|n	2b4c-4963-4547-c62d	0
+invent|v	kind of	discover|v	2b4c-4963-4547-c62d	0
+invent|v	result	invention|n	2b4c-4963-4547-c62d	0
+gain|v	source	source|n	2c00-a6e8-2894-a55a	0
+make object|vp	agent	source|n	2ead-14dd-aede-6d07	0
+overpopulation|n	has negative impact on	ecosystem|n	2ebb-fce7-3fb0-eb17	0
+population increase|av	beneficiary	organism|n	2ebb-fce7-3fb0-eb17	0
+population increase|av	result	overpopulation|n	2ebb-fce7-3fb0-eb17	0
+maintain health|vp	has positive impact on	organism|n	2fb0-d5a7-c5bb-eb92	0
+maintain health|vp	instrument	object|n	2fb0-d5a7-c5bb-eb92	0
+perform task|vp	kind of	function|n	3048-dcac-daad-f832	0
+contact object|vp	result	sound|n	32e0-8371-00dd-9561	0
+move object|vp	result	sound|n	32e0-8371-00dd-9561	0
+produce|v	patient	sound|n	32e0-8371-00dd-9561	0
+touch object|vp	result	sound|n	32e0-8371-00dd-9561	0
+animal|n	has property	color|j	3313-e8a9-cf21-6a33	0
+fur|n	has property	color|n	3313-e8a9-cf21-6a33	0
+crack sidewalk|vp	agent	root|n	33fe-9382-75a8-9316	0
+root|n	has negative impact on	sidewalk|n	33fe-9382-75a8-9316	0
+tree|n	has subcomponent	root|n	33fe-9382-75a8-9316	0
+physical change|jn	antonym	chemical change|jn	36ff-8e28-fa84-d964	0
+heat gas|vp	result	expand|v	372c-33f0-9c33-ca83	0
+heat gas|vp	result	rise|v	372c-33f0-9c33-ca83	0
+process|n	has subcomponent	requirement|n	3976-3829-4098-1312	0
+requirement|n	derivational morphology	require|v	3976-3829-4098-1312	0
+requirement|n	has positive impact on	process|n	3976-3829-4098-1312	0
+circuit|n	has subcomponent	electricity|n	39b0-5f60-9b23-8892	0
+circuit|n	has subcomponent	switch|n	39b0-5f60-9b23-8892	0
+close switch|vp	result	electricity flow|av	39b0-5f60-9b23-8892	0
+die|v	result	reduce population|vp	3a44-7b6a-8b5c-d15f	0
+same material|jn	causes	similar|j	3b5e-b61a-38ed-faa2	0
+same object|jn	causes	similar|j	3b5e-b61a-38ed-faa2	0
+electromagnet|n	has property	magnetic|j	3c44-d616-941a-c427	0
+electromagnet|n	has subcomponent	battery|n	3c44-d616-941a-c427	0
+electromagnet|n	has subcomponent	nail|n	3c44-d616-941a-c427	0
+nail|n	has property	magnetic|j	3c44-d616-941a-c427	0
+contains|v	patient	part|n	3ce9-70b7-6dc1-9e42	0
+cause|v	instrument	requirement|n	3d02-90e0-df5d-dd0c	0
+requirement|n	derivational morphology	require|v	3d02-90e0-df5d-dd0c	0
+compass|n	has subcomponent	needle|n	3ec5-18c6-fd99-2d5e	0
+source|n	has subcomponent	raw material|jn	3f77-91fb-7f5a-5b33	0
+important|j	has positive impact on	object|n	4545-4aa9-5e1e-e204	0
+lose|v	result	decrease|v	462d-e871-6c8b-dd48	0
+push flexible container|vp	result	change shape|vp	47ce-3a56-5343-bea8	0
+fall|v	agent	dead tree|jn	4809-553c-eae1-9b6f	0
+touch|v	agent	container|n	49e7-9112-fe19-cbb8	0
+battery|n	has subcomponent	electrical energy|jn	4a3d-dad2-2823-ee64	0
+replace|v	patient	battery|n	4a3d-dad2-2823-ee64	0
+block light|vp	instrument	object|n	4cc8-7a19-e037-5eeb	0
+change shape|vp	agent	liquid|n	4fb5-dbc8-4e35-105d	0
+long lasting object|jn	has negative impact on	replacement|n	53c9-c71e-2549-c10e	0
+replacement|n	derivational morphology	replace|v	53c9-c71e-2549-c10e	0
+object|n	has subcomponent	material|n	544b-9b49-3946-c353	0
+object|n	has subcomponent	part|n	544b-9b49-3946-c353	0
+part|n	has subcomponent	material|n	544b-9b49-3946-c353	0
+destroy habitat|vp	result	animal die|av	54f0-f2ea-baa5-7a2f	0
+destroy habitat|vp	result	organism die|av	54f0-f2ea-baa5-7a2f	0
+increase bad thing|vp	has negative impact on	object|n	5779-3c33-cd1f-22be	0
+big|j	kind of	size|n	5802-cde2-4ed8-839e	0
+plant grow|av	result	big leaf|jn	5802-cde2-4ed8-839e	0
+plant grow|av	result	more leaf|qn	5802-cde2-4ed8-839e	0
+equal force|jn	causes	still|j	587b-cf2b-5466-f25a	0
+body of water|ns	kind of	water|n	5951-c5bc-d3b9-c818	0
+lose water|vp	has negative impact on	body of water|ns	5951-c5bc-d3b9-c818	0
+food chain|ns	has subcomponent	nutrient|n	5d1e-750b-db59-6c30	0
+nutrient|n	at location	soil|n	5d1e-750b-db59-6c30	0
+chemical change|jn	causes	chemical property|jn	5d42-f489-fc8e-6263	0
+material|n	has property	charge|j	605c-4908-fb48-3ca6	0
+object|n	has property	charge|j	605c-4908-fb48-3ca6	0
+same charge|jn	causes	repel|v	605c-4908-fb48-3ca6	0
+plant born|av	instrument	seed|n	609b-acb0-2f70-de90	0
+sprout|v	agent	plant|n	609b-acb0-2f70-de90	0
+sprout|v	kind of	born|v	609b-acb0-2f70-de90	0
+sprout|v	source	seed|n	609b-acb0-2f70-de90	0
+absorb|v	result	contain|v	62a5-1149-2527-8c63	0
+eye|n	has subcomponent	pupil|n	62fc-9a63-27db-7b46	0
+eye|n	has subcomponent	retina|n	62fc-9a63-27db-7b46	0
+light|n	at location	pupil|n	62fc-9a63-27db-7b46	0
+light|n	at location	retina|n	62fc-9a63-27db-7b46	0
+circuit|n	has subcomponent	wire|n	6384-7501-43b6-e41a	0
+electrical circuit|ns	has positive impact on	electrical current|ns	6384-7501-43b6-e41a	0
+cook|v	instrument	heat|n	6612-fa0b-cd41-ce24	0
+cook|v	patient	food|n	6612-fa0b-cd41-ce24	0
+die|v	result	inactive|j	67f8-8d07-5f59-bdd7	0
+inactive|j	antonym	active|n	67f8-8d07-5f59-bdd7	0
+excess water|qn	causes	flood|n	6a1a-d4cc-de02-eac6	0
+move habitat|vp	goal	good habitat|jn	6a9e-f4d8-755c-81d3	0
+move habitat|vp	source	bad habitat|jn	6a9e-f4d8-755c-81d3	0
+support animal|vp	agent	habitat|n	6a9e-f4d8-755c-81d3	0
+born|n	derivational morphology	birth|v	6b27-6dff-3eef-6ffc	0
+hatch|v	kind of	birth|v	6b27-6dff-3eef-6ffc	0
+hatch|v	source	egg|n	6b27-6dff-3eef-6ffc	0
+discard|v	patient	object|n	6ca2-a861-50cb-b02f	0
+discard|v	result	waste|n	6ca2-a861-50cb-b02f	0
+block sunlight|vp	at location	area|n	7001-a06c-e3fe-2d35	0
+block sunlight|vp	result	dark|j	7001-a06c-e3fe-2d35	0
+dark|n	antonym	light|n	7001-a06c-e3fe-2d35	0
+sunlight|n	has property	light|n	7001-a06c-e3fe-2d35	0
+destroy|v	kind of	remove|v	720a-4826-a639-3a9b	0
+boil|v	agent	gas|n	7223-ce74-ece2-36f8	0
+boil|v	result	spread out|v	7223-ce74-ece2-36f8	0
+evaporate|v	agent	gas|n	7223-ce74-ece2-36f8	0
+evaporate|v	result	spread out|v	7223-ce74-ece2-36f8	0
+animal|n	causes	fossil|n	72b4-027a-430e-ee18	0
+fossil|n	at location	habitat|n	72b4-027a-430e-ee18	0
+plant|n	causes	fossil|n	72b4-027a-430e-ee18	0
+food source|ns	has positive impact on	animal|n	72ff-2eab-68e0-8a25	0
+same food source|jn	causes	compete|v	72ff-2eab-68e0-8a25	0
+shed fur|vp	result	less dense|qn	756b-72db-cc1e-b66e	0
+cut down tree|vp	result	tree die|av	767b-d14d-c5e5-ba84	0
+drought|n	has subcomponent	little water|qn	7751-b1fd-0582-4f2a	0
+plant|n	has subcomponent	water|n	7751-b1fd-0582-4f2a	0
+survive|v	agent	plant|n	7751-b1fd-0582-4f2a	0
+transfer|v	source	source|n	78cc-1fa6-2c47-c30f	0
+destroy habitat|vp	has negative impact on	animal|n	7dad-ddaa-4996-88bd	0
+support animal|vp	agent	habitat|n	7dad-ddaa-4996-88bd	0
+human|n	at location	planet|n	825b-a440-75bd-3001	0
+move|v	agent	celestial body|jn	825b-a440-75bd-3001	0
+new predator|jn	has negative impact on	prey|n	86e5-19ca-feae-6f08	0
+conduction|n	derivational morphology	conduct|v	8a04-b22c-d916-924f	0
+thermal conduction|jn	has subcomponent	cool object|jn	8a04-b22c-d916-924f	0
+thermal conduction|jn	has subcomponent	warm object|jn	8a04-b22c-d916-924f	0
+season change|av	result	daylight change|av	8a35-c04c-91c8-dfde	0
+object|n	has subcomponent	material|n	8a39-22a9-a288-6c9c	0
+similar object|jn	has subcomponent	similar material|jn	8a39-22a9-a288-6c9c	0
+requirement|n	has positive impact on	living entity|jn	8c71-80c8-0818-62bf	0
+environment|n	has subcomponent	food source|ns	8d5f-c046-b209-66c3	0
+zero population|jn	synonym	extinct|j	8d77-fa93-75df-6ae0	0
+habitat support|av	beneficiary	living thing|jn	8e36-e48b-2059-4d7e	0
+living thing|jn	at location	habitat|n	8e36-e48b-2059-4d7e	0
+evaporate|v	agent	liquid|n	8fca-6905-ae31-51ce	0
+evaporate|v	result	disappear|v	8fca-6905-ae31-51ce	0
+fast|j	synonym	quick|j	8fd4-1c07-b659-3ae7	0
+prey|n	has property	fast|j	8fd4-1c07-b659-3ae7	0
+burn|v	instrument	heat energy|ns	90b4-16bc-47b4-a337	0
+burn|v	patient	body part|ns	90b4-16bc-47b4-a337	0
+reach|v	goal	destination|n	9100-1d1a-b26a-7634	0
+reach|v	result	stop|v	9100-1d1a-b26a-7634	0
+reflect|v	has positive impact on	visibility|n	9141-2292-7be5-c8b7	0
+visibility|n	derivational morphology	visible|j	9141-2292-7be5-c8b7	0
+storm|n	instance of	weather|n	91c7-ef14-9726-5708	0
+storm|n	has subcomponent	rain|n	91c7-ef14-9726-5708	0
+animal move|av	goal	food|n	93d7-72a4-18fe-e1fe	0
+animal move|av	source	environment|n	93d7-72a4-18fe-e1fe	0
+food decrease|av	result	animal move|av	93d7-72a4-18fe-e1fe	0
+water decrease|av	at location	environment|n	93d7-72a4-18fe-e1fe	0
+water decrease|av	result	animal move|av	93d7-72a4-18fe-e1fe	0
+absorb|v	agent	substance|n	9554-47d7-c095-1df7	0
+absorb|v	patient	solar energy|jn	9554-47d7-c095-1df7	0
+solar energy|jn	causes	heat|n	9554-47d7-c095-1df7	0
+limit|v	causes	run out|v	9561-5f39-5eec-b7b4	0
+electricity flow|av	instrument	electrical conductor|jn	959a-ab9a-2217-9fac	0
+move|v	source	location|n	95aa-008a-1446-db3b	0
+still|v	antonym	move|v	95aa-008a-1446-db3b	0
+apply force|vp	result	force act|av	95d6-33c8-ca3e-3bd5	0
+attract magnet|vp	agent	magnetic material|jn	95f7-f635-f0ef-b67c	0
+fossil|n	at location	water|n	965d-4d8b-7777-6434	0
+mix|v	result	mixture|n	9710-6959-2c34-d204	0
+separate|v	patient	mixture|n	9710-6959-2c34-d204	0
+make food|vp	agent	organism|n	9828-4356-ffa4-f544	0
+make food|vp	result	self sustain|av	9828-4356-ffa4-f544	0
+magnet attract|av	patient	metal|n	99b9-04cf-f952-473a	0
+magnet attract|av	result	stick|v	99b9-04cf-f952-473a	0
+stick|v	instrument	magnetism|n	99b9-04cf-f952-473a	0
+requirement|n	derivational morphology	require|v	9b37-65c8-ea17-fdb3	0
+requirement|n	has positive impact on	object|n	9b37-65c8-ea17-fdb3	0
+group|n	has subcomponent	object|n	9ba0-2d10-5992-46f5	0
+take object|vp	has negative impact on	group|n	9ba0-2d10-5992-46f5	0
+dominant gene|jn	causes	trait|n	9d19-224c-847b-a622	0
+dominant gene|jn	has negative impact on	recessive gene|jn	9d19-224c-847b-a622	0
+express|v	agent	trait|n	9d19-224c-847b-a622	0
+recessive gene|jn	causes	trait|n	9d19-224c-847b-a622	0
+trait|n	has property	visible|j	9d19-224c-847b-a622	0
+car|n	at location	road|n	a06c-56a9-7090-ec00	0
+kill animal|vp	agent	car|n	a06c-56a9-7090-ec00	0
+close object|jn	has property	large|j	a1a7-12d8-53e8-abd6	0
+seed|n	at location	fur|n	a529-d2e9-6c62-5e4a	0
+transport seed|vp	instrument	fur|n	a529-d2e9-6c62-5e4a	0
+emit|v	result	increase|v	a7e5-9c96-dcf3-a615	0
+limit|v	causes	replace|v	a9c3-ee47-606a-10b5	0
+replace|v	patient	resource|n	a9c3-ee47-606a-10b5	0
+same polarity|jn	causes	repel|v	ad97-1b6b-97d3-ea4e	0
+reflect light|vp	result	see|v	ae74-32dc-4291-fb82	0
+see|v	instrument	eye|n	ae74-32dc-4291-fb82	0
+danger|n	has negative impact on	survive|v	af4e-1838-d667-16e7	0
+same|j	antonym	different|j	affe-fe56-0a7c-ba87	0
+same feature|jn	causes	alike|j	b0a1-ee71-7d0f-1aab	0
+crop|n	has subcomponent	surface|n	b0a6-629a-a450-e54e	0
+spray|v	goal	surface|n	b0a6-629a-a450-e54e	0
+animal eat|av	patient	crop|n	b0b1-0707-d918-1442	0
+absorb|v	kind of	transfer|v	b306-b343-a165-1f3d	0
+absorb|v	patient	energy|n	b306-b343-a165-1f3d	0
+transfer|v	patient	energy|n	b306-b343-a165-1f3d	0
+cover with|v	at location	surface|n	b32c-707d-1991-3722	0
+event|n	has subcomponent	requirement|n	b614-101e-c03f-d0d0	0
+circuit|n	has subcomponent	electrical conductor|jn	b6b5-6397-aa43-e453	0
+electrical conductor|jn	has subcomponent	outlet|n	b6b5-6397-aa43-e453	0
+plug in|v	agent	electrical conductor|jn	b6b5-6397-aa43-e453	0
+plug in|v	at location	outlet|n	b6b5-6397-aa43-e453	0
+train|v	patient	animal|n	b7e0-eb77-1c54-4642	0
+train|v	result	learned behaviour|jn	b7e0-eb77-1c54-4642	0
+tree fall|av	beneficiary	plant|n	b817-9d94-9032-10f0	0
+tree fall|av	result	more light|qn	b817-9d94-9032-10f0	0
+born|v	result	population increase|av	b8a3-ad63-f3c1-078b	0
+survive|v	result	population increase|av	b8a3-ad63-f3c1-078b	0
+decrease|v	result	few|j	b8e2-d9bd-975c-3e04	0
+copy|v	result	identical|j	b92e-a887-f644-4d9e	0
+copy|v	result	similar|j	b92e-a887-f644-4d9e	0
+object|n	has property	function|j	bcb3-8b5b-ea6d-191c	0
+same function|jn	causes	similar|j	bcb3-8b5b-ea6d-191c	0
+day|n	has subcomponent	sun|n	beff-ff71-8de4-ab6c	0
+night|n	antonym	day|n	beff-ff71-8de4-ab6c	0
+night|n	has subcomponent	sun set|av	beff-ff71-8de4-ab6c	0
+animal|n	has subcomponent	skin|n	bf2e-54e3-170e-d241	0
+skin|n	has property	color|j	bf2e-54e3-170e-d241	0
+reflective|j	derivational morphology	reflect|v	bf46-dc46-bf5c-abf5	0
+reflect|v	agent	light|n	bf46-dc46-bf5c-abf5	0
+reflect|v	at location	reflective surface|jn	bf46-dc46-bf5c-abf5	0
+reflect|v	synonym	bounce|v	bf46-dc46-bf5c-abf5	0
+sunlight|n	at location	outside|n	c12d-b29a-5073-54ab	0
+drink|v	agent	animal|n	c273-0baf-3d52-6fa4	0
+drink|v	result	taste|v	c273-0baf-3d52-6fa4	0
+eat|v	agent	animal|n	c273-0baf-3d52-6fa4	0
+eat|v	result	taste|v	c273-0baf-3d52-6fa4	0
+echo|n	at location	room|n	c29b-9a2e-2b75-5efa	0
+produce sound|vp	result	echo|n	c29b-9a2e-2b75-5efa	0
+strong hurricane|jn	at location	land|n	c354-6c73-928e-5ec5	0
+weak hurricane|jn	at location	land|n	c354-6c73-928e-5ec5	0
+weak|j	antonym	strong|j	c354-6c73-928e-5ec5	0
+heat|n	causes	sweat|v	c35b-86e7-6f3d-d01c	0
+sweat|v	agent	animal|n	c35b-86e7-6f3d-d01c	0
+sweat|v	result	cold|j	c35b-86e7-6f3d-d01c	0
+building|n	has subcomponent	furnace|n	c69d-96c7-e62a-386e	0
+building|n	has subcomponent	thermostat|n	c69d-96c7-e62a-386e	0
+cold|n	causes	turn on furnace|vp	c69d-96c7-e62a-386e	0
+measure temperature|vp	instrument	thermostat|n	c69d-96c7-e62a-386e	0
+power|v	instrument	source|n	c80b-ccc9-30c6-8280	0
+drop|v	goal	location|n	c8ef-6a8e-579f-4e86	0
+drop|v	result	touch|v	c8ef-6a8e-579f-4e86	0
+conserve resource|vp	beneficiary	organism|n	c989-b804-971a-ebd4	0
+resource decrease|vp	at location	environment|n	c989-b804-971a-ebd4	0
+resource decrease|vp	result	conserve resource|vp	c989-b804-971a-ebd4	0
+heat|v	patient	object|n	c9e0-141e-88fa-2c43	0
+heat|v	patient	thermal conductor|ns	c9e0-141e-88fa-2c43	0
+heat|v	result	hot|j	c9e0-141e-88fa-2c43	0
+heat|v	result	warm|j	c9e0-141e-88fa-2c43	0
+thermal conductor|ns	has subcomponent	heat|n	c9e0-141e-88fa-2c43	0
+increase important object|vp	has positive impact on	object|n	cb96-769c-11e6-aae2	0
+touch|v	patient	near|n	cc97-f39d-361d-3f59	0
+pull weed|vp	result	destroy|v	cd5c-7dd8-39d6-a94e	0
+move|v	result	touch|v	ce72-7053-8df0-6419	0
+formation|n	derivational morphology	form|v	cece-3536-a959-42af	0
+form|v	instrument	requirement|n	cece-3536-a959-42af	0
+pollen|n	at location	hummingbird|n	cf2b-eb3d-dfe5-d6d3	0
+stick|v	patient	pollen|n	cf2b-eb3d-dfe5-d6d3	0
+electrocute|v	instrument	electricity|n	cf3b-d6fc-6b3d-87d4	0
+electrocute|v	patient	animal|n	cf3b-d6fc-6b3d-87d4	0
+frog hibernate|av	at location	mud|n	cffe-8f3b-871e-9cfe	0
+replace|v	instrument	money|n	d305-cb5d-56ce-018e	0
+food|n	has positive impact on	animal|n	d3e8-b460-93fe-7706	0
+plant|n	kind of	food|n	d3e8-b460-93fe-7706	0
+store food|vp	agent	animal|n	d3e8-b460-93fe-7706	0
+winter|n	has negative impact on	plant|n	d3e8-b460-93fe-7706	0
+die|v	agent	living thing|jn	d662-f8eb-acab-099f	0
+die|v	instrument	cold|n	d662-f8eb-acab-099f	0
+body store|av	patient	food|n	d96c-96eb-3824-be66	0
+store food|vp	has positive impact on	future|n	d96c-96eb-3824-be66	0
+wheel travel|av	result	touch|v	dae7-2f8d-73b1-9520	0
+wheel travel|av	source	surface|n	dae7-2f8d-73b1-9520	0
+eat animal|vp	agent	carnivore|n	dcb0-11ec-8b50-ceb3	0
+eat animal|vp	agent	omnivore|n	dcb0-11ec-8b50-ceb3	0
+eat animal|vp	agent	predator|n	dcb0-11ec-8b50-ceb3	0
+specialized|j	antonym	unspecialized|j	dd66-f128-9920-883e	0
+specialized|j	derivational morphology	specialize|v	dd66-f128-9920-883e	0
+specialize|v	agent	cell|n	dd66-f128-9920-883e	0
+unspecialized cell|jn	causes	life function|ns	dd66-f128-9920-883e	0
+animal move|av	goal	different location|jn	de1f-14bd-20e6-5573	0
+disturb animal|vp	agent	human|n	de1f-14bd-20e6-5573	0
+disturb animal|vp	result	animal move|av	de1f-14bd-20e6-5573	0
+bird|n	has subcomponent	feather|n	de7c-3854-da13-7105	0
+feather|n	has subcomponent	color|n	de7c-3854-da13-7105	0
+event|n	has subcomponent	requirement|n	df49-3285-6193-e5f5	0
+absorb|v	patient	solar energy|jn	e00a-03fe-d978-1a27	0
+sunlight|n	causes	solar energy|jn	e00a-03fe-d978-1a27	0
+dead leaf fall|av	at location	tree|n	e03e-ee31-4d99-c0fe	0
+require|v	synonym	allow|v	e41b-d750-7c85-52a3	0
+physical change|jn	causes	change physical property|vp	e555-8a18-84d7-15d1	0
+make|v	result	effect|v	e688-0a78-f99a-7687	0
+condition|n	has negative impact on	organism|n	e7e5-9b6d-441f-0c33	0
+environment|n	has subcomponent	condition|n	e7e5-9b6d-441f-0c33	0
+organism|n	at location	environment|n	e7e5-9b6d-441f-0c33	0
+heat gas|vp	result	expand|v	e973-4320-00d7-da10	0
+stir|v	instrument	spoon|n	e9db-4122-22ea-1d50	0
+stir|v	patient	liquid|n	e9db-4122-22ea-1d50	0
+stir|v	patient	mixture|n	e9db-4122-22ea-1d50	0
+competition|n	derivational morphology	compete|v	ebe3-0bb2-55b2-6773	0
+eat prey|vp	beneficiary	animal|n	ebe3-0bb2-55b2-6773	0
+same prey|jn	causes	competition|n	ebe3-0bb2-55b2-6773	0
+flow|v	agent	electricity|n	eec9-c91d-1212-9891	0
+lightbulb|n	has subcomponent	electricity|n	eec9-c91d-1212-9891	0
+turn on|v	patient	lightbulb|n	eec9-c91d-1212-9891	0
+produce offspring|vp	has negative impact on	extinction|n	f19b-c42a-1e31-cf13	0
+hold|v	kind of	touch|v	f1c8-91e3-fc1f-078b	0
+heat|n	causes	burn|n	f253-a9f3-3688-96a7	0
+absorb|v	agent	black object|jn	f2f7-cd7a-78d2-7f0b	0
+absorb|v	patient	heat|n	f2f7-cd7a-78d2-7f0b	0
+absorb|v	patient	visible light|jn	f2f7-cd7a-78d2-7f0b	0
+contain|v	at location	surface|n	f376-a289-163b-6641	0
+animal|n	has subcomponent	skin|n	f4f1-8d09-36bb-8db5	0
+skin|n	has property	appearance|n	f4f1-8d09-36bb-8db5	0
+release|v	agent	source|n	f8b7-590f-a416-818a	0
+population decrease|av	result	animal disappear|av	f8e4-1af3-719b-20eb	0
+compete|v	agent	organism|n	f9cb-c2e7-8639-5591	0
+compete|v	has positive impact on	organism|n	f9cb-c2e7-8639-5591	0
+compete|v	result	increase resource|vp	f9cb-c2e7-8639-5591	0
+fall|v	agent	snow|n	fa55-09d9-2afb-4929	0
+snow fall|av	at location	environment|n	fa55-09d9-2afb-4929	0
+snow|n	has property	white|j	fa55-09d9-2afb-4929	0
+expose|v	patient	heat source|ns	fb09-0269-17fe-9106	0
+place|v	kind of	expose|v	fb09-0269-17fe-9106	0
+walk|v	result	touch|v	fb78-e6bd-2768-ddb3	0
+process step|ns	has subcomponent	requirement|n	fba1-b7e2-ae8b-6182	0
+hear|v	instrument	ear|n	fd17-bb78-344b-3880	0
+hear|v	patient	sound|n	fd17-bb78-344b-3880	0
+made of|v	result	contain|v	fec7-efec-ee12-537e	0
+destroy living thing|vp	result	increase resource|vp	fecb-89ad-bb4e-7a8b	0

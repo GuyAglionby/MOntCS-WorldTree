@@ -1,0 +1,5 @@
+subj	rel	obj	id	flag
+summer|n	has property	high daylight|qn	3d48-ef4c-bf06-a0c5	0
+winter solstice|ns	has property	lowest daylight|qn	5307-2d90-79a8-14af	0
+summer solstice|ns	has property	highest daylight|qn	551a-ecdb-38e6-4b09	0
+summer|n	has property	low daylight|qn	b695-f668-1dec-659c	0

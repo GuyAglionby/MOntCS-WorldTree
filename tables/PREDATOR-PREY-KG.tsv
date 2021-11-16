@@ -1,0 +1,10 @@
+subj	rel	obj	id	flag
+predate|v	derivational morphology	predator|n		0
+predate|v	has negative impact on	prey|n		0
+predate|v	patient	prey|n		0
+carnivore|n	instance of	predator|n	c25b-67c9-2d33-9116	0
+omnivore|n	instance of	predator|n	c25b-67c9-2d33-9116	0
+predate|v	agent	carnivore|n	c25b-67c9-2d33-9116	0
+predate|v	agent	omnivore|n	c25b-67c9-2d33-9116	0
+bird|n	instance of	predator|n	d9e0-5f0a-e26c-d0e8	0
+predate|v	agent	bird|n	d9e0-5f0a-e26c-d0e8	0

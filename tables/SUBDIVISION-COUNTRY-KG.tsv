@@ -1,0 +1,793 @@
+subj	rel	obj	id	flag
+Wiltshire|n	at location	England|n	0022-5050-6094-5e18	0
+Wiltshire|n	instance of	county|n	0022-5050-6094-5e18	0
+Wiltshire|n	structural-noun-compound	Wiltshire|n	0022-5050-6094-5e18	0
+New Mexico|ns	at location	United States of America|ns	0085-8387-e36a-9955	0
+New Mexico|ns	instance of	state|n	0085-8387-e36a-9955	0
+New Mexico|ns	structural-noun-compound	Mexico|n	0085-8387-e36a-9955	0
+New Mexico|ns	structural-noun-compound	New|n	0085-8387-e36a-9955	0
+Cromartyshire|n	at location	Scotland|n	00eb-c91b-d5db-dc53	0
+Cromartyshire|n	instance of	county|n	00eb-c91b-d5db-dc53	0
+Cromartyshire|n	structural-noun-compound	Cromartyshire|n	00eb-c91b-d5db-dc53	0
+Guerrero|n	at location	Mexico|n	00fb-b374-7f99-dd9a	0
+Guerrero|n	instance of	state|n	00fb-b374-7f99-dd9a	0
+Guerrero|n	structural-noun-compound	Guerrero|n	00fb-b374-7f99-dd9a	0
+Connecticut|n	at location	United States of America|ns	0143-892a-7798-69cf	0
+Connecticut|n	instance of	state|n	0143-892a-7798-69cf	0
+Connecticut|n	structural-noun-compound	Connecticut|n	0143-892a-7798-69cf	0
+Vermont|n	at location	United States of America|ns	01bd-b156-cb97-45fe	0
+Vermont|n	instance of	state|n	01bd-b156-cb97-45fe	0
+Vermont|n	structural-noun-compound	Vermont|n	01bd-b156-cb97-45fe	0
+México|n	at location	Mexico|n	02c4-dba6-7fdf-cbcc	0
+México|n	instance of	state|n	02c4-dba6-7fdf-cbcc	0
+México|n	structural-noun-compound	México|n	02c4-dba6-7fdf-cbcc	0
+California|n	at location	United States of America|ns	0409-e9e6-43fb-ed4c	0
+California|n	instance of	state|n	0409-e9e6-43fb-ed4c	0
+California|n	structural-noun-compound	California|n	0409-e9e6-43fb-ed4c	0
+Puebla|n	at location	Mexico|n	05b9-5022-a64d-7a38	0
+Puebla|n	instance of	state|n	05b9-5022-a64d-7a38	0
+Puebla|n	structural-noun-compound	Puebla|n	05b9-5022-a64d-7a38	0
+Guangxi Autonomous Region|ns	at location	People's Republic of China|ns	065e-077f-3ca5-c39c	0
+Guangxi Autonomous Region|ns	instance of	autonomous region|jn	065e-077f-3ca5-c39c	0
+Guangxi Autonomous Region|ns	structural-noun-compound	Autonomous|n	065e-077f-3ca5-c39c	0
+Guangxi Autonomous Region|ns	structural-noun-compound	Guangxi|n	065e-077f-3ca5-c39c	0
+Guangxi Autonomous Region|ns	structural-noun-compound	Region|n	065e-077f-3ca5-c39c	0
+Guangxi|n	at location	People's Republic of China|ns	065e-077f-3ca5-c39c	0
+Guangxi|n	instance of	autonomous region|jn	065e-077f-3ca5-c39c	0
+Guangxi|n	structural-noun-compound	Guangxi|n	065e-077f-3ca5-c39c	0
+Guangxi|n	synonym	Guangxi Autonomous Region|ns	065e-077f-3ca5-c39c	0
+Oxfordshire|n	at location	England|n	075e-abe3-eed7-2892	0
+Oxfordshire|n	instance of	county|n	075e-abe3-eed7-2892	0
+Oxfordshire|n	structural-noun-compound	Oxfordshire|n	075e-abe3-eed7-2892	0
+Cardiganshire|n	at location	Wales|n	0bf0-4e97-7435-5341	0
+Cardiganshire|n	instance of	county|n	0bf0-4e97-7435-5341	0
+Cardiganshire|n	structural-noun-compound	Cardiganshire|n	0bf0-4e97-7435-5341	0
+Hertfordshire|n	at location	England|n	0d64-c8c0-7dc0-31bb	0
+Hertfordshire|n	instance of	county|n	0d64-c8c0-7dc0-31bb	0
+Hertfordshire|n	structural-noun-compound	Hertfordshire|n	0d64-c8c0-7dc0-31bb	0
+Nova Scotia|ns	at location	Canada|n	0e70-5148-3ebd-4a9c	0
+Nova Scotia|ns	instance of	province|n	0e70-5148-3ebd-4a9c	0
+Nova Scotia|ns	structural-noun-compound	Nova|n	0e70-5148-3ebd-4a9c	0
+Nova Scotia|ns	structural-noun-compound	Scotia|n	0e70-5148-3ebd-4a9c	0
+Northamptonshire|n	at location	England|n	0fbb-a8c2-9806-8d0d	0
+Northamptonshire|n	instance of	county|n	0fbb-a8c2-9806-8d0d	0
+Northamptonshire|n	structural-noun-compound	Northamptonshire|n	0fbb-a8c2-9806-8d0d	0
+Hubei|n	at location	People's Republic of China|ns	107f-3cb6-e1cb-b5d8	0
+Hubei|n	instance of	province|n	107f-3cb6-e1cb-b5d8	0
+Hubei|n	structural-noun-compound	Hubei|n	107f-3cb6-e1cb-b5d8	0
+Oaxaca|n	at location	Mexico|n	1466-8e45-44e9-dfd6	0
+Oaxaca|n	instance of	state|n	1466-8e45-44e9-dfd6	0
+Oaxaca|n	structural-noun-compound	Oaxaca|n	1466-8e45-44e9-dfd6	0
+Campeche|n	at location	Mexico|n	146a-f9d2-9dc4-c6ac	0
+Campeche|n	instance of	state|n	146a-f9d2-9dc4-c6ac	0
+Campeche|n	structural-noun-compound	Campeche|n	146a-f9d2-9dc4-c6ac	0
+Tabasco|n	at location	Mexico|n	1476-8846-bca5-5a50	0
+Tabasco|n	instance of	state|n	1476-8846-bca5-5a50	0
+Tabasco|n	structural-noun-compound	Tabasco|n	1476-8846-bca5-5a50	0
+Sutherland|n	at location	Scotland|n	1529-014d-66cb-2b2c	0
+Sutherland|n	instance of	county|n	1529-014d-66cb-2b2c	0
+Sutherland|n	structural-noun-compound	Sutherland|n	1529-014d-66cb-2b2c	0
+Tibet Autonomous Region|ns	at location	People's Republic of China|ns	1679-1965-c85f-b456	0
+Tibet Autonomous Region|ns	instance of	autonomous region|jn	1679-1965-c85f-b456	0
+Tibet Autonomous Region|ns	structural-noun-compound	Autonomous|n	1679-1965-c85f-b456	0
+Tibet Autonomous Region|ns	structural-noun-compound	Region|n	1679-1965-c85f-b456	0
+Tibet Autonomous Region|ns	structural-noun-compound	Tibet|n	1679-1965-c85f-b456	0
+Tibet|n	at location	People's Republic of China|ns	1679-1965-c85f-b456	0
+Tibet|n	instance of	autonomous region|jn	1679-1965-c85f-b456	0
+Tibet|n	structural-noun-compound	Tibet|n	1679-1965-c85f-b456	0
+Tibet|n	synonym	Tibet Autonomous Region|ns	1679-1965-c85f-b456	0
+Buteshire|n	at location	Scotland|n	1700-4307-6cf8-0a90	0
+Buteshire|n	instance of	county|n	1700-4307-6cf8-0a90	0
+Buteshire|n	structural-noun-compound	Buteshire|n	1700-4307-6cf8-0a90	0
+Carmarthenshire|n	at location	Wales|n	1b9d-b157-65c6-7381	0
+Carmarthenshire|n	instance of	county|n	1b9d-b157-65c6-7381	0
+Carmarthenshire|n	structural-noun-compound	Carmarthenshire|n	1b9d-b157-65c6-7381	0
+Zhejiang|n	at location	People's Republic of China|ns	1c3c-b52d-bc25-6f08	0
+Zhejiang|n	instance of	province|n	1c3c-b52d-bc25-6f08	0
+Zhejiang|n	structural-noun-compound	Zhejiang|n	1c3c-b52d-bc25-6f08	0
+Illinois|n	at location	United States of America|ns	1c68-9816-f8c4-926a	0
+Illinois|n	instance of	state|n	1c68-9816-f8c4-926a	0
+Illinois|n	structural-noun-compound	Illinois|n	1c68-9816-f8c4-926a	0
+Hainan|n	at location	People's Republic of China|ns	2364-7e82-0aae-5009	0
+Hainan|n	instance of	province|n	2364-7e82-0aae-5009	0
+Hainan|n	structural-noun-compound	Hainan|n	2364-7e82-0aae-5009	0
+Jiangsu|n	at location	People's Republic of China|ns	240c-6492-4f14-1ecf	0
+Jiangsu|n	instance of	province|n	240c-6492-4f14-1ecf	0
+Jiangsu|n	structural-noun-compound	Jiangsu|n	240c-6492-4f14-1ecf	0
+Gansu|n	at location	People's Republic of China|ns	2677-0d42-37ba-957d	0
+Gansu|n	instance of	province|n	2677-0d42-37ba-957d	0
+Gansu|n	structural-noun-compound	Gansu|n	2677-0d42-37ba-957d	0
+West Virginia|ns	at location	United States of America|ns	26f2-8b07-3ea1-cbb1	0
+West Virginia|ns	instance of	state|n	26f2-8b07-3ea1-cbb1	0
+West Virginia|ns	structural-noun-compound	Virginia|n	26f2-8b07-3ea1-cbb1	0
+West Virginia|ns	structural-noun-compound	West|n	26f2-8b07-3ea1-cbb1	0
+Zacatecas|n	at location	Mexico|n	2762-6a55-c23b-a25b	0
+Zacatecas|n	instance of	state|n	2762-6a55-c23b-a25b	0
+Zacatecas|n	structural-noun-compound	Zacatecas|n	2762-6a55-c23b-a25b	0
+Morelos|n	at location	Mexico|n	2b7c-a4e5-a8b2-e99e	0
+Morelos|n	instance of	state|n	2b7c-a4e5-a8b2-e99e	0
+Morelos|n	structural-noun-compound	Morelos|n	2b7c-a4e5-a8b2-e99e	0
+Jilin|n	at location	People's Republic of China|ns	2c37-f1c8-bba7-3cff	0
+Jilin|n	instance of	province|n	2c37-f1c8-bba7-3cff	0
+Jilin|n	structural-noun-compound	Jilin|n	2c37-f1c8-bba7-3cff	0
+Shropshire|n	at location	England|n	2d8d-0a86-c7f3-216f	0
+Shropshire|n	instance of	county|n	2d8d-0a86-c7f3-216f	0
+Shropshire|n	structural-noun-compound	Shropshire|n	2d8d-0a86-c7f3-216f	0
+Mexico City|ns	at location	Mexico|n	2ff2-399d-eb8c-61a3	0
+Mexico City|ns	instance of	federal district|ns	2ff2-399d-eb8c-61a3	0
+Mexico City|ns	structural-noun-compound	City|n	2ff2-399d-eb8c-61a3	0
+Mexico City|ns	structural-noun-compound	Mexico|n	2ff2-399d-eb8c-61a3	0
+Mexico City|ns	synonym	Mexico, D.F.|ns	2ff2-399d-eb8c-61a3	0
+Mexico, D.F.|ns	at location	Mexico|n	2ff2-399d-eb8c-61a3	0
+Mexico, D.F.|ns	instance of	federal district|ns	2ff2-399d-eb8c-61a3	0
+Mexico, D.F.|ns	structural-noun-compound	D.F.|n	2ff2-399d-eb8c-61a3	0
+Mexico, D.F.|ns	structural-noun-compound	Mexico|n	2ff2-399d-eb8c-61a3	0
+Surrey|n	at location	England|n	31e5-39ee-449b-b373	0
+Surrey|n	instance of	county|n	31e5-39ee-449b-b373	0
+Surrey|n	structural-noun-compound	Surrey|n	31e5-39ee-449b-b373	0
+Guanajuato|n	at location	Mexico|n	3213-0bef-d97e-aead	0
+Guanajuato|n	instance of	state|n	3213-0bef-d97e-aead	0
+Guanajuato|n	structural-noun-compound	Guanajuato|n	3213-0bef-d97e-aead	0
+Kinross-shire|n	at location	Scotland|n	321a-1a34-3619-ea46	0
+Kinross-shire|n	instance of	county|n	321a-1a34-3619-ea46	0
+Kinross-shire|n	structural-noun-compound	Kinross|n	321a-1a34-3619-ea46	0
+Kinross-shire|n	structural-noun-compound	shire|n	321a-1a34-3619-ea46	0
+Selkirkshire|n	at location	Scotland|n	3453-396b-0bb3-4e13	0
+Selkirkshire|n	instance of	county|n	3453-396b-0bb3-4e13	0
+Selkirkshire|n	structural-noun-compound	Selkirkshire|n	3453-396b-0bb3-4e13	0
+Arizona|n	at location	United States of America|ns	3562-880e-c18b-67a9	0
+Arizona|n	instance of	state|n	3562-880e-c18b-67a9	0
+Arizona|n	structural-noun-compound	Arizona|n	3562-880e-c18b-67a9	0
+Rhode Island|ns	at location	United States of America|ns	3582-e9a2-b995-720c	0
+Rhode Island|ns	instance of	state|n	3582-e9a2-b995-720c	0
+Rhode Island|ns	structural-noun-compound	Island|n	3582-e9a2-b995-720c	0
+Rhode Island|ns	structural-noun-compound	Rhode|n	3582-e9a2-b995-720c	0
+Idaho|n	at location	United States of America|ns	390a-359c-9bb2-5d5a	0
+Idaho|n	instance of	state|n	390a-359c-9bb2-5d5a	0
+Idaho|n	structural-noun-compound	Idaho|n	390a-359c-9bb2-5d5a	0
+Kentucky|n	at location	United States of America|ns	3a53-b23e-76bc-3f55	0
+Kentucky|n	instance of	state|n	3a53-b23e-76bc-3f55	0
+Kentucky|n	structural-noun-compound	Kentucky|n	3a53-b23e-76bc-3f55	0
+Clackmannanshire|n	at location	Scotland|n	3b48-3c54-b245-aace	0
+Clackmannanshire|n	instance of	county|n	3b48-3c54-b245-aace	0
+Clackmannanshire|n	structural-noun-compound	Clackmannanshire|n	3b48-3c54-b245-aace	0
+Ayrshire|n	at location	Scotland|n	3c2b-e899-b881-c544	0
+Ayrshire|n	instance of	county|n	3c2b-e899-b881-c544	0
+Ayrshire|n	structural-noun-compound	Ayrshire|n	3c2b-e899-b881-c544	0
+Virginia|n	at location	United States of America|ns	3c62-b180-5494-ab94	0
+Virginia|n	instance of	state|n	3c62-b180-5494-ab94	0
+Virginia|n	structural-noun-compound	Virginia|n	3c62-b180-5494-ab94	0
+Huntingdonshire|n	at location	England|n	3c75-b926-aee0-0ac4	0
+Huntingdonshire|n	instance of	county|n	3c75-b926-aee0-0ac4	0
+Huntingdonshire|n	structural-noun-compound	Huntingdonshire|n	3c75-b926-aee0-0ac4	0
+Orkney|n	at location	Scotland|n	3ca2-b33c-be66-803f	0
+Orkney|n	instance of	county|n	3ca2-b33c-be66-803f	0
+Orkney|n	structural-noun-compound	Orkney|n	3ca2-b33c-be66-803f	0
+South Carolina|ns	at location	United States of America|ns	3db5-e122-e506-93c3	0
+South Carolina|ns	instance of	state|n	3db5-e122-e506-93c3	0
+South Carolina|ns	structural-noun-compound	Carolina|n	3db5-e122-e506-93c3	0
+South Carolina|ns	structural-noun-compound	South|n	3db5-e122-e506-93c3	0
+Sichuan|n	at location	People's Republic of China|ns	3de1-aedb-199e-15dc	0
+Sichuan|n	instance of	province|n	3de1-aedb-199e-15dc	0
+Sichuan|n	structural-noun-compound	Sichuan|n	3de1-aedb-199e-15dc	0
+Colima|n	at location	Mexico|n	3e78-064a-d036-718f	0
+Colima|n	instance of	state|n	3e78-064a-d036-718f	0
+Colima|n	structural-noun-compound	Colima|n	3e78-064a-d036-718f	0
+Fujian|n	at location	People's Republic of China|ns	3ee0-6e8b-6b88-bb74	0
+Fujian|n	instance of	province|n	3ee0-6e8b-6b88-bb74	0
+Fujian|n	structural-noun-compound	Fujian|n	3ee0-6e8b-6b88-bb74	0
+Dumbartonshire|n	at location	Scotland|n	3ef9-9e8b-4056-e8b4	0
+Dumbartonshire|n	instance of	county|n	3ef9-9e8b-4056-e8b4	0
+Dumbartonshire|n	structural-noun-compound	Dumbartonshire|n	3ef9-9e8b-4056-e8b4	0
+Dunbartonshire|n	at location	Scotland|n	3ef9-9e8b-4056-e8b4	0
+Dunbartonshire|n	instance of	county|n	3ef9-9e8b-4056-e8b4	0
+Dunbartonshire|n	structural-noun-compound	Dunbartonshire|n	3ef9-9e8b-4056-e8b4	0
+Dunbartonshire|n	synonym	Dumbartonshire|n	3ef9-9e8b-4056-e8b4	0
+New Jersey|ns	at location	United States of America|ns	3efe-8681-5195-db12	0
+New Jersey|ns	instance of	state|n	3efe-8681-5195-db12	0
+New Jersey|ns	structural-noun-compound	Jersey|n	3efe-8681-5195-db12	0
+New Jersey|ns	structural-noun-compound	New|n	3efe-8681-5195-db12	0
+North Carolina|ns	at location	United States of America|ns	4193-6358-c6ae-76e5	0
+North Carolina|ns	instance of	state|n	4193-6358-c6ae-76e5	0
+North Carolina|ns	structural-noun-compound	Carolina|n	4193-6358-c6ae-76e5	0
+North Carolina|ns	structural-noun-compound	North|n	4193-6358-c6ae-76e5	0
+Henan|n	at location	People's Republic of China|ns	422d-5942-6608-616e	0
+Henan|n	instance of	province|n	422d-5942-6608-616e	0
+Henan|n	structural-noun-compound	Henan|n	422d-5942-6608-616e	0
+Shanxi|n	at location	People's Republic of China|ns	4231-a4fc-f163-f9e4	0
+Shanxi|n	instance of	province|n	4231-a4fc-f163-f9e4	0
+Shanxi|n	structural-noun-compound	Shanxi|n	4231-a4fc-f163-f9e4	0
+Maryland|n	at location	United States of America|ns	4279-cec0-567b-1d69	0
+Maryland|n	instance of	state|n	4279-cec0-567b-1d69	0
+Maryland|n	structural-noun-compound	Maryland|n	4279-cec0-567b-1d69	0
+Pembrokeshire|n	at location	Wales|n	432c-8777-fd14-f41c	0
+Pembrokeshire|n	instance of	county|n	432c-8777-fd14-f41c	0
+Pembrokeshire|n	structural-noun-compound	Pembrokeshire|n	432c-8777-fd14-f41c	0
+Durham|n	at location	England|n	45bb-8b0b-4a93-03fe	0
+Durham|n	instance of	county|n	45bb-8b0b-4a93-03fe	0
+Durham|n	structural-noun-compound	Durham|n	45bb-8b0b-4a93-03fe	0
+Merioneth|n	at location	Wales|n	45c8-efd3-c9d4-fb86	0
+Merioneth|n	instance of	county|n	45c8-efd3-c9d4-fb86	0
+Merioneth|n	structural-noun-compound	Merioneth|n	45c8-efd3-c9d4-fb86	0
+Montgomeryshire|n	at location	Wales|n	4636-02e6-6d0c-6d07	0
+Montgomeryshire|n	instance of	county|n	4636-02e6-6d0c-6d07	0
+Montgomeryshire|n	structural-noun-compound	Montgomeryshire|n	4636-02e6-6d0c-6d07	0
+Newfoundland and Labrador|ns	at location	Canada|n	46b6-cf3c-0f01-86e8	0
+Newfoundland and Labrador|ns	instance of	province|n	46b6-cf3c-0f01-86e8	0
+Newfoundland and Labrador|ns	structural-noun-compound	Labrador|n	46b6-cf3c-0f01-86e8	0
+Newfoundland and Labrador|ns	structural-noun-compound	Newfoundland|n	46b6-cf3c-0f01-86e8	0
+Aberdeenshire|n	at location	Scotland|n	47ce-9452-6156-b946	0
+Aberdeenshire|n	instance of	county|n	47ce-9452-6156-b946	0
+Aberdeenshire|n	structural-noun-compound	Aberdeenshire|n	47ce-9452-6156-b946	0
+New Brunswick|ns	at location	Canada|n	48b5-e87c-68e2-eb84	0
+New Brunswick|ns	instance of	province|n	48b5-e87c-68e2-eb84	0
+New Brunswick|ns	structural-noun-compound	Brunswick|n	48b5-e87c-68e2-eb84	0
+New Brunswick|ns	structural-noun-compound	New|n	48b5-e87c-68e2-eb84	0
+North Dakota|ns	at location	United States of America|ns	4923-b78f-3eee-3a79	0
+North Dakota|ns	instance of	state|n	4923-b78f-3eee-3a79	0
+North Dakota|ns	structural-noun-compound	Dakota|n	4923-b78f-3eee-3a79	0
+North Dakota|ns	structural-noun-compound	North|n	4923-b78f-3eee-3a79	0
+Wigtownshire|n	at location	Scotland|n	49ed-4302-4353-4330	0
+Wigtownshire|n	instance of	county|n	49ed-4302-4353-4330	0
+Wigtownshire|n	structural-noun-compound	Wigtownshire|n	49ed-4302-4353-4330	0
+Macau Special Administrative Region|ns	at location	People's Republic of China|ns	4b91-dccb-b6d5-cb3e	0
+Macau Special Administrative Region|ns	instance of	special administrative region|ns	4b91-dccb-b6d5-cb3e	0
+Macau Special Administrative Region|ns	structural-noun-compound	Administrative|n	4b91-dccb-b6d5-cb3e	0
+Macau Special Administrative Region|ns	structural-noun-compound	Macau|n	4b91-dccb-b6d5-cb3e	0
+Macau Special Administrative Region|ns	structural-noun-compound	Region|n	4b91-dccb-b6d5-cb3e	0
+Macau Special Administrative Region|ns	structural-noun-compound	Special|n	4b91-dccb-b6d5-cb3e	0
+Macau|n	at location	People's Republic of China|ns	4b91-dccb-b6d5-cb3e	0
+Macau|n	instance of	special administrative region|ns	4b91-dccb-b6d5-cb3e	0
+Macau|n	structural-noun-compound	Macau|n	4b91-dccb-b6d5-cb3e	0
+Macau|n	synonym	Macau Special Administrative Region|ns	4b91-dccb-b6d5-cb3e	0
+Cambridgeshire|n	at location	England|n	4c2a-7d31-b610-be8b	0
+Cambridgeshire|n	instance of	county|n	4c2a-7d31-b610-be8b	0
+Cambridgeshire|n	structural-noun-compound	Cambridgeshire|n	4c2a-7d31-b610-be8b	0
+Denbighshire|n	at location	Wales|n	4e4a-ab77-05cf-2c22	0
+Denbighshire|n	instance of	county|n	4e4a-ab77-05cf-2c22	0
+Denbighshire|n	structural-noun-compound	Denbighshire|n	4e4a-ab77-05cf-2c22	0
+Texas|n	at location	United States of America|ns	5111-2684-0763-8476	0
+Texas|n	instance of	state|n	5111-2684-0763-8476	0
+Texas|n	structural-noun-compound	Texas|n	5111-2684-0763-8476	0
+New South Wales|ns	at location	Australia|n	5142-624c-73cd-8e61	0
+New South Wales|ns	instance of	state|n	5142-624c-73cd-8e61	0
+New South Wales|ns	structural-noun-compound	New|n	5142-624c-73cd-8e61	0
+New South Wales|ns	structural-noun-compound	South|n	5142-624c-73cd-8e61	0
+New South Wales|ns	structural-noun-compound	Wales|n	5142-624c-73cd-8e61	0
+Delaware|n	at location	United States of America|ns	553c-a2da-c595-32f8	0
+Delaware|n	instance of	state|n	553c-a2da-c595-32f8	0
+Delaware|n	structural-noun-compound	Delaware|n	553c-a2da-c595-32f8	0
+Hunan|n	at location	People's Republic of China|ns	5639-5d3f-e34d-611e	0
+Hunan|n	instance of	province|n	5639-5d3f-e34d-611e	0
+Hunan|n	structural-noun-compound	Hunan|n	5639-5d3f-e34d-611e	0
+Coahuila|n	at location	Mexico|n	56f2-f5dd-c305-f966	0
+Coahuila|n	instance of	state|n	56f2-f5dd-c305-f966	0
+Coahuila|n	structural-noun-compound	Coahuila|n	56f2-f5dd-c305-f966	0
+Sussex|n	at location	England|n	5869-0bac-0571-4e11	0
+Sussex|n	instance of	county|n	5869-0bac-0571-4e11	0
+Sussex|n	structural-noun-compound	Sussex|n	5869-0bac-0571-4e11	0
+Caernarfonshire|n	at location	Wales|n	5a97-7302-7a66-dd0c	0
+Caernarfonshire|n	instance of	county|n	5a97-7302-7a66-dd0c	0
+Caernarfonshire|n	structural-noun-compound	Caernarfonshire|n	5a97-7302-7a66-dd0c	0
+Banffshire|n	at location	Scotland|n	5aa9-6969-d397-96e4	0
+Banffshire|n	instance of	county|n	5aa9-6969-d397-96e4	0
+Banffshire|n	structural-noun-compound	Banffshire|n	5aa9-6969-d397-96e4	0
+Missouri|n	at location	United States of America|ns	5ae7-00f9-92ab-6061	0
+Missouri|n	instance of	state|n	5ae7-00f9-92ab-6061	0
+Missouri|n	structural-noun-compound	Missouri|n	5ae7-00f9-92ab-6061	0
+Dorset|n	at location	England|n	5c77-e546-d9d1-fc0d	0
+Dorset|n	instance of	county|n	5c77-e546-d9d1-fc0d	0
+Dorset|n	structural-noun-compound	Dorset|n	5c77-e546-d9d1-fc0d	0
+Baja California Sur|ns	at location	Mexico|n	5d3c-30dc-81b3-f446	0
+Baja California Sur|ns	instance of	state|n	5d3c-30dc-81b3-f446	0
+Baja California Sur|ns	structural-noun-compound	Baja|n	5d3c-30dc-81b3-f446	0
+Baja California Sur|ns	structural-noun-compound	California|n	5d3c-30dc-81b3-f446	0
+Baja California Sur|ns	structural-noun-compound	Sur|n	5d3c-30dc-81b3-f446	0
+Berkshire|n	at location	England|n	603e-faf3-0773-fbbc	0
+Berkshire|n	instance of	county|n	603e-faf3-0773-fbbc	0
+Berkshire|n	structural-noun-compound	Berkshire|n	603e-faf3-0773-fbbc	0
+Brecknockshire|n	at location	Wales|n	60ac-d7e0-89de-246f	0
+Brecknockshire|n	instance of	county|n	60ac-d7e0-89de-246f	0
+Brecknockshire|n	structural-noun-compound	Brecknockshire|n	60ac-d7e0-89de-246f	0
+Alabama|n	at location	United States of America|ns	61b2-4ff2-b8e9-53b7	0
+Alabama|n	instance of	state|n	61b2-4ff2-b8e9-53b7	0
+Alabama|n	structural-noun-compound	Alabama|n	61b2-4ff2-b8e9-53b7	0
+Minnesota|n	at location	United States of America|ns	62ae-81c1-d76c-67e5	0
+Minnesota|n	instance of	state|n	62ae-81c1-d76c-67e5	0
+Minnesota|n	structural-noun-compound	Minnesota|n	62ae-81c1-d76c-67e5	0
+Shanghai Municipality|ns	at location	People's Republic of China|ns	6727-312e-3e1c-f1e6	0
+Shanghai Municipality|ns	instance of	municipality|n	6727-312e-3e1c-f1e6	0
+Shanghai Municipality|ns	structural-noun-compound	Municipality|n	6727-312e-3e1c-f1e6	0
+Shanghai Municipality|ns	structural-noun-compound	Shanghai|n	6727-312e-3e1c-f1e6	0
+Shanghai Municipality|ns	synonym	Shanghai|n	6727-312e-3e1c-f1e6	0
+Shanghai|n	at location	People's Republic of China|ns	6727-312e-3e1c-f1e6	0
+Shanghai|n	instance of	municipality|n	6727-312e-3e1c-f1e6	0
+Shanghai|n	structural-noun-compound	Shanghai|n	6727-312e-3e1c-f1e6	0
+Arkansas|n	at location	United States of America|ns	69e2-78ea-971a-8715	0
+Arkansas|n	instance of	state|n	69e2-78ea-971a-8715	0
+Arkansas|n	structural-noun-compound	Arkansas|n	69e2-78ea-971a-8715	0
+Anglesey|n	at location	Wales|n	6c40-b1aa-9e38-59f1	0
+Anglesey|n	instance of	county|n	6c40-b1aa-9e38-59f1	0
+Anglesey|n	structural-noun-compound	Anglesey|n	6c40-b1aa-9e38-59f1	0
+Buckinghamshire|n	at location	England|n	6c64-499a-def6-a9ee	0
+Buckinghamshire|n	instance of	county|n	6c64-499a-def6-a9ee	0
+Buckinghamshire|n	structural-noun-compound	Buckinghamshire|n	6c64-499a-def6-a9ee	0
+Utah|n	at location	United States of America|ns	6e42-675b-593e-ba2f	0
+Utah|n	instance of	state|n	6e42-675b-593e-ba2f	0
+Utah|n	structural-noun-compound	Utah|n	6e42-675b-593e-ba2f	0
+Dumfriesshire|n	at location	Scotland|n	6e8f-7061-4051-d04b	0
+Dumfriesshire|n	instance of	county|n	6e8f-7061-4051-d04b	0
+Dumfriesshire|n	structural-noun-compound	Dumfriesshire|n	6e8f-7061-4051-d04b	0
+Rutland|n	at location	England|n	6efa-a1ea-7516-c860	0
+Rutland|n	instance of	county|n	6efa-a1ea-7516-c860	0
+Rutland|n	structural-noun-compound	Rutland|n	6efa-a1ea-7516-c860	0
+Anhui|n	at location	People's Republic of China|ns	6f23-b7f3-d505-e3c8	0
+Anhui|n	instance of	province|n	6f23-b7f3-d505-e3c8	0
+Anhui|n	structural-noun-compound	Anhui|n	6f23-b7f3-d505-e3c8	0
+Northumberland|n	at location	England|n	6fc5-9693-e172-a5f7	0
+Northumberland|n	instance of	county|n	6fc5-9693-e172-a5f7	0
+Northumberland|n	structural-noun-compound	Northumberland|n	6fc5-9693-e172-a5f7	0
+Gloucestershire|n	at location	England|n	7000-e89c-1a14-76e9	0
+Gloucestershire|n	instance of	county|n	7000-e89c-1a14-76e9	0
+Gloucestershire|n	structural-noun-compound	Gloucestershire|n	7000-e89c-1a14-76e9	0
+Ohio|n	at location	United States of America|ns	75ad-f2bb-fa6b-12cc	0
+Ohio|n	instance of	state|n	75ad-f2bb-fa6b-12cc	0
+Ohio|n	structural-noun-compound	Ohio|n	75ad-f2bb-fa6b-12cc	0
+Florida|n	at location	United States of America|ns	75ef-1899-b218-e7e9	0
+Florida|n	instance of	state|n	75ef-1899-b218-e7e9	0
+Florida|n	structural-noun-compound	Florida|n	75ef-1899-b218-e7e9	0
+Tamaulipas|n	at location	Mexico|n	77c0-22af-6b56-1cbc	0
+Tamaulipas|n	instance of	state|n	77c0-22af-6b56-1cbc	0
+Tamaulipas|n	structural-noun-compound	Tamaulipas|n	77c0-22af-6b56-1cbc	0
+Tlaxcala|n	at location	Mexico|n	7917-6c39-afe1-cecf	0
+Tlaxcala|n	instance of	state|n	7917-6c39-afe1-cecf	0
+Tlaxcala|n	structural-noun-compound	Tlaxcala|n	7917-6c39-afe1-cecf	0
+Jiangxi|n	at location	People's Republic of China|ns	7a2d-bb79-11bb-c0c8	0
+Jiangxi|n	instance of	province|n	7a2d-bb79-11bb-c0c8	0
+Jiangxi|n	structural-noun-compound	Jiangxi|n	7a2d-bb79-11bb-c0c8	0
+East Lothian|ns	at location	Scotland|n	7a49-27fe-9adf-5958	0
+East Lothian|ns	instance of	county|n	7a49-27fe-9adf-5958	0
+East Lothian|ns	structural-noun-compound	East|n	7a49-27fe-9adf-5958	0
+East Lothian|ns	structural-noun-compound	Lothian|n	7a49-27fe-9adf-5958	0
+East Lothian|ns	synonym	Haddingtonshire|n	7a49-27fe-9adf-5958	0
+Haddingtonshire|n	at location	Scotland|n	7a49-27fe-9adf-5958	0
+Haddingtonshire|n	instance of	county|n	7a49-27fe-9adf-5958	0
+Haddingtonshire|n	structural-noun-compound	Haddingtonshire|n	7a49-27fe-9adf-5958	0
+Chongqing Municipality|ns	at location	People's Republic of China|ns	7ad0-5547-b057-74e4	0
+Chongqing Municipality|ns	instance of	municipality|n	7ad0-5547-b057-74e4	0
+Chongqing Municipality|ns	structural-noun-compound	Chongqing|n	7ad0-5547-b057-74e4	0
+Chongqing Municipality|ns	structural-noun-compound	Municipality|n	7ad0-5547-b057-74e4	0
+Chongqing Municipality|ns	synonym	Chongqing|n	7ad0-5547-b057-74e4	0
+Chongqing|n	at location	People's Republic of China|ns	7ad0-5547-b057-74e4	0
+Chongqing|n	instance of	municipality|n	7ad0-5547-b057-74e4	0
+Chongqing|n	structural-noun-compound	Chongqing|n	7ad0-5547-b057-74e4	0
+Fife|n	at location	Scotland|n	7b89-aea3-8332-a324	0
+Fife|n	instance of	county|n	7b89-aea3-8332-a324	0
+Fife|n	structural-noun-compound	Fife|n	7b89-aea3-8332-a324	0
+Lanarkshire|n	at location	Scotland|n	8036-a013-4298-c25f	0
+Lanarkshire|n	instance of	county|n	8036-a013-4298-c25f	0
+Lanarkshire|n	structural-noun-compound	Lanarkshire|n	8036-a013-4298-c25f	0
+Wyoming|n	at location	United States of America|ns	8085-caf1-c71c-4a85	0
+Wyoming|n	instance of	state|n	8085-caf1-c71c-4a85	0
+Wyoming|n	structural-noun-compound	Wyoming|n	8085-caf1-c71c-4a85	0
+Leicestershire|n	at location	England|n	80ab-7cf1-2382-d9a1	0
+Leicestershire|n	instance of	county|n	80ab-7cf1-2382-d9a1	0
+Leicestershire|n	structural-noun-compound	Leicestershire|n	80ab-7cf1-2382-d9a1	0
+Chiapas|n	at location	Mexico|n	81e7-ddbd-e1db-3406	0
+Chiapas|n	instance of	state|n	81e7-ddbd-e1db-3406	0
+Chiapas|n	structural-noun-compound	Chiapas|n	81e7-ddbd-e1db-3406	0
+Nottinghamshire|n	at location	England|n	8452-d21f-3c24-0d5f	0
+Nottinghamshire|n	instance of	county|n	8452-d21f-3c24-0d5f	0
+Nottinghamshire|n	structural-noun-compound	Nottinghamshire|n	8452-d21f-3c24-0d5f	0
+Perthshire|n	at location	Scotland|n	8ad3-8e10-ba8c-2ffe	0
+Perthshire|n	instance of	county|n	8ad3-8e10-ba8c-2ffe	0
+Perthshire|n	structural-noun-compound	Perthshire|n	8ad3-8e10-ba8c-2ffe	0
+Durango|n	at location	Mexico|n	8c7a-0e05-8cb7-811e	0
+Durango|n	instance of	state|n	8c7a-0e05-8cb7-811e	0
+Durango|n	structural-noun-compound	Durango|n	8c7a-0e05-8cb7-811e	0
+Yorkshire|n	at location	England|n	8dac-e5c2-dde4-8be4	0
+Yorkshire|n	instance of	county|n	8dac-e5c2-dde4-8be4	0
+Yorkshire|n	structural-noun-compound	Yorkshire|n	8dac-e5c2-dde4-8be4	0
+Essex|n	at location	England|n	8efc-e359-3400-ea81	0
+Essex|n	instance of	county|n	8efc-e359-3400-ea81	0
+Essex|n	structural-noun-compound	Essex|n	8efc-e359-3400-ea81	0
+Shaanxi|n	at location	People's Republic of China|ns	8f30-64b8-83ad-e168	0
+Shaanxi|n	instance of	province|n	8f30-64b8-83ad-e168	0
+Shaanxi|n	structural-noun-compound	Shaanxi|n	8f30-64b8-83ad-e168	0
+Westmoreland|n	at location	England|n	8fd1-cc47-8c1f-bbdb	0
+Westmoreland|n	instance of	county|n	8fd1-cc47-8c1f-bbdb	0
+Westmoreland|n	structural-noun-compound	Westmoreland|n	8fd1-cc47-8c1f-bbdb	0
+New York State|ns	at location	United States of America|ns	90a3-648e-1622-edc2	0
+New York State|ns	instance of	state|n	90a3-648e-1622-edc2	0
+New York State|ns	structural-noun-compound	New|n	90a3-648e-1622-edc2	0
+New York State|ns	structural-noun-compound	State|n	90a3-648e-1622-edc2	0
+New York State|ns	structural-noun-compound	York|n	90a3-648e-1622-edc2	0
+New York|ns	at location	United States of America|ns	90a3-648e-1622-edc2	0
+New York|ns	instance of	state|n	90a3-648e-1622-edc2	0
+New York|ns	structural-noun-compound	New|n	90a3-648e-1622-edc2	0
+New York|ns	structural-noun-compound	York|n	90a3-648e-1622-edc2	0
+New York|ns	synonym	New York State|ns	90a3-648e-1622-edc2	0
+Nuevo León|ns	at location	Mexico|n	9146-25fe-03d8-716b	0
+Nuevo León|ns	instance of	state|n	9146-25fe-03d8-716b	0
+Nuevo León|ns	structural-noun-compound	León|n	9146-25fe-03d8-716b	0
+Nuevo León|ns	structural-noun-compound	Nuevo|n	9146-25fe-03d8-716b	0
+Querétaro|n	at location	Mexico|n	9173-8e98-619e-64bd	0
+Querétaro|n	instance of	state|n	9173-8e98-619e-64bd	0
+Querétaro|n	structural-noun-compound	Querétaro|n	9173-8e98-619e-64bd	0
+Nunavut|n	at location	Canada|n	9201-ee12-7837-3365	0
+Nunavut|n	instance of	territory|n	9201-ee12-7837-3365	0
+Nunavut|n	structural-noun-compound	Nunavut|n	9201-ee12-7837-3365	0
+Linlithgowshire|n	at location	Scotland|n	9438-dd66-1a62-99d1	0
+Linlithgowshire|n	instance of	county|n	9438-dd66-1a62-99d1	0
+Linlithgowshire|n	structural-noun-compound	Linlithgowshire|n	9438-dd66-1a62-99d1	0
+West Lothian|ns	at location	Scotland|n	9438-dd66-1a62-99d1	0
+West Lothian|ns	instance of	county|n	9438-dd66-1a62-99d1	0
+West Lothian|ns	structural-noun-compound	Lothian|n	9438-dd66-1a62-99d1	0
+West Lothian|ns	structural-noun-compound	West|n	9438-dd66-1a62-99d1	0
+West Lothian|ns	synonym	Linlithgowshire|n	9438-dd66-1a62-99d1	0
+Maine|n	at location	United States of America|ns	96c2-b5bf-0822-0d8e	0
+Maine|n	instance of	state|n	96c2-b5bf-0822-0d8e	0
+Maine|n	structural-noun-compound	Maine|n	96c2-b5bf-0822-0d8e	0
+Worcestershire|n	at location	England|n	96de-e3f4-c2a1-9014	0
+Worcestershire|n	instance of	county|n	96de-e3f4-c2a1-9014	0
+Worcestershire|n	structural-noun-compound	Worcestershire|n	96de-e3f4-c2a1-9014	0
+Montana|n	at location	United States of America|ns	97ac-2ef4-1ffd-17b7	0
+Montana|n	instance of	state|n	97ac-2ef4-1ffd-17b7	0
+Montana|n	structural-noun-compound	Montana|n	97ac-2ef4-1ffd-17b7	0
+Devon|n	at location	England|n	9a9b-7939-0924-ab41	0
+Devon|n	instance of	county|n	9a9b-7939-0924-ab41	0
+Devon|n	structural-noun-compound	Devon|n	9a9b-7939-0924-ab41	0
+Louisiana|n	at location	United States of America|ns	9b58-03b6-c704-66bc	0
+Louisiana|n	instance of	state|n	9b58-03b6-c704-66bc	0
+Louisiana|n	structural-noun-compound	Louisiana|n	9b58-03b6-c704-66bc	0
+Cumbria (Cumberland)|ns	at location	England|n	9f0c-3e27-65ba-c359	0
+Cumbria (Cumberland)|ns	instance of	county|n	9f0c-3e27-65ba-c359	0
+Cumbria (Cumberland)|ns	structural-noun-compound	Cumberland|n	9f0c-3e27-65ba-c359	0
+Cumbria (Cumberland)|ns	structural-noun-compound	Cumbria|n	9f0c-3e27-65ba-c359	0
+District of Columbia|ns	at location	United States of America|ns	9f5a-15d6-e1a8-3082	0
+District of Columbia|ns	instance of	federal district|ns	9f5a-15d6-e1a8-3082	0
+District of Columbia|ns	structural-noun-compound	Columbia|n	9f5a-15d6-e1a8-3082	0
+District of Columbia|ns	structural-noun-compound	District|n	9f5a-15d6-e1a8-3082	0
+District of Columbia|ns	synonym	Washington, D.C.|ns	9f5a-15d6-e1a8-3082	0
+District of Columbia|ns	synonym	Washington, District of Columbia|ns	9f5a-15d6-e1a8-3082	0
+Washington, D.C.|ns	at location	United States of America|ns	9f5a-15d6-e1a8-3082	0
+Washington, D.C.|ns	instance of	federal district|ns	9f5a-15d6-e1a8-3082	0
+Washington, D.C.|ns	structural-noun-compound	D.C.|n	9f5a-15d6-e1a8-3082	0
+Washington, D.C.|ns	structural-noun-compound	Washington|n	9f5a-15d6-e1a8-3082	0
+Washington, District of Columbia|ns	at location	United States of America|ns	9f5a-15d6-e1a8-3082	0
+Washington, District of Columbia|ns	instance of	federal district|ns	9f5a-15d6-e1a8-3082	0
+Washington, District of Columbia|ns	structural-noun-compound	Columbia|n	9f5a-15d6-e1a8-3082	0
+Washington, District of Columbia|ns	structural-noun-compound	District|n	9f5a-15d6-e1a8-3082	0
+Washington, District of Columbia|ns	structural-noun-compound	Washington|n	9f5a-15d6-e1a8-3082	0
+Washington, District of Columbia|ns	synonym	Washington, D.C.|ns	9f5a-15d6-e1a8-3082	0
+Wisconsin|n	at location	United States of America|ns	9f77-2244-23fd-6a74	0
+Wisconsin|n	instance of	state|n	9f77-2244-23fd-6a74	0
+Wisconsin|n	structural-noun-compound	Wisconsin|n	9f77-2244-23fd-6a74	0
+Alberta|n	at location	Canada|n	9f86-7856-9702-bbc1	0
+Alberta|n	instance of	province|n	9f86-7856-9702-bbc1	0
+Alberta|n	structural-noun-compound	Alberta|n	9f86-7856-9702-bbc1	0
+Oklahoma|n	at location	United States of America|ns	a05c-004d-1038-aaac	0
+Oklahoma|n	instance of	state|n	a05c-004d-1038-aaac	0
+Oklahoma|n	structural-noun-compound	Oklahoma|n	a05c-004d-1038-aaac	0
+Bedfordshire|n	at location	England|n	a15a-56e5-208f-ea91	0
+Bedfordshire|n	instance of	county|n	a15a-56e5-208f-ea91	0
+Bedfordshire|n	structural-noun-compound	Bedfordshire|n	a15a-56e5-208f-ea91	0
+Hong Kong Special Administrative Region|ns	at location	People's Republic of China|ns	a231-2746-b99d-ef50	0
+Hong Kong Special Administrative Region|ns	instance of	special administrative region|ns	a231-2746-b99d-ef50	0
+Hong Kong Special Administrative Region|ns	structural-noun-compound	Administrative|n	a231-2746-b99d-ef50	0
+Hong Kong Special Administrative Region|ns	structural-noun-compound	Hong|n	a231-2746-b99d-ef50	0
+Hong Kong Special Administrative Region|ns	structural-noun-compound	Kong|n	a231-2746-b99d-ef50	0
+Hong Kong Special Administrative Region|ns	structural-noun-compound	Region|n	a231-2746-b99d-ef50	0
+Hong Kong Special Administrative Region|ns	structural-noun-compound	Special|n	a231-2746-b99d-ef50	0
+Hong Kong|ns	at location	People's Republic of China|ns	a231-2746-b99d-ef50	0
+Hong Kong|ns	instance of	special administrative region|ns	a231-2746-b99d-ef50	0
+Hong Kong|ns	structural-noun-compound	Hong|n	a231-2746-b99d-ef50	0
+Hong Kong|ns	structural-noun-compound	Kong|n	a231-2746-b99d-ef50	0
+Hong Kong|ns	synonym	Hong Kong Special Administrative Region|ns	a231-2746-b99d-ef50	0
+Yunnan|n	at location	People's Republic of China|ns	a572-f4b2-3087-9d8f	0
+Yunnan|n	instance of	province|n	a572-f4b2-3087-9d8f	0
+Yunnan|n	structural-noun-compound	Yunnan|n	a572-f4b2-3087-9d8f	0
+Renfrewshire|n	at location	Scotland|n	a5df-6fcd-9de7-57a3	0
+Renfrewshire|n	instance of	county|n	a5df-6fcd-9de7-57a3	0
+Renfrewshire|n	structural-noun-compound	Renfrewshire|n	a5df-6fcd-9de7-57a3	0
+Iowa|n	at location	United States of America|ns	a63d-dc15-6fba-14d0	0
+Iowa|n	instance of	state|n	a63d-dc15-6fba-14d0	0
+Iowa|n	structural-noun-compound	Iowa|n	a63d-dc15-6fba-14d0	0
+Saskatchewan|n	at location	Canada|n	a78a-08f8-6174-bf78	0
+Saskatchewan|n	instance of	province|n	a78a-08f8-6174-bf78	0
+Saskatchewan|n	structural-noun-compound	Saskatchewan|n	a78a-08f8-6174-bf78	0
+Ningxia Autonomous Region|ns	at location	People's Republic of China|ns	a907-41bb-20dc-dd95	0
+Ningxia Autonomous Region|ns	instance of	autonomous region|jn	a907-41bb-20dc-dd95	0
+Ningxia Autonomous Region|ns	structural-noun-compound	Autonomous|n	a907-41bb-20dc-dd95	0
+Ningxia Autonomous Region|ns	structural-noun-compound	Ningxia|n	a907-41bb-20dc-dd95	0
+Ningxia Autonomous Region|ns	structural-noun-compound	Region|n	a907-41bb-20dc-dd95	0
+Ningxia|n	at location	People's Republic of China|ns	a907-41bb-20dc-dd95	0
+Ningxia|n	instance of	autonomous region|jn	a907-41bb-20dc-dd95	0
+Ningxia|n	structural-noun-compound	Ningxia|n	a907-41bb-20dc-dd95	0
+Ningxia|n	synonym	Ningxia Autonomous Region|ns	a907-41bb-20dc-dd95	0
+Hawaii|n	at location	United States of America|ns	a94f-4663-a584-e17a	0
+Hawaii|n	instance of	state|n	a94f-4663-a584-e17a	0
+Hawaii|n	structural-noun-compound	Hawaii|n	a94f-4663-a584-e17a	0
+Suffolk|n	at location	England|n	ac0c-d155-9d22-c9f9	0
+Suffolk|n	instance of	county|n	ac0c-d155-9d22-c9f9	0
+Suffolk|n	structural-noun-compound	Suffolk|n	ac0c-d155-9d22-c9f9	0
+Mississippi|n	at location	United States of America|ns	ada7-0fab-c1e3-99d7	0
+Mississippi|n	instance of	state|n	ada7-0fab-c1e3-99d7	0
+Mississippi|n	structural-noun-compound	Mississippi|n	ada7-0fab-c1e3-99d7	0
+Hampshire|n	at location	England|n	af68-fc1f-632b-4e6a	0
+Hampshire|n	instance of	county|n	af68-fc1f-632b-4e6a	0
+Hampshire|n	structural-noun-compound	Hampshire|n	af68-fc1f-632b-4e6a	0
+Michigan|n	at location	United States of America|ns	b1e5-54e0-a42f-41bb	0
+Michigan|n	instance of	state|n	b1e5-54e0-a42f-41bb	0
+Michigan|n	structural-noun-compound	Michigan|n	b1e5-54e0-a42f-41bb	0
+Nebraska|n	at location	United States of America|ns	b369-4218-5820-77a1	0
+Nebraska|n	instance of	state|n	b369-4218-5820-77a1	0
+Nebraska|n	structural-noun-compound	Nebraska|n	b369-4218-5820-77a1	0
+Northwest Territories|ns	at location	Canada|n	b54b-4f12-4e6c-c666	0
+Northwest Territories|ns	instance of	territory|n	b54b-4f12-4e6c-c666	0
+Northwest Territories|ns	structural-noun-compound	Northwest|n	b54b-4f12-4e6c-c666	0
+Northwest Territories|ns	structural-noun-compound	Territories|n	b54b-4f12-4e6c-c666	0
+Caithness|n	at location	Scotland|n	b99f-e895-7e19-2f57	0
+Caithness|n	instance of	county|n	b99f-e895-7e19-2f57	0
+Caithness|n	structural-noun-compound	Caithness|n	b99f-e895-7e19-2f57	0
+Staffordshire|n	at location	England|n	b9c0-30ac-76ff-1624	0
+Staffordshire|n	instance of	county|n	b9c0-30ac-76ff-1624	0
+Staffordshire|n	structural-noun-compound	Staffordshire|n	b9c0-30ac-76ff-1624	0
+Colorado|n	at location	United States of America|ns	ba44-4219-cc05-7991	0
+Colorado|n	instance of	state|n	ba44-4219-cc05-7991	0
+Colorado|n	structural-noun-compound	Colorado|n	ba44-4219-cc05-7991	0
+Kansas|n	at location	United States of America|ns	bb8d-9bf9-c250-b6f5	0
+Kansas|n	instance of	state|n	bb8d-9bf9-c250-b6f5	0
+Kansas|n	structural-noun-compound	Kansas|n	bb8d-9bf9-c250-b6f5	0
+Chihuahua|n	at location	Mexico|n	bbfe-efa1-6fb6-789e	0
+Chihuahua|n	instance of	state|n	bbfe-efa1-6fb6-789e	0
+Chihuahua|n	structural-noun-compound	Chihuahua|n	bbfe-efa1-6fb6-789e	0
+Qinghai|n	at location	People's Republic of China|ns	bc4c-6595-5a01-c39e	0
+Qinghai|n	instance of	province|n	bc4c-6595-5a01-c39e	0
+Qinghai|n	structural-noun-compound	Qinghai|n	bc4c-6595-5a01-c39e	0
+Alaska|n	at location	United States of America|ns	be77-688f-2811-7d8f	0
+Alaska|n	instance of	state|n	be77-688f-2811-7d8f	0
+Alaska|n	structural-noun-compound	Alaska|n	be77-688f-2811-7d8f	0
+Yukon|n	at location	Canada|n	beca-276c-dcc6-e2c9	0
+Yukon|n	instance of	territory|n	beca-276c-dcc6-e2c9	0
+Yukon|n	structural-noun-compound	Yukon|n	beca-276c-dcc6-e2c9	0
+Nairnshire|n	at location	Scotland|n	bed6-acd4-76d0-4a14	0
+Nairnshire|n	instance of	county|n	bed6-acd4-76d0-4a14	0
+Nairnshire|n	structural-noun-compound	Nairnshire|n	bed6-acd4-76d0-4a14	0
+Argyllshire|n	at location	Scotland|n	bf1d-0422-7686-08a0	0
+Argyllshire|n	instance of	county|n	bf1d-0422-7686-08a0	0
+Argyllshire|n	structural-noun-compound	Argyllshire|n	bf1d-0422-7686-08a0	0
+Sinaloa|n	at location	Mexico|n	c07a-95ad-296c-f9c0	0
+Sinaloa|n	instance of	state|n	c07a-95ad-296c-f9c0	0
+Sinaloa|n	structural-noun-compound	Sinaloa|n	c07a-95ad-296c-f9c0	0
+Edinburghshire|n	at location	Scotland|n	c24b-4249-7b18-d97e	0
+Edinburghshire|n	instance of	county|n	c24b-4249-7b18-d97e	0
+Edinburghshire|n	structural-noun-compound	Edinburghshire|n	c24b-4249-7b18-d97e	0
+Midlothian|n	at location	Scotland|n	c24b-4249-7b18-d97e	0
+Midlothian|n	instance of	county|n	c24b-4249-7b18-d97e	0
+Midlothian|n	structural-noun-compound	Midlothian|n	c24b-4249-7b18-d97e	0
+Midlothian|n	synonym	Edinburghshire|n	c24b-4249-7b18-d97e	0
+Morayshire|n	at location	Scotland|n	c308-d279-c3e9-8560	0
+Morayshire|n	instance of	county|n	c308-d279-c3e9-8560	0
+Morayshire|n	structural-noun-compound	Morayshire|n	c308-d279-c3e9-8560	0
+Georgia|n	at location	United States of America|ns	c3a9-6efc-145f-5a05	0
+Georgia|n	instance of	state|n	c3a9-6efc-145f-5a05	0
+Georgia|n	structural-noun-compound	Georgia|n	c3a9-6efc-145f-5a05	0
+Peeblesshire|n	at location	Scotland|n	c403-871d-8656-f931	0
+Peeblesshire|n	instance of	county|n	c403-871d-8656-f931	0
+Peeblesshire|n	structural-noun-compound	Peeblesshire|n	c403-871d-8656-f931	0
+Derbyshire|n	at location	England|n	c515-128b-0639-a74b	0
+Derbyshire|n	instance of	county|n	c515-128b-0639-a74b	0
+Derbyshire|n	structural-noun-compound	Derbyshire|n	c515-128b-0639-a74b	0
+Cheshire|n	at location	England|n	c8f1-d369-544f-af69	0
+Cheshire|n	instance of	county|n	c8f1-d369-544f-af69	0
+Cheshire|n	structural-noun-compound	Cheshire|n	c8f1-d369-544f-af69	0
+Liaoning|n	at location	People's Republic of China|ns	cbc0-dff3-9795-f051	0
+Liaoning|n	instance of	province|n	cbc0-dff3-9795-f051	0
+Liaoning|n	structural-noun-compound	Liaoning|n	cbc0-dff3-9795-f051	0
+Xinjiang Autonomous Region|ns	at location	People's Republic of China|ns	cbf8-10e2-4439-ee11	0
+Xinjiang Autonomous Region|ns	instance of	autonomous region|jn	cbf8-10e2-4439-ee11	0
+Xinjiang Autonomous Region|ns	structural-noun-compound	Autonomous|n	cbf8-10e2-4439-ee11	0
+Xinjiang Autonomous Region|ns	structural-noun-compound	Region|n	cbf8-10e2-4439-ee11	0
+Xinjiang Autonomous Region|ns	structural-noun-compound	Xinjiang|n	cbf8-10e2-4439-ee11	0
+Xinjiang|n	at location	People's Republic of China|ns	cbf8-10e2-4439-ee11	0
+Xinjiang|n	instance of	autonomous region|jn	cbf8-10e2-4439-ee11	0
+Xinjiang|n	structural-noun-compound	Xinjiang|n	cbf8-10e2-4439-ee11	0
+Xinjiang|n	synonym	Xinjiang Autonomous Region|ns	cbf8-10e2-4439-ee11	0
+Tianjin Municipality|ns	at location	People's Republic of China|ns	cc52-ba87-e6a2-c2ab	0
+Tianjin Municipality|ns	instance of	municipality|n	cc52-ba87-e6a2-c2ab	0
+Tianjin Municipality|ns	structural-noun-compound	Municipality|n	cc52-ba87-e6a2-c2ab	0
+Tianjin Municipality|ns	structural-noun-compound	Tianjin|n	cc52-ba87-e6a2-c2ab	0
+Tianjin Municipality|ns	synonym	Tianjin|n	cc52-ba87-e6a2-c2ab	0
+Tianjin|n	at location	People's Republic of China|ns	cc52-ba87-e6a2-c2ab	0
+Tianjin|n	instance of	municipality|n	cc52-ba87-e6a2-c2ab	0
+Tianjin|n	structural-noun-compound	Tianjin|n	cc52-ba87-e6a2-c2ab	0
+Veracruz|n	at location	Mexico|n	ccc1-d499-e74c-1b92	0
+Veracruz|n	instance of	state|n	ccc1-d499-e74c-1b92	0
+Veracruz|n	structural-noun-compound	Veracruz|n	ccc1-d499-e74c-1b92	0
+Kincardineshire|n	at location	Scotland|n	cd04-3367-e5ec-eefd	0
+Kincardineshire|n	instance of	county|n	cd04-3367-e5ec-eefd	0
+Kincardineshire|n	structural-noun-compound	Kincardineshire|n	cd04-3367-e5ec-eefd	0
+Prince Edward Island|ns	at location	Canada|n	cd2a-f627-279d-3bba	0
+Prince Edward Island|ns	instance of	province|n	cd2a-f627-279d-3bba	0
+Prince Edward Island|ns	structural-noun-compound	Edward|n	cd2a-f627-279d-3bba	0
+Prince Edward Island|ns	structural-noun-compound	Island|n	cd2a-f627-279d-3bba	0
+Prince Edward Island|ns	structural-noun-compound	Prince|n	cd2a-f627-279d-3bba	0
+Michoacán|n	at location	Mexico|n	cd43-008a-9891-6a35	0
+Michoacán|n	instance of	state|n	cd43-008a-9891-6a35	0
+Michoacán|n	structural-noun-compound	Michoacán|n	cd43-008a-9891-6a35	0
+Lancashire|n	at location	England|n	ce74-e4d1-c053-17e8	0
+Lancashire|n	instance of	county|n	ce74-e4d1-c053-17e8	0
+Lancashire|n	structural-noun-compound	Lancashire|n	ce74-e4d1-c053-17e8	0
+South Dakota|ns	at location	United States of America|ns	cec0-9ea0-8d15-7eb0	0
+South Dakota|ns	instance of	state|n	cec0-9ea0-8d15-7eb0	0
+South Dakota|ns	structural-noun-compound	Dakota|n	cec0-9ea0-8d15-7eb0	0
+South Dakota|ns	structural-noun-compound	South|n	cec0-9ea0-8d15-7eb0	0
+Guangdong|n	at location	People's Republic of China|ns	d020-cefd-04fd-2cc9	0
+Guangdong|n	instance of	province|n	d020-cefd-04fd-2cc9	0
+Guangdong|n	structural-noun-compound	Guangdong|n	d020-cefd-04fd-2cc9	0
+Sonora|n	at location	Mexico|n	d091-06fe-68ed-76a4	0
+Sonora|n	instance of	state|n	d091-06fe-68ed-76a4	0
+Sonora|n	structural-noun-compound	Sonora|n	d091-06fe-68ed-76a4	0
+Heilongjiang|n	at location	People's Republic of China|ns	d17e-0ec2-981c-4bfe	0
+Heilongjiang|n	instance of	province|n	d17e-0ec2-981c-4bfe	0
+Heilongjiang|n	structural-noun-compound	Heilongjiang|n	d17e-0ec2-981c-4bfe	0
+Quebec|n	at location	Canada|n	d368-8580-5479-5c8b	0
+Quebec|n	instance of	province|n	d368-8580-5479-5c8b	0
+Quebec|n	structural-noun-compound	Quebec|n	d368-8580-5479-5c8b	0
+Stirlingshire|n	at location	Scotland|n	d6c6-92b5-3ef3-77eb	0
+Stirlingshire|n	instance of	county|n	d6c6-92b5-3ef3-77eb	0
+Stirlingshire|n	structural-noun-compound	Stirlingshire|n	d6c6-92b5-3ef3-77eb	0
+Glamorgan|n	at location	Wales|n	d7b2-b410-6f0d-0dc0	0
+Glamorgan|n	instance of	county|n	d7b2-b410-6f0d-0dc0	0
+Glamorgan|n	structural-noun-compound	Glamorgan|n	d7b2-b410-6f0d-0dc0	0
+Inner Mongolia Autonomous Region|ns	at location	People's Republic of China|ns	d843-4eeb-11ff-ed6a	0
+Inner Mongolia Autonomous Region|ns	instance of	autonomous region|jn	d843-4eeb-11ff-ed6a	0
+Inner Mongolia Autonomous Region|ns	structural-noun-compound	Autonomous|n	d843-4eeb-11ff-ed6a	0
+Inner Mongolia Autonomous Region|ns	structural-noun-compound	Inner|n	d843-4eeb-11ff-ed6a	0
+Inner Mongolia Autonomous Region|ns	structural-noun-compound	Mongolia|n	d843-4eeb-11ff-ed6a	0
+Inner Mongolia Autonomous Region|ns	structural-noun-compound	Region|n	d843-4eeb-11ff-ed6a	0
+Inner Mongolia|ns	at location	People's Republic of China|ns	d843-4eeb-11ff-ed6a	0
+Inner Mongolia|ns	instance of	autonomous region|jn	d843-4eeb-11ff-ed6a	0
+Inner Mongolia|ns	structural-noun-compound	Inner|n	d843-4eeb-11ff-ed6a	0
+Inner Mongolia|ns	structural-noun-compound	Mongolia|n	d843-4eeb-11ff-ed6a	0
+Inner Mongolia|ns	synonym	Inner Mongolia Autonomous Region|ns	d843-4eeb-11ff-ed6a	0
+San Luis Potosí|ns	at location	Mexico|n	d93e-372d-793a-3bb7	0
+San Luis Potosí|ns	instance of	state|n	d93e-372d-793a-3bb7	0
+San Luis Potosí|ns	structural-noun-compound	Luis|n	d93e-372d-793a-3bb7	0
+San Luis Potosí|ns	structural-noun-compound	Potosí|n	d93e-372d-793a-3bb7	0
+San Luis Potosí|ns	structural-noun-compound	San|n	d93e-372d-793a-3bb7	0
+Yucatán|n	at location	Mexico|n	d97e-c89d-25b8-edca	0
+Yucatán|n	instance of	state|n	d97e-c89d-25b8-edca	0
+Yucatán|n	structural-noun-compound	Yucatán|n	d97e-c89d-25b8-edca	0
+Guizhou|n	at location	People's Republic of China|ns	dbdb-f2a2-ba7f-ee07	0
+Guizhou|n	instance of	province|n	dbdb-f2a2-ba7f-ee07	0
+Guizhou|n	structural-noun-compound	Guizhou|n	dbdb-f2a2-ba7f-ee07	0
+New Hampshire|ns	at location	United States of America|ns	dcc6-24bd-da16-1dd3	0
+New Hampshire|ns	instance of	state|n	dcc6-24bd-da16-1dd3	0
+New Hampshire|ns	structural-noun-compound	Hampshire|n	dcc6-24bd-da16-1dd3	0
+New Hampshire|ns	structural-noun-compound	New|n	dcc6-24bd-da16-1dd3	0
+Pennsylvania|n	at location	United States of America|ns	ddcc-b61d-5aa2-a7fe	0
+Pennsylvania|n	instance of	state|n	ddcc-b61d-5aa2-a7fe	0
+Pennsylvania|n	structural-noun-compound	Pennsylvania|n	ddcc-b61d-5aa2-a7fe	0
+Hidalgo|n	at location	Mexico|n	ddd5-8c35-fda9-85a1	0
+Hidalgo|n	instance of	state|n	ddd5-8c35-fda9-85a1	0
+Hidalgo|n	structural-noun-compound	Hidalgo|n	ddd5-8c35-fda9-85a1	0
+Hebei|n	at location	People's Republic of China|ns	ddeb-76ec-5c86-8b15	0
+Hebei|n	instance of	province|n	ddeb-76ec-5c86-8b15	0
+Hebei|n	structural-noun-compound	Hebei|n	ddeb-76ec-5c86-8b15	0
+Indiana|n	at location	United States of America|ns	de65-7a12-0038-0f76	0
+Indiana|n	instance of	state|n	de65-7a12-0038-0f76	0
+Indiana|n	structural-noun-compound	Indiana|n	de65-7a12-0038-0f76	0
+Berwickshire|n	at location	Scotland|n	dfac-2e1a-b8b3-fa9a	0
+Berwickshire|n	instance of	county|n	dfac-2e1a-b8b3-fa9a	0
+Berwickshire|n	structural-noun-compound	Berwickshire|n	dfac-2e1a-b8b3-fa9a	0
+Middlesex|n	at location	England|n	e2a8-f979-ace0-e81e	0
+Middlesex|n	instance of	county|n	e2a8-f979-ace0-e81e	0
+Middlesex|n	structural-noun-compound	Middlesex|n	e2a8-f979-ace0-e81e	0
+Nevada|n	at location	United States of America|ns	e30b-6621-73f9-b0a3	0
+Nevada|n	instance of	state|n	e30b-6621-73f9-b0a3	0
+Nevada|n	structural-noun-compound	Nevada|n	e30b-6621-73f9-b0a3	0
+Cornwall|n	at location	England|n	e338-c260-8eca-65bc	0
+Cornwall|n	instance of	county|n	e338-c260-8eca-65bc	0
+Cornwall|n	structural-noun-compound	Cornwall|n	e338-c260-8eca-65bc	0
+Ross-shire|n	at location	Scotland|n	e372-ba85-aeec-2da4	0
+Ross-shire|n	instance of	county|n	e372-ba85-aeec-2da4	0
+Ross-shire|n	structural-noun-compound	Ross|n	e372-ba85-aeec-2da4	0
+Ross-shire|n	structural-noun-compound	shire|n	e372-ba85-aeec-2da4	0
+Shandong|n	at location	People's Republic of China|ns	e3c3-1460-4bd1-55f5	0
+Shandong|n	instance of	province|n	e3c3-1460-4bd1-55f5	0
+Shandong|n	structural-noun-compound	Shandong|n	e3c3-1460-4bd1-55f5	0
+Kent|n	at location	England|n	e3e3-6d86-282d-e406	0
+Kent|n	instance of	county|n	e3e3-6d86-282d-e406	0
+Kent|n	structural-noun-compound	Kent|n	e3e3-6d86-282d-e406	0
+Nayarit|n	at location	Mexico|n	e4e0-e4bf-0c50-1188	0
+Nayarit|n	instance of	state|n	e4e0-e4bf-0c50-1188	0
+Nayarit|n	structural-noun-compound	Nayarit|n	e4e0-e4bf-0c50-1188	0
+Aguascalientes|n	at location	Mexico|n	e502-d887-cbf1-03e5	0
+Aguascalientes|n	instance of	state|n	e502-d887-cbf1-03e5	0
+Aguascalientes|n	structural-noun-compound	Aguascalientes|n	e502-d887-cbf1-03e5	0
+Tennessee|n	at location	United States of America|ns	e660-269c-8499-0d37	0
+Tennessee|n	instance of	state|n	e660-269c-8499-0d37	0
+Tennessee|n	structural-noun-compound	Tennessee|n	e660-269c-8499-0d37	0
+Kirkcudbrightshire|n	at location	Scotland|n	e6c5-5bd7-b58e-ad30	0
+Kirkcudbrightshire|n	instance of	county|n	e6c5-5bd7-b58e-ad30	0
+Kirkcudbrightshire|n	structural-noun-compound	Kirkcudbrightshire|n	e6c5-5bd7-b58e-ad30	0
+Flintshire|n	at location	Wales|n	e9a8-4601-fa95-20fe	0
+Flintshire|n	instance of	county|n	e9a8-4601-fa95-20fe	0
+Flintshire|n	structural-noun-compound	Flintshire|n	e9a8-4601-fa95-20fe	0
+Oregon|n	at location	United States of America|ns	eb10-2b77-ec8b-34ca	0
+Oregon|n	instance of	state|n	eb10-2b77-ec8b-34ca	0
+Oregon|n	structural-noun-compound	Oregon|n	eb10-2b77-ec8b-34ca	0
+Jalisco|n	at location	Mexico|n	eb47-f7c0-0223-ffd6	0
+Jalisco|n	instance of	state|n	eb47-f7c0-0223-ffd6	0
+Jalisco|n	structural-noun-compound	Jalisco|n	eb47-f7c0-0223-ffd6	0
+Norfolk|n	at location	England|n	ec5e-8999-6243-9a53	0
+Norfolk|n	instance of	county|n	ec5e-8999-6243-9a53	0
+Norfolk|n	structural-noun-compound	Norfolk|n	ec5e-8999-6243-9a53	0
+British Columbia|ns	at location	Canada|n	f158-a131-1234-57bc	0
+British Columbia|ns	instance of	province|n	f158-a131-1234-57bc	0
+British Columbia|ns	structural-noun-compound	British|n	f158-a131-1234-57bc	0
+British Columbia|ns	structural-noun-compound	Columbia|n	f158-a131-1234-57bc	0
+Ontario|n	at location	Canada|n	f1f5-5322-705e-a4c4	0
+Ontario|n	instance of	province|n	f1f5-5322-705e-a4c4	0
+Ontario|n	structural-noun-compound	Ontario|n	f1f5-5322-705e-a4c4	0
+Angus|n	at location	Scotland|n	f37c-be01-1527-15fa	0
+Angus|n	instance of	county|n	f37c-be01-1527-15fa	0
+Angus|n	structural-noun-compound	Angus|n	f37c-be01-1527-15fa	0
+Angus|n	synonym	Forfarshire|n	f37c-be01-1527-15fa	0
+Forfarshire|n	at location	Scotland|n	f37c-be01-1527-15fa	0
+Forfarshire|n	instance of	county|n	f37c-be01-1527-15fa	0
+Forfarshire|n	structural-noun-compound	Forfarshire|n	f37c-be01-1527-15fa	0
+Inverness-shire|n	at location	Scotland|n	f53d-9bc7-b622-1a58	0
+Inverness-shire|n	instance of	county|n	f53d-9bc7-b622-1a58	0
+Inverness-shire|n	structural-noun-compound	Inverness|n	f53d-9bc7-b622-1a58	0
+Inverness-shire|n	structural-noun-compound	shire|n	f53d-9bc7-b622-1a58	0
+Washington State|ns	at location	United States of America|ns	f540-dfa2-3fd4-de61	0
+Washington State|ns	instance of	state|n	f540-dfa2-3fd4-de61	0
+Washington State|ns	structural-noun-compound	State|n	f540-dfa2-3fd4-de61	0
+Washington State|ns	structural-noun-compound	Washington|n	f540-dfa2-3fd4-de61	0
+Washington|n	at location	United States of America|ns	f540-dfa2-3fd4-de61	0
+Washington|n	instance of	state|n	f540-dfa2-3fd4-de61	0
+Washington|n	structural-noun-compound	Washington|n	f540-dfa2-3fd4-de61	0
+Washington|n	synonym	Washington State|ns	f540-dfa2-3fd4-de61	0
+Shetland|n	at location	Scotland|n	f54f-f8f7-52f7-845a	0
+Shetland|n	instance of	county|n	f54f-f8f7-52f7-845a	0
+Shetland|n	structural-noun-compound	Shetland|n	f54f-f8f7-52f7-845a	0
+Monmouthshire|n	at location	Wales|n	f559-a3fe-67aa-cb7d	0
+Monmouthshire|n	instance of	county|n	f559-a3fe-67aa-cb7d	0
+Monmouthshire|n	structural-noun-compound	Monmouthshire|n	f559-a3fe-67aa-cb7d	0
+Massachusetts|n	at location	United States of America|ns	f62b-71c3-882e-dcd9	0
+Massachusetts|n	instance of	state|n	f62b-71c3-882e-dcd9	0
+Massachusetts|n	structural-noun-compound	Massachusetts|n	f62b-71c3-882e-dcd9	0
+Radnorshire|n	at location	Wales|n	f67a-b46c-720e-c82f	0
+Radnorshire|n	instance of	county|n	f67a-b46c-720e-c82f	0
+Radnorshire|n	structural-noun-compound	Radnorshire|n	f67a-b46c-720e-c82f	0
+Somerset|n	at location	England|n	f6cc-2447-a8d0-22f6	0
+Somerset|n	instance of	county|n	f6cc-2447-a8d0-22f6	0
+Somerset|n	structural-noun-compound	Somerset|n	f6cc-2447-a8d0-22f6	0
+Quintana Roo|ns	at location	Mexico|n	f8c4-7d15-e2a3-e3c2	0
+Quintana Roo|ns	instance of	state|n	f8c4-7d15-e2a3-e3c2	0
+Quintana Roo|ns	structural-noun-compound	Quintana|n	f8c4-7d15-e2a3-e3c2	0
+Quintana Roo|ns	structural-noun-compound	Roo|n	f8c4-7d15-e2a3-e3c2	0
+Baja California|ns	at location	Mexico|n	f916-bbce-2759-663d	0
+Baja California|ns	instance of	state|n	f916-bbce-2759-663d	0
+Baja California|ns	structural-noun-compound	Baja|n	f916-bbce-2759-663d	0
+Baja California|ns	structural-noun-compound	California|n	f916-bbce-2759-663d	0
+Lincolnshire|n	at location	England|n	f91c-1db8-5d3d-088b	0
+Lincolnshire|n	instance of	county|n	f91c-1db8-5d3d-088b	0
+Lincolnshire|n	structural-noun-compound	Lincolnshire|n	f91c-1db8-5d3d-088b	0
+Manitoba|n	at location	Canada|n	fa1b-5904-81c9-7cd9	0
+Manitoba|n	instance of	province|n	fa1b-5904-81c9-7cd9	0
+Manitoba|n	structural-noun-compound	Manitoba|n	fa1b-5904-81c9-7cd9	0
+Warwickshire|n	at location	England|n	fa39-2f24-958e-8b4d	0
+Warwickshire|n	instance of	county|n	fa39-2f24-958e-8b4d	0
+Warwickshire|n	structural-noun-compound	Warwickshire|n	fa39-2f24-958e-8b4d	0
+Beijing Municipality|ns	at location	People's Republic of China|ns	ff41-99c6-d086-0a53	0
+Beijing Municipality|ns	instance of	municipality|n	ff41-99c6-d086-0a53	0
+Beijing Municipality|ns	structural-noun-compound	Beijing|n	ff41-99c6-d086-0a53	0
+Beijing Municipality|ns	structural-noun-compound	Municipality|n	ff41-99c6-d086-0a53	0
+Beijing Municipality|ns	synonym	Beijing|n	ff41-99c6-d086-0a53	0
+Beijing|n	at location	People's Republic of China|ns	ff41-99c6-d086-0a53	0
+Beijing|n	instance of	municipality|n	ff41-99c6-d086-0a53	0
+Beijing|n	structural-noun-compound	Beijing|n	ff41-99c6-d086-0a53	0

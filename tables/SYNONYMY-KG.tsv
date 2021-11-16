@@ -1,0 +1,766 @@
+subj	rel	obj	id	flag
+image|n	synonym	visual depiction|jn	004b-3c8c-0f5d-2873	0
+child|n	synonym	offspring|n	00fd-04c0-5805-8b81	0
+young|n	synonym	offspring|n	00fd-04c0-5805-8b81	0
+be insulated|v	instrument	insulation|n	012f-b681-a0e0-376a	0
+CO2|n	synonym	carbon dioxide|ns	01a8-2f77-9145-2ab3	0
+inexhaustible|j	synonym	always available|jn	01bb-da65-ecdd-404c	0
+discover|v	synonym	make discovery|vp	01ce-5c8d-152d-6464	0
+convert|v	similar to	produce|v	0308-b556-3182-b793	0
+structure|n	similar to	shape|n	0337-38c2-e9b5-2f97	0
+similar|n	synonym	in common|ns	0342-b4ed-ed5d-6fdf	0
+warm|j	synonym	warm temperature|jn	03e0-14b7-ecf9-28e4	0
+bounce back|v	synonym	reflect|v	041b-a683-c7b9-85b4	0
+return|v	kind of	bring|v	04e9-5287-eb58-61cb	0
+warm|n	similar to	hot|n	05d2-d1e3-489a-8716	0
+break down|v	result	small piece|jn	0610-89d4-acb3-b0dc	0
+break down|v	similar to	break|v	0610-89d4-acb3-b0dc	0
+climate|n	synonym	environment|n	0696-4d28-5530-2f95	0
+limit|v	synonym	decrease|v	0714-a69b-67e1-fc94	0
+catch|v	derivational morphology	catching|n	08a6-a188-ffd9-a822	0
+catch|v	synonym	obtain|v	08a6-a188-ffd9-a822	0
+obtain|v	derivational morphology	obtaining|v	08a6-a188-ffd9-a822	0
+wash out|v	instrument	water|n	0902-751a-e13d-ac41	0
+wash out|v	result	move|v	0902-751a-e13d-ac41	0
+transfer|v	kind of	supply|v	0a6f-6cda-f364-a708	0
+changing|n	derivational morphology	change|v	0ad2-7d4f-40c4-13c5	0
+staying|v	derivational morphology	stay|v	0ad2-7d4f-40c4-13c5	0
+stay|v	antonym	change|v	0ad2-7d4f-40c4-13c5	0
+season|n	synonym	temperature change|av	0ae5-7e63-0d02-bd6a	0
+variety|n	synonym	different kind|jn	0bbd-c06e-f04f-4a91	0
+variety|n	synonym	different type|jn	0bbd-c06e-f04f-4a91	0
+destruction|n	derivational morphology	destroy|v	0bc7-4574-ceb9-5aa0	0
+ultraviolet ray|ns	synonym	ultraviolet light|ns	0bfe-6bc5-5887-4c10	0
+organism|n	synonym	life|n	0d33-7089-468d-fd4b	0
+detect|v	kind of	observe|v	0e17-84f1-a9f9-f27f	0
+store|v	synonym	hold|v	0f02-bd0a-c36c-0bbc	0
+show|v	synonym	present|v	0f65-4fa3-49b1-0794	0
+carrion|n	synonym	rotting flesh|jn	0ff3-af70-ba28-efc5	0
+carrion|n	synonym	rotting meat|jn	0ff3-af70-ba28-efc5	0
+absorbing|n	derivational morphology	absorb|v	1015-4572-2293-d185	0
+getting|n	derivational morphology	get|v	1015-4572-2293-d185	0
+receiving|v	derivational morphology	receive|v	1015-4572-2293-d185	0
+take in|v	synonym	absorb|v	1015-4572-2293-d185	0
+take in|v	synonym	get|v	1015-4572-2293-d185	0
+take in|v	synonym	receive|v	1015-4572-2293-d185	0
+sediment|n	similar to	soil|n	1039-d8f3-b11c-3d03	0
+electric current|ns	synonym	electricity|n	1058-66b0-4e23-6cf9	0
+replace|v	instrument	replacement|n	10b7-ffcd-cb06-c86d	0
+solution|n	has positive impact on	problem|n	10ba-91e7-e31b-c025	0
+component|n	synonym	part of|ns	10d3-297c-e0e5-8531	0
+cut down forest|vp	instrument	cut down tree|vp	10fd-451d-ea1e-99fa	0
+cut down|v	patient	forest|n	10fd-451d-ea1e-99fa	0
+forest|n	has subcomponent	tree|n	10fd-451d-ea1e-99fa	0
+trait|n	synonym	characteristic|n	1112-d2ae-a1f5-ffb6	0
+produce|v	synonym	provide|v	1201-f310-a3c3-b88d	0
+environment|n	synonym	area|n	1240-2639-9a5f-96cd	0
+observe|v	synonym	gather information|vp	13d5-3248-93e0-97df	0
+colorless|j	synonym	no color|n	140f-03da-a4ce-9f45	0
+no color|n	antonym	color|n	140f-03da-a4ce-9f45	0
+receive sunlight|vp	synonym	absorb sunlight|vp	141a-5c36-0fac-52ac	0
+protect|v	synonym	defend|v	142e-2fac-bb31-2e5d	0
+keep|v	synonym	stay|v	151d-c801-eb15-ebfb	0
+finding|n	derivational morphology	find|v	157e-8f35-f478-8797	0
+find|v	synonym	locate|v	157e-8f35-f478-8797	0
+locating|n	derivational morphology	locate|v	157e-8f35-f478-8797	0
+buoyancy|n	derivational morphology	buoyant|j	1603-cc51-e120-065e	0
+can float|vp	synonym	buoyant|j	1603-cc51-e120-065e	0
+float|v	at location	gas|n	1603-cc51-e120-065e	0
+float|v	at location	liquid|n	1603-cc51-e120-065e	0
+float|v	instrument	buoyancy|n	1603-cc51-e120-065e	0
+take in|v	synonym	absorb|v	160e-6da0-3cc4-1b3d	0
+downward|n	synonym	down|n	1632-346e-67a5-b1b8	0
+cure|n	synonym	solution|n	16ea-bfa4-07c6-c55d	0
+cure|v	patient	sick|n	16ea-bfa4-07c6-c55d	0
+together|j	similar to	group|n	170f-aad5-f04c-f90d	0
+temperature rise|av	synonym	temperature increase|av	17ff-5bac-df42-a1b4	0
+habitat|n	similar to	environment|n	1800-f69c-1283-7d49	0
+generate|v	synonym	create|v	1811-c7f9-f6be-4bde	0
+inspect|v	synonym	examine|v	18ae-ab97-6895-4128	0
+observe|v	synonym	examine|v	18ae-ab97-6895-4128	0
+be good for|v	has positive impact on	thing|n	1927-9e8e-915b-3da1	0
+increase|n	synonym	more|n	19f5-4162-4c01-59aa	0
+shift|v	synonym	move|v	1a46-dc05-1bd8-5ed7	0
+approximately|n	synonym	about|n	1a4b-82df-0613-5268	0
+reduce|v	synonym	decrease|v	1a70-2ddd-7f85-17ae	0
+bounce back|v	synonym	reflect|v	1ae4-77c6-e2a0-c6f1	0
+eat|v	synonym	consume food|vp	1af8-152d-3dd1-798c	0
+become cold|vj	synonym	get cold|vj	1b1f-6621-ffb4-727c	0
+require|v	derivational morphology	required|j	1b31-08ba-2a30-8dd0	0
+used for|v	instrument	required object|jn	1b31-08ba-2a30-8dd0	0
+kind of|j	synonym	example|n	1b3f-b617-d7ef-1815	0
+flat|n	synonym	level|n	1d4f-7b26-a32f-d1df	0
+prevent|v	instrument	inhibitor|n	1ec2-4fac-096f-d2fc	0
+hover|v	at location	air|n	1eef-7771-64a6-1d93	0
+hover|v	synonym	stay still|vp	1eef-7771-64a6-1d93	0
+positive impact|jn	synonym	helpful effect|jn	1f4c-09cb-8d13-2701	0
+expand|v	result	big|j	1fc6-7784-ccd9-4fd5	0
+breathe in|v	synonym	absorb air|vp	2047-3ee7-a047-0dd9	0
+best|j	synonym	most positive|qj	20e2-689d-b7c6-528a	0
+function|n	similar to	purpose|n	213d-225f-ebb9-d228	0
+organism group|ns	synonym	species|n	2171-5edd-a3d0-f2c2	0
+camouflage|n	kind of	disguise|n	225b-9d13-f6b0-4da1	0
+look|v	kind of	see|v	2296-98bd-73b5-1679	0
+combine|v	kind of	make|v	239a-f2cc-8bbb-223e	0
+action|n	synonym	activity|n	2479-774e-9ef8-d595	0
+happen|v	synonym	occur|v	24c1-532c-1322-2dc3	0
+sense warning|vp	synonym	receive warning|vp	24f8-b192-2a82-e6d8	0
+wildfire|n	synonym	forest fire|ns	255a-e572-50e2-f8e5	0
+show|v	synonym	display|v	2597-f6ee-6a92-2ec6	0
+ecosystem role|ns	synonym	food chain role|ns	25c2-cd2a-8053-4695	0
+liquid carry|av	synonym	liquid push|av	2634-87a7-680f-783f	0
+less|j	synonym	reduced amount|jn	26bf-d2db-4fdc-53f6	0
+reduced|j	derivational morphology	reduce|v	26bf-d2db-4fdc-53f6	0
+blacktop|n	synonym	asphalt|n	26f3-c715-9750-2ff7	0
+keep cool|vp	antonym	increase temperature|vp	2786-3bde-a7de-6181	0
+nighttime|n	synonym	night|n	27e6-0bf1-bc03-7f66	0
+eat|v	patient	prey|n	290b-426c-c0a3-ebb6	0
+remove forest|vp	instrument	cut down tree|vp	298b-ca93-e80a-a32d	0
+state|n	synonym	form|n	29a1-5acf-45b5-3b06	0
+cause|v	synonym	make happen|vp	29f7-bead-ba29-6a7f	0
+touch|v	synonym	contact|v	2a06-2a73-ddc5-b6c8	0
+prevent|v	synonym	keep from happen|vp	2a3e-40ec-e187-c0d2	0
+poison environment|vp	instrument	poison organism|vp	2aa7-4696-710f-dc1b	0
+gradual|n	synonym	slow|n	2ca4-e07e-d662-09c9	0
+appliance|n	similar to	technology|n	2d70-7bf6-5bc2-e3f2	0
+appearance|n	synonym	look|n	2d89-0117-6ce2-b5bf	0
+object|n	has subcomponent	appearance|n	2d89-0117-6ce2-b5bf	0
+boat|n	similar to	ship|n	2e50-5461-745a-36ee	0
+identify|v	synonym	discover|v	2e6a-b783-f0c4-7809	0
+cellular respiration|ns	synonym	cellular digestion|ns	2ede-65e6-e727-d345	0
+bake|v	kind of	cook|v	3006-985a-1294-98df	0
+improvement|n	derivational morphology	improve|v	3022-b0dc-604d-b0d7	0
+improvement|n	synonym	positive impact|jn	3022-b0dc-604d-b0d7	0
+improve|v	synonym	have positive impact|vp	3022-b0dc-604d-b0d7	0
+pair|n	synonym	two|n	3196-d7c7-bf24-9fbb	0
+two|n	instance of	number|n	3196-d7c7-bf24-9fbb	0
+not see|v	antonym	see|v	31be-afe3-6b4d-fa2d	0
+visibility decrease|av	result	not see|v	31be-afe3-6b4d-fa2d	0
+stop|v	antonym	move|v	31e5-9065-c214-1108	0
+dependent|n	derivational morphology	depend|v	32b9-45a7-7e74-12c2	0
+roam|v	kind of	move|v	3347-b1a5-6757-f53d	0
+roam|v	synonym	move around|vp	3347-b1a5-6757-f53d	0
+acquiring|n	derivational morphology	acquire|v	336b-8580-1de1-5714	0
+take in|v	synonym	acquire|v	336b-8580-1de1-5714	0
+dry up|v	synonym	lose water|vp	33d8-6fe3-b609-c1a4	0
+wind|n	synonym	moving air|jn	33f1-c7fb-094b-0129	0
+low|n	similar to	decrease|n	341d-e635-d3a7-a6a2	0
+view|v	synonym	see|v	3436-66c9-9e0a-3a8b	0
+study soil sample|vp	instrument	study microorganism|vp	346c-7060-9ad3-5d93	0
+sticky|n	similar to	moist|n	3470-556f-94c8-3297	0
+round|v	result	rounder|j	3497-0826-74ec-c9cf	0
+food web|ns	synonym	food chain|ns	349d-dd0e-2deb-7b57	0
+contain|v	synonym	have inside|v	34a2-9d5f-692b-4898	0
+ocean shell|ns	synonym	seashell|n	3546-9da0-47ff-c78b	0
+protect|v	synonym	prevent harm|vp	360a-b24c-3306-9b73	0
+bike|n	synonym	bicycle|n	3625-df10-23fc-2223	0
+rotate|v	synonym	complete rotation|vp	3681-33ce-b63b-2749	0
+sun|n	has subcomponent	sunlight|n	3686-5795-31e5-b5e0	0
+usual|j	antonym	varying|j	3711-f792-5151-2c3a	0
+varying|n	derivational morphology	vary|v	3711-f792-5151-2c3a	0
+underwater|j	synonym	below water|jn	378e-3052-e593-d80f	0
+pull away|v	kind of	separate|v	38b9-f9da-56c0-a6bb	0
+carry|v	synonym	move|v	38f7-b1e7-b37e-ef1e	0
+amount|n	synonym	volume|n	3949-4114-a899-79d8	0
+size|n	synonym	volume|n	3949-4114-a899-79d8	0
+drive vehicle|vp	synonym	use vehicle|vp	39b5-164b-997b-e3fe	0
+ride vehicle|vp	synonym	use vehicle|vp	39b5-164b-997b-e3fe	0
+time length|ns	synonym	time period|ns	39e6-6d8b-2d69-786c	0
+nature|n	synonym	natural environment|jn	3a09-2b75-9bf0-dd93	0
+stay warm|vj	synonym	keep warm|vj	3a0f-40e0-b6ef-bea4	0
+single-cell organism|jn	synonym	unicellular organism|jn	3a25-1c51-791f-6ec7	0
+search|v	synonym	seek|v	3a4a-a10f-5973-6530	0
+power|v	synonym	provide energy|vp	3a7a-4175-a1b7-db73	0
+datum|n	synonym	information|n	3bbb-b092-18ed-1a8a	0
+thaw|v	kind of	melt|v	3cb0-21ad-9635-ef5c	0
+convert|v	similar to	release|v	3d01-b0f9-5de8-8952	0
+observe|v	synonym	see|v	3d19-51ab-7f0c-7a14	0
+structure|n	synonym	part|n	3d76-6d66-4a17-7ae2	0
+technology|n	similar to	tool|n	3dbd-97fe-20bf-4ba3	0
+revolve|v	synonym	orbit|v	3dd5-2225-75cc-e350	0
+composed of|v	synonym	made of|v	3e18-eada-4a5f-aeef	0
+made of|v	agent	object|n	3e18-eada-4a5f-aeef	0
+function|n	synonym	purpose|n	3e2e-e065-36c0-898c	0
+function|n	synonym	use|n	3e2e-e065-36c0-898c	0
+object|n	has subcomponent	function|n	3e2e-e065-36c0-898c	0
+H2O|n	synonym	water|n	3f09-79e2-1e7d-1099	0
+animal species|ns	has subcomponent	animal|n	3f4c-c241-6217-60ff	0
+weather|n	at location	outdoor|j	3f81-09e1-5ec1-00e5	0
+weather|n	synonym	air condition|ns	3f81-09e1-5ec1-00e5	0
+little|n	synonym	small|n	3f9d-3d9c-0d39-6b31	0
+sound|n	synonym	sound energy|ns	4013-87f5-6cc4-127f	0
+sound energy|ns	instance of	energy|n	4013-87f5-6cc4-127f	0
+daytime|n	synonym	day|n	4045-4262-fa1f-160f	0
+recycle|v	synonym	return|v	40b8-086d-439a-c9ba	0
+know property|vp	synonym	know information|vp	418b-50f9-2389-1806	0
+light|n	synonym	light energy|ns	4201-f5ef-6bd3-f5b4	0
+sunlight shine|av	synonym	provide sunlight|vp	4215-7e38-54ca-e2fa	0
+anchor|v	synonym	provide support|vp	42d5-c036-5d21-b206	0
+dead|j	antonym	alive|j	42ee-7009-131f-4719	0
+condense|v	similar to	collect|v	432d-ac14-4894-0314	0
+drop|v	synonym	fall|v	4331-2b1f-b2b3-343c	0
+temperature drop|av	synonym	become cold|vj	43bb-2d2b-dd45-1c67	0
+generally|j	synonym	normal|j	4403-18c7-fe87-324a	0
+generally|n	synonym	usually|n	4403-18c7-fe87-324a	0
+tell difference|vp	synonym	classify|v	4448-2467-9571-5878	0
+coat|n	kind of	clothes|n	4483-54ea-1288-2d72	0
+coat|n	synonym	fur coat|ns	4483-54ea-1288-2d72	0
+create|v	derivational morphology	creating|v	450b-d1e6-d7b9-2e6b	0
+develop|v	synonym	create|v	450b-d1e6-d7b9-2e6b	0
+develop|v	synonym	invent|v	450b-d1e6-d7b9-2e6b	0
+invent|v	derivational morphology	inventing|v	450b-d1e6-d7b9-2e6b	0
+renewable resource|jn	synonym	natural resource|jn	462f-0e75-97ec-060c	0
+health|n	has positive impact on	keep healthy|vp	464d-b3db-e4d7-3547	0
+survive|v	has positive impact on	keep healthy|vp	464d-b3db-e4d7-3547	0
+harm|n	synonym	injury|n	4670-75b2-3866-eff9	0
+mL|n	synonym	milliliter|n	46bc-bca8-b945-8327	0
+trash|n	synonym	waste|n	470c-0013-8541-1f5a	0
+heat|n	synonym	heat energy|ns	4710-c993-7a19-bef2	0
+heat energy|ns	kind of	energy|n	4710-c993-7a19-bef2	0
+feature|n	synonym	characteristic|n	480d-24f6-cd70-5644	0
+clear|v	kind of	remove|v	4831-646d-8648-0fa7	0
+likely|j	similar to	usually|j	4850-3bd5-960b-0b9a	0
+likely|j	synonym	likelihood|n	4850-3bd5-960b-0b9a	0
+temperature rise|av	synonym	become warm|vj	4867-4ad0-0164-d368	0
+transport|v	similar to	travel|v	48be-b112-3323-84b6	0
+transport|v	synonym	move|v	48be-b112-3323-84b6	0
+assemble|v	synonym	put together|v	48ed-395e-8d30-edb4	0
+assembling|n	derivational morphology	assemble|v	48ed-395e-8d30-edb4	0
+put together|v	derivational morphology	putting together|v	48ed-395e-8d30-edb4	0
+contain|v	kind of	store|v	49fd-6aeb-83eb-c25c	0
+daylight hour|ns	has subcomponent	daylight|n	4b1a-b0f4-764e-a79c	0
+role|n	similar to	importance|n	4b40-ee0e-7e5d-23f3	0
+half of earth|ns	has subcomponent	earth|n	4ba2-35d1-c2d9-ca91	0
+half of earth|ns	synonym	hemisphere of earth|ns	4ba2-35d1-c2d9-ca91	0
+hemisphere of earth|ns	has subcomponent	earth|n	4ba2-35d1-c2d9-ca91	0
+contribute|v	synonym	add|v	4bca-7771-01b5-a2f6	0
+hypothesis|n	synonym	scientific guess|jn	4cb2-9f64-ed27-e619	0
+be on|v	result	touch|v	4d0b-497e-6a7f-bfca	0
+both|n	synonym	two|n	4dc0-19c7-104a-0ddf	0
+two|n	instance of	number|n	4dc0-19c7-104a-0ddf	0
+be in|v	result	touch|v	4e2c-c684-660e-fcbe	0
+history|n	synonym	the past|ns	4e56-9d2d-b627-f9b1	0
+annual|j	synonym	yearly|j	4e76-f56b-867d-34d3	0
+air current|ns	has subcomponent	air|n	4e8c-54ec-dbb8-6592	0
+jet stream|ns	synonym	air current|ns	4e8c-54ec-dbb8-6592	0
+keep|v	kind of	store|v	4ef5-2024-bd2f-74e2	0
+coastline|n	synonym	coast|n	4f91-092a-029b-64a8	0
+pass|v	synonym	occur|v	50d7-9492-5143-d88b	0
+ground|n	synonym	floor|n	5105-d3dc-d7ed-6fa3	0
+break apart|v	synonym	break down|v	518b-ce25-7fb9-adfb	0
+turn|v	synonym	convert|v	520b-e7fa-600c-d598	0
+live|v	synonym	be alive|v	5235-918a-6a82-0d1a	0
+be around|v	synonym	surround|v	5365-b516-685c-e809	0
+transform|v	synonym	convert|v	539c-ccfe-688f-27f6	0
+high|n	similar to	increase|n	53d0-8110-c683-52da	0
+decline|v	synonym	decrease|v	53ec-933f-7116-dcaf	0
+dissolve|v	kind of	break down|v	5404-b04d-d0b2-6309	0
+another|n	synonym	different|n	5457-5b8e-eb6c-aea1	0
+view|v	synonym	observe light|vp	54bb-adb6-1968-eac6	0
+bottom|n	synonym	lowest|j	55a5-73d4-c1b1-e55b	0
+often|j	similar to	usual|j	55de-6e39-fe84-2395	0
+often|n	similar to	likely|n	55de-6e39-fe84-2395	0
+electricity|n	synonym	electrical energy|jn	5657-c6bc-e6cd-ae38	0
+vary|v	synonym	differ|v	567f-1878-8555-aa7d	0
+send|v	synonym	transfer|v	56bc-389e-d138-7308	0
+watch|v	synonym	look at|v	56be-ce78-ec19-1c61	0
+help|n	synonym	advantage|n	56cd-812e-1e24-c47a	0
+herbivore|n	synonym	first-level consumer|jn	5706-62c6-1f2a-6e18	0
+insulator|n	synonym	good insulator|jn	5733-18d0-8191-c1ce	0
+protect|v	synonym	make safe|v	578b-10b3-d171-7b7c	0
+less|n	similar to	decrease|n	580f-1d81-36b1-adb3	0
+necessary|j	synonym	require|v	5830-0226-d5ec-1248	0
+cut down tree|vp	result	deforestation|n	58fb-4d30-982b-787b	0
+cut down tree|vp	result	deforested area|jn	58fb-4d30-982b-787b	0
+preserve food|vp	synonym	prevent spoiling|vp	59a4-b2fa-5937-4f14	0
+put on|v	synonym	wear|v	5a57-e1e0-4c65-262d	0
+recent|j	synonym	young|j	5af8-ed0d-690a-97dd	0
+pull|v	kind of	attract|v	5b19-9470-28b5-572c	0
+odor|n	synonym	scent|n	5be2-5169-c01b-4cf6	0
+function|n	synonym	job|n	5bed-2cfd-fe4d-324e	0
+reproduce|v	synonym	have offspring|vp	5c25-2129-40a6-71ea	0
+metallic|n	similar to	shiny|n	5c9f-a48a-692d-9500	0
+nonliving|j	antonym	living|j	5ce7-4fed-f926-472e	0
+dead organism|jn	has subcomponent	remains|n	5d86-6036-9920-2c88	0
+expand|v	synonym	spread out|v	5d92-c150-1789-1c17	0
+receive sunlight|vp	synonym	absorb sunlight|vp	5e35-243f-81ab-5eef	0
+survive|v	synonym	live|v	5e5f-d2d7-bb79-193c	0
+fragrance|n	synonym	smell|n	5ed4-1803-24c0-ee4b	0
+discard|v	synonym	throw away|v	5f43-c4d3-9043-8b02	0
+contain water|vp	instrument	water body|ns	60d1-d074-940b-f067	0
+fall|n	synonym	autumn|n	6145-6448-7c22-836f	0
+all other|qn	synonym	rest|n	6328-829b-22db-6428	0
+daylight amount|ns	synonym	daylight length|ns	63b4-4d77-7768-da8c	0
+downhill|n	synonym	down|n	63ed-e261-2225-2e65	0
+belong|v	synonym	be kind of|v	643f-7227-2e92-b2b1	0
+newborn|j	synonym	just born|jn	6572-f053-aaa7-25ce	0
+take in oxygen|vp	goal	blood|n	65bb-ee0e-f67d-f6d9	0
+be fit for|v	result	survive|v	6639-1b70-5a51-b9a1	0
+be user for|v	similar to	allow|v	663d-a91d-53d8-5625	0
+counter|v	result	reduce|v	6650-9806-5c50-ff4e	0
+counter|v	result	resist|v	6650-9806-5c50-ff4e	0
+counter|v	result	stop|v	6650-9806-5c50-ff4e	0
+germinate|v	result	sprout|v	665a-2d1b-8608-576a	0
+population increase|av	synonym	more survive|av	6661-099d-ac05-1f21	0
+feeling|n	derivational morphology	feel|v	6722-33ad-ff6e-30b3	0
+touching|n	derivational morphology	touch|v	6722-33ad-ff6e-30b3	0
+touch|v	synonym	feel|v	6722-33ad-ff6e-30b3	0
+solar energy|jn	instance of	energy|n	6759-5ee2-140f-df48	0
+sunlight|n	synonym	solar energy|jn	6759-5ee2-140f-df48	0
+used for|v	result	help|v	679c-fab2-a001-db1e	0
+provide|v	instrument	deliver|v	69bc-91ee-2371-c804	0
+provide|v	instrument	make|v	69bc-91ee-2371-c804	0
+instrument|n	synonym	equipment|n	69d1-9751-6050-3017	0
+look at|v	synonym	observe|v	6a75-83b3-d985-4a70	0
+communicate|v	synonym	share information|vp	6ae0-d900-5f59-8e85	0
+survival|n	synonym	survive|v	6b14-8236-7175-c193	0
+advance|v	synonym	improve|v	6b71-8219-5039-8487	0
+pollinator|n	synonym	pollinating animal|ns	6baa-61fa-ccac-43d0	0
+pollinator|v	agent	pollinate|v	6baa-61fa-ccac-43d0	0
+remove|v	synonym	decrease|v	6c44-86b0-3f21-da81	0
+shake|v	similar to	shift|v	6c79-d646-1afb-b6d3	0
+feel|v	patient	texture|n	6c86-9d15-6ab9-f4c3	0
+object|n	has subcomponent	texture|n	6c86-9d15-6ab9-f4c3	0
+bang|v	synonym	hit|v	6e3f-b470-4e29-ec6f	0
+apart|n	synonym	away|n	6e81-2024-ba28-312f	0
+adaptation|n	synonym	adaptive feature|jn	6f25-0200-16e0-4389	0
+forest|n	synonym	wooded area|ns	6f69-e8ea-c102-e065	0
+look|v	synonym	see|v	7120-da03-7f9e-5466	0
+crystal|n	has subcomponent	crystal structure|ns	7146-f88d-9166-0691	0
+hurt|v	synonym	harm|v	7159-d1fa-5784-4a1e	0
+replant|v	kind of	replace|v	71c1-15bd-b699-64ee	0
+replant|v	patient	plant|n	71c1-15bd-b699-64ee	0
+cause|v	synonym	have effect|vp	7217-ca8f-51fc-7263	0
+convert|v	synonym	change|v	72a6-1822-575b-e849	0
+sidewalk|n	synonym	pavement|n	738a-36ed-7284-dfa2	0
+boiling|n	derivational morphology	boil|v	73e5-00b0-22fd-e34e	0
+boil|v	agent	liquid|n	73e5-00b0-22fd-e34e	0
+boil|v	instrument	boiling point|ns	73e5-00b0-22fd-e34e	0
+property|n	synonym	feature|n	73e8-63d3-28a9-7f8e	0
+carry|v	synonym	transport|v	73ed-c126-9663-1012	0
+lot|n	synonym	much|n	7452-c8f0-f7ce-4dc5	0
+heat|v	synonym	transfer thermal energy|vp	74c9-ce13-0e8d-4a29	0
+woodland|n	synonym	forest|n	75b7-e55a-c950-379a	0
+baby|n	kind of	offspring|n	75d4-1f81-cb21-f793	0
+Earth's plate|ns	synonym	tectonic plate|ns	75e6-403b-649e-cce8	0
+lose|v	synonym	have less of|v	75e9-85f3-cc73-27cf	0
+component|n	synonym	part|n	7743-074e-340e-e2e9	0
+object|n	has subcomponent	component|n	7743-074e-340e-e2e9	0
+object|n	has subcomponent	part|n	7743-074e-340e-e2e9	0
+eat animal|vp	instrument	kill animal|vp	785b-6d16-8fc8-ee28	0
+eat plant|vp	instrument	kill plant|vp	785b-6d16-8fc8-ee28	0
+made up of|v	synonym	contains|v	787c-b7eb-9067-f7f1	0
+made up of|v	synonym	made of|v	787c-b7eb-9067-f7f1	0
+identify|v	kind of	determine|v	7955-b33e-9357-33b7	0
+return|v	similar to	add|v	79a0-cb9c-0aef-f322	0
+have oxygen|vp	synonym	oxygenated|v	7a7b-fa49-24fc-ce30	0
+last long|vp	synonym	be available long|vp	7b14-3b1d-7f2e-ae55	0
+lower|v	synonym	decrease|v	7b3b-3c56-8e8b-ab1c	0
+cooling|n	derivational morphology	cool|v	7b61-fb62-acc5-a7f7	0
+temperature drop|av	synonym	cooling|n	7b61-fb62-acc5-a7f7	0
+leave alone|v	antonym	change|v	7bad-20c8-07a5-3c70	0
+potential energy|jn	synonym	stored energy|ns	7bb2-425e-c7fe-c044	0
+sound wave|ns	instance of	wave|n	7bc3-ba5f-c9ed-09c6	0
+sound wave|ns	synonym	sound energy|ns	7bc3-ba5f-c9ed-09c6	0
+form|n	synonym	kind|n	7c96-f704-e51e-1678	0
+ice crystal|ns	synonym	ice|n	7d2c-48ac-99ed-8384	0
+add heat|vp	synonym	increase temperature|vp	7d37-b81d-0cf3-9ae0	0
+impact|v	synonym	affect|v	7dc9-24ac-4c93-866e	0
+add|v	synonym	increase|v	7ef3-7d2a-dd0a-7953	0
+daylight period|ns	synonym	daylight amount|ns	80ed-85da-37fe-1633	0
+make|v	synonym	produce|v	80f0-202c-0427-9ddc	0
+daylight|n	synonym	sunlight|n	81a9-8f8a-02ee-4dbc	0
+make|v	synonym	invent|v	83be-648d-f63f-3270	0
+inhibit|v	synonym	prevent|v	83fc-2b11-a88e-56cd	0
+rattle|v	kind of	vibrate|v	8413-0f13-cab4-2c05	0
+dirt|n	synonym	soil|n	8480-1ad7-af0d-15e0	0
+develop|v	synonym	grow|v	861e-c96c-1742-1b23	0
+grow|v	derivational morphology	growing|n	861e-c96c-1742-1b23	0
+travel|v	kind of	move|v	8627-a51d-fcbc-8601	0
+beneficial|n	synonym	helpful|n	8641-2ccd-4c11-a122	0
+quantity|n	synonym	amount|n	865d-b114-6f4e-b503	0
+little|n	similar to	decrease|n	8697-e00d-4b6f-7a62	0
+repair|v	synonym	heal|v	86d3-723e-62b0-6dfa	0
+restore|v	derivational morphology	restoration|n	8726-c09d-4a3b-e814	0
+restore|v	has positive impact on	object|n	8726-c09d-4a3b-e814	0
+magnetic force|ns	synonym	magnetism|n	8731-96ec-1a7b-d0c9	0
+do job|vp	synonym	perform job|vp	8754-eb6c-1c85-c80a	0
+ripping|n	derivational morphology	rip|v	8756-ec9f-0c1b-21c4	0
+tearing|n	derivational morphology	tear|v	8756-ec9f-0c1b-21c4	0
+tear|v	synonym	rip|v	8756-ec9f-0c1b-21c4	0
+vapor|n	synonym	gas|n	876f-dbeb-2f53-1d96	0
+living thing|jn	synonym	living entity|jn	87a0-dd02-dd6d-ee60	0
+organism|n	synonym	living thing|jn	87a0-dd02-dd6d-ee60	0
+O2|n	synonym	oxygen|n	87eb-3d9a-8306-d0e7	0
+thrust|v	synonym	push|v	87f9-f56d-8397-3010	0
+keep happening|vp	similar to	cause|v	87fc-9f14-db43-7f99	0
+provide warmth|vp	synonym	keep warm|vj	8817-2a2b-242d-47e4	0
+be left out|v	synonym	move from|vp	8854-3e45-f39e-81a8	0
+apply heat|vp	synonym	add heat energy|vp	888f-d3a6-9ba4-efbd	0
+seek|v	synonym	try find|vp	88e2-d46b-7846-8a0f	0
+sun|n	has subcomponent	sunlight|n	8939-25ca-fb9c-d790	0
+destroy forest|vp	instrument	cut down tree|vp	89d2-2796-1e94-3b10	0
+destroy|v	patient	forest|n	89d2-2796-1e94-3b10	0
+forest|n	has subcomponent	tree|n	89d2-2796-1e94-3b10	0
+impact|n	synonym	effect|n	8b85-9aff-8362-b0d3	0
+frozen|n	synonym	solid|n	8f51-a7cd-6829-c91f	0
+condense|v	agent	liquid water|jn	8f56-5eff-5f75-8478	0
+condense|v	at location	air|n	8f56-5eff-5f75-8478	0
+condense|v	synonym	come together|vp	8f56-5eff-5f75-8478	0
+sharp sense|jn	synonym	enhanced sense|jn	8f95-5431-bea6-4649	0
+vibration|n	similar to	wave|n	9072-0c5d-d333-d1ce	0
+save|v	synonym	prevent death|vp	90a4-4c46-289e-f3e8	0
+garbage|n	synonym	waste|n	90eb-c6e6-6838-9461	0
+conserve|v	instrument	use less|vp	9130-a03b-85d4-9a10	0
+conserve|v	patient	resource|n	9130-a03b-85d4-9a10	0
+sight|n	synonym	vision|n	9150-2d08-9c54-5af3	0
+sand|n	similar to	soil|n	9151-af14-f370-f540	0
+region|n	similar to	environment|n	91cc-2488-b3f3-beac	0
+daily|j	synonym	every day|jn	9318-8c1b-0902-d588	0
+come from|v	source	source|n	9331-ece9-c87a-1358	0
+freezing point|ns	similar to	melting point|ns	933d-6b9a-7b84-d664	0
+rain fall|av	result	receive rain|vp	94f1-7e8b-5438-dfdb	0
+atmosphere|n	synonym	air|n	9568-cc75-424d-e775	0
+shine|v	synonym	emit light|vp	959c-173d-683c-65a7	0
+look like|v	similar to	camouflage|v	968b-298f-e403-e5a6	0
+freezing|j	synonym	very cold|qj	96a8-ac07-e165-b0ff	0
+catch fire|vp	synonym	combust|v	9713-a39a-3a6d-fee6	0
+combust|v	result	fire|n	9713-a39a-3a6d-fee6	0
+surrounding|n	synonym	environment|n	9758-674d-e771-6866	0
+made of|v	similar to	contains|v	97b0-e2cc-4f43-104c	0
+decrease|v	derivational morphology	decreasing|n	9816-ffa6-2260-9fc1	0
+take away|v	synonym	decrease|v	9816-ffa6-2260-9fc1	0
+depending|v	derivational morphology	depend|v	9895-ba65-e45d-613f	0
+need|v	derivational morphology	needing|v	9895-ba65-e45d-613f	0
+need|v	synonym	depend|v	9895-ba65-e45d-613f	0
+resemble|v	synonym	look like|v	98ae-3574-d787-9fd8	0
+have function|vp	similar to	be responsible for|v	99fc-c23d-a1f5-19a0	0
+animal matter|ns	kind of	organic matter|ns	9acd-957d-4cb7-9725	0
+plant matter|ns	kind of	organic matter|ns	9acd-957d-4cb7-9725	0
+cover water|vp	result	under water|jn	9b52-2462-8b7d-a431	0
+too much|ns	similar to	increase|n	9bfc-4749-e4ab-177c	0
+leave undisturbed|vp	antonym	change|v	9c4b-a3b8-45a7-49f3	0
+person|n	synonym	human|n	9d3e-05a6-f555-db18	0
+help|v	synonym	aid|v	9d82-eb5c-44c1-f10d	0
+emit|v	synonym	produce|v	9ecf-063e-892a-c7fa	0
+used for|v	synonym	serve as|v	9ed4-1adc-4024-73b1	0
+receive|v	synonym	get|v	9eed-91be-c441-efa3	0
+area|n	similar to	location|n	9f7e-705f-3053-4c6b	0
+blossom|n	synonym	flower|n	a03b-45d7-093c-40f0	0
+collect|v	similar to	absorb|v	a093-71c4-2022-ea98	0
+animal instinct|ns	kind of	instinctive behaviour|jn	a0d1-5016-59b4-faaa	0
+instrument|n	synonym	tool|n	a0d5-68ec-fccc-fd82	0
+young|n	synonym	immature|n	a272-e249-f73b-8af7	0
+usual|j	synonym	frequent|j	a2b0-e5a4-b83e-1eda	0
+create|v	kind of	cause|v	a2c1-212a-a4bc-11d8	0
+part|n	synonym	stage|n	a2f5-52da-5487-7e66	0
+process|n	has subcomponent	part|n	a2f5-52da-5487-7e66	0
+process|n	has subcomponent	stage|n	a2f5-52da-5487-7e66	0
+study|v	kind of	observe|v	a2ff-b2c1-f462-2fdb	0
+get|v	synonym	become|v	a31e-1af6-3adc-a0b4	0
+classify|v	synonym	decide class|vp	a453-a164-a836-a893	0
+each|n	similar to	individual|n	a471-beb6-2026-401e	0
+individual|j	synonym	unique|j	a471-beb6-2026-401e	0
+tool|n	similar to	appliance|n	a4d7-3501-4254-109e	0
+electrical current|ns	synonym	electrical energy|jn	a505-f059-e395-cad8	0
+scrape|v	synonym	scratch|v	a5d3-7ecf-1243-bfaf	0
+lift|v	synonym	move|v	a650-d8d9-199a-6170	0
+newly hatched|jn	synonym	just born|jn	a66c-c627-522c-4e3a	0
+yearly|j	synonym	every year|jn	a6c5-e31b-ddaf-3dcf	0
+sight|n	synonym	see|v	a6d5-5b11-21f7-80bd	0
+gravitational energy|jn	kind of	energy|n	a6ed-d678-af19-2281	0
+gravitational|j	derivational morphology	gravity|n	a6ed-d678-af19-2281	0
+gravity|n	synonym	gravitational energy|jn	a6ed-d678-af19-2281	0
+gravity|n	synonym	gravitational pull|jn	a6ed-d678-af19-2281	0
+jog|v	kind of	run|v	a70e-aca1-4ca5-67d9	0
+flip switch|vp	synonym	activate switch|vp	a775-5562-6d10-17d6	0
+flip switch|vp	synonym	use switch|vp	a775-5562-6d10-17d6	0
+push switch|vp	synonym	activate switch|vp	a775-5562-6d10-17d6	0
+push switch|vp	synonym	use switch|vp	a775-5562-6d10-17d6	0
+benefit|v	synonym	be of use|v	a8e1-376d-a65c-d56c	0
+help|v	synonym	be of use|v	a8e1-376d-a65c-d56c	0
+scavenge|v	synonym	find food|vp	a94e-ad3f-d1d1-e4bf	0
+location|n	synonym	position|n	a989-b05f-cf6d-e8ee	0
+place|n	synonym	position|n	a989-b05f-cf6d-e8ee	0
+disappear|v	kind of	decrease|v	aa0a-838d-7fc9-a918	0
+create|v	synonym	make|v	aa59-adf0-0e19-8b9e	0
+creating|v	derivational morphology	create|v	aa59-adf0-0e19-8b9e	0
+making|n	derivational morphology	make|v	aa59-adf0-0e19-8b9e	0
+remove forest|vp	causes	remove animal habitat|vp	aaa1-6683-9d15-9829	0
+work|v	synonym	function|v	ab06-c1d9-7d2f-2f01	0
+rapidly|n	synonym	quickly|n	abd9-cbba-5137-2c93	0
+conduct|v	kind of	transfer|v	ac2a-9f55-aeab-2917	0
+discover|v	synonym	find|v	ac4f-0a94-0c33-2df4	0
+provide|v	instrument	source|n	acf6-d100-2553-e4ac	0
+collect|v	synonym	gather|v	ad3c-e23e-4687-db8b	0
+bump|v	synonym	hit|v	ad5e-a830-efe5-170e	0
+hand lens|ns	synonym	magnifying glass|ns	ad83-d37c-9b46-94cd	0
+magnifying lens|ns	synonym	magnifying glass|ns	ad83-d37c-9b46-94cd	0
+high speed|ns	synonym	fast|n	adc7-ca07-3764-a868	0
+see|v	synonym	look|v	ae0b-1df7-6167-ecc5	0
+rotate|v	synonym	turn|v	ae29-0f1b-9895-50a5	0
+heat energy|ns	synonym	thermal energy|ns	ae86-c631-e4ad-1669	0
+kg|n	synonym	kilogram|n	af4f-9f98-18bd-5b14	0
+get rid of|v	synonym	eliminate|v	b077-71d0-b2cf-4b5c	0
+get rid of|v	synonym	remove|v	b077-71d0-b2cf-4b5c	0
+life|n	synonym	living thing|jn	b199-e899-31a4-afb8	0
+topography|n	synonym	physical feature|jn	b22b-e4b1-9ec5-4b97	0
+take place|v	synonym	happen|v	b238-dbf4-7dce-187d	0
+curiosity|n	derivational morphology	curious|v	b28b-5ea8-bdf1-0faf	0
+need know|vp	synonym	curiosity|n	b28b-5ea8-bdf1-0faf	0
+run on|v	instrument	energy source|ns	b320-8125-95c4-8c27	0
+result|n	synonym	evidence|n	b3ff-b14c-becf-25b6	0
+decrease|v	agent	temperature|n	b47e-30f2-aa9b-999f	0
+decrease|v	synonym	drop|v	b47e-30f2-aa9b-999f	0
+drop|v	agent	temperature|n	b47e-30f2-aa9b-999f	0
+how many|j	synonym	quantity|n	b4d5-fb67-e195-7606	0
+what number|ns	synonym	quantity|n	b4d5-fb67-e195-7606	0
+noise|n	synonym	sound|n	b569-cef5-65a2-2a57	0
+animal|n	has subcomponent	diet|n	b588-365f-7c0a-2c55	0
+eat|v	patient	diet|n	b588-365f-7c0a-2c55	0
+enemy|n	synonym	threat|n	b5bc-352e-4a8b-390a	0
+vegetation|n	synonym	plant|n	b5f5-69f4-c4e2-6552	0
+characteristic|n	synonym	property|n	b605-9c58-598d-817e	0
+transfer|v	kind of	give|v	b730-7885-2f2d-d737	0
+absorb|v	similar to	obtain|v	b743-7f87-6ef1-0c33	0
+coloration|n	synonym	color|n	b756-83bc-074d-62a2	0
+cause formation|vp	synonym	form|v	b7ab-4872-8563-4b31	0
+remove forest|vp	synonym	cut down forest|vp	b7b1-1f23-bd44-0112	0
+enhance|v	synonym	increase|v	b952-4ad0-732a-7cdd	0
+rock|n	synonym	stone|n	b968-ddd7-0e2c-e2b1	0
+pine needle|ns	similar to	leaf|n	b97b-83c9-4e07-41af	0
+sunlight intensity|ns	similar to	sunlight amount|ns	b9f5-6d14-f72a-e2d8	0
+group|v	synonym	place group|vp	ba30-2a8a-fe88-bca0	0
+group|v	synonym	put group|vp	ba30-2a8a-fe88-bca0	0
+place|n	synonym	location|n	ba38-575d-6353-ec1a	0
+freezing point|ns	kind of	temperature|n	bb18-f19f-69ba-8bc6	0
+liquid freeze|vp	instrument	freezing point|ns	bb18-f19f-69ba-8bc6	0
+prehistoric|j	synonym	very old|qn	bb85-0f6e-6d4c-f342	0
+low|n	synonym	down|n	bb86-d5e0-0c1d-3fba	0
+emit|v	synonym	send out|v	bbbb-aba3-ad5e-4aa0	0
+be in danger|v	at location	be near dangerous object|vp	bbf9-a92e-0ba3-bfd4	0
+carry|v	synonym	move|v	bc1e-c759-27c8-5ae3	0
+rest|v	synonym	sleep|v	bc41-0b7c-641f-c419	0
+affect organism niche|vp	synonym	affect organism|vp	bce4-df52-f2cd-485c	0
+remain|v	synonym	stay the same|v	bd6d-bd54-cd46-7e74	0
+cause|v	synonym	influence|v	bd85-00ef-0005-e205	0
+visible|j	synonym	can see|vp	be45-3cb8-edbc-dd56	0
+fast|n	synonym	quickly|n	be5b-b488-31a4-416e	0
+disappear|v	result	gone|n	be79-d370-85cf-8ca6	0
+gone|n	derivational morphology	go|v	be79-d370-85cf-8ca6	0
+plant crop|vp	synonym	grow crop|vp	beca-88a5-c80c-50bd	0
+make|v	synonym	form|v	bed3-1cec-6cf8-d027	0
+cool|j	synonym	cold|j	bf2d-aa23-f737-e69c	0
+require|v	similar to	need help|vp	bf2f-e380-be4e-ca06	0
+moisture|n	synonym	liquid|n	bffa-0cd0-0745-6d03	0
+moisture|n	synonym	liquid water|jn	bffa-0cd0-0745-6d03	0
+found in|v	synonym	exist in|v	c02e-466c-fe51-440c	0
+be able to|v	synonym	can|v	c082-5c74-d788-63a8	0
+amount|n	similar to	number|n	c0f6-a9cd-57b3-ae50	0
+contains|v	synonym	located|j	c12c-929a-973c-af3c	0
+combine solid|vp	result	mixture|n	c189-3469-1888-aa1f	0
+include|v	synonym	contain|v	c18e-f16d-3f5a-07a8	0
+play drum|vp	instrument	bang drum|vp	c1be-dd2a-153b-a1ee	0
+play drum|vp	instrument	hit drum|vp	c1be-dd2a-153b-a1ee	0
+environment|n	similar to	ecosystem|n	c1d3-4ab4-b443-aac3	0
+well-suited|n	similar to	adapted|n	c21a-180f-0328-7e72	0
+produce|v	synonym	create|v	c23b-f665-cd04-dafd	0
+give off|v	synonym	be the source of|v	c273-104b-3c47-f637	0
+smell|n	synonym	scent|n	c2ba-3d60-d903-52af	0
+destroy|v	result	not exist|v	c341-b68a-f32d-9180	0
+not exist|v	antonym	exist|v	c341-b68a-f32d-9180	0
+be classified group|vp	synonym	belong group|vp	c354-c737-b73a-6024	0
+destruction|n	synonym	loss|n	c388-ad58-2f0e-74b4	0
+lack|n	similar to	little|n	c477-accc-502e-618d	0
+lack|n	similar to	low|n	c477-accc-502e-618d	0
+rub together|v	synonym	move against|v	c4a5-564d-59d0-1074	0
+rub|v	synonym	move against|v	c4a5-564d-59d0-1074	0
+place|n	synonym	area|n	c4f5-f802-6c1a-1448	0
+fossil|n	synonym	preserved remains|jn	c527-3fa0-13ee-6b34	0
+require|v	synonym	need|v	c53b-8f28-1acf-463a	0
+made of|v	synonym	consist|v	c583-9b78-1eab-ae77	0
+control insect|vp	synonym	kill insect|vp	c584-6259-5120-68ef	0
+affected|n	derivational morphology	affect|v	c661-ed40-80e0-0a4a	0
+affect|v	synonym	change|v	c661-ed40-80e0-0a4a	0
+changed|n	derivational morphology	change|v	c661-ed40-80e0-0a4a	0
+collection|n	derivational morphology	collect|v	c681-7a3a-3378-eeea	0
+made of|v	similar to	collection|n	c681-7a3a-3378-eeea	0
+adaptation|n	kind of	advantage|n	c807-08b5-6f5d-e86a	0
+be used for|v	similar to	provide|v	c905-3709-1ccb-3bb6	0
+avoid predator|vp	beneficiary	prey|n	c99b-8602-1fb4-444d	0
+avoid predator|vp	has positive impact on	prey|n	c99b-8602-1fb4-444d	0
+avoid predator|vp	result	live|v	c99b-8602-1fb4-444d	0
+drop|v	synonym	decrease|v	caa8-0bac-3d0b-ba58	0
+Moon|n	synonym	earth's moon|ns	cb34-8d7a-925d-de4d	0
+boiling point|ns	synonym	highest temperature|qn	cb9b-7410-93c7-2adf	0
+property|n	similar to	factor|n	cbec-3f65-5c06-d9cf	0
+absorb|v	synonym	capture|v	cd7c-310b-9fd0-d4d6	0
+match|v	synonym	same|j	cdff-c958-e7f4-227a	0
+come together|vp	synonym	form group|vp	ce17-cba7-7d77-4228	0
+choice|n	has property	good|j	ce9a-e289-c85f-4580	0
+choice|n	has property	wise|j	ce9a-e289-c85f-4580	0
+wise|j	synonym	good|j	ce9a-e289-c85f-4580	0
+function|n	synonym	activity|n	cedb-3691-d453-fabe	0
+concern|n	has negative impact on	object|n	d055-74a0-b787-57b8	0
+problem|n	has negative impact on	object|n	d055-74a0-b787-57b8	0
+shorten|v	result	short|j	d082-bdb2-b20a-30de	0
+positive impact|jn	synonym	benefit|n	d0e2-806e-adad-7e98	0
+role|n	synonym	function|n	d11b-6226-0d28-588a	0
+manage number|vp	similar to	replace|v	d202-571c-6a25-b383	0
+toxic|n	synonym	poisonous|n	d213-eeb4-7ba2-40ca	0
+sign|n	synonym	evidence|n	d21d-46cd-1480-2250	0
+formed by|v	synonym	result|n	d22b-a7bb-0814-9332	0
+cause|v	synonym	make|v	d24e-3153-b652-ccfa	0
+take picture|vp	synonym	create picture|vp	d2cd-1ad7-df53-9b9e	0
+object|n	synonym	item|n	d326-a597-1e70-347e	0
+crumble|v	synonym	break down|v	d359-7f22-ccdd-5f26	0
+environment color|ns	synonym	contents color|ns	d38a-c7d6-bb88-dd4d	0
+emit|v	synonym	release|v	d3de-4860-7a6f-d01d	0
+chance|n	similar to	possible|j	d424-0e1d-3c4d-2b61	0
+may|n	similar to	chance|n	d424-0e1d-3c4d-2b61	0
+closer|j	derivational morphology	close|j	d455-45e9-2aa5-da1b	0
+towards|j	synonym	closer|j	d455-45e9-2aa5-da1b	0
+role|n	synonym	niche|n	d45a-1ff6-3dcb-846d	0
+loss|n	synonym	reduction|n	d4c3-b1cd-df89-8bac	0
+transfer|v	kind of	add|v	d56e-bff7-b1f5-a8f4	0
+be destroyed|v	synonym	cease to exist|v	d6d1-6f75-0a9e-9570	0
+cease to exist|v	structural-verb	cease|v	d6d1-6f75-0a9e-9570	0
+cease to exist|v	structural-verb	exist|v	d6d1-6f75-0a9e-9570	0
+blend in|v	derivational morphology	blending in|ns	d861-52a2-6067-0722	0
+blend in|v	synonym	hide|v	d861-52a2-6067-0722	0
+hide|v	derivational morphology	hiding|n	d861-52a2-6067-0722	0
+motion|n	synonym	movement|n	d8a3-10bb-9aea-178a	0
+motion|n	synonym	moving|n	d8a3-10bb-9aea-178a	0
+move|v	derivational morphology	motion|n	d8a3-10bb-9aea-178a	0
+move|v	derivational morphology	movement|n	d8a3-10bb-9aea-178a	0
+absorb|v	causes	remove|v	d8c7-2c45-02f6-ba6c	0
+carry|v	similar to	conduct|v	d8ee-4d4e-e9bb-141e	0
+give|v	kind of	provide|v	d967-43ba-2f93-e066	0
+make|v	kind of	provide|v	d967-43ba-2f93-e066	0
+computer control robot|avp	similar to	brain control body|avp	d9d2-f2b1-7891-153d	0
+harm|n	synonym	danger|n	da8e-d915-e5af-ae29	0
+form|v	synonym	create|v	daad-f76d-b43d-ce31	0
+type|n	synonym	kind|n	db0b-31a1-91ab-6996	0
+exhale|v	synonym	release|v	db10-d17e-ddad-d545	0
+rainy|j	synonym	rain|v	db16-ef7b-0d18-2435	0
+produce|v	kind of	cause|v	db49-234a-263a-3d1c	0
+clear forest|vp	synonym	cut down tree|vp	dc7e-8241-c2cf-b10a	0
+create|v	synonym	make|v	dd64-2412-f733-7659	0
+once per|ns	synonym	every|n	ddb0-b569-92c2-503c	0
+sunshine|n	synonym	sunlight|n	ddec-2da8-94e4-38ab	0
+device|n	synonym	tool|n	de25-e9d6-aced-d88e	0
+use|v	instrument	useful object|jn	de5c-79d3-c81b-31e5	0
+hare|n	similar to	rabbit|n	de78-b97b-5963-fb87	0
+turn|v	synonym	change|v	dfa9-fbe6-0fdf-502c	0
+aquatic|j	synonym	water|n	dfda-0bf5-6a91-6d09	0
+aquatic animal|jn	kind of	animal|n	dfda-0bf5-6a91-6d09	0
+aquatic animal|jn	synonym	water animal|ns	dfda-0bf5-6a91-6d09	0
+water animal|ns	kind of	animal|n	dfda-0bf5-6a91-6d09	0
+near|n	synonym	close|n	e190-4a9b-1d22-3bef	0
+lower|n	synonym	less|n	e258-cdba-6488-1460	0
+stay same|v	antonym	change|v	e2f0-90c4-cd00-c5a7	0
+damage|n	synonym	harm|n	e36b-5464-c253-5b04	0
+ground|n	synonym	Earth's surface|ns	e3ac-61ec-4ae4-2d5b	0
+dump|v	at location	environment|n	e4d1-f502-402f-4ce9	0
+dump|v	result	add|v	e4d1-f502-402f-4ce9	0
+better|j	synonym	good|j	e4df-dd99-74d8-ede4	0
+find|v	at location	container|n	e57b-18c2-73ff-869b	0
+process|n	has subcomponent	stage|n	e5d4-2c6c-1ee0-4b0b	0
+process|n	has subcomponent	step|n	e5d4-2c6c-1ee0-4b0b	0
+step|n	synonym	stage|n	e5d4-2c6c-1ee0-4b0b	0
+change|v	synonym	have effect|vp	e6a3-b433-9d25-fd98	0
+transfer|v	synonym	bring|v	e6e9-5116-7ff3-0590	0
+transfer|v	synonym	get something to|v	e6e9-5116-7ff3-0590	0
+characteristic|n	synonym	part|n	e6ee-3492-89ae-73d8	0
+object|n	has subcomponent	characteristic|n	e6ee-3492-89ae-73d8	0
+object|n	has subcomponent	part|n	e6ee-3492-89ae-73d8	0
+become|v	kind of	change|v	e715-7f30-5489-dad1	0
+repel|v	synonym	move away|v	e74b-895a-5181-6133	0
+cable|n	similar to	wire|n	e77b-df5f-c14c-c531	0
+increase|v	similar to	extend|v	e7fa-9330-c636-73e3	0
+change|v	patient	variable|n	e827-2672-6e8f-f977	0
+enable|v	kind of	help|v	e841-9354-e28c-e157	0
+escape|v	synonym	avoid|v	e8a0-a094-ce7d-d761	0
+not change|v	antonym	change|v	e931-7db5-7b7d-6c1a	0
+remain|v	synonym	not change|v	e931-7db5-7b7d-6c1a	0
+inclined|n	synonym	sloping|n	e97b-b975-daf9-dfc2	0
+rust|v	synonym	form rust|vp	e9ad-9585-0a08-5148	0
+die out|v	synonym	be extinct|vp	e9b3-b8bf-2377-2ad4	0
+depend on|v	synonym	require|v	e9f8-f0c7-07ec-99de	0
+need|v	synonym	require|v	e9f8-f0c7-07ec-99de	0
+rely on|v	synonym	require|v	e9f8-f0c7-07ec-99de	0
+break body part|vp	synonym	break bone|vp	ea4f-ca58-7c19-5dba	0
+ship|v	synonym	transport|v	ea8e-80e0-fecc-1b9f	0
+be able to|v	synonym	can|v	ead8-a51c-1949-4d56	0
+become warm|vj	synonym	get warm|vj	eaf4-5337-8873-bbfd	0
+build|v	derivational morphology	building|n	eb54-6da1-4c1e-fb6a	0
+construction|n	derivational morphology	construct|v	eb54-6da1-4c1e-fb6a	0
+construct|v	synonym	build|v	eb54-6da1-4c1e-fb6a	0
+survive|v	synonym	live|v	eb58-30d7-0fc1-e38a	0
+cause|v	synonym	be responsible for|v	eb82-cc9b-b653-15f8	0
+metamorphosis|n	synonym	complete metamorphosis|jn	ebfe-a509-ebca-1272	0
+high-quality|n	synonym	positive|n	ec58-f0e9-1560-01c8	0
+coloration|n	synonym	color|n	ec67-fb28-a332-b260	0
+circular motion|jn	similar to	circle|n	ecbd-8ae1-ad39-82c9	0
+land feature|ns	instance of	feature|n	ecdd-241e-c5c7-d03b	0
+landform|n	synonym	land feature|ns	ecdd-241e-c5c7-d03b	0
+landform|n	synonym	physical feature|jn	ecdd-241e-c5c7-d03b	0
+landform|n	synonym	surface feature|ns	ecdd-241e-c5c7-d03b	0
+physical feature|jn	instance of	feature|n	ecdd-241e-c5c7-d03b	0
+surface feature|ns	instance of	feature|n	ecdd-241e-c5c7-d03b	0
+develop|v	derivational morphology	developing|n	ecde-2a46-6004-aa33	0
+develop|v	synonym	make|v	ecde-2a46-6004-aa33	0
+making|n	derivational morphology	make|v	ecde-2a46-6004-aa33	0
+hair|n	similar to	fur|n	ee27-6897-25e9-a3e2	0
+sea|n	synonym	ocean|n	eea5-0a22-fd84-0a3b	0
+solar energy|jn	instance of	energy|n	ef29-744a-92a8-f884	0
+solar radiation|ns	instance of	radiation|n	ef29-744a-92a8-f884	0
+solar radiation|ns	synonym	solar energy|jn	ef29-744a-92a8-f884	0
+material|n	synonym	substance|n	efac-0ec0-58dc-8f9e	0
+generate|v	synonym	produce|v	f024-43c1-e400-3c3d	0
+warm up|v	synonym	increase temperature|vp	f0a6-ff41-4499-55a5	0
+contain|v	kind of	hold|v	f128-d566-1e55-83b4	0
+missing|v	result	less|j	f23e-a9fe-6f95-676f	0
+attract mate|vp	synonym	find mate|vp	f25a-4bc3-30c4-ec0b	0
+allow|v	synonym	can|v	f26a-3bae-a5e0-ed8a	0
+purpose|n	synonym	role|n	f2ae-4200-68be-15fd	0
+impact|v	synonym	alter|v	f306-b3dc-08d5-67b6	0
+impact|v	derivational morphology	impact|n	f306-b3dc-08d5-67b6	0
+impact|v	synonym	alter|v	f306-b3dc-08d5-67b6	0
+UV|n	synonym	ultraviolet|n	f34d-332a-9caa-46f3	0
+preserved|j	synonym	old|j	f3c5-da85-408b-e3f5	0
+control pollution|vp	similar to	reduce pollution|vp	f3f1-5a52-e200-585a	0
+die|v	result	death|n	f3f5-fefd-3507-4a59	0
+cause|v	synonym	result in|v	f4d3-fd82-31d1-855c	0
+prevent occurrence|vp	synonym	decrease occurrence|vp	f557-1bfc-f95b-375d	0
+flow|v	kind of	pour|v	f58b-3497-96ff-eec1	0
+travel|v	synonym	move|v	f5f4-d4dd-cf26-09d5	0
+average|n	similar to	usual|n	f5fa-f560-be88-5c62	0
+belong to class|vp	synonym	be kind of|v	f5fb-4734-09f4-62e7	0
+moon kind|ns	synonym	moon phase|ns	f706-d251-d2c7-c788	0
+moon type|ns	synonym	moon phase|ns	f706-d251-d2c7-c788	0
+help|v	synonym	assist|v	f770-6cd8-e42d-7b63	0
+demonstration|n	similar to	example|n	f7cb-5d13-2753-d89d	0
+influence|v	synonym	impact|v	f8a6-912e-89fb-2613	0
+loss|n	similar to	removal|n	fa82-e6b0-0b60-b7ce	0
+melting point|ns	kind of	temperature|n	fa8f-6c8e-1364-1b72	0
+solid melt|av	instrument	melting point|ns	fa8f-6c8e-1364-1b72	0
+see|v	synonym	look|v	faab-3e71-cd3d-575c	0
+due to|v	synonym	caused by|v	fae5-1f95-1138-9bc4	0
+physical state|ns	kind of	matter state|ns	fb57-e33b-b44f-8545	0
+plant species|ns	kind of	plant|n	fb5f-417c-8bf2-037e	0
+rain storm|ns	synonym	rainstorm|n	fb92-b17a-c650-08cf	0
+rainstorm|n	kind of	weather|n	fb92-b17a-c650-08cf	0
+physical state|ns	instance of	state|n	fbbf-2df4-a9ce-da1f	0
+state of matter|ns	synonym	physical state|ns	fbbf-2df4-a9ce-da1f	0
+good|n	synonym	positive|n	fc64-bcd7-4282-619e	0
+contain|v	similar to	provide|v	fca7-758b-0a9d-3bdd	0
+mass|n	similar to	size|n	fce7-68b6-85e3-5884	0
+exercise|n	synonym	physical fitness|ns	fd56-73df-1f6f-e1bc	0
+spot|n	synonym	location|n	fd5d-4f6f-067b-1ef0	0
+study|v	kind of	investigate|v	fd8e-2947-11d9-e1d9	0
+fall|v	kind of	come down|v	fe06-26b1-978b-9642	0
+NaCL|n	synonym	sodium chloride|ns	fe4e-30b4-4a07-3f35	0
+sodium chloride|ns	synonym	salt|n	fe4e-30b4-4a07-3f35	0
+usual|n	synonym	normal|n	fee8-4b0a-3141-7a55	0
+make easier|vp	synonym	help|v	ff68-4699-0671-f8b7	0

@@ -1,0 +1,77 @@
+subj	rel	obj	id	flag
+fossil fuel|ns	has subcomponent	dead organism|jn	18f3-bb02-623d-b420	0
+fossil|n	has subcomponent	dead organism|jn	18f3-bb02-623d-b420	0
+atom|n	has subcomponent	electron|n	1cf8-9176-21d7-92ba	0
+electron leave atom|avp	result	plasma|n	1cf8-9176-21d7-92ba	0
+plasma|n	at location	star|n	1cf8-9176-21d7-92ba	0
+plasma|n	has subcomponent	electron|n	1cf8-9176-21d7-92ba	0
+compress prehistoric animal remains|vp	result	natural gas|jn	1d61-22c7-c31a-e8cc	0
+heat prehistoric animal remains|vp	result	natural gas|jn	1d61-22c7-c31a-e8cc	0
+sandbar|n	at location	downstream|j	1dbc-76a8-e377-f8c3	0
+water move sediment|avp	result	sandbar|n	1dbc-76a8-e377-f8c3	0
+plateau|n	has subcomponent	cool lava|jn	2f74-5c89-2c6c-dcfb	0
+water vapour condense|av	result	water bead|ns	3b7d-6a35-e182-1176	0
+water vapour condense|av	result	cloud|n	3c3a-0eac-88e6-b000	0
+water vapour rise|av	result	cloud|n	3c3a-0eac-88e6-b000	0
+rock fold|av	result	Alps|n	3dc6-ceb8-e305-24f4	0
+rock fold|av	result	Appalachians|n	3e73-bd8b-3ffb-d9d4	0
+glacier|n	causes	bowl-shaped lakes|jn	45a0-1086-16da-44ef	0
+glacier|n	causes	deep lake|jn	45a0-1086-16da-44ef	0
+fog|n	at location	air|n	5212-c2af-5c9e-8173	0
+water vapour condense|av	at location	air|n	5212-c2af-5c9e-8173	0
+water vapour condense|av	result	fog|n	5212-c2af-5c9e-8173	0
+weathering|v	causes	sedimentary rock|jn	5645-74d9-19c8-9dc4	0
+weather|v	result	sediment|n	5645-74d9-19c8-9dc4	0
+lava cool|av	result	new land|jn	5cf8-8920-4274-dde5	0
+volcano erupt|av	result	lava|n	5cf8-8920-4274-dde5	0
+lava cool|av	at location	ocean floor|ns	7a40-4610-fe1f-42fa	0
+lava cool|av	result	island|n	7a40-4610-fe1f-42fa	0
+sediment cement|av	result	sedimentary rock|jn	8069-7f81-d181-7a04	0
+sediment compact|av	result	sedimentary rock|jn	8069-7f81-d181-7a04	0
+erode|v	result	canyon|n	95de-5e9c-79e0-c861	0
+river flow|av	result	canyon|n	95de-5e9c-79e0-c861	0
+river flow|av	result	erosion|n	95de-5e9c-79e0-c861	0
+earthquake|n	causes	mountain|n	97d0-5256-918b-cee7	0
+plate tectonic|ns	causes	mountain|n	97d0-5256-918b-cee7	0
+volcano erupt|av	result	mountain|n	97d0-5256-918b-cee7	0
+carbonic acid dissolve limestone|avp	at location	rock|n	98b4-c34e-52df-8abf	0
+carbonic acid dissolve limestone|avp	result	cavern|n	98b4-c34e-52df-8abf	0
+carbonic acid|ns	at location	groundwater|n	98b4-c34e-52df-8abf	0
+natural geological process|jn	causes	mineral|n	9b16-01cf-5fdb-ae1e	0
+water vapour condense|av	result	dew|n	9f14-a567-d745-cbb2	0
+water vapour cool|av	result	dew|n	9f14-a567-d745-cbb2	0
+asteroid impact|av	patient	Moon|n	a7f1-5498-c4dd-7392	0
+asteroid impact|av	patient	planet|n	a7f1-5498-c4dd-7392	0
+asteroid impact|av	result	crater|n	a7f1-5498-c4dd-7392	0
+meteoroid impact|av	patient	Moon|n	a7f1-5498-c4dd-7392	0
+meteoroid impact|av	patient	planet|n	a7f1-5498-c4dd-7392	0
+meteoroid impact|av	result	crater|n	a7f1-5498-c4dd-7392	0
+deposit|v	derivational morphology	deposit|n	aa44-693c-697b-f10c	0
+deposit|v	derivational morphology	deposition|n	aa44-693c-697b-f10c	0
+deposit|v	result	deposition|n	aa44-693c-697b-f10c	0
+deposit|v	result	stalactite|n	aa44-693c-697b-f10c	0
+rock fold|av	result	Himalayas|n	adbd-a12d-f086-3af2	0
+sediment cover organism remains|avp	result	fossil|n	b0d4-928e-e799-54a6	0
+limestone|n	has subcomponent	mineral|n	b42d-1910-33f9-952b	0
+water evaporate|av	result	limestone|n	b42d-1910-33f9-952b	0
+river flow|av	result	valley|n	b544-316a-4f6a-1791	0
+compress decomposing algae|vp	agent	soil|n	c55d-d09c-91b9-a73c	0
+compress decomposing algae|vp	result	oil|n	c55d-d09c-91b9-a73c	0
+rock erode|av	result	soil|n	c59e-0070-96f7-48b8	0
+light refract|av	result	rainbow|n	c7a2-2ef3-cee5-a093	0
+glacier melt|av	result	rock deposit|av	cb6d-119e-cb76-09a7	0
+rock deposit|av	result	rock pile|ns	cb6d-119e-cb76-09a7	0
+circuit|n	has subcomponent	electromagnet|n	cb9d-9db9-4d61-d79f	0
+electromagnet|n	has subcomponent	copper wire|jn	cb9d-9db9-4d61-d79f	0
+electromagnet|n	has subcomponent	iron nail|ns	cb9d-9db9-4d61-d79f	0
+colorado river flow|av	result	grand canyon|ns	d308-a04a-d030-5c6c	0
+lava cool|av	result	igneous rock|jn	d9aa-4785-cdb4-ac25	0
+magma cool|av	result	igneous rock|jn	d9aa-4785-cdb4-ac25	0
+weathering|v	derivational morphology	weather|v	e058-7f0b-067c-4da4	0
+weather|v	result	soil|n	e058-7f0b-067c-4da4	0
+delta|n	at location	river mouth|ns	fa6f-ce79-52bc-2ba1	0
+sediment deposit|av	result	delta|n	fa6f-ce79-52bc-2ba1	0
+water fan out|av	result	sediment deposit|av	fa6f-ce79-52bc-2ba1	0
+wind move sand|avp	result	sand dune|ns	fb26-f5aa-51d2-7866	0
+glacier ice melt|av	result	kettle|n	fd00-6ac1-b7ce-d4d6	0
+glacier move|av	result	Great Lakes|jn	ffc7-259e-e733-5c0c	0

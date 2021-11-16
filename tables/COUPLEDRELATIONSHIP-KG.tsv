@@ -1,0 +1,188 @@
+subj	rel	obj	id	flag
+increase temperature|vp	result	big|j	04fa-aa15-4ac9-8da4	0
+farm meat|ns	has negative impact on	wild meat|ns	0a67-4834-1132-d2e9	0
+meat|n	at location	farm|n	0a67-4834-1132-d2e9	0
+meat|n	at location	wild|n	0a67-4834-1132-d2e9	0
+sell|v	patient	meat|n	0a67-4834-1132-d2e9	0
+many organism|qn	has positive impact on	survival|n	0b20-e1d5-d119-0111	0
+day|n	has subcomponent	high temperature|jn	0d5b-f3fe-5534-5799	0
+light|n	has negative impact on	shadow|n	0dc2-4cac-dfae-1b4e	0
+surface area|ns	causes	evaporation|n	11a7-2581-9122-ab66	0
+water|n	has property	surface area|ns	11a7-2581-9122-ab66	0
+close light|jn	has property	bright|j	12b0-e9bb-c84e-6a42	0
+fewer plant|qn	causes	carbon|n	163a-1ae9-b8d6-c3ab	0
+high temperature|jn	has positive impact on	dissolve|v	1857-eaa2-79ea-ce00	0
+evaporate|v	agent	liquid|n	1a64-71d5-62de-afa4	0
+increase temperature|vp	result	evaporate|v	1a64-71d5-62de-afa4	0
+roughness|n	causes	friction|n	1b40-3366-53ff-d094	0
+roughness|n	derivational morphology	rough|j	1b40-3366-53ff-d094	0
+smooth|j	antonym	rough|j	1b40-3366-53ff-d094	0
+reflect|v	agent	light colour|jn	1bf4-ea57-b77d-dd0b	0
+absorb sunlight|vp	has positive impact on	big leaf|jn	1dab-d0e6-0b3a-1f75	0
+move|v	result	kinetic energy|jn	208b-1d9a-792c-c10c	0
+vibrate|v	result	sound|n	21bb-c63e-dd97-390f	0
+use crop|vp	result	plant crop|vp	2441-0314-3609-c566	0
+far light|jn	has property	dim|j	247f-1076-f052-4a42	0
+plant|n	has positive impact on	herbivore|n	2590-d8b5-881d-7252	0
+rain|n	causes	water|n	296e-c3bd-d88a-2edf	0
+dry|j	antonym	water|n	2999-5991-d180-65c1	0
+dryness|n	derivational morphology	dry|j	2999-5991-d180-65c1	0
+environment|n	has property	dry|j	2999-5991-d180-65c1	0
+light pollution|ns	has negative impact on	see star|av	29a8-8ae2-e41b-b230	0
+thickness|n	has negative impact on	break|v	2b0c-392f-5a90-0854	0
+thickness|n	has negative impact on	tear|v	2b0c-392f-5a90-0854	0
+moisture|n	causes	friction|n	2ca8-b3c1-6ebc-f1a0	0
+less water|qn	causes	narrow tree ring|jn	2df3-be53-b099-efd8	0
+temperature|n	causes	air pressure|ns	2f8f-92e5-f96b-7b91	0
+exert|v	patient	force|n	313c-4c5c-0e2c-e2b6	0
+object|n	has property	speed|j	313c-4c5c-0e2c-e2b6	0
+speed|n	causes	force|n	313c-4c5c-0e2c-e2b6	0
+big altitude|jn	causes	cold|j	335f-491e-b6bf-7684	0
+increase water|vp	result	less land|qn	379c-057c-119a-a5bd	0
+big amount|jn	has positive impact on	extensive property|ns	3820-b234-4260-797d	0
+big size|jn	has positive impact on	extensive property|ns	3820-b234-4260-797d	0
+use alternative fuel|vp	result	save gasoline|vp	4181-279d-7173-5195	0
+compete|v	agent	predator|n	4215-2fa0-919f-fb85	0
+fewer prey|qn	result	compete|v	4215-2fa0-919f-fb85	0
+cool down|v	result	cold|j	42a9-2b43-9373-6876	0
+heat transfer|av	result	source cool down|av	42a9-2b43-9373-6876	0
+transport food|vp	at location	world|n	4517-3252-bc68-8040	0
+transport food|vp	goal	distant location|jn	4517-3252-bc68-8040	0
+transport food|vp	result	diverse food|jn	4517-3252-bc68-8040	0
+object|n	has property	thickness|n	4947-b167-2d68-5a22	0
+strength|n	has negative impact on	damage|v	4947-b167-2d68-5a22	0
+thickness|n	causes	strength|n	4947-b167-2d68-5a22	0
+large size|jn	has positive impact on	visibility|n	4aa6-0eac-9f6d-0d0b	0
+object|n	has property	size|j	4aa6-0eac-9f6d-0d0b	0
+visibility|n	derivational morphology	visible|j	4aa6-0eac-9f6d-0d0b	0
+absorb sunlight|vp	beneficiary	plant|n	4b24-4db5-ec89-d94c	0
+absorb sunlight|vp	instrument	flat leaf|jn	4b24-4db5-ec89-d94c	0
+plant|n	has subcomponent	leaf|n	4b24-4db5-ec89-d94c	0
+big amount|jn	has positive impact on	extensive property|ns	4c10-6365-6e17-e201	0
+big size|jn	has positive impact on	extensive property|ns	4c10-6365-6e17-e201	0
+extensive property|ns	antonym	intensive property|jn	4c10-6365-6e17-e201	0
+sell|v	beneficiary	person|n	4e9a-4d83-b831-d02e	0
+sell|v	derivational morphology	sale|n	4e9a-4d83-b831-d02e	0
+sell|v	patient	product|n	4e9a-4d83-b831-d02e	0
+sell|v	result	money|n	4e9a-4d83-b831-d02e	0
+competition|n	derivational morphology	compete|v	523a-4a3c-c4a9-e681	0
+competition|n	has negative impact on	ability|n	523a-4a3c-c4a9-e681	0
+fly|v	agent	animal|n	524f-527c-c377-46c0	0
+less weight|qn	has positive impact on	fly|v	524f-527c-c377-46c0	0
+roughness|n	causes	friction|n	5301-3197-c9cd-25af	0
+roughness|n	derivational morphology	rough|j	5301-3197-c9cd-25af	0
+increase mpg|vp	beneficiary	gasoline|n	599e-347c-567c-1fb2	0
+mpg|n	synonym	miles per gallon|ns	599e-347c-567c-1fb2	0
+building move|av	has negative impact on	building collapse|av	5b09-f056-de97-ef2c	0
+earthquake|n	causes	building collapse|av	5b09-f056-de97-ef2c	0
+environment temperature|ns	causes	body temperature|ns	5b3a-3202-f15f-57c1	0
+reptile|n	has property	body temperature|ns	5b3a-3202-f15f-57c1	0
+heavy|j	instance of	mass|n	614f-48c8-755b-db8d	0
+push heavy object|vp	instrument	much force|qn	614f-48c8-755b-db8d	0
+rain|n	has negative impact on	sunlight|n	617e-4655-cd23-1bc6	0
+low air pressure|qn	causes	flexible container expand|av	62ff-bf8f-6b81-d3f1	0
+low temperature|jn	causes	retain water|vp	655c-cb6e-d3de-9be5	0
+retain water|vp	agent	animal|n	655c-cb6e-d3de-9be5	0
+barometer|n	causes	reading|n	67a2-4933-140d-2d35	0
+measure air pressure|vp	instrument	barometer|n	67a2-4933-140d-2d35	0
+quick shower|jn	has positive impact on	water|n	6932-1188-6eee-7b18	0
+shower|n	has subcomponent	water|n	6932-1188-6eee-7b18	0
+take|v	patient	shower|n	6932-1188-6eee-7b18	0
+aquatic animal|jn	at location	water|n	6bf3-1b34-7a15-0fe9	0
+short distance|jn	causes	appear large|vp	6d4f-15e5-fadf-6159	0
+big flower|jn	has positive impact on	pollinator|n	7216-d3cd-86c1-feb2	0
+many energy|qn	causes	fast breathing|jn	740e-55ec-8b5a-8ade	0
+many energy|qn	causes	high pulse|jn	740e-55ec-8b5a-8ade	0
+planet rotate|av	causes	day|n	7778-56a7-1a1e-24cf	0
+planet rotate|av	causes	night|n	7778-56a7-1a1e-24cf	0
+heat|v	causes	expand|v	7854-76a6-6501-4b8f	0
+more offspring|qn	has positive impact on	survival|n	7906-b683-f36f-8a3d	0
+survival|n	derivational morphology	survive|v	7906-b683-f36f-8a3d	0
+increase water|vp	result	water level rise|av	7956-497a-6dfb-85f9	0
+height|n	causes	potential energy|jn	7b1d-3e19-a611-e427	0
+sun|n	causes	heat|n	7e55-15d2-7655-88f0	0
+sunset|n	causes	cold|j	7e55-15d2-7655-88f0	0
+height|n	causes	air pressure decrease|av	8031-0a5c-74bc-85e8	0
+kinetic energy|jn	antonym	potential energy|jn	83a6-a1ca-cb77-fc0a	0
+reduce source|vp	result	less object|qn	84e6-3d26-d645-4729	0
+source|n	causes	object|n	84e6-3d26-d645-4729	0
+food|n	at location	environment|n	86c9-9f73-ea5d-79fd	0
+water|n	at location	environment|n	86c9-9f73-ea5d-79fd	0
+water|n	has positive impact on	food|n	86c9-9f73-ea5d-79fd	0
+large depth|jn	causes	pressure|n	894e-5991-acbb-3f2c	0
+matter|n	has property	mass|j	8bd9-8220-2cc9-9876	0
+matter|n	has property	state|j	8bd9-8220-2cc9-9876	0
+food|n	has positive impact on	animal|n	9020-a34d-342a-2d13	0
+little food|qn	causes	decrease population|vp	9020-a34d-342a-2d13	0
+ability|n	has positive impact on	difficulty|n	903e-e36b-cdfa-326e	0
+difficulty|n	derivational morphology	difficult|j	903e-e36b-cdfa-326e	0
+temperature|n	kind of	intensive property|jn	94b4-900e-1eec-d6c3	0
+animal|n	has property	thin|j	953f-d41b-9aaa-8319	0
+eat|v	patient	food|n	953f-d41b-9aaa-8319	0
+reduce food|vp	result	thin|j	953f-d41b-9aaa-8319	0
+long distance|jn	causes	appear small|vp	994f-4898-9a1a-659b	0
+cold|j	at location	ocean|n	9bcc-b632-9e13-d930	0
+close object|jn	has positive impact on	gravity|n	9d4d-3bfb-e0e2-d068	0
+pollinator|n	has positive impact on	reproduce|v	9de6-eb30-5159-2eef	0
+reproduce|v	beneficiary	flower|n	9de6-eb30-5159-2eef	0
+few predator|qn	has positive impact on	prey population|ns	9e69-e4c7-1f9e-a37e	0
+predator|n	has negative impact on	prey|n	9e69-e4c7-1f9e-a37e	0
+force|n	causes	mechanical energy|jn	a0b0-3334-1d94-6318	0
+sound|n	synonym	sound energy|ns	a0b0-3334-1d94-6318	0
+touch|v	result	sound|n	a0b0-3334-1d94-6318	0
+flood|n	has negative impact on	low elevation|jn	a531-afe2-6f44-bf00	0
+use renewable resource|vp	has negative impact on	nonrenewable resource|jn	a979-cbd2-fb2d-175e	0
+eat food|vp	result	increase weight|vp	afc8-98d8-094a-fc24	0
+gravity|n	causes	weight|n	b23c-a7ea-8693-4a44	0
+place|n	has property	latitude|n	b4d1-4fcf-d14e-cb3b	0
+same latitude|jn	causes	same sunlight|jn	b4d1-4fcf-d14e-cb3b	0
+season|n	causes	sunlight intensity|ns	b4d1-4fcf-d14e-cb3b	0
+mass|n	causes	weight|n	b676-c9b3-bff8-a5c3	0
+city|n	causes	light pollution|ns	b72b-62d2-5281-f92e	0
+water|n	causes	humidity|n	b9e7-6612-b3bc-264a	0
+food source|ns	at location	environment|n	bc70-82f8-3ab8-89f4	0
+food source|ns	has positive impact on	population|n	bc70-82f8-3ab8-89f4	0
+transport food|vp	instrument	preserve food|vp	bfb3-7ce9-4ba1-f302	0
+activity|n	causes	lose water|vp	c487-ace1-e8b8-6158	0
+lose water|vp	agent	animal|n	c487-ace1-e8b8-6158	0
+pollution|n	causes	high temperature|jn	c7cf-6501-ed06-6b76	0
+little water|qn	has negative impact on	plant population|ns	c815-1f8a-8ea2-6492	0
+water|n	has positive impact on	plant|n	c815-1f8a-8ea2-6492	0
+evaporate|v	agent	liquid|n	cb74-f946-eef2-3ca5	0
+increase temperature|vp	result	evaporate|v	cb74-f946-eef2-3ca5	0
+light|n	causes	shadow|n	cc75-33b5-2674-6153	0
+hatch|v	agent	egg|n	ccee-6dfb-1111-b7a2	0
+many egg|qn	has positive impact on	hatch|v	ccee-6dfb-1111-b7a2	0
+celestial body|jn	has subcomponent	mass|n	cecf-144a-6959-4a28	0
+mass|n	causes	gravity|n	cecf-144a-6959-4a28	0
+planet|n	has subcomponent	mass|n	cecf-144a-6959-4a28	0
+move|v	instrument	force|n	d104-d5d8-6378-fe3a	0
+kinetic energy|jn	causes	heat|n	d148-e8f6-c895-1843	0
+deep water|jn	causes	pressure|n	d9fd-c8f3-a4aa-801e	0
+bad|j	antonym	good|j	def7-ed0f-010f-6b59	0
+bad tool|jn	causes	waste|n	def7-ed0f-010f-6b59	0
+discard|v	result	waste|n	def7-ed0f-010f-6b59	0
+resist|v	result	difficult|j	e067-ed4c-972f-7684	0
+organism|n	has property	population|n	e124-fe21-9a74-45f3	0
+water|n	has positive impact on	population|n	e124-fe21-9a74-45f3	0
+low air pressure|qn	causes	rain|n	e59e-0e41-e397-6426	0
+big eye|jn	has positive impact on	see|v	e974-d547-bb5a-b579	0
+see|v	agent	animal|n	e974-d547-bb5a-b579	0
+flower|n	has property	good smell|jn	eb0b-95a3-aff8-8642	0
+good smell|jn	has positive impact on	pollinator|n	eb0b-95a3-aff8-8642	0
+resource|n	has positive impact on	population|n	ef04-96f5-1898-e701	0
+use resource|vp	agent	organism|n	ef04-96f5-1898-e701	0
+heat|n	has positive impact on	hurricane|n	f390-e545-13bc-42de	0
+moisture|n	has positive impact on	hurricane|n	f390-e545-13bc-42de	0
+roughness|n	causes	friction|n	f5db-3d81-10c5-e292	0
+roughness|n	derivational morphology	rough|j	f5db-3d81-10c5-e292	0
+use resource|vp	has negative impact on	availability|n	f881-bd1d-4ff7-700f	0
+plant grow|av	instrument	water|n	f8e4-1e90-0a4f-5fde	0
+water|n	has positive impact on	plant|n	f8e4-1e90-0a4f-5fde	0
+increase daylight|vp	causes	late sunset|jn	f928-890b-c601-7e5a	0
+equator|n	has property	many daylight|qn	fdf9-ea9d-ca52-43bb	0
+pole|n	has property	little daylight|qn	fdf9-ea9d-ca52-43bb	0
+summer|n	has positive impact on	daylight|n	fdf9-ea9d-ca52-43bb	0
+winter|n	has negative impact on	daylight|n	fdf9-ea9d-ca52-43bb	0
+few prey|qn	has negative impact on	predator population|ns	fe4b-29a0-b3d1-b929	0
+prey|n	has positive impact on	predator|n	fe4b-29a0-b3d1-b929	0

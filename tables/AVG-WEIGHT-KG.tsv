@@ -1,0 +1,25 @@
+subj	rel	obj	id	flag
+475 kg|qn	instance of	weight|n	5ede-59cb-d266-b4b0	0
+475 kg|qn	structural-noun	kg|n	5ede-59cb-d266-b4b0	0
+475 kg|qn	structural-quantifier	475|#	5ede-59cb-d266-b4b0	0
+horse weight|ns	instance of	weight|n	5ede-59cb-d266-b4b0	0
+horse weight|ns	synonym	475 kg|qn	5ede-59cb-d266-b4b0	0
+horse|n	has property	horse weight|ns	5ede-59cb-d266-b4b0	0
+32 kg|qn	instance of	weight|n	8d82-d89e-3210-eb99	0
+32 kg|qn	structural-noun	kg|n	8d82-d89e-3210-eb99	0
+32 kg|qn	structural-quantifier	32|#	8d82-d89e-3210-eb99	0
+dog weight|ns	instance of	weight|n	8d82-d89e-3210-eb99	0
+dog weight|ns	synonym	32 kg|qn	8d82-d89e-3210-eb99	0
+dog|n	has property	dog weight|ns	8d82-d89e-3210-eb99	0
+2 kg|qn	instance of	weight|n	9012-e8ac-14df-5227	0
+2 kg|qn	structural-noun	kg|n	9012-e8ac-14df-5227	0
+2 kg|qn	structural-quantifier	2|#	9012-e8ac-14df-5227	0
+chicken weight|ns	instance of	weight|n	9012-e8ac-14df-5227	0
+chicken weight|ns	synonym	2 kg|qn	9012-e8ac-14df-5227	0
+chicken|n	has property	chicken weight|ns	9012-e8ac-14df-5227	0
+0.5 kg|qn	instance of	weight|n	fb38-2011-8574-1ceb	0
+0.5 kg|qn	structural-noun	kg|n	fb38-2011-8574-1ceb	0
+0.5 kg|qn	structural-quantifier	0.5|#	fb38-2011-8574-1ceb	0
+lizard weight|ns	instance of	weight|n	fb38-2011-8574-1ceb	0
+lizard weight|ns	synonym	0.5 kg|qn	fb38-2011-8574-1ceb	0
+lizard|n	has property	lizard weight|ns	fb38-2011-8574-1ceb	0

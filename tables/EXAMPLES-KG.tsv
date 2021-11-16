@@ -1,0 +1,111 @@
+subj	rel	obj	id	flag
+rain|n	kind of	stormy weather|jn	0157-8650-437a-4faa	0
+camouflage|v	instrument	change color|vp	0a51-236d-27b4-abc4	0
+reuse|v	result	avoid waste|vp	14dd-cb36-7a17-38fa	0
+avoid fossil fuel|vp	kind of	conservation|n	1c25-34e6-67f5-e7a6	0
+strum guitar|vp	kind of	play musical instrument|vp	1d01-8937-52ac-d9af	0
+hibernate|v	agent	frog|n	24a1-6da8-dc81-accd	0
+hibernate|v	instrument	mud|n	24a1-6da8-dc81-accd	0
+store item|vp	kind of	prepare|v	267f-c271-3ae7-09ae	0
+bird fly south|avp	kind of	migrate|v	2ad2-04a7-e3e7-916a	0
+migration|n	derivational morphology	migrate|v	2ad2-04a7-e3e7-916a	0
+drink milk|vp	kind of	instinct|n	2be3-eb61-1441-7846	0
+kangaroo drink milk|avp	at location	kangaroo pouch|ns	2be3-eb61-1441-7846	0
+kangaroo drink milk|avp	kind of	instinct|n	2be3-eb61-1441-7846	0
+kangaroo|n	has subcomponent	pouch|n	2be3-eb61-1441-7846	0
+salt and pepper|ns	has subcomponent	pepper|n	2f3a-a260-7230-3c07	0
+salt and pepper|ns	has subcomponent	salt|n	2f3a-a260-7230-3c07	0
+salt and pepper|ns	kind of	mixture|n	2f3a-a260-7230-3c07	0
+ocean become forest|avp	kind of	earth change|av	3135-2d8c-c018-d7a3	0
+avoid waste|vp	kind of	conservation|n	393b-f9b6-0519-c483	0
+conservation|n	derivational morphology	conserve|v	393b-f9b6-0519-c483	0
+camouflage|v	result	resemble environment|vp	3a90-a5a3-dc27-ca09	0
+plant|n	kind of	alternative fuel|jn	3b34-899d-3adf-7bcb	0
+disperse seed|vp	instrument	animal eat seed|avp	3e4c-9c36-623e-f00e	0
+disperse seed|vp	instrument	animal excrete seed|avp	3e4c-9c36-623e-f00e	0
+moving object|jn	has property	mechanical energy|jn	4aca-cf16-fcc6-1f79	0
+open clam|vp	agent	otter|n	4ba7-d894-3b98-2b11	0
+open clam|vp	instrument	rock|n	4ba7-d894-3b98-2b11	0
+open clam|vp	kind of	hunt|v	4ba7-d894-3b98-2b11	0
+observe|v	result	scientific evidence|ns	5075-0322-1096-f7e0	0
+reuse object|vp	kind of	recycle|v	5b81-70c7-64a4-f7d2	0
+instinctive behaviour|jn	synonym	instinct|n	5c37-d156-8278-962c	0
+peck shell|vp	agent	baby bird|jn	5c37-d156-8278-962c	0
+peck shell|vp	kind of	instinct|n	5c37-d156-8278-962c	0
+peck shell|vp	result	hatch|v	5c37-d156-8278-962c	0
+pour|v	result	combine substance|vp	6526-d3de-375a-2661	0
+conservation|n	derivational morphology	conserve|v	661c-7af5-8c9a-80e9	0
+turn off tap|vp	kind of	conservation|n	661c-7af5-8c9a-80e9	0
+replace natural resource|vp	instrument	plant tree|vp	689c-8e64-fe48-c90e	0
+vinegar water|ns	has subcomponent	vinegar|n	6d51-d6e6-4789-d0b9	0
+vinegar water|ns	has subcomponent	water|n	6d51-d6e6-4789-d0b9	0
+vinegar water|ns	kind of	solution|n	6d51-d6e6-4789-d0b9	0
+disperse seed|vp	instrument	animal bury seed|avp	7119-02f2-0acf-3280	0
+disperse seed|vp	instrument	animal gather seed|avp	7119-02f2-0acf-3280	0
+disperse seed|vp	instrument	animal hide seed|avp	7119-02f2-0acf-3280	0
+protect environment|vp	instrument	protected area|jn	770d-6c83-0ecd-3e9f	0
+grow fur|vp	agent	animal|n	7adb-e986-7c30-64d9	0
+grow fur|vp	kind of	seasonal change|jn	7adb-e986-7c30-64d9	0
+grow fur|vp	result	warmth|n	7adb-e986-7c30-64d9	0
+keep warm|vj	instrument	fur|n	7adb-e986-7c30-64d9	0
+oil and water|ns	has subcomponent	oil|n	8622-9e03-2724-60f7	0
+oil and water|ns	kind of	suspension|n	8622-9e03-2724-60f7	0
+oil and water|ns	structural-noun-compound	oil|n	8622-9e03-2724-60f7	0
+oil and water|ns	structural-noun-compound	water|n	8622-9e03-2724-60f7	0
+oil mixed with water|ns	has subcomponent	water|n	8622-9e03-2724-60f7	0
+camel hump|ns	kind of	adaptation|n	875c-ebc8-05a0-0a18	0
+paw print|ns	kind of	fossil|n	8867-690e-1dfa-c7b4	0
+maintain number|vp	instrument	replace|v	8b1d-776b-ee60-6646	0
+manage number|vp	instrument	replace|v	8b1d-776b-ee60-6646	0
+footprint|n	kind of	fossil|n	8c6a-e1d6-dbe5-e366	0
+weather|v	at location	rock crack|ns	9066-bf57-f1ce-0134	0
+weather|v	instrument	plant root|ns	9066-bf57-f1ce-0134	0
+clay|n	kind of	material|n	90f7-2aac-1033-925c	0
+mixture|n	synonym	many material|qn	90f7-2aac-1033-925c	0
+sand|n	kind of	material|n	90f7-2aac-1033-925c	0
+soil|n	kind of	material|n	90f7-2aac-1033-925c	0
+acid|n	causes	chemical change|jn	9213-5a66-7733-0fc8	0
+chimpanzee dig|av	result	insect|n	9cdf-f5b2-8eba-bfd3	0
+dig|v	agent	chimpanzee|n	9cdf-f5b2-8eba-bfd3	0
+dig|v	instrument	stick|n	9cdf-f5b2-8eba-bfd3	0
+dig|v	instrument	tool|n	9cdf-f5b2-8eba-bfd3	0
+insect|n	has positive impact on	chimpanzee|n	9cdf-f5b2-8eba-bfd3	0
+stick|n	kind of	tool|n	9cdf-f5b2-8eba-bfd3	0
+room|n	kind of	container|n	9e2d-3d7a-89e5-b860	0
+move|v	kind of	adaptation|n	9ee9-6353-1bca-2fa5	0
+camouflage|v	agent	organism|n	a61c-a47c-67a8-f86a	0
+camouflage|v	instrument	leaf|n	a61c-a47c-67a8-f86a	0
+hit|v	patient	piano key|ns	aadc-bc4f-81be-06ac	0
+piano|n	has subcomponent	piano key|ns	aadc-bc4f-81be-06ac	0
+play musical instrument|vp	instrument	piano key|ns	aadc-bc4f-81be-06ac	0
+play|v	patient	musical instrument|jn	aadc-bc4f-81be-06ac	0
+drop object|vp	result	hit|v	ad03-f79e-d18f-eebc	0
+plant die|av	kind of	adaptation|n	b2f0-94bd-4545-1416	0
+plant die|av	kind of	seasonal change|jn	b2f0-94bd-4545-1416	0
+bone|n	kind of	fossil|n	b46a-90cb-8c4d-8e3d	0
+navigate|v	instrument	direct boat|vp	b545-9af6-bc7b-9854	0
+navigate|v	patient	boat|n	b545-9af6-bc7b-9854	0
+navigation|n	derivational morphology	navigate|v	b545-9af6-bc7b-9854	0
+movement|n	derivational morphology	move|v	c755-1627-f4a5-1c08	0
+wash away|v	kind of	movement|n	c755-1627-f4a5-1c08	0
+observation|n	derivational morphology	observe|v	cf54-a27a-2b05-1c22	0
+take picture|vp	kind of	observation|n	cf54-a27a-2b05-1c22	0
+water cycle|ns	kind of	physical cycle|ns	cfea-1ba2-549b-7d10	0
+protect environment|vp	instrument	reduce pollutant|vp	d7f6-1eed-ab83-7961	0
+protect environment|vp	instrument	reduce waste|vp	d7f6-1eed-ab83-7961	0
+lay egg|vp	agent	salmon|n	d86f-f0eb-8cd4-b579	0
+reproduce|v	instrument	lay egg|vp	d86f-f0eb-8cd4-b579	0
+salmon lay egg|avp	at location	birthplace|n	d86f-f0eb-8cd4-b579	0
+forest|n	kind of	environment|n	e558-47b4-48f0-98a4	0
+grassland|n	kind of	environment|n	e558-47b4-48f0-98a4	0
+ocean|n	kind of	environment|n	e558-47b4-48f0-98a4	0
+river|n	kind of	environment|n	e558-47b4-48f0-98a4	0
+water vapour|ns	kind of	moisture|n	e7b5-57e9-5c3c-fe3e	0
+absorb heat|vp	result	evaporate|v	e927-ced3-c5f7-76af	0
+camouflage|v	instrument	change color|vp	ece8-8e35-fc83-f487	0
+build nest|vp	agent	bird|n	f7ca-cfe9-d8b4-11a4	0
+build nest|vp	kind of	inherited behaviour|jn	f7ca-cfe9-d8b4-11a4	0
+cactus spine|ns	kind of	adaptation|n	fac5-130b-6a7f-3503	0
+measure|v	result	data|n	ff09-6cad-071f-5a08	0
+lay egg|vp	result	reproduce|v	ff6d-7abf-97c5-a9c3	0
+migrate|v	goal	warm climate|jn	ffd2-49a5-3027-af07	0

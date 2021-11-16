@@ -1,0 +1,5 @@
+subj	rel	obj	id	flag
+reptile|n	has property	cold-blooded|j	8790-617a-a7ad-96c6	0
+mammal|n	has property	warm-blooded|j	d470-e585-c801-a97d	0
+bird|n	has property	warm-blooded|j	dde9-e2a5-57aa-acdc	0
+amphibian|n	has property	cold-blooded|j	f7d7-7399-34c2-225c	0

@@ -1,0 +1,41 @@
+subj	rel	obj	id	flag
+oxygen|n	instance of	waste product|jn	3a09-0c0a-bfcf-b959	0
+phothsynthesize|v	derivational morphology	photosynthesis|n	3a09-0c0a-bfcf-b959	0
+photosynthesize|v	result	oxygen|n	3a09-0c0a-bfcf-b959	0
+photosynthesize|v	result	waste product|jn	3a09-0c0a-bfcf-b959	0
+carbon dioxide|ns	instance of	waste|n	3f31-824e-6866-4db7	0
+cellular|j	derivational morphology	cell|n	3f31-824e-6866-4db7	0
+respiration|n	kind of	process|n	3f31-824e-6866-4db7	0
+respire|v	agent	cell|n	3f31-824e-6866-4db7	0
+respire|v	result	carbon dioxide|ns	3f31-824e-6866-4db7	0
+decomposer|n	derivational morphology	decompose|v	7435-65b5-4a59-89b4	0
+decompose|v	agent	fungi|n	7435-65b5-4a59-89b4	0
+food chain|ns	has subcomponent	decomposer|n	7435-65b5-4a59-89b4	0
+food chain|ns	has subcomponent	fungi|n	7435-65b5-4a59-89b4	0
+carbon dioxide|ns	instance of	raw material|jn	93b8-fdb5-f003-dedb	0
+photosynthesize|v	instrument	carbon dioxide|ns	93b8-fdb5-f003-dedb	0
+animal eat|av	patient	animal|n	a4f8-5748-0846-cb45	0
+consumer|n	derivational morphology	consume|v	a4f8-5748-0846-cb45	0
+consumer|n	kind of	living entity|jn	a4f8-5748-0846-cb45	0
+consume|v	similar to	eat|v	a4f8-5748-0846-cb45	0
+eat|v	agent	consumer|n	a4f8-5748-0846-cb45	0
+eat|v	patient	producer|n	a4f8-5748-0846-cb45	0
+food chain|ns	has subcomponent	animal|n	a4f8-5748-0846-cb45	0
+producer|n	derivational morphology	produce|v	a4f8-5748-0846-cb45	0
+producer|n	kind of	living entity|jn	a4f8-5748-0846-cb45	0
+decomposer|n	derivational morphology	decompose|v	aa86-c090-3f89-1a5d	0
+decompose|v	agent	bacteria|n	aa86-c090-3f89-1a5d	0
+food chain|ns	has subcomponent	bacteria|n	aa86-c090-3f89-1a5d	0
+food chain|ns	has subcomponent	decomposer|n	aa86-c090-3f89-1a5d	0
+erosion|n	has subcomponent	inhibitor|n	d54f-e502-fa51-788d	0
+erosion|n	kind of	process|n	d54f-e502-fa51-788d	0
+inhibitor|n	derivational morphology	inhibit|v	d54f-e502-fa51-788d	0
+food chain|ns	has subcomponent	plankton|n	d9fb-1dc4-4305-980c	0
+producer|n	derivational morphology	produce|v	d9fb-1dc4-4305-980c	0
+produce|v	agent	plankton|n	d9fb-1dc4-4305-980c	0
+food chain|ns	has subcomponent	green plant|jn	e4b0-75b1-e5ea-4189	0
+food chain|ns	has subcomponent	producer|n	e4b0-75b1-e5ea-4189	0
+producer|n	derivational morphology	produce|v	e4b0-75b1-e5ea-4189	0
+produce|v	agent	green plant|jn	e4b0-75b1-e5ea-4189	0
+disperse seed|vp	agent	squirrel|n	e6a9-507a-d37b-db63	0
+disperse seed|vp	causes	tree reproduce|av	e6a9-507a-d37b-db63	0

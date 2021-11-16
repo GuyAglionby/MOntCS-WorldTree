@@ -1,0 +1,36 @@
+subj	rel	obj	id	flag
+human|n	kind of	car passenger|ns	2613-ef22-d8a2-96c6	0
+baby|n	kind of	offspring|n	274e-7aef-1e26-6b3c	0
+parent|n	has subcomponent	baby|n	274e-7aef-1e26-6b3c	0
+appearance|n	kind of	physical property|jn	2b97-8bcf-ad07-0e9e	0
+tea|n	has property	hot|j	2bf5-43b2-828d-7991	0
+tea|n	has property	warm|j	2bf5-43b2-828d-7991	0
+warm|j	synonym	hot|j	2bf5-43b2-828d-7991	0
+artificial turf|jn	synonym	fake grass|jn	31c4-3218-63c1-4d9b	0
+baby cat|jn	synonym	kitten|n	36ae-d6e7-a33f-027a	0
+young cat|jn	synonym	kitten|n	36ae-d6e7-a33f-027a	0
+decomposer|n	derivational morphology	decompose|v	4189-af64-dc68-aab7	0
+decompose|v	agent	bacterium|n	4189-af64-dc68-aab7	0
+decompose|v	agent	fungus|n	4189-af64-dc68-aab7	0
+frog|n	kind of	adult|n	42ce-3b05-116d-407e	0
+element|n	synonym	alloy|n	438c-30e7-05f9-eec9	0
+butterfly|n	synonym	old caterpillar|jn	457a-8660-d1f5-e6ae	0
+metal|n	has property	solid|j	6b13-b027-dc64-b855	0
+frog|n	synonym	old tadpole|jn	6fd9-d55b-fc58-c9fb	0
+baby dog|jn	synonym	puppy|n	7ba5-ac67-433e-b356	0
+young dog|jn	synonym	puppy|n	7ba5-ac67-433e-b356	0
+plastic|n	kind of	electrical insulator|jn	89bb-1727-975b-849d	0
+herbivore|n	kind of	animal|n	9842-70ea-d82e-01bf	0
+rock|n	has property	solid|j	9dce-54ac-55cf-f1ed	0
+night sky star|ns	at location	night sky|ns	a0f5-8469-7346-63fc	0
+night sky star|ns	kind of	star|n	a0f5-8469-7346-63fc	0
+night sky|ns	has subcomponent	night sky star|ns	a0f5-8469-7346-63fc	0
+sun|n	synonym	night sky star|ns	a0f5-8469-7346-63fc	0
+caterpillar|n	synonym	young butterfly|jn	b29b-6e23-97f8-0be7	0
+tadpole|n	synonym	young frog|jn	b356-f5e8-262c-5157	0
+salamander|n	kind of	aquatic animal|jn	c83e-0fdf-7c74-d0f0	0
+plant tree|vp	agent	human|n	ca00-8e56-17f5-9665	0
+mineral|n	kind of	nutrient|n	ca61-050e-2c77-6cda	0
+chemical|n	has property	pollutant|n	e809-4443-23c0-ee01	0
+pollute|v	derivational morphology	pollutant|n	e809-4443-23c0-ee01	0
+pollute|v	instrument	chemical|n	e809-4443-23c0-ee01	0

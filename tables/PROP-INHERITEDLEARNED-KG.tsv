@@ -1,0 +1,36 @@
+subj	rel	obj	id	flag
+acquired characteristic|jn	kind of	characteristic|n		0
+inherited characteristic|jn	kind of	characteristic|n		0
+instinctive characteristic|jn	kind of	characteristic|n		0
+learned characteristic|jn	kind of	characteristic|n		0
+color|n	kind of	inherited characteristic|jn	102a-fa79-43cd-e9a4	0
+eye color|ns	kind of	inherited characteristic|jn	1763-9f64-7941-cb50	0
+thickness|n	kind of	inherited characteristic|jn	1d43-ce6e-b5c5-c568	0
+color|n	kind of	inherited characteristic|jn	29be-69ad-17f4-11f0	0
+fur|n	has property	color|n	29be-69ad-17f4-11f0	0
+learned behaviour|jn	kind of	behaviour|n	5bbc-9036-eb08-38e4	0
+trick|n	kind of	learned behaviour|jn	5bbc-9036-eb08-38e4	0
+migrate|v	kind of	instinctive behaviour|jn	7386-ad73-8eef-4980	0
+migration|n	derivational morphology	migrate|v	7386-ad73-8eef-4980	0
+height|n	kind of	inherited characteristic|jn	78a9-0629-0526-4b03	0
+plant|n	has subcomponent	seed|n	7bed-ba1b-4cde-f393	0
+seed|n	kind of	inherited characteristic|jn	7bed-ba1b-4cde-f393	0
+hibernation|n	derivational morphology	hibernate|v	7ded-f79f-1ff4-efe2	0
+hibernation|n	kind of	inherited behaviour|jn	7ded-f79f-1ff4-efe2	0
+inherited behaviour|jn	kind of	behaviour|n	7ded-f79f-1ff4-efe2	0
+animal|n	has subcomponent	hair|n	7f25-f44f-e96b-9a88	0
+skill|n	kind of	learned characteristic|jn	856a-1ef6-dd1f-154b	0
+curly hair|jn	kind of	inherited characteristic|jn	96e0-40fd-6189-dc8f	0
+reproductive behavior|jn	kind of	inherited characteristic|jn	a616-023f-d122-f2f3	0
+body|n	has subcomponent	body part|ns	b32d-db8e-41c0-13c8	0
+length|n	kind of	inherited characteristic|jn	b32d-db8e-41c0-13c8	0
+body part|ns	kind of	inherited characteristic|jn	b4e7-dad7-cb84-1e31	0
+body|n	has subcomponent	body part|ns	b4e7-dad7-cb84-1e31	0
+preference|n	kind of	learned characteristic|jn	b53f-7ff9-3341-cd62	0
+scar|n	kind of	acquired characteristic|jn	bb11-420c-4bb5-d176	0
+condition|n	kind of	acquired characteristic|jn	bc8d-37ef-e7d2-05e3	0
+body part|ns	has property	shape|n	c390-00e1-36dd-2ae2	0
+shape|n	kind of	inherited characteristic|jn	c390-00e1-36dd-2ae2	0
+freckle|n	kind of	inherited characteristic|jn	cfdf-d0cc-a5c3-d5c1	0
+use tool|vp	kind of	learned characteristic|jn	d889-0f71-bb81-1eb9	0
+do chore|vp	kind of	learned characteristic|jn	daaf-468d-1f9b-0fac	0

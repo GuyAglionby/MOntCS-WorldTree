@@ -1,0 +1,13 @@
+subj	rel	obj	id	flag
+many year|qn	has subcomponent	nonrenewable resource|jn	1456-98fe-3171-af46	0
+many year|qn	has subcomponent	canyon|n	2729-44c9-6c43-99ee	0
+many year|qn	has subcomponent	erosion|n	3823-1fac-a50b-665f	0
+many year|qn	has subcomponent	weathering|v	3823-1fac-a50b-665f	0
+month|n	has subcomponent	drought|n	5a68-c204-4a35-9c42	0
+day|n	has subcomponent	lunar cycle|ns	6195-e804-0ead-efb6	0
+lunar cycle|ns	synonym	moon revolve|av	6195-e804-0ead-efb6	0
+fossil|n	causes	fossil fuel|ns	a3a9-88b4-59db-d0b9	0
+many year|qn	has subcomponent	fossil|n	a3a9-88b4-59db-d0b9	0
+many year|qn	has subcomponent	fossil fuel|ns	a3a9-88b4-59db-d0b9	0
+generation|n	has subcomponent	natural selection|ns	d444-1a28-c2ef-6421	0
+second|n	has subcomponent	earthquake|n	e18f-5f8a-04fd-76f7	0

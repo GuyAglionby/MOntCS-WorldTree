@@ -1,0 +1,224 @@
+subj	rel	obj	id	flag
+1538C|#	kind of	Celcius|n	00f1-21aa-fbc1-fe69	0
+1811K|#	kind of	Kelvin|n	00f1-21aa-fbc1-fe69	0
+2800F|#	kind of	Fahrenheit|n	00f1-21aa-fbc1-fe69	0
+Celcius|n	kind of	temperature|n	00f1-21aa-fbc1-fe69	0
+Fahrenheit|n	kind of	temperature|n	00f1-21aa-fbc1-fe69	0
+Kelvin|n	kind of	temperature|n	00f1-21aa-fbc1-fe69	0
+iron melting point|ns	synonym	1538C|#	00f1-21aa-fbc1-fe69	0
+iron melting point|ns	synonym	1811K|#	00f1-21aa-fbc1-fe69	0
+iron melting point|ns	synonym	2800F|#	00f1-21aa-fbc1-fe69	0
+desk|n	has property	short height|jn	0100-2f53-c324-81e2	0
+desk|n	has property	short width|jn	0100-2f53-c324-81e2	0
+different soil|jn	has property	different texture|jn	023a-cb3f-47ab-8682	0
+grass|n	kind of	surface|n	05fc-1029-d104-3be1	0
+grass|n	has property	rough|j	05fc-1029-d104-3be1	0
+pine needle|ns	has subcomponent	odor|n	084c-4642-aa65-3cd4	0
+tree|n	has subcomponent	pine needle|ns	084c-4642-aa65-3cd4	0
+animal scale|ns	has property	small|j	0897-4040-593e-dc4e	0
+living thing|jn	has subcomponent	natural structure|jn	0b7b-e025-3fb7-01dd	0
+molecule|n	has property	small|j	0c8a-25b8-b161-eab3	0
+hurricane|n	has subcomponent	many rain|qn	0cf9-0d32-4d85-4954	0
+string|n	has property	short|j	0d5d-fcee-547a-e20c	0
+string|n	has subcomponent	length|n	0d5d-fcee-547a-e20c	0
+base|n	has property	basic|n	0dc5-1599-55c4-d922	0
+-219C|#	kind of	Celcius|n	0ed7-324f-5c82-eb6c	0
+-362F|#	kind of	Fahrenheit|n	0ed7-324f-5c82-eb6c	0
+54K|#	kind of	Kelvin|n	0ed7-324f-5c82-eb6c	0
+Celcius|n	kind of	temperature|n	0ed7-324f-5c82-eb6c	0
+Fahrenheit|n	kind of	temperature|n	0ed7-324f-5c82-eb6c	0
+Kelvin|n	kind of	temperature|n	0ed7-324f-5c82-eb6c	0
+oxygen melting point|ns	synonym	-219C|#	0ed7-324f-5c82-eb6c	0
+oxygen melting point|ns	synonym	-362F|#	0ed7-324f-5c82-eb6c	0
+oxygen melting point|ns	synonym	54K|#	0ed7-324f-5c82-eb6c	0
+start|n	has property	very hot|qj	0ef0-7edc-e18e-a2fa	0
+multicellular organism|jn	has subcomponent	many cell|qn	0f8a-4ede-42d6-258e	0
+material|n	has subcomponent	property|n	10a8-eeb5-10c6-369a	0
+literacy|n	has property	important|n	12e7-d986-fc31-5759	0
+drop|n	has subcomponent	little liquid|qn	1383-98fd-54fa-3ce4	0
+mineral|n	has subcomponent	crystal structure|ns	16b8-4881-cbed-004f	0
+Moon|n	has subcomponent	rocky terrain|jn	1769-4bec-1684-3665	0
+New York|ns	has property	near north pole|jn	185a-1acc-1d39-1dc0	0
+infertile soil|jn	has subcomponent	low quality|jn	198b-a912-6c6c-5887	0
+estuary water|ns	has property	brackish|j	1a35-de3e-b0e2-6c27	0
+hill|n	has property	tall|j	1cf5-4c61-5764-7fcb	0
+mountain|n	has property	very tall|qj	1cf5-4c61-5764-7fcb	0
+asphalt|n	kind of	surface|n	201e-3e95-e41a-672d	0
+asphalt|n	has property	smooth|j	201e-3e95-e41a-672d	0
+nonrenewable resource|jn	has property	limited|j	2195-8880-3362-9682	0
+cold|j	kind of	temperature|n	2409-b366-fcf7-eb7b	0
+tundra|n	has property	cold|j	2409-b366-fcf7-eb7b	0
+leaf|n	has property	brown|j	24c0-2337-1514-44da	0
+overload outlet|vp	has property	dangerous|j	25b0-7443-ab60-3f06	0
+plug in|v	at location	outlet|n	25b0-7443-ab60-3f06	0
+plug in|v	patient	appliance|n	25b0-7443-ab60-3f06	0
+mountain|n	has property	high|j	26ec-d15c-d91b-6223	0
+concrete|n	kind of	surface|n	2bcd-053b-16f1-66e2	0
+concrete|n	has property	smooth|j	2bcd-053b-16f1-66e2	0
+canyon|n	synonym	deep valley|jn	2cbd-efbb-f60c-be22	0
+sulfur|n	has property	yellow|j	2db1-ab10-ff6c-cc17	0
+yellow|j	kind of	color|n	2db1-ab10-ff6c-cc17	0
+tornado|n	has subcomponent	circular motion|jn	2e3a-63c4-6119-00f5	0
+start|n	has property	very large|qj	2fa6-223b-ad1e-c3a8	0
+microorganism|n	has property	small|j	2faf-8dd2-50a0-d8c3	0
+object piece|ns	has property	small|j	3120-39a0-244c-c677	0
+steam|n	has property	hot|j	329c-e273-405b-8f40	0
+sun|n	has property	average temperature|qn	3530-0fd9-f523-ac33	0
+see small thing|vp	has property	difficult|j	3685-6ff7-a08b-2d74	0
+different object|jn	has property	different size|jn	36a4-da66-ef5a-240d	0
+desk|n	has property	length|n	389e-42be-0a2b-0683	0
+fingerprint|n	has property	small|j	39c0-522a-11a2-3a53	0
+poisonous animal|jn	has property	dangerous|n	3aee-f557-db87-1cce	0
+closed circuit|jn	has subcomponent	continuous path|jn	3c9d-e904-586a-2a9d	0
+high quality soil|jn	has subcomponent	many nutrient|qn	3dad-38fc-471b-0aed	0
+moon|n	has property	small|j	3f74-37d4-8002-21b5	0
+leather|n	has property	water resistant|ns	415e-bca0-9dfd-3594	0
+dwarf planet|ns	has property	small|j	447e-1243-6d4e-e9e1	0
+dwarf planet|ns	kind of	small planet|jn	447e-1243-6d4e-e9e1	0
+deep|j	antonym	shallow|j	44cb-f847-aac2-4fc0	0
+lake|n	has property	deep|j	44cb-f847-aac2-4fc0	0
+pond|n	has property	little deep|qj	44cb-f847-aac2-4fc0	0
+pond|n	has property	small|j	44cb-f847-aac2-4fc0	0
+insect|n	has subcomponent	six legs|jn	4664-31ab-6299-53d0	0
+sedimentary rock|jn	has property	colored layer|jn	4d68-51e5-594f-3689	0
+string|n	has property	small diameter|jn	509c-64c9-84f2-42ff	0
+pesticide|n	has positive impact on	human|n	5154-b206-93fe-b695	0
+carpet|n	has subcomponent	rough surface|jn	5d4c-1f90-7506-34e5	0
+tornado|n	has subcomponent	high wind speed|jn	5e06-8173-600d-592b	0
+tube-like|ns	structural-noun-compound	tube|n	5e45-653c-e6dc-6c95	0
+worm|n	has subcomponent	tube-like body|jn	5e45-653c-e6dc-6c95	0
+water vapour|ns	has property	invisible|j	60af-59d3-7477-0429	0
+wood|n	has property	sturdy|n	614b-29b1-4fb6-991b	0
+skin|n	kind of	organ|n	615b-8fca-7958-d93e	0
+skin|n	has property	very large|qj	615b-8fca-7958-d93e	0
+good road|jn	has subcomponent	smooth surface|jn	632c-7862-a8a3-b10e	0
+carbon monoxide|ns	has property	dangerous|j	647e-2661-236a-2a01	0
+snow|n	has property	cold|n	6791-5d18-6261-a488	0
+flower attract pollinator|avp	instrument	sweet smell|jn	6f76-c3b2-2312-e50c	0
+flowers|n	has subcomponent	sweet smell|jn	6f76-c3b2-2312-e50c	0
+danger|n	has property	dangerous|n	722f-6492-305c-ddae	0
+vanilla|n	has subcomponent	odor|n	723a-5193-2766-0065	0
+mirror|n	has subcomponent	shiny surface|jn	733b-ce8a-669c-e222	0
+part|n	has property	small|j	73b8-5c7f-43f4-65e2	0
+wood|n	has property	light|j	73c5-2c1f-a941-c351	0
+wood|n	kind of	material|n	73c5-2c1f-a941-c351	0
+bottom|n	has property	deep|j	7830-485a-4be0-309b	0
+air|n	has property	buoyant|j	7855-8a61-a859-05ab	0
+sunny day|jn	has subcomponent	many sunlight|qn	794f-a751-b0d2-097f	0
+atom|n	has property	small|j	7caf-566e-855c-469b	0
+bad weather|jn	has property	dangerous|n	7dd1-b271-7099-4e67	0
+sun|n	has property	very hot|qj	7e7e-5a6a-ed12-a2cc	0
+hollow bone|jn	has property	light|n	7e98-a3e5-b8ca-8603	0
+plant species|ns	has property	unique seed|jn	7e9c-da3a-7c84-a251	0
+western coral snake|ns	has property	poisonous|n	7f3b-9182-504a-0463	0
+warm environment|jn	has subcomponent	many food|qn	7f54-4f3b-f1fc-91aa	0
+coal|n	has property	black|j	7fb2-6558-b28c-87e5	0
+poison|n	has property	poisonous|j	7fd0-cd82-3f0c-a3db	0
+hill|n	has property	rounded|j	8559-8dfa-7241-515b	0
+face dimple|jn	has property	depressed|j	87a1-9fd1-636a-072d	0
+face dimple|jn	has property	indented|v	87a1-9fd1-636a-072d	0
+wood|n	has subcomponent	smooth surface|jn	8b0a-659e-85fd-42ce	0
+bark|n	has property	brown|j	8bb3-c62b-91dc-4004	0
+brown|j	kind of	color|n	8bb3-c62b-91dc-4004	0
+hill|n	has property	tall|j	8fcb-803a-e436-4aed	0
+mountain|n	has property	very tall|qj	8fcb-803a-e436-4aed	0
+rod|n	has property	cylindrical|j	926d-653a-d7c0-f415	0
+low quality soil|jn	has subcomponent	few nutrient|qn	9474-6b36-90b1-4a89	0
+tropical|j	has property	warm|j	965d-32ef-32f1-71b5	0
+warm|j	kind of	temperature|n	965d-32ef-32f1-71b5	0
+winter|n	has subcomponent	cold temperature|jn	9939-7d13-b72f-2674	0
+winter|n	has subcomponent	cold weather|jn	9939-7d13-b72f-2674	0
+gravel|n	has property	rough surface|jn	9c2f-5280-ba4b-e3c6	0
+sand|n	has subcomponent	rough surface|jn	9c54-4fa8-ed73-dd28	0
+droplet|n	has subcomponent	little liquid|qn	9d6f-0411-6644-656e	0
+start|n	has property	very hot|qj	9ec4-cf33-e33d-d108	0
+white fur|jn	has property	white|j	9ed5-f4a8-9357-2763	0
+hair|n	has property	thin|n	9fc4-8f42-b1f1-b569	0
+living thing|jn	has subcomponent	life cycle|ns	a094-21de-59c0-f3ad	0
+summer|n	has subcomponent	most sunlight|qn	a0de-6074-3154-0632	0
+100C|#	kind of	Celcius|n	a10a-a44b-4ab6-225f	0
+212F|#	kind of	Fahrenheit|n	a10a-a44b-4ab6-225f	0
+373K|#	kind of	Kelvin|n	a10a-a44b-4ab6-225f	0
+water boiling point|ns	synonym	100C|#	a10a-a44b-4ab6-225f	0
+water boiling point|ns	synonym	212F|#	a10a-a44b-4ab6-225f	0
+water boiling point|ns	synonym	373K|#	a10a-a44b-4ab6-225f	0
+night|n	has subcomponent	low light|jn	a659-d135-c6bf-7724	0
+night|n	has subcomponent	low visibility|jn	a659-d135-c6bf-7724	0
+summer|n	has subcomponent	hot temperature|jn	a6b9-8323-ab01-cfe7	0
+summer|n	has subcomponent	hot weather|jn	a6b9-8323-ab01-cfe7	0
+freezer|n	has property	cold|j	a7e7-4c34-fac1-a502	0
+freezer|n	has property	cool|j	a7e7-4c34-fac1-a502	0
+acid|n	has property	acidic|n	a83c-9d85-5625-d525	0
+cold environment|jn	has subcomponent	little food|qn	aa49-4312-5751-0a4e	0
+plant cell|ns	has property	box-like|j	aab8-00f7-ef3f-7b5d	0
+carrion flower|ns	has subcomponent	carrion-like smell|jn	ac44-1bc1-1c8d-6525	0
+insect|n	has property	small|j	afbd-d8f4-0c38-88c2	0
+hurricane|n	has subcomponent	high wind speed|jn	b0d6-ab23-63f7-1caf	0
+sun|n	at location	solar system|ns	b22e-a262-859f-aa35	0
+sun|n	kind of	celestial body|jn	b22e-a262-859f-aa35	0
+insulator|n	has property	insulated|n	b360-3f95-0ae2-4cdd	0
+canyon|n	at location	ground|n	b4a1-2f8f-4c7e-c2e2	0
+canyon|n	synonym	big crack|jn	b4a1-2f8f-4c7e-c2e2	0
+car accident|ns	has property	dangerous|j	b590-a5c1-13d1-7476	0
+fertile soil|jn	has subcomponent	high quality|jn	b7eb-7a34-8336-c669	0
+carbon dioxide|ns	has property	colorless|j	b872-e845-39f5-5b25	0
+animal|n	has subcomponent	shell|n	b9a7-e1c0-9960-d0c6	0
+protect|v	instrument	shell|n	b9a7-e1c0-9960-d0c6	0
+shell|n	has property	hard|j	b9a7-e1c0-9960-d0c6	0
+leaf|n	has property	small|j	bf0b-effc-65b2-b510	0
+tree species|ns	has subcomponent	unique leaf|jn	bfe6-d06b-d8bf-a2c1	0
+poison insect|vp	instrument	pesticide|n	bfed-cc1c-57ae-63fe	0
+floodplain|n	has property	flat|j	c1af-f272-25af-a368	0
+floodplain|n	synonym	flood plain|ns	c1af-f272-25af-a368	0
+warm-blooded animal|jn	has subcomponent	warm body|jn	c227-44da-44a9-1d09	0
+cell|n	has property	very small|qj	c22d-d40d-4d02-796e	0
+spring|n	has subcomponent	warm temperature|jn	c340-79fe-20a6-026a	0
+spring|n	has subcomponent	warm weather|jn	c340-79fe-20a6-026a	0
+thunder|n	has property	loud|n	c391-0831-1f0b-44bd	0
+sun|n	has property	average size|qn	c463-e7fe-1eeb-840d	0
+grass|n	has property	green|j	c683-bb38-4c18-252e	0
+thorn|n	has property	sharp|n	c6cc-0b90-daf6-edc7	0
+wood|n	has property	strong|j	c7ff-4b62-295c-7800	0
+wood|n	kind of	material|n	c7ff-4b62-295c-7800	0
+leaf|n	has property	green|j	c904-3dbd-0d11-2f34	0
+eat|v	patient	fresh food|jn	c9d3-5f71-de10-2716	0
+fresh food|jn	has property	safe|j	c9d3-5f71-de10-2716	0
+0C|#	kind of	Celcius|n	cdc9-5a05-7bcd-607f	0
+273K|#	kind of	Kelvin|n	cdc9-5a05-7bcd-607f	0
+32F|#	kind of	Fahrenheit|n	cdc9-5a05-7bcd-607f	0
+water freezing point|ns	synonym	0C|#	cdc9-5a05-7bcd-607f	0
+water freezing point|ns	synonym	273K|#	cdc9-5a05-7bcd-607f	0
+water freezing point|ns	synonym	32F|#	cdc9-5a05-7bcd-607f	0
+continental shelf|jn	has property	shallow|n	cf94-2565-141e-044f	0
+amphibian|n	has subcomponent	smooth skin|jn	d01a-a4c0-abba-7c09	0
+mica|n	has property	black|j	d1f4-8b8c-b9dc-80b5	0
+ice|n	has property	cold|j	d495-a1f3-29eb-04fe	0
+unicellular organism|jn	has subcomponent	one cell|qn	d583-32a9-3187-f189	0
+dessert|n	has subcomponent	few nutrient|qn	d716-961b-dfd9-e792	0
+sedimentary rock|jn	has property	light brown|jn	d7a7-05d2-6fba-4853	0
+Moon|n	has subcomponent	little air|qn	dca8-aca7-a3a5-b57f	0
+Moon|n	has subcomponent	little water|qn	dca8-aca7-a3a5-b57f	0
+bacteria|n	has property	microscopic|j	dda0-d5ba-63eb-7efa	0
+bacteria|n	has property	small|j	dda0-d5ba-63eb-7efa	0
+Earth|n	has subcomponent	rocky terrain|jn	ded1-6066-fabd-b5ad	0
+chlorophyll|n	has property	green|j	e177-d259-0054-a88b	0
+odor|n	synonym	smell|j	e54a-c405-f545-aabe	0
+perfume|n	has subcomponent	odor|n	e54a-c405-f545-aabe	0
+onion|n	has subcomponent	odor|n	e719-7220-24f3-b304	0
+identical twin|ns	has property	same inherited characteristic|jn	e883-d258-546b-7207	0
+cloudy day|jn	has subcomponent	little sunlight|qn	ed6f-25fd-dcd0-1af2	0
+moon|n	has property	little bright|qj	ee54-4b39-996f-44ce	0
+night|n	has property	cool|j	eed1-42ea-b787-ef59	0
+lemon|n	has subcomponent	odor|n	efa5-5736-022e-c233	0
+flower attract pollinator|avp	instrument	bright petal|jn	f249-a34c-12c4-3aa1	0
+flower petal|ns	has property	bright|j	f249-a34c-12c4-3aa1	0
+flower|n	has subcomponent	petal|n	f249-a34c-12c4-3aa1	0
+field|n	has property	open|j	f341-ffff-8752-ebe0	0
+field|n	has subcomponent	grass|n	f341-ffff-8752-ebe0	0
+airplane|n	has property	fast|j	f39e-99d0-faec-c532	0
+mica|n	has property	nonmetallic|j	f616-ce95-c8c4-6ece	0
+mica|n	has subcomponent	luster|n	f616-ce95-c8c4-6ece	0
+ladybug|n	has property	small|j	f917-eb1c-9469-7341	0
+river deposit|ns	has subcomponent	many nutrient|qn	fa7e-23e0-7d6f-6d2b	0
+sediment|n	kind of	river deposit|ns	fa7e-23e0-7d6f-6d2b	0
+soil|n	kind of	river deposit|ns	fa7e-23e0-7d6f-6d2b	0

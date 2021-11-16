@@ -1,0 +1,79 @@
+subj	rel	obj	id	flag
+ounces|n	kind of	weight|n	0fb6-3ecf-eb41-0b84	0
+ounces|n	synonym	oz|n	0fb6-3ecf-eb41-0b84	0
+degrees kelvin|ns	kind of	temperature|n	140c-77ad-c6a7-5b26	0
+degrees kelvin|ns	synonym	K|n	140c-77ad-c6a7-5b26	0
+tonnes|n	kind of	mass|n	1456-f51f-a4cd-2dfb	0
+tonnes|n	kind of	weight|n	1456-f51f-a4cd-2dfb	0
+tonnes|n	synonym	t|n	1456-f51f-a4cd-2dfb	0
+decimeters|n	kind of	distance|n	2bea-d875-bb6c-a12a	0
+decimeters|n	kind of	length|n	2bea-d875-bb6c-a12a	0
+decimeters|n	synonym	dm|n	2bea-d875-bb6c-a12a	0
+grams|n	kind of	mass|n	3ad2-62a6-57f5-df68	0
+grams|n	kind of	weight|n	3ad2-62a6-57f5-df68	0
+grams|n	synonym	g|n	3ad2-62a6-57f5-df68	0
+degrees fahrenheit|ns	kind of	temperature|n	461f-00e5-56fe-dd2c	0
+degrees fahrenheit|ns	synonym	F|n	461f-00e5-56fe-dd2c	0
+years|n	kind of	time|n	4753-1b7f-3bca-f7bf	0
+years|n	synonym	y|n	4753-1b7f-3bca-f7bf	0
+liters|n	kind of	volume|n	4aff-d072-35cc-3ebe	0
+liters|n	synonym	L|n	4aff-d072-35cc-3ebe	0
+cups|n	kind of	volume|n	5662-eed6-05d1-2149	0
+cups|n	synonym	c|n	5662-eed6-05d1-2149	0
+months|n	kind of	time|n	5fa3-ff9a-dc19-47a0	0
+months|n	synonym	m|n	5fa3-ff9a-dc19-47a0	0
+pounds|n	kind of	mass|n	68fe-16bc-d67a-41b9	0
+pounds|n	kind of	weight|n	68fe-16bc-d67a-41b9	0
+pounds|n	synonym	lb|n	68fe-16bc-d67a-41b9	0
+seconds|n	kind of	time|n	6959-8a0c-c3fb-f49b	0
+seconds|n	synonym	s; sec|ns	6959-8a0c-c3fb-f49b	0
+quarts|n	kind of	volume|n	697e-618e-8018-e806	0
+quarts|n	synonym	qt|n	697e-618e-8018-e806	0
+kilometers|n	kind of	distance|n	76d6-aa20-ec92-1c4a	0
+kilometers|n	kind of	length|n	76d6-aa20-ec92-1c4a	0
+kilometers|n	synonym	km|n	76d6-aa20-ec92-1c4a	0
+kilograms|n	kind of	mass|n	7a26-9d80-a88f-94fa	0
+kilograms|n	kind of	weight|n	7a26-9d80-a88f-94fa	0
+kilograms|n	synonym	kg|n	7a26-9d80-a88f-94fa	0
+gallons|n	kind of	volume|n	814f-2587-109c-bd9c	0
+gallons|n	synonym	gal|n	814f-2587-109c-bd9c	0
+milliliters|n	kind of	volume|n	833d-29e2-dde2-a9fa	0
+milliliters|n	synonym	mL|n	833d-29e2-dde2-a9fa	0
+centimeters|n	kind of	distance|n	8489-9ffe-b585-3aaf	0
+centimeters|n	kind of	length|n	8489-9ffe-b585-3aaf	0
+centimeters|n	synonym	cm|n	8489-9ffe-b585-3aaf	0
+degrees celsius|ns	kind of	temperature|n	93f5-b0bb-73b5-8b40	0
+degrees celsius|ns	synonym	C|n	93f5-b0bb-73b5-8b40	0
+days|n	kind of	time|n	a459-e38e-38fd-c536	0
+days|n	synonym	d|n	a459-e38e-38fd-c536	0
+light years|ns	kind of	distance|n	b0ba-81fa-58f4-a81b	0
+light years|ns	kind of	length|n	b0ba-81fa-58f4-a81b	0
+light years|ns	synonym	ly|n	b0ba-81fa-58f4-a81b	0
+miles|n	kind of	distance|n	b118-56f3-85c4-5e8b	0
+miles|n	kind of	length|n	b118-56f3-85c4-5e8b	0
+miles|n	synonym	mi|n	b118-56f3-85c4-5e8b	0
+feet|n	kind of	distance|n	b69d-9d08-0ad6-3023	0
+feet|n	kind of	length|n	b69d-9d08-0ad6-3023	0
+feet|n	synonym	ft|n	b69d-9d08-0ad6-3023	0
+yards|n	kind of	distance|n	b69d-9d08-0ad6-3023	0
+yards|n	kind of	length|n	b69d-9d08-0ad6-3023	0
+yards|n	synonym	yd|n	b69d-9d08-0ad6-3023	0
+fluid ounce|ns	kind of	volume|n	c32f-839b-f5fc-6a1e	0
+fluid ounce|ns	synonym	fl oz|ns	c32f-839b-f5fc-6a1e	0
+nanometers|n	kind of	distance|n	c840-d35c-641c-e5ea	0
+nanometers|n	kind of	length|n	c840-d35c-641c-e5ea	0
+nanometers|n	synonym	nm|n	c840-d35c-641c-e5ea	0
+femtometers|n	kind of	distance|n	cd08-fa15-26b8-135f	0
+femtometers|n	kind of	length|n	cd08-fa15-26b8-135f	0
+femtometers|n	synonym	fm|n	cd08-fa15-26b8-135f	0
+pints|n	kind of	volume|n	dc03-9737-bee3-4b58	0
+pints|n	synonym	pt|n	dc03-9737-bee3-4b58	0
+meters|n	kind of	distance|n	f297-a722-c60d-7be0	0
+meters|n	kind of	length|n	f297-a722-c60d-7be0	0
+meters|n	synonym	m|n	f297-a722-c60d-7be0	0
+millimeters|n	kind of	distance|n	f33c-7d47-3cf5-ef70	0
+millimeters|n	kind of	length|n	f33c-7d47-3cf5-ef70	0
+millimeters|n	synonym	mm|n	f33c-7d47-3cf5-ef70	0
+picometer|n	kind of	distance|n	f75f-1151-f222-2281	0
+picometer|n	kind of	length|n	f75f-1151-f222-2281	0
+picometer|n	synonym	pm|n	f75f-1151-f222-2281	0

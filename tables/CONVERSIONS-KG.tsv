@@ -1,0 +1,32 @@
+subj	rel	obj	id	flag
+duration|n	similar to	time|n		0
+1 year|qn	instance of	duration|n	4adf-935f-2a7e-de97	0
+1 year|qn	structural-noun	year|n	4adf-935f-2a7e-de97	0
+1 year|qn	structural-quantifier	1|#	4adf-935f-2a7e-de97	0
+1 year|qn	synonym	365 day|qn	4adf-935f-2a7e-de97	0
+365 day|qn	instance of	duration|n	4adf-935f-2a7e-de97	0
+365 day|qn	structural-noun	day|n	4adf-935f-2a7e-de97	0
+365 day|qn	structural-quantifier	365|#	4adf-935f-2a7e-de97	0
+day|n	kind of	duration|n	4adf-935f-2a7e-de97	0
+duration|n	kind of	unit|n	4adf-935f-2a7e-de97	0
+year|n	kind of	duration|n	4adf-935f-2a7e-de97	0
+1 day|qn	instance of	duration|n	7bde-6b21-5c29-4e15	0
+1 day|qn	structural-noun	day|n	7bde-6b21-5c29-4e15	0
+1 day|qn	structural-quantifier	1|#	7bde-6b21-5c29-4e15	0
+1 day|qn	synonym	24 hour|qn	7bde-6b21-5c29-4e15	0
+24 hour|qn	instance of	duration|n	7bde-6b21-5c29-4e15	0
+24 hour|qn	structural-noun	hour|n	7bde-6b21-5c29-4e15	0
+24 hour|qn	structural-quantifier	24|#	7bde-6b21-5c29-4e15	0
+day|n	kind of	duration|n	7bde-6b21-5c29-4e15	0
+duration|n	kind of	unit|n	7bde-6b21-5c29-4e15	0
+hour|n	kind of	duration|n	7bde-6b21-5c29-4e15	0
+1 week|qn	instance of	duration|n	a9b2-1d5b-952e-8a8c	0
+1 week|qn	structural-noun	week|n	a9b2-1d5b-952e-8a8c	0
+1 week|qn	structural-quantifier	1|#	a9b2-1d5b-952e-8a8c	0
+1 week|qn	synonym	7 day|qn	a9b2-1d5b-952e-8a8c	0
+7 day|qn	instance of	duration|n	a9b2-1d5b-952e-8a8c	0
+7 day|qn	structural-noun	day|n	a9b2-1d5b-952e-8a8c	0
+7 day|qn	structural-quantifier	7|#	a9b2-1d5b-952e-8a8c	0
+day|n	kind of	duration|n	a9b2-1d5b-952e-8a8c	0
+duration|n	kind of	unit|n	a9b2-1d5b-952e-8a8c	0
+week|n	kind of	duration|n	a9b2-1d5b-952e-8a8c	0

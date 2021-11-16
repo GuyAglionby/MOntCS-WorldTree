@@ -1,0 +1,1409 @@
+subj	rel	obj	id	flag
+sunflower|n	kind of	plant|n	000b-8380-fb97-aee5	0
+laboratory apron|ns	kind of	safety gear|ns	0025-3e37-acf0-467a	0
+laboratory coat|ns	at location	experiment|n	0025-3e37-acf0-467a	0
+laboratory coat|ns	beneficiary	person|n	0025-3e37-acf0-467a	0
+laboratory coat|ns	synonym	laboratory apron|ns	0025-3e37-acf0-467a	0
+protection|n	derivational morphology	protect|v	0025-3e37-acf0-467a	0
+protect|v	instrument	laboratory coat|ns	0025-3e37-acf0-467a	0
+creating|n	kind of	activity|n	0092-b671-2f6c-9726	0
+light bulb|ns	kind of	electrical device|jn	00a4-b16a-aa4d-893d	0
+apple tree|ns	kind of	plant|n	00a7-56fc-3c22-e6f2	0
+eraser|n	kind of	solid|n	0164-3d03-ab81-9b9a	0
+chick|n	kind of	baby chicken|jn	01a2-8e37-b59a-23e3	0
+chick|n	kind of	young chicken|jn	01a2-8e37-b59a-23e3	0
+excrete|v	derivational morphology	excretion|n	023e-be5e-200d-d253	0
+excretory system|jn	kind of	body system|ns	023e-be5e-200d-d253	0
+excretory|j	derivational morphology	excrete|v	023e-be5e-200d-d253	0
+excretory|j	derivational morphology	excretion|n	023e-be5e-200d-d253	0
+oak|n	kind of	tree|n	02a0-8f5c-4e3a-a064	0
+ear|n	kind of	body part|ns	02a9-6ebd-741c-ddf1	0
+cooking|n	derivational morphology	cook|v	02bb-bdf2-f936-d557	0
+cooking|n	kind of	skill|n	02bb-bdf2-f936-d557	0
+cook|v	patient	food|n	02bb-bdf2-f936-d557	0
+cook|v	result	food|n	02bb-bdf2-f936-d557	0
+prepare|v	patient	food|n	02bb-bdf2-f936-d557	0
+tire|n	kind of	object|n	02c9-a481-d0f4-91e2	0
+revolve|v	kind of	motion|n	02f7-3d00-6d43-0289	0
+revolving|v	derivational morphology	revolve|v	02f7-3d00-6d43-0289	0
+tree|n	kind of	matter|n	0340-14ae-a023-ac50	0
+state|n	kind of	place|n	034e-5eb5-eaf7-aab7	0
+damage|n	derivational morphology	damage|v	03cf-92e2-59ae-3b3a	0
+tearing|n	derivational morphology	tear|v	03cf-92e2-59ae-3b3a	0
+tear|v	kind of	damage|v	03cf-92e2-59ae-3b3a	0
+swim|v	kind of	skill|n	03de-d7d0-b5a6-e027	0
+energy source|ns	kind of	resource|n	044f-98c1-07d1-2e57	0
+pushing|n	derivational morphology	push|v	044f-aca4-3be4-bb64	0
+push|v	kind of	motion|n	044f-aca4-3be4-bb64	0
+tunnel|n	kind of	hole|n	0456-0148-2518-a48e	0
+crab|n	kind of	water animal|ns	0499-a475-56c4-8d43	0
+fiber|n	kind of	material|n	04a7-76c0-16a3-fbb0	0
+earth|n	has subcomponent	hemisphere|n	0527-8a98-eb69-f5e6	0
+eastern hemisphere|jn	kind of	hemisphere|n	0527-8a98-eb69-f5e6	0
+mussel|n	kind of	water animal|ns	0560-dd88-068a-fc05	0
+full moon|jn	kind of	moon phase|ns	061d-1ec6-4a7a-9f63	0
+sliding|n	kind of	motion|n	064c-b643-8110-0d09	0
+soft|n	kind of	hardness|n	0654-00a0-45fb-b306	0
+plant|v	agent	human|n	06da-24f1-4d68-fccc	0
+plant|v	kind of	action|n	06da-24f1-4d68-fccc	0
+humidity|n	kind of	water vapor|ns	06e7-3920-6321-983c	0
+dew|n	kind of	liquid|n	06f4-8004-6e6f-4eab	0
+continent|n	kind of	large land mass|jn	070a-2fde-af8a-62a6	0
+igneous|n	kind of	rock|n	075f-d7cb-993c-ade1	0
+schoolyard|n	kind of	place|n	078d-8864-7f8d-5b5a	0
+shelter|n	kind of	protective covering|jn	07ae-5b5d-6e83-d86a	0
+electricity|n	at location	wire|n	07e7-551b-7ffc-6aa5	0
+wire|n	kind of	path|n	07e7-551b-7ffc-6aa5	0
+plain|n	kind of	landform|n	089e-dcd5-b124-189c	0
+bread|n	kind of	food|n	08c1-496e-6ad5-5c13	0
+leaf|n	kind of	object|n	08e0-810a-daa2-5a48	0
+plant|n	kind of	resource|n	091e-de33-5241-07bb	0
+shape|n	kind of	physical property|jn	095a-404f-6149-222c	0
+stove|n	kind of	machine|n	0963-6254-d160-4097	0
+downward|n	kind of	direction|n	098d-fb47-d982-7a36	0
+duration|n	kind of	time|n	09c7-65ed-43a7-93c0	0
+measure time|vp	result	duration|n	09c7-65ed-43a7-93c0	0
+minute|n	kind of	duration|n	09c7-65ed-43a7-93c0	0
+United States|ns	kind of	country|n	0a04-e1b0-44ed-652d	0
+pollute|v	kind of	activity|n	0a09-b3f6-9229-9511	0
+polluting|v	derivational morphology	pollute|v	0a09-b3f6-9229-9511	0
+ounce|n	kind of	mass|n	0a48-259f-8e93-894c	0
+ounce|n	kind of	unit|n	0a48-259f-8e93-894c	0
+skunk|n	kind of	animal|n	0a95-0ed2-b881-a7ef	0
+measure earthquake|vp	instrument	seismograph|n	0ad1-f529-32a2-a01d	0
+distance|n	kind of	unit|n	0b1f-b391-f485-1e6a	0
+distance|n	similar to	length|n	0b1f-b391-f485-1e6a	0
+mile|n	kind of	distance|n	0b1f-b391-f485-1e6a	0
+air|n	kind of	matter|n	0b2c-f8af-7823-d253	0
+amphibian|n	kind of	vertebrate|n	0b44-0582-f4ba-58c2	0
+migration|n	kind of	adaptation|n	0b85-1757-0b30-a8a2	0
+fish|n	kind of	animal|n	0bc0-31f6-513b-ff06	0
+arch|n	kind of	land formation|ns	0c28-b3cd-bb77-d385	0
+stick|n	kind of	object|n	0c4f-43da-c106-3620	0
+last quarter|jn	kind of	moon phase|ns	0cac-60e6-ae3d-50ec	0
+mold|n	kind of	fungus|n	0d28-3295-e473-c310	0
+berry|n	kind of	fruit|n	0d28-7059-bcd4-0859	0
+ability|n	instance of	trait|n	0d2a-34ad-e231-a167	0
+grow|v	kind of	ability|n	0d2a-34ad-e231-a167	0
+predator|n	has negative impact on	prey|n	0d35-1653-d1f5-29f2	0
+predator|n	kind of	enemy|n	0d35-1653-d1f5-29f2	0
+tree|n	kind of	plant|n	0d3a-8739-9f42-5e1c	0
+century|n	instance of	time|n	0d3e-321a-b845-8dd9	0
+century|n	kind of	duration|n	0d3e-321a-b845-8dd9	0
+century|n	kind of	unit|n	0d3e-321a-b845-8dd9	0
+duration|n	instance of	time|n	0d3e-321a-b845-8dd9	0
+set|v	derivational morphology	setting|n	0da9-2984-f126-bcad	0
+set|v	kind of	motion|n	0da9-2984-f126-bcad	0
+bad reaction|jn	kind of	problem|n	0de5-48b7-1fb5-acbb	0
+mountain|n	kind of	landform|n	0e02-5e2b-3793-96d3	0
+slate|n	kind of	metamorphic rock|jn	0fc7-bb62-bc30-e3fd	0
+nervous system|ns	kind of	body system|ns	0fda-acea-84f6-b616	0
+absorb sunlight|vp	instrument	leaf|n	0fef-e04d-dcf6-d43a	0
+large leaf|jn	kind of	adaptation|n	0fef-e04d-dcf6-d43a	0
+rose|n	kind of	flower|n	0ffa-d415-c252-1fbb	0
+wagon|n	kind of	vehicle|n	1022-5edd-48da-fd5a	0
+orange|n	kind of	color|n	103a-3db0-f4b2-d7a7	0
+coastal area|jn	kind of	environment|n	1065-849d-5c96-0863	0
+electric toothbrush|jn	kind of	electric device|jn	106a-0379-0b23-ab7d	0
+reproduction|n	derivational morphology	reproduce|v	1076-5022-7c68-9365	0
+reproduction|n	kind of	process|n	1076-5022-7c68-9365	0
+animal|n	kind of	organism|n	10ce-c060-90b9-b748	0
+clam|n	kind of	aquatic animal|jn	10ea-cf33-c978-c0fb	0
+soil erosion|ns	kind of	natural process|jn	11c8-fdbb-e0de-c7b7	0
+soil erosion|ns	kind of	slow process|jn	11c8-fdbb-e0de-c7b7	0
+maple tree|ns	kind of	tree|n	11f2-4ff8-e494-7018	0
+duration|n	kind of	time|n	122e-b36b-0183-80c7	0
+hour|n	kind of	duration|n	122e-b36b-0183-80c7	0
+measure time|vp	result	duration|n	122e-b36b-0183-80c7	0
+Pluto|n	kind of	dwarf planet|ns	1230-534f-c1fb-8a2a	0
+space|n	kind of	resource|n	1238-9a25-7978-c11f	0
+panel|n	kind of	object|n	1258-c7db-9d8e-88f3	0
+duration|n	kind of	time|n	1271-8178-87cf-045c	0
+hour|n	kind of	duration|n	1271-8178-87cf-045c	0
+measure time|vp	result	duration|n	1271-8178-87cf-045c	0
+weathering|n	kind of	erosion|n	1272-6781-b4fb-96ab	0
+particle|n	kind of	matter state|ns	1278-7e0e-79a5-2547	0
+measure temperature|vp	instrument	thermometer|n	1296-2edb-a443-10d1	0
+thermometer|n	kind of	instrument|n	1296-2edb-a443-10d1	0
+hair|n	kind of	object|n	12a1-83f7-fc55-95a5	0
+white|n	kind of	color|n	12c9-e2b2-25cd-65c6	0
+dairy|n	kind of	food|n	12e5-6d27-bff0-489c	0
+flashlight|n	kind of	electrical device|jn	130a-ea4e-6de1-a4af	0
+butterfly|n	kind of	insect|n	1310-8acf-1fa5-d8db	0
+softball|n	kind of	ball|n	1325-3c4b-a5a6-1db8	0
+eagle|n	kind of	animal|n	133f-8977-dfd9-c969	0
+field|n	kind of	habitat|n	1368-2e1b-eb74-f182	0
+jackrabbit|n	kind of	rabbit|n	1399-e19b-a5ea-ed76	0
+bowl|n	kind of	container|n	13f6-64dd-d4b6-6fec	0
+juice|n	kind of	liquid|n	14c4-c640-5d74-79a3	0
+land|n	kind of	environment|n	14d6-a024-da1b-d3d6	0
+egg|n	kind of	object|n	14f6-1b4a-f963-8a50	0
+light|n	at location	water|n	1505-53ee-1d64-b11d	0
+osprey|n	kind of	bird|n	150d-8fc1-9d5d-32da	0
+oxygen|n	kind of	gas|n	16b7-673f-bc0d-ed99	0
+fruit|n	kind of	object|n	16ce-a772-1577-f0e3	0
+sunny|n	kind of	weather|n	16da-5361-a2eb-9264	0
+cat|n	kind of	animal|n	1700-a363-df25-ad34	0
+rain gauge|ns	kind of	graduated cylinder|jn	1732-2d9c-7bc6-4556	0
+landslide|n	kind of	natural event|jn	17c2-1a0b-fa3f-63cb	0
+airplane|n	kind of	vehicle|n	182e-6373-acc4-bde3	0
+storm|n	kind of	weather event|ns	182e-8760-e878-1751	0
+storm|n	kind of	weather|n	182e-8760-e878-1751	0
+water lily|ns	kind of	green plant|jn	1869-0d26-040c-9a3d	0
+onion|n	kind of	vegetable|n	1871-0cbf-610d-1e47	0
+leaf change colour|avp	kind of	process|n	189c-21f9-3228-3f0c	0
+break down|v	kind of	forming|v	18c0-bb11-0330-ae2c	0
+slide|n	kind of	object|n	1901-4f2b-21f5-11b7	0
+coyote|n	kind of	animal|n	1932-0d7e-562c-c466	0
+rubber|n	kind of	material|n	1946-b43f-82d5-547d	0
+measure distance|vp	instrument	meter stick|ns	1958-4336-80f2-90bd	0
+measure length|vp	instrument	meter stick|ns	1958-4336-80f2-90bd	0
+meter stick|ns	kind of	tool|n	1958-4336-80f2-90bd	0
+landform|n	kind of	object|n	197a-5152-85d4-6ed5	0
+sound|n	kind of	energy|n	1980-256d-b685-846c	0
+hide|v	beneficiary	prey|n	19da-4665-c208-b9ae	0
+hide|v	result	protection|n	19da-4665-c208-b9ae	0
+protection|n	derivational morphology	protect|v	19da-4665-c208-b9ae	0
+protect|v	instrument	hide|v	19da-4665-c208-b9ae	0
+carbon monoxide|ns	kind of	gas|n	1a38-d031-a283-b5aa	0
+add|v	kind of	change|v	1a46-09fd-bf55-7001	0
+path|n	kind of	pathway|n	1ad9-0754-9bf3-7610	0
+fuel supply|ns	kind of	resource|n	1aed-3c74-88e1-9d96	0
+fuel|n	kind of	energy source|ns	1b14-afc4-9d2b-8dbd	0
+screw|n	kind of	simple machine|jn	1b74-b53a-b4ec-5b5f	0
+vinegar|n	kind of	liquid|n	1ba7-86f9-9cab-21f4	0
+animal|n	has subcomponent	kidney|n	1bbb-9096-773e-2c2f	0
+kidney|n	kind of	organ|n	1bbb-9096-773e-2c2f	0
+plain|n	kind of	environment|n	1bd2-1b6a-cc78-3af3	0
+calculator|n	kind of	tool|n	1c02-45a8-ac3d-d3e5	0
+water|n	kind of	natural resource|jn	1c04-5228-7c5d-ab8a	0
+tree frog|ns	kind of	animal|n	1c1c-9c8d-bd03-dfea	0
+doorbell|n	kind of	bell|n	1c3a-3b86-ae06-715c	0
+paper|n	kind of	material|n	1c5c-3f13-e713-63f5	0
+worm|n	kind of	living thing|jn	1c66-2f7c-2b52-0b37	0
+piano|n	kind of	musical instrument|jn	1ccb-478a-9689-4e12	0
+marble|n	kind of	material|n	1d1c-a940-405e-dd50	0
+marble|n	kind of	object|n	1d1c-a940-405e-dd50	0
+kazoo|n	kind of	musical instrument|jn	1d74-9f8e-c159-135b	0
+pour|v	derivational morphology	pouring|n	1d93-ec14-264b-13bf	0
+pour|v	kind of	activity|n	1d93-ec14-264b-13bf	0
+release energy|vp	kind of	function|n	1e59-1be2-a1fb-758e	0
+coral|n	kind of	aquatic animal|jn	1e73-7f0f-13b5-1523	0
+sterling silver|ns	kind of	metal|n	1f26-9d60-19b5-05d1	0
+factory|n	causes	pollution|n	1fa0-bd7e-3b50-b250	0
+pollutant|n	derivational morphology	pollution|n	1fa0-bd7e-3b50-b250	0
+reduce pollution|vp	instrument	pollutions standard|ns	1fa0-bd7e-3b50-b250	0
+vehicle|n	causes	pollution|n	1fa0-bd7e-3b50-b250	0
+salt|n	kind of	substance|n	1fd0-279c-ed27-afca	0
+work|n	kind of	place|n	2024-1639-fb8a-1568	0
+reptile|n	kind of	animal|n	2055-ec3b-4dfb-58e7	0
+push|v	kind of	apply force|vp	211f-8a51-037c-704c	0
+push|v	kind of	force|n	211f-8a51-037c-704c	0
+cloud|n	kind of	weather|n	213b-79e4-47ec-0581	0
+rain|n	kind of	water|n	214a-9ca3-2983-aa79	0
+classify|v	kind of	scientific process|jn	2188-2e33-82c8-5741	0
+scientific|j	derivational morphology	science|n	2188-2e33-82c8-5741	0
+cut|n	kind of	wound|n	21ce-fb09-081b-a826	0
+stout beardfish|ns	kind of	fish|n	2223-80a8-8d8c-0183	0
+planet|n	kind of	celestial body|jn	22a2-1029-702e-a29a	0
+planet|n	kind of	celestial object|jn	22a2-1029-702e-a29a	0
+nutrient|n	kind of	chemical compound|jn	22fa-ad68-2139-24d0	0
+Mississippi Delta|ns	kind of	delta|n	2301-85aa-b20b-8250	0
+walking|n	kind of	behavior|n	2323-a1bc-b57d-4a0c	0
+hot plate|ns	kind of	instrument|n	2326-f572-9b29-58d5	0
+runoff|n	kind of	water|n	2337-bb5b-8d11-5cc8	0
+natural gas|jn	kind of	fuel|n	2355-0cfa-86f8-5767	0
+pumice|n	kind of	igneous rock|jn	236b-7456-aa80-d1b2	0
+refract|v	instrument	prism|n	237d-6b78-ad88-e3b4	0
+refract|v	patient	light|n	237d-6b78-ad88-e3b4	0
+cooling|n	derivational morphology	cool|v	241c-3fd6-32cd-10e3	0
+cool|v	kind of	process|n	241c-3fd6-32cd-10e3	0
+salamander|n	kind of	aquatic animal|jn	2452-4ec6-cebd-d341	0
+renewable resource|jn	kind of	natural resource|jn	24cb-9b36-6469-e83f	0
+Autumn|n	kind of	season|n	2526-2b72-2cb0-0beb	0
+table|n	kind of	object|n	268d-a671-9d83-031a	0
+aluminum|n	kind of	matter|n	26a1-5a20-e241-28f1	0
+landform|n	kind of	natural formation|jn	26bf-462e-a8fb-f637	0
+hum|n	kind of	sound|n	26bf-b84f-072a-b68a	0
+plant|n	kind of	organism|n	26c3-eec4-e1d0-fac5	0
+deposition|n	kind of	constructive force|jn	26ca-d196-e2c1-632c	0
+eat food|vp	kind of	habit|n	26dc-135c-41e9-6a03	0
+animal cell|ns	kind of	cell|n	2702-7db2-6eb1-e03f	0
+drying|v	derivational morphology	dry|v	2728-2bde-6c00-9dd0	0
+dry|v	instrument	hand dryer|ns	2728-2bde-6c00-9dd0	0
+hand dryer|ns	kind of	electrical device|jn	2728-2bde-6c00-9dd0	0
+oil|n	kind of	substance|n	2806-8957-c846-253b	0
+crop|n	kind of	plant|n	281b-9541-e1c7-6c92	0
+crop|n	has property	edible|j	281b-9541-e1c7-6c92	0
+eating|n	derivational morphology	eat|v	281b-9541-e1c7-6c92	0
+eat|v	patient	crop|n	281b-9541-e1c7-6c92	0
+eat|v	patient	edible|j	281b-9541-e1c7-6c92	0
+brass|n	kind of	alloy|n	2843-571e-d3d2-d99d	0
+microscope|n	kind of	tool|n	28d0-868d-1eee-0150	0
+observe|v	instrument	microscope|n	28d0-868d-1eee-0150	0
+algae|n	kind of	organism|n	28d3-fb60-bdd3-d10c	0
+december|n	kind of	month|n	28df-fece-46cf-e074	0
+metamorphic|n	kind of	rock|n	28e0-0efa-52fc-4134	0
+beach|n	kind of	environment|n	2913-c482-da7e-b2f6	0
+beach|n	kind of	habitat|n	2913-c482-da7e-b2f6	0
+ice|n	kind of	object|n	2959-08e0-430c-0f87	0
+container|n	kind of	object|n	299f-781c-ea28-9ce3	0
+pile|n	kind of	motion|n	29b4-6a08-3db7-782f	0
+field|n	kind of	environment|n	2a18-601d-51f0-3abc	0
+mammal|n	kind of	animal|n	2a1f-7883-c269-3736	0
+pond|n	kind of	body of water|ns	2a41-7224-fbc2-ba94	0
+bring substance|vp	goal	body|n	2a76-307e-23d8-5e78	0
+bring substance|vp	kind of	function|n	2a76-307e-23d8-5e78	0
+North Pole|ns	kind of	location|n	2a94-c730-703f-d4e6	0
+liquid|n	has property	volume|n	2a97-db62-2708-bd9d	0
+milliliter|n	kind of	volume|n	2a97-db62-2708-bd9d	0
+volume|n	kind of	unit|n	2a97-db62-2708-bd9d	0
+trilobite|n	kind of	water animal|ns	2ac7-87be-4297-8014	0
+wood|n	kind of	natural material|jn	2b35-1f1c-4f5d-e8e9	0
+Western coral snake|ns	kind of	snake|n	2b58-eef0-ced3-1aa1	0
+nature preserve|ns	kind of	habitat|n	2b64-01c6-e21e-b32b	0
+transport|n	derivational morphology	transport|v	2b96-b294-3abb-3f9b	0
+transport|v	instrument	vehicle|n	2b96-b294-3abb-3f9b	0
+travel|v	derivational morphology	travel|n	2b96-b294-3abb-3f9b	0
+travel|v	instrument	vehicle|n	2b96-b294-3abb-3f9b	0
+vehicle|n	kind of	tool|n	2b96-b294-3abb-3f9b	0
+deer mouse|ns	kind of	mouse|n	2c01-2721-96af-28e1	0
+earlobe|n	kind of	body part|ns	2c08-7667-3a32-cd76	0
+seed|n	kind of	young plant|jn	2c17-469f-2296-dbee	0
+kick|n	kind of	push|n	2c22-fd47-fae8-9fec	0
+Monday|n	instance of	day|n	2c23-dc4d-c618-2570	0
+ring|v	derivational morphology	ringing|n	2d60-9f81-f014-f5d5	0
+ring|v	kind of	action|n	2d60-9f81-f014-f5d5	0
+nitrogen|n	kind of	element|n	2d67-baa5-abb9-5015	0
+water|n	kind of	nonliving thing|jn	2e1a-7f43-2f56-54a8	0
+seed|n	has positive impact on	bird|n	2e77-d6d7-8255-82e3	0
+seed|n	kind of	food|n	2e77-d6d7-8255-82e3	0
+plant|n	kind of	living thing|jn	2e89-d8e8-a8fb-9acc	0
+oil|n	kind of	liquid|n	2eff-c9c0-c7aa-f4b2	0
+mountain range|ns	kind of	environment|n	2fcb-3708-8590-8eee	0
+mountain|n	kind of	environment|n	2fcb-3708-8590-8eee	0
+soup|n	kind of	liquid|n	3005-d180-4d74-cdb2	0
+musical instrument|jn	kind of	object|n	300d-4b3b-57dd-2056	0
+oil|n	kind of	fossil fuel|ns	3092-233a-f999-2512	0
+desk|n	kind of	table|n	30aa-0d51-4be2-538d	0
+bush|n	kind of	plant|n	311e-8d88-cde2-860d	0
+mechanical energy|jn	kind of	energy|n	3144-f8f2-43a4-8712	0
+laser|n	kind of	device|n	3168-bafc-668a-35fc	0
+produce light|vp	instrument	laser|n	3168-bafc-668a-35fc	0
+hunt|v	kind of	action|n	317f-06e6-5e83-8d81	0
+drought|n	kind of	slow environmental change|jn	31b1-33e5-a71c-0f61	0
+road|n	kind of	object|n	3234-2820-f7a1-4074	0
+down feather|ns	kind of	material|n	3240-c2c8-0748-1c2a	0
+desert|n	kind of	environment|n	328a-8d46-1485-c3c3	0
+park|n	kind of	environment|n	32c3-1671-f654-dcb7	0
+soup|n	kind of	food|n	330c-b2e7-f883-13e6	0
+biofuel|n	kind of	alternative energy resource|jn	3352-8265-75b0-3355	0
+sterling silver|ns	kind of	alloy|n	3379-66dc-280f-20e5	0
+lizard|n	kind of	animal|n	33a0-5ab1-14b3-6bf8	0
+inherited characteristic|jn	kind of	characteristic|n	33f5-726f-b706-4a01	0
+striped|n	kind of	color pattern|jn	3483-7c99-093c-e25c	0
+cavern|n	kind of	land form|ns	34ab-0980-7a15-537e	0
+south|n	kind of	direction|n	34c2-c483-57d1-543e	0
+tadpole|n	has property	baby|j	3596-66e7-97d6-0e9a	0
+tadpole|n	has property	young|j	3596-66e7-97d6-0e9a	0
+tadpole|n	kind of	baby frog|jn	3596-66e7-97d6-0e9a	0
+tadpole|n	kind of	young frog|jn	3596-66e7-97d6-0e9a	0
+toward|n	kind of	direction|n	3599-03b4-9c23-4b8f	0
+flagpole|n	kind of	object|n	35d1-8c12-878d-beb6	0
+down|n	kind of	direction|n	36e1-b93c-2ce0-866f	0
+melt|v	kind of	process|n	36f6-e94f-8780-1897	0
+freckle|n	kind of	inherited characteristic|jn	36f8-40f6-3ae3-9524	0
+duck|n	kind of	aquatic animal|jn	371e-0bce-867d-1e1a	0
+amphibian|n	kind of	animal|n	3740-c11d-832c-96f2	0
+breathe|v	instrument	gill|n	3756-21fd-e448-dbfc	0
+breathing|n	derivational morphology	breathe|v	3756-21fd-e448-dbfc	0
+fish|n	at location	water|n	3756-21fd-e448-dbfc	0
+fish|n	has subcomponent	gill|n	3756-21fd-e448-dbfc	0
+gill|n	kind of	organ|n	3756-21fd-e448-dbfc	0
+frog|n	kind of	amphibian|n	37e7-fd9e-4591-1258	0
+attract|v	kind of	activity|n	3876-3549-b081-abe3	0
+attract|v	kind of	function|n	3876-3549-b081-abe3	0
+oil|n	kind of	pollutant|n	3879-d557-003d-491a	0
+water|n	kind of	liquid|n	3961-d09c-4b9a-a6f7	0
+mix|v	kind of	activity|n	39b7-6128-a6ae-5d97	0
+camouflage|v	beneficiary	prey|n	39b9-9637-538d-0d33	0
+camouflage|v	derivational morphology	camouflage|n	39b9-9637-538d-0d33	0
+protection|n	derivational morphology	protect|v	39b9-9637-538d-0d33	0
+protect|v	synonym	camouflage|n	39b9-9637-538d-0d33	0
+sight|n	kind of	sense|n	39ca-a831-8d1a-babd	0
+change|n	kind of	event|n	3a14-9cd4-c11b-d164	0
+covering|n	kind of	object|n	3aa7-2278-0849-316b	0
+grow|v	kind of	activity|n	3b23-bc5c-3332-4508	0
+dandelion|n	kind of	flower|n	3b33-111c-c079-df38	0
+process|n	kind of	event|n	3b7f-815d-511b-c7bb	0
+telephone|n	kind of	tool|n	3b84-2ea8-db99-4f3b	0
+ecosystem|n	has subcomponent	producer|n	3bad-691a-15c4-44f6	0
+food chain|ns	has subcomponent	producer|n	3bad-691a-15c4-44f6	0
+producer|n	kind of	role|n	3bad-691a-15c4-44f6	0
+type|n	kind of	property|n	3bc7-74c9-307f-6f56	0
+jar|n	kind of	container|n	3bdb-25d7-3c9f-958b	0
+rest|v	derivational morphology	rest|n	3c48-fb11-4242-974f	0
+rest|v	kind of	activity|n	3c48-fb11-4242-974f	0
+strip|n	kind of	object|n	3cb8-96f0-34fb-8417	0
+camera|n	kind of	tool|n	3d59-043d-faf2-a90e	0
+record image|vp	instrument	camera|n	3d59-043d-faf2-a90e	0
+clothes|n	kind of	object|n	3d61-550e-57ae-b045	0
+clothes|n	synonym	clothing|n	3d61-550e-57ae-b045	0
+reading|n	derivational morphology	read|v	3d84-54ff-cea1-4765	0
+read|v	kind of	activity|n	3d84-54ff-cea1-4765	0
+meadow|n	kind of	environment|n	3d8c-f05c-51e2-38f2	0
+drought|n	kind of	natural disaster|jn	3e09-df41-a63a-cf1c	0
+skeletal system|ns	kind of	body system|ns	3e34-7133-f645-504b	0
+cover|v	kind of	protection|n	3e42-533a-ed4d-c99b	0
+protection|n	derivational morphology	protect|v	3e42-533a-ed4d-c99b	0
+protect|v	instrument	cover|v	3e42-533a-ed4d-c99b	0
+Richmond|n	kind of	town|n	3e49-ad6a-5665-0cd5	0
+nutrient|n	kind of	matter|n	3e9a-e391-5052-6b55	0
+hummingbird|n	kind of	bird|n	3ed3-ffdd-5807-f126	0
+student|n	kind of	human|n	3ed8-5fde-3b7b-6513	0
+gourd|n	kind of	fruit|n	3f08-d790-ccf8-af59	0
+liquid|n	kind of	substance|n	3f2b-87bb-f73a-3e5d	0
+summer|n	kind of	season|n	3f3f-f2cb-ae3d-f238	0
+Charles Darwin|ns	kind of	scientist|n	3f44-34c9-edee-9514	0
+pail|n	kind of	container|n	3f9b-f0b8-3284-7aca	0
+body of water|ns	kind of	environment|n	3f9d-8b3a-54b5-6a3c	0
+rust forming|ns	kind of	chemical change|jn	3fb1-78ec-77f8-d713	0
+wall|n	kind of	surface|n	3fe8-0138-a901-b730	0
+protect|v	derivational morphology	protecting|n	401b-d6f7-6bc5-3718	0
+protect|v	kind of	function|n	401b-d6f7-6bc5-3718	0
+something form|av	kind of	process|n	402b-f67a-2f5a-0a05	0
+tuna|n	kind of	fish|n	402e-1817-1d04-e00f	0
+bring oxygen|vp	goal	body|n	4043-728e-19d8-238d	0
+bring oxygen|vp	kind of	function|n	4043-728e-19d8-238d	0
+brick|n	kind of	object|n	405a-72ae-da94-0c7d	0
+duration|n	kind of	time|n	406d-464a-cfa5-7b67	0
+measure time|vp	result	duration|n	406d-464a-cfa5-7b67	0
+year|n	kind of	duration|n	406d-464a-cfa5-7b67	0
+shape|n	kind of	characteristic|n	409a-a89f-e238-2bac	0
+wipe up spill|vp	at location	laboratory|n	4197-9c0b-9863-629e	0
+wipe up spill|vp	kind of	safety measure|ns	4197-9c0b-9863-629e	0
+curling|n	derivational morphology	curl|v	41e5-6655-f98c-8696	0
+curling|n	kind of	behavior|n	41e5-6655-f98c-8696	0
+gold|n	kind of	solid|n	41ff-4240-13ce-27e0	0
+human|n	kind of	animal|n	4253-4b9e-1e5f-1742	0
+wetland|n	kind of	ecosystem|n	426c-6ee0-9023-3cca	0
+single-celled organism|jn	kind of	living thing|jn	429b-b860-9460-60c7	0
+cycle|n	kind of	process|n	4330-7381-9bed-2b75	0
+greenhouse|n	kind of	shelter|n	4349-2e73-8808-3750	0
+plant|n	at location	shelter|n	4349-2e73-8808-3750	0
+solar energy|jn	kind of	light|n	4399-9824-93cb-c8e7	0
+pipe|n	kind of	object|n	43aa-47f0-c8a3-dce6	0
+chemical weathering|ns	kind of	weathering|v	43fa-1bf5-c428-cfa5	0
+apple|n	kind of	fruit|n	440e-272e-8e84-6b1e	0
+mirror|n	kind of	reflective object|jn	4478-dd94-9b15-a346	0
+corn|n	kind of	plant|n	44b1-c2ab-2e0d-e5e5	0
+lightning|n	kind of	electrical discharge|jn	44c6-34b2-4f88-7519	0
+rabbit|n	kind of	animal|n	44d7-fef6-90ef-75aa	0
+region|n	kind of	location|n	4539-85f1-57c0-5e89	0
+soil|n	kind of	material|n	45bb-9ef6-d3bd-e645	0
+deposition|n	kind of	natural process|jn	45f5-854b-a9a9-d2e7	0
+flying|n	derivational morphology	fly|v	464c-d7c3-7c7d-8ae7	0
+fly|v	at location	air|n	464c-d7c3-7c7d-8ae7	0
+fly|v	kind of	motion|n	464c-d7c3-7c7d-8ae7	0
+ocean|n	kind of	body of water|ns	466a-2c15-ac54-8361	0
+transport mineral|vp	kind of	function|n	46cd-dec2-14f6-b382	0
+transport nutrient|vp	kind of	function|n	46cd-dec2-14f6-b382	0
+transport water|vp	kind of	function|n	46cd-dec2-14f6-b382	0
+element|n	kind of	substance|n	4706-54ea-c8d6-bedd	0
+spine|n	kind of	object|n	4760-f7f8-5130-db3c	0
+solar energy|jn	kind of	energy|n	4849-d977-c75a-e8fb	0
+conserve water|vp	kind of	characteristic|n	489a-467c-0138-cd62	0
+sunlight|n	kind of	light|n	49dc-4526-46f9-5b32	0
+pot|n	kind of	container|n	4a8d-ee0c-6d0f-d1e8	0
+Appalachian Mountains|ns	kind of	mountain|n	4a96-2fb6-33e3-a914	0
+fungus|n	kind of	living thing|jn	4ae9-5a73-3f04-48f7	0
+moth|n	kind of	insect|n	4c05-ce97-15e0-e7d5	0
+aluminum|n	kind of	element|n	4c25-b5f8-13bf-6b86	0
+home|n	kind of	building|n	4d1f-ad79-3299-bfb4	0
+cushion|n	kind of	object|n	4da3-61dc-91ef-b4ad	0
+sea mammal|ns	kind of	mammal|n	4df6-1a70-4364-cd87	0
+walrus|n	kind of	sea mammal|ns	4df6-1a70-4364-cd87	0
+owl|n	kind of	bird|n	4e05-518c-0615-1082	0
+bat|n	kind of	mammal|n	4e61-2891-e675-3f88	0
+crack|n	kind of	opening|n	4e89-3fff-95dc-573e	0
+living thing|jn	kind of	object|n	4eac-892f-ecd2-6e0d	0
+loss|n	derivational morphology	lose|v	4ed7-fd33-f63a-573f	0
+loss|n	kind of	change|n	4ed7-fd33-f63a-573f	0
+duration|n	kind of	time|n	4f6c-7f8c-b9d5-f3cb	0
+measure time|vp	result	duration|n	4f6c-7f8c-b9d5-f3cb	0
+second|n	kind of	duration|n	4f6c-7f8c-b9d5-f3cb	0
+cooking|n	derivational morphology	cook|v	4fbb-49e2-aba5-690d	0
+toasting|n	derivational morphology	toast|v	4fbb-49e2-aba5-690d	0
+toast|v	kind of	cook|v	4fbb-49e2-aba5-690d	0
+grassland|n	kind of	environment|n	4fd1-9865-f350-6e2c	0
+binoculars|n	kind of	instrument|n	5009-5661-5c6a-ec21	0
+observe|v	instrument	binoculars|n	5009-5661-5c6a-ec21	0
+paper|n	kind of	object|n	5029-9d16-9c77-acf3	0
+goldfish|n	kind of	fish|n	502a-ad74-1aed-3da5	0
+observe earth|vp	instrument	satellite|n	502e-c41f-5433-c8e0	0
+observe|v	instrument	satellite|n	502e-c41f-5433-c8e0	0
+satellite|n	kind of	instrument|n	502e-c41f-5433-c8e0	0
+ant|n	kind of	insect|n	5079-3873-b0ab-85a3	0
+earth|n	has subcomponent	hemisphere|n	5082-d519-1343-5653	0
+southern hemisphere|jn	kind of	hemisphere|n	5082-d519-1343-5653	0
+alligator|n	kind of	aquatic animal|jn	5086-b21f-9f0a-e67d	0
+toaster|n	kind of	electrical device|jn	50a8-996b-b8bf-e107	0
+rocket|n	kind of	mechanical system|jn	5138-62a8-253e-2817	0
+silver|n	kind of	metal|n	5179-3c12-fa5f-2f13	0
+tundra|n	kind of	environment|n	51f0-0d35-bbcf-e84c	0
+chipmunk|n	kind of	mammal|n	5295-dcae-6915-29d4	0
+fish|n	kind of	meat|n	5298-d80f-5675-6ea3	0
+piece|n	kind of	object|n	52a3-125f-af5d-1f1c	0
+landform|n	kind of	place|n	52e5-9469-b294-d665	0
+controlling|n	derivational morphology	control|v	52f6-322b-a00b-cf49	0
+control|v	kind of	function|n	52f6-322b-a00b-cf49	0
+cricket|n	kind of	insect|n	5319-76bf-8c5d-657d	0
+water|n	kind of	object|n	533c-79f7-8267-e271	0
+brake|n	kind of	object|n	5368-ccdf-d870-eae9	0
+household appliance|ns	kind of	electrical device|jn	53c2-3d92-5b32-6e64	0
+literacy|n	kind of	skill|n	53ef-434c-c465-3752	0
+reading|n	derivational morphology	read|v	53ef-434c-c465-3752	0
+read|v	has subcomponent	literacy|n	53ef-434c-c465-3752	0
+write|v	has subcomponent	literacy|n	53ef-434c-c465-3752	0
+writing|n	derivational morphology	write|v	53ef-434c-c465-3752	0
+June|n	kind of	month|n	53f9-1eba-2408-8f4f	0
+produce|v	kind of	function|n	541c-2eac-6ed4-ea6a	0
+producing|v	derivational morphology	produce|v	541c-2eac-6ed4-ea6a	0
+flashlight|n	kind of	tool|n	54d6-953e-c432-50de	0
+polluting gas|jn	kind of	pollution|n	5509-45e6-fb83-8003	0
+observe celestial object|vp	instrument	telescope|n	55a5-70f3-961c-a142	0
+observe sky|vp	instrument	telescope|n	55a5-70f3-961c-a142	0
+observing|n	derivational morphology	observe|v	55a5-70f3-961c-a142	0
+telescope|n	kind of	instrument|n	55a5-70f3-961c-a142	0
+paper bag|ns	kind of	object|n	55b0-655c-6c67-2cf5	0
+cat|n	kind of	mammal|n	55b1-c3f1-bdb8-826d	0
+convection|n	kind of	process|n	5608-9598-e60e-85b0	0
+bear|n	kind of	animal|n	5639-8136-4788-3ee6	0
+iron|n	kind of	mineral|n	564d-448d-05b5-998e	0
+ball|n	kind of	object|n	5650-b213-46ea-d9dd	0
+add|v	kind of	activity|n	5663-a8e3-1f5e-df3e	0
+pathway|n	kind of	plane|n	56ab-4514-2109-0942	0
+insect|n	kind of	animal|n	56bd-8c40-3dae-d3e9	0
+weight|n	kind of	property|n	5720-208c-fea0-628e	0
+cellular respiration|ns	kind of	process|n	57ee-2852-addc-6da0	0
+expand|v	kind of	change|v	57fc-8994-cc18-9090	0
+expand|v	result	volume|n	57fc-8994-cc18-9090	0
+sea grass|ns	kind of	plant|n	58d5-0388-b85d-eb4e	0
+woodpecker|n	kind of	bird|n	58d8-a151-b408-ed86	0
+down|n	kind of	small feather|jn	58f2-80ea-9592-38a4	0
+waxing gibbous|ns	kind of	moon phase|ns	59a8-0777-9606-d6a2	0
+fruit tree|jn	kind of	crop|n	59c5-767d-fe82-f747	0
+frog|n	kind of	aquatic animal|jn	59c6-0fc8-f645-a67b	0
+sunlight|n	kind of	solar energy|jn	59d6-9954-ef5e-12b2	0
+curiosity|n	kind of	human quality|jn	59db-5841-efaf-6ac5	0
+muscular system|ns	kind of	body system|ns	5a16-c4db-72e5-13ff	0
+wasp|n	kind of	insect|n	5a35-133a-dcf9-2e06	0
+rise|v	agent	sun|n	5b3e-36e4-ab92-9468	0
+sunrise|n	instance of	event|n	5b3e-36e4-ab92-9468	0
+sunrise|ns	structural-noun-compound	rise|n	5b3e-36e4-ab92-9468	0
+sunrise|ns	structural-noun-compound	sun|n	5b3e-36e4-ab92-9468	0
+chameleon|n	kind of	lizard|n	5ba5-3b3b-be24-624e	0
+acorn|n	kind of	seed|n	5bfa-ddb1-fcd5-0079	0
+sweet|n	kind of	flavor|n	5c00-b065-93b2-b8b3	0
+liquid|n	has property	volume|n	5c13-e1a5-bbf3-8669	0
+liter|n	kind of	volume|n	5c13-e1a5-bbf3-8669	0
+volume|n	kind of	unit|n	5c13-e1a5-bbf3-8669	0
+break down|v	kind of	function|n	5c20-2524-068f-74f6	0
+roll|v	kind of	movement|n	5c38-cb22-09a4-2287	0
+speckled|n	kind of	color pattern|jn	5c77-2dc4-7ebe-7cbe	0
+line graph|ns	kind of	graph|n	5cf5-79ec-c7f8-440d	0
+lake|n	kind of	body of water|ns	5d6a-544c-b296-832e	0
+milk|n	kind of	food|n	5db9-95b3-3826-14c0	0
+device|n	kind of	object|n	5e04-dbd6-f9b0-14b4	0
+seaweed|n	kind of	plant|n	5e64-f4ff-d256-f740	0
+matter form|av	kind of	process|n	5ebf-99ed-deef-f31d	0
+body of water|ns	kind of	land feature|ns	6159-8c5f-9204-67b2	0
+Maryland|n	kind of	region|n	6162-d2c2-b79d-8b17	0
+snake|n	kind of	animal|n	6188-73e6-6db4-bfea	0
+glass|n	kind of	open container|jn	6198-fec8-e40b-1993	0
+away|n	kind of	direction|n	61be-4253-9acc-ea77	0
+sleeping bag|ns	kind of	product|n	61cc-33fa-5056-7255	0
+germ|n	kind of	harmful substance|jn	61e4-bb67-a031-8154	0
+child|n	kind of	young human|jn	61f9-cfd2-20f5-992d	0
+pumpkin|n	kind of	gourd|n	62fd-87cf-2e18-fdae	0
+producer|n	kind of	living thing|jn	6307-398c-de48-8773	0
+winter|n	kind of	season|n	633c-3fd4-7320-00cf	0
+blue jay|ns	kind of	bird|n	6350-c3b8-88a9-6c60	0
+quail|n	kind of	bird|n	63bf-ae3e-f088-9fcb	0
+turtle|n	kind of	reptile|n	63f8-0c28-2691-5e74	0
+taste|n	kind of	property|n	64a0-5e98-eead-e1aa	0
+candy|n	kind of	dessert|n	64b0-c692-7001-4ab6	0
+noon|n	instance of	time|n	655d-4374-fd1d-a906	0
+flammability|n	kind of	chemical property|jn	6583-a76d-4f3f-b4f0	0
+distance|n	kind of	unit|n	65b3-196a-be1f-b9be	0
+distance|n	similar to	length|n	65b3-196a-be1f-b9be	0
+meter|n	kind of	distance|n	65b3-196a-be1f-b9be	0
+hurricane|n	kind of	storm|n	65b3-3bde-505c-db9e	0
+puddle|n	kind of	body of water|ns	65d3-05bf-28db-3f1a	0
+bird|n	has subcomponent	beak|n	65e2-7649-725c-db72	0
+catch prey|vp	instrument	beak|n	65e2-7649-725c-db72	0
+catching|n	derivational morphology	catch|v	65e2-7649-725c-db72	0
+sharp beak|jn	instance of	adaptation|n	65e2-7649-725c-db72	0
+strong beak|jn	instance of	adaptation|n	65e2-7649-725c-db72	0
+ceiling fan|ns	kind of	fan|n	6637-e41b-2d15-bfdc	0
+United States of America|ns	kind of	location|n	664b-4f0e-914c-f410	0
+bubble|n	kind of	object|n	6656-785f-dbd2-4c9b	0
+Arctic Ocean|ns	kind of	ocean|n	66b8-769e-1915-e8a1	0
+rock form|av	kind of	process|n	6745-a12f-f936-8192	0
+vegetable|n	kind of	plant|n	6755-3424-c45b-3c9c	0
+submarine|n	kind of	object|n	6759-1566-8f4d-4da2	0
+coal|n	kind of	rock|n	67fa-a478-80e1-8fef	0
+magnifying glass|ns	kind of	tool|n	685f-4657-44af-cee7	0
+observe|v	instrument	magnifying glass|ns	685f-4657-44af-cee7	0
+magnetism|n	kind of	physical property|jn	68c8-0c77-7fa9-5633	0
+sedimentary|n	kind of	rock|n	68cb-62b0-32a3-30e2	0
+compass|n	kind of	object|n	68cd-53e7-7adb-0634	0
+color|n	kind of	physical property|jn	6903-1d34-3271-a6b8	0
+color|n	kind of	visual property|jn	6903-1d34-3271-a6b8	0
+astronomy|n	kind of	science|n	6932-0017-f9ba-bd0e	0
+rubber band|ns	kind of	object|n	6a9a-da2d-2dee-c5bc	0
+body part|ns	kind of	object|n	6be1-b308-a82c-c599	0
+pull plow|vp	kind of	chore|n	6bf2-704e-e347-88d8	0
+gas|n	kind of	substance|n	6c6f-b690-6b57-aab6	0
+bacterium|n	kind of	organism|n	6cd3-9d8e-f58c-d4fc	0
+fire|n	kind of	chemical reaction|jn	6cf1-9d92-5a26-93fd	0
+food|n	kind of	resource|n	6cf8-4a91-b857-9203	0
+girl|n	kind of	organism|n	6d01-d990-df90-0a6d	0
+conduction|n	kind of	process|n	6d44-6295-592b-4db9	0
+transport|v	kind of	function|n	6de6-2fbd-0113-0492	0
+metal|n	kind of	natural resource|jn	6f65-9a3a-f9f4-0c74	0
+hare|n	kind of	animal|n	6f73-8241-0aaf-24ef	0
+thermal glove|ns	kind of	safety gear|ns	6f96-bf9c-7fa5-2340	0
+measurement|n	kind of	datum|n	6fc4-8091-f720-3e33	0
+Alps|n	kind of	mountain range|ns	7056-db73-6d86-2bf1	0
+exercise|v	kind of	habit|n	7069-dcda-4749-8fe9	0
+air|n	kind of	gas|n	70ac-58d8-10b4-1313	0
+measure time|vp	patient	time interval|ns	70e8-113c-aa13-7a72	0
+wall|n	kind of	object|n	711b-f9b6-6a97-e3c5	0
+battery|n	kind of	object|n	7149-5022-cd2c-b375	0
+human|n	kind of	mammal|n	7160-91ab-6d7e-14c8	0
+guitar|n	kind of	musical instrument|jn	71b4-e5fc-3ed1-a1c0	0
+photosynthesis|n	kind of	process|n	7309-3070-fa70-cad9	0
+shark|n	kind of	fish|n	737d-9e1b-683f-862c	0
+tectonic plate|ns	kind of	object|n	73a5-fd93-9595-79df	0
+goose|n	kind of	bird|n	73a9-a826-930a-758c	0
+inexhaustible resource|jn	kind of	renewable resource|jn	740e-3d3d-bed5-6528	0
+talc|n	kind of	mineral|n	7427-b4fb-4ccb-66bb	0
+steam|n	kind of	water|n	74d3-98e4-9bf5-7aa1	0
+steam|n	kind of	water|n	74d3-98e4-9bf5-7aa1	0
+steam|n	kind of	water|n	74d3-98e4-9bf5-7aa1	0
+steam|n	kind of	water|n	74d3-98e4-9bf5-7aa1	0
+steam|n	has property	hot|j	74d3-98e4-9bf5-7aa1	0
+ride|v	derivational morphology	riding|n	74d9-e91b-c38a-b5d2	0
+ride|v	kind of	motion|n	74d9-e91b-c38a-b5d2	0
+bark|n	kind of	sound|n	74e3-5983-4e66-f53f	0
+matter state|ns	kind of	property|n	7532-01eb-475e-acbd	0
+mosquito|n	kind of	insect|n	756d-c15b-040c-76e2	0
+cow|n	kind of	animal|n	7579-be94-da2b-b793	0
+tool|n	kind of	object|n	75de-7e0e-d204-6ec0	0
+pull|n	kind of	force|n	7650-49b9-49e2-621d	0
+electron|n	has property	charged|j	7663-f110-4072-8d48	0
+electron|n	kind of	particle|n	7663-f110-4072-8d48	0
+function|n	kind of	characteristic|n	7697-a428-b299-c144	0
+sound|n	kind of	sound energy|ns	7726-d9fd-f431-db04	0
+window|n	kind of	object|n	7747-2a9d-897d-f11c	0
+oil|n	kind of	liquid|n	7779-45c7-0fb8-b534	0
+zinc|n	kind of	mineral|n	77ce-37b8-e09b-f59f	0
+shale|n	kind of	sedimentary rock|jn	77dc-05da-a205-2af9	0
+sleet|n	kind of	ice|n	77f1-c14f-39cf-b4fd	0
+plankton|n	kind of	animal|n	7821-1a7c-405f-2393	0
+change|n	derivational morphology	change|v	782a-53e7-c1c7-aae0	0
+increase|n	kind of	change|n	782a-53e7-c1c7-aae0	0
+mouse|n	kind of	animal|n	782f-7770-b8be-f40e	0
+light|n	kind of	wave|n	7830-1dcb-42c6-d8dc	0
+floor|n	kind of	object|n	785d-6676-9d5d-78b2	0
+bean plant|ns	kind of	plant|n	7881-6f75-7de9-2722	0
+peach tree|ns	kind of	tree|n	7886-d60a-8794-0c18	0
+black|n	kind of	color|n	7892-f43a-8f12-2a8d	0
+returning|n	derivational morphology	return|v	78c5-6ab2-0b31-7bc1	0
+return|v	kind of	movement|n	78c5-6ab2-0b31-7bc1	0
+hawk|n	kind of	animal|n	78d2-c53f-0244-23c2	0
+wave|v	derivational morphology	waving|n	78ff-b0b7-b1c5-5536	0
+wave|v	kind of	motion|n	78ff-b0b7-b1c5-5536	0
+wood|n	kind of	object|n	7969-9020-bfa6-c54c	0
+magenta|n	kind of	color|n	799b-aef6-8f37-da4b	0
+purple|n	kind of	color|n	799b-aef6-8f37-da4b	0
+violet|n	kind of	color|n	799b-aef6-8f37-da4b	0
+beach|n	kind of	location|n	7a02-3c43-f89e-8b50	0
+sandpaper|n	kind of	object|n	7ab6-d0b1-eac4-a2a9	0
+syrup|n	kind of	liquid|n	7ab9-c401-de04-a804	0
+needle|n	kind of	object|n	7b15-d12e-457b-2d61	0
+transfer|n	kind of	process|n	7b18-e422-e212-d376	0
+body of water|ns	kind of	water|n	7b89-9ee6-46e3-69f9	0
+glacier|n	kind of	body of water|ns	7b89-9ee6-46e3-69f9	0
+camel|n	kind of	animal|n	7c5c-d0bf-98c2-aab9	0
+snail|n	kind of	animal|n	7c65-e5ab-1f92-0c39	0
+tide|n	kind of	natural event|jn	7c75-71b3-613b-1ebe	0
+carpet|n	kind of	material|n	7c86-786b-68dd-de35	0
+rock|n	kind of	object|n	7c8b-3728-1d36-f922	0
+bat|n	kind of	animal|n	7ca2-740e-37f4-0a9e	0
+automobile|n	kind of	vehicle|n	7cb7-40ac-f4d5-eb6c	0
+simple machine|jn	kind of	tool|n	7cee-45d4-aa3a-ca19	0
+dime|n	kind of	coin|n	7d18-5634-a307-8207	0
+yeast cell|ns	kind of	single-celled organism|jn	7d5f-5e63-dd7d-4096	0
+structure|n	kind of	feature|n	7dea-62b3-c169-a6bf	0
+carpool|v	kind of	activity|n	7e0c-4aad-052d-7c9c	0
+tree|n	kind of	living thing|jn	7e6a-bb5a-c31e-85f2	0
+diamond|n	kind of	mineral|n	7e9a-fec3-cac8-51bb	0
+egg|n	kind of	food|n	7eae-fed8-4c36-88aa	0
+pool|n	kind of	body of water|ns	7ebb-7a94-af1e-9fa9	0
+fish|n	kind of	scaled animal|jn	7ec2-c1a0-5e6d-55eb	0
+mouse|n	kind of	mammal|n	7ee2-781c-6f14-a31a	0
+ice|n	kind of	solid|n	7ef1-c28b-22e3-3edc	0
+inclined plane|jn	kind of	simple machine|jn	7f2c-ec1b-0791-4c0d	0
+condense|v	derivational morphology	condensing|n	7faf-cb37-05f2-3e08	0
+condense|v	kind of	process|n	7faf-cb37-05f2-3e08	0
+pebble|n	kind of	material|n	7fcb-f383-0c03-e6a0	0
+railroad track|ns	kind of	object|n	7ffb-2fbf-9c6a-7f2a	0
+erosion|n	kind of	process|n	7fff-260d-92e0-8f87	0
+snow|n	kind of	precipitation|n	8083-d6d0-9cba-da83	0
+earthquake|n	kind of	natural event|jn	8129-78ea-abe4-f382	0
+prairie dog|ns	kind of	animal|n	8130-7bd7-79e3-67cf	0
+nut|n	kind of	fruit|n	8160-3018-c7df-ea68	0
+plant cell|ns	kind of	cell|n	816a-0510-1046-441e	0
+erosion|n	kind of	destructive force|jn	818d-694a-356a-68bb	0
+water|n	kind of	substance|n	81b7-0a58-5b0b-0bbf	0
+Himalayas|n	kind of	mountain range|ns	81c7-3170-da45-e21d	0
+nonmetallic|n	kind of	luster|n	81dc-99bd-7476-6fea	0
+yellow|n	kind of	color|n	8248-ae54-9660-d22c	0
+sugar|n	kind of	substance|n	826e-4bd3-1390-0182	0
+droplet|n	kind of	little drop|jn	82db-e172-d4b8-5aca	0
+valley quail|ns	kind of	quail|n	82fa-e7a4-1da6-7ae5	0
+comet|n	kind of	celestial body|jn	8357-d57c-5cff-b3ee	0
+cell|n	kind of	object|n	8370-394e-7d79-4c14	0
+precipitation|n	kind of	natural cause|jn	83c7-bb21-6c58-9534	0
+precipitation|n	kind of	natural occurrence|jn	83c7-bb21-6c58-9534	0
+mineral|n	kind of	object|n	8435-aecd-2348-6182	0
+butterfly|n	kind of	organism|n	847e-e7e6-d54e-e335	0
+vibrate|v	kind of	motion|n	84cd-6cd8-331b-f869	0
+vibration|n	derivational morphology	vibrate|v	84cd-6cd8-331b-f869	0
+island|n	kind of	landform|n	84ea-d95d-42c4-a8fb	0
+chocolate|n	kind of	solid|n	858d-7f12-bc99-2177	0
+remove tree|vp	kind of	task|n	85ed-5001-a1bd-2bc1	0
+precipitation|n	kind of	weather|n	86b0-5c6f-cd54-4d52	0
+table|n	kind of	furniture|n	8706-febe-af37-4bc4	0
+earth|n	has subcomponent	hemisphere|n	8745-b081-65b5-bc99	0
+northern hemisphere|jn	kind of	hemisphere|n	8745-b081-65b5-bc99	0
+limit|v	kind of	activity|n	8784-af6f-9679-ba17	0
+diatom|n	kind of	organism|n	8794-bd63-7a55-f9fc	0
+beverage|n	kind of	food|n	879e-75ee-34d3-b880	0
+walking|n	kind of	motion|n	8848-4ca5-92b5-6607	0
+bird|n	at location	water tower|ns	892b-d4f7-9599-791b	0
+water tower|ns	kind of	habitat|n	892b-d4f7-9599-791b	0
+change|n	derivational morphology	change|v	8969-68e2-987a-8b72	0
+contract|v	kind of	change|v	8969-68e2-987a-8b72	0
+contract|v	result	change volume|vp	8969-68e2-987a-8b72	0
+handle|n	kind of	object|n	8985-7fba-d15d-a387	0
+television set|ns	kind of	electrical device|jn	89ae-f520-fdbf-4c54	0
+solar energy|jn	kind of	heat energy|ns	89b7-8583-941a-df9d	0
+taste|n	kind of	sense|n	89d7-ec28-323f-ad68	0
+iron|n	kind of	solid|n	89f4-0fad-6afc-2199	0
+measure distance|vp	instrument	tape measure|ns	89ff-54de-77cf-9d13	0
+measure length|vp	instrument	tape measure|ns	89ff-54de-77cf-9d13	0
+measuring|n	derivational morphology	measure|v	89ff-54de-77cf-9d13	0
+tape measure|ns	kind of	tool|n	89ff-54de-77cf-9d13	0
+resident|n	kind of	person|n	8a53-4283-77ed-02b1	0
+be vehicle|v	kind of	function|n	8a7c-8cdf-1a2d-225e	0
+absorb|v	kind of	function|n	8a87-904f-85e9-deb5	0
+swamp|n	kind of	environment|n	8aaf-28c3-9099-96b9	0
+house|n	kind of	home|n	8b98-86c4-6f2f-94ad	0
+bacterium|n	kind of	decomposer|n	8c18-8f91-c1ab-742b	0
+fall|n	kind of	season|n	8c3a-1f07-c11d-ad88	0
+prey|n	kind of	animal|n	8c3a-8bf8-70a4-5d30	0
+deer|n	kind of	animal|n	8cd7-84f7-76a1-1ba5	0
+shout|n	kind of	sound|n	8cef-917a-e2d3-335e	0
+pine tree|ns	kind of	tree|n	8d1a-ae77-8695-f8b6	0
+decomposer|n	kind of	living thing|jn	8d39-8c01-d006-1326	0
+measure|v	kind of	observe|v	8d99-ff62-bcc7-7086	0
+measuring|n	derivational morphology	measure|v	8d99-ff62-bcc7-7086	0
+observing|n	derivational morphology	observe|v	8d99-ff62-bcc7-7086	0
+sulfur|n	kind of	mineral|n	8de7-2eab-c43a-5f70	0
+brain|n	kind of	internal organ|ns	8e1c-a4f8-3938-b891	0
+morning glory|ns	kind of	vine|n	8e4b-7a86-b2a2-8e1c	0
+hawk|n	kind of	bird|n	8e51-19a5-59e8-ff11	0
+cloth|n	kind of	material|n	8e54-4d09-bc9f-bdd1	0
+coin|n	kind of	object|n	8e61-1c71-239d-4814	0
+predator|n	kind of	animal|n	8ece-a376-c847-9127	0
+seashell|n	kind of	object|n	8f4d-39c0-8ee7-35e4	0
+green|n	kind of	color|n	8f8e-37fa-0093-b7ef	0
+fork|n	kind of	object|n	8fae-9711-61b9-fce8	0
+August|n	kind of	month|n	8fbd-c9cc-fe18-e80c	0
+graduated cylinder|jn	kind of	instrument|n	8fee-0f80-9fbf-df1d	0
+measure volume|vp	instrument	graduated cylinder|jn	8fee-0f80-9fbf-df1d	0
+measuring|n	derivational morphology	measure|v	8fee-0f80-9fbf-df1d	0
+reservoir|n	kind of	body of water|ns	902c-e87d-dede-6cdc	0
+heart|n	kind of	organ|n	9078-ba6c-fdad-d876	0
+paper|n	kind of	object|n	9098-c80a-ed21-5447	0
+road|n	kind of	location|n	90c5-2559-60d6-ec29	0
+tube|n	kind of	hollow object|jn	90e6-7cf1-f97e-8519	0
+iguana|n	kind of	lizard|n	912b-606c-6d31-05e3	0
+ecosystem|n	kind of	habitat|n	9156-3212-805b-fd3d	0
+moisture|n	kind of	environmental factor|jn	926e-6eea-3b5a-f747	0
+one|n	kind of	number|n	9294-541c-2211-ce63	0
+salamander|n	kind of	amphibian|n	92a5-2060-cfc0-1d19	0
+pasteurize|v	derivational morphology	pasteurization|n	932b-ef93-f3dd-c1f7	0
+pasteurize|v	kind of	process|n	932b-ef93-f3dd-c1f7	0
+drinking straw|ns	kind of	object|n	9349-71b6-e9b8-fd21	0
+drink|v	instrument	drinking straw|ns	9349-71b6-e9b8-fd21	0
+oxygen|n	kind of	element|n	936b-92a1-0e96-0846	0
+magnetism|n	kind of	force|n	9381-2aee-2b0c-d21c	0
+canyon|n	kind of	landform|n	9391-2a1e-2e67-95b9	0
+balloon|n	kind of	object|n	93a8-6f1f-f6e7-e5bc	0
+classroom|n	kind of	room|n	93cb-4c9a-59c2-2cd0	0
+eyeglass lens|ns	kind of	object|n	93f3-4dd8-30f7-de3f	0
+boulder|n	kind of	large rock|jn	93f5-d52b-1446-d912	0
+decompose|v	kind of	process|n	94aa-c937-f092-7d88	0
+decomposition|n	derivational morphology	decompose|v	94aa-c937-f092-7d88	0
+prism|n	kind of	object|n	9511-f01b-f849-79ca	0
+fish|n	kind of	animal|n	9526-aecc-22b2-4b6a	0
+rub|v	kind of	contact|n	9550-c1ae-9209-afcd	0
+metal|n	kind of	material|n	95c4-ec5e-bce9-afd8	0
+goggles|n	kind of	object|n	95d8-d1fb-bd0a-1a66	0
+candle|n	kind of	object|n	95ea-5ab6-c735-8ce5	0
+estuary|n	kind of	water|n	95ee-8457-ae77-ae9a	0
+estury|n	at location	river|n	95ee-8457-ae77-ae9a	0
+brick|n	kind of	object|n	9615-0fc7-d7f5-487f	0
+robin|n	kind of	bird|n	9621-09a0-c0f8-289e	0
+turtle|n	kind of	animal|n	964f-3c67-13dd-a443	0
+pot|n	kind of	object|n	96a6-5b63-d917-e649	0
+metamorphic rock|jn	kind of	rock|n	96ab-0b82-8d18-ca9a	0
+carbon dioxide|ns	kind of	gas|n	96ff-31bb-ea13-9aff	0
+plastic|n	kind of	electrical insulator|jn	9710-2f26-70ba-a122	0
+pea|n	kind of	seed|n	9711-e2b0-af9e-1208	0
+fox|n	kind of	animal|n	9714-412f-bfe4-c7ab	0
+wolf|n	kind of	animal|n	9727-5f85-da9b-f759	0
+spider|n	kind of	animal|n	975a-1b34-37f3-7723	0
+fry|v	kind of	cook|v	9793-b861-bc67-0e67	0
+fry|v	patient	food|n	9793-b861-bc67-0e67	0
+river|n	kind of	water channel|ns	97bd-f0af-bf53-8596	0
+pebble|n	kind of	small rock|jn	9815-d368-af06-bf1c	0
+baby|n	kind of	animal|n	9821-0c40-6f55-0b6d	0
+baby|n	has property	young|j	9821-0c40-6f55-0b6d	0
+atom|n	kind of	object|n	9863-d20e-e589-510a	0
+Leo|n	kind of	constellation|n	986b-2bb0-3244-7133	0
+flow|v	agent	river|n	9885-6337-f26c-cfbd	0
+river|n	kind of	water|n	9885-6337-f26c-cfbd	0
+vine|n	kind of	stem|n	98fe-58e0-bbf4-c401	0
+nutrient|n	kind of	resource|n	994e-e3fd-47a0-decb	0
+farm|n	derivational morphology	farm|v	9963-e79f-4516-551a	0
+farm|v	kind of	process|n	9963-e79f-4516-551a	0
+transpiration|n	kind of	process|n	9974-bcb8-7899-2ae4	0
+seal|n	kind of	animal|n	999d-78fd-e16b-a8b6	0
+girl|n	kind of	animal|n	9a26-1df3-851d-e9e4	0
+digestive system|ns	kind of	body system|ns	9a31-6857-9a85-8828	0
+avoid consumer|av	result	protect|v	9a54-14e7-f8f4-6375	0
+avoid predator|vp	result	protect|v	9a54-14e7-f8f4-6375	0
+escape|v	result	protect|v	9a54-14e7-f8f4-6375	0
+fern|n	kind of	plant|n	9a85-698e-680e-5033	0
+Colorado River|ns	kind of	river|n	9a9a-ea53-e57f-0e23	0
+palm tree|ns	kind of	tree|n	9ad6-aa1b-0ea4-f31a	0
+skin|n	kind of	organ|n	9c97-5684-21f1-8494	0
+invention|n	kind of	tool|n	9ca1-8cf1-b7b6-526c	0
+rain forest|ns	kind of	forest|n	9cd8-1401-0318-9bae	0
+copper|n	kind of	metal|n	9cea-7fba-e1c5-f8b3	0
+lemon tree|ns	kind of	plant|n	9cf1-bc5a-d350-5541	0
+grass|n	kind of	plant|n	9d2f-b39b-3921-a54c	0
+grass|n	has property	green|j	9d2f-b39b-3921-a54c	0
+lever|n	kind of	simple machine|jn	9d48-4f8c-09fc-ea0d	0
+affecting|n	derivational morphology	affect|v	9d53-7320-d186-07d9	0
+cause|v	kind of	affect|v	9d53-7320-d186-07d9	0
+causing|n	derivational morphology	cause|v	9d53-7320-d186-07d9	0
+worm|n	kind of	animal|n	9d7a-3ad1-561c-deae	0
+dinosaur|n	kind of	extinct animal|jn	9d97-04bc-21d3-bf27	0
+waxing crescent|ns	kind of	moon phase|ns	9dd7-2ee2-44ed-2a08	0
+heat|n	kind of	energy|n	9e7d-986e-6af1-5ac1	0
+frog|n	kind of	animal|n	9e89-73fd-66d5-18e2	0
+smell|n	kind of	sense|n	9ead-baf3-0465-3c2a	0
+weed|n	kind of	plant|n	9ebc-df4f-9e45-4e81	0
+set|v	agent	sun|n	9ed6-4e8f-abab-588b	0
+sunset|n	instance of	event|n	9ed6-4e8f-abab-588b	0
+sunset|ns	structural-noun-compound	set|n	9ed6-4e8f-abab-588b	0
+sunset|ns	structural-noun-compound	sun|n	9ed6-4e8f-abab-588b	0
+chicken|n	kind of	bird|n	9ede-6c4b-43f2-6da3	0
+shirt|n	kind of	clothes|n	9eef-20c5-1709-cdf3	0
+breathe|v	instrument	gill|n	9f02-a641-79a9-d4ec	0
+breathe|v	patient	oxygen|n	9f02-a641-79a9-d4ec	0
+gill|n	kind of	adaptation|n	9f02-a641-79a9-d4ec	0
+pond|n	kind of	habitat|n	9f21-978a-56e9-2a20	0
+chair|n	kind of	object|n	9f4c-5487-7b35-f049	0
+magnetic field|ns	kind of	force|n	a00a-1166-57c3-f759	0
+moon|n	kind of	satellite|n	a0cd-50c8-3696-fc4b	0
+salt|n	kind of	solid|n	a104-d8c9-efec-46be	0
+marsh|n	kind of	body of water|ns	a142-f9f0-f59e-1786	0
+radiation|n	kind of	process|n	a15e-101d-6fea-e0b6	0
+cook|v	instrument	pan|n	a18a-21be-3303-f9b8	0
+frying pan|ns	kind of	container|n	a18a-21be-3303-f9b8	0
+pan|n	kind of	container|n	a18a-21be-3303-f9b8	0
+pan|n	similar to	frying pan|ns	a18a-21be-3303-f9b8	0
+compass|n	kind of	tool|n	a19f-27a1-7743-9769	0
+find direction|vp	instrument	compass|n	a19f-27a1-7743-9769	0
+find north|vp	instrument	compass|n	a19f-27a1-7743-9769	0
+point north|vp	agent	compass|n	a19f-27a1-7743-9769	0
+ice cube|ns	kind of	solid|n	a1a9-97db-a771-1c2b	0
+tornado|n	kind of	weather|n	a1aa-f4ab-8332-157d	0
+growth|n	derivational morphology	grow|v	a214-a651-6eff-93dd	0
+growth|n	kind of	change|n	a214-a651-6eff-93dd	0
+crater|n	kind of	land feature|ns	a2aa-4c08-9194-e2ef	0
+communicate|v	instrument	telephone|n	a2e1-8d32-c994-cd9c	0
+communication|n	derivational morphology	communicate|v	a2e1-8d32-c994-cd9c	0
+electrical device|jn	kind of	device|n	a2e1-8d32-c994-cd9c	0
+telephone|n	kind of	electrical device|jn	a2e1-8d32-c994-cd9c	0
+otter|n	kind of	aquatic animal|jn	a328-84da-ecad-102f	0
+measure|v	kind of	scientific skill|jn	a3a3-2470-8532-b386	0
+scientific|j	derivational morphology	science|n	a3a3-2470-8532-b386	0
+duration|n	kind of	time|n	a3c6-f26b-2009-9503	0
+measure time|vp	result	duration|n	a3c6-f26b-2009-9503	0
+month|n	kind of	duration|n	a3c6-f26b-2009-9503	0
+frosting|n	kind of	material|n	a3d0-8bed-e536-0fd9	0
+measure length|vp	instrument	ruler|n	a429-ec06-2e2a-f6f9	0
+ruler|n	kind of	tool|n	a429-ec06-2e2a-f6f9	0
+ground water|ns	kind of	water|n	a4ef-def5-ee56-4125	0
+girl|n	has property	female|j	a50c-ba38-bbe4-12c1	0
+girl|n	has property	young|j	a50c-ba38-bbe4-12c1	0
+girl|n	kind of	human|n	a50c-ba38-bbe4-12c1	0
+moose|n	kind of	animal|n	a516-6fce-fea3-4280	0
+pecan tree|ns	kind of	tree|n	a51c-ef9e-4258-374f	0
+flowing|n	kind of	motion|n	a52a-1b59-1f8c-028e	0
+aluminum|n	kind of	metal|n	a580-1b9e-6ec9-a275	0
+burner|n	kind of	object|n	a5ab-7b37-388a-1cd3	0
+burner|n	kind of	surface|n	a5ab-7b37-388a-1cd3	0
+paper clip|ns	kind of	object|n	a5e7-8257-cf9d-c8ef	0
+first quarter|jn	kind of	moon phase|ns	a62b-415d-357f-995a	0
+matter state|ns	kind of	property|n	a648-4d74-dae9-2ef2	0
+insulator|n	kind of	material|n	a651-4b86-5d6a-2327	0
+mushroom|n	kind of	living thing|jn	a666-e28c-98d8-169b	0
+wheel and axle|ns	kind of	simple machine|jn	a6c8-8725-3c2d-60a7	0
+wheel and axle|ns	structural-noun-compound	axle|n	a6c8-8725-3c2d-60a7	0
+wheel and axle|ns	structural-noun-compound	wheel|n	a6c8-8725-3c2d-60a7	0
+corn|n	kind of	crop|n	a75a-0651-9b8b-f087	0
+lunch|n	has subcomponent	food|n	a7a5-0519-c54b-1f3a	0
+lunch|n	kind of	meal|n	a7a5-0519-c54b-1f3a	0
+decompose|v	agent	microorganism|n	a817-2b63-7962-2e34	0
+microorganism|n	kind of	decomposer|n	a817-2b63-7962-2e34	0
+decrease|v	kind of	change|v	a81f-882c-3627-408d	0
+bottle|n	kind of	container|n	a824-aa4b-d228-d7c7	0
+wetland|n	kind of	habitat|n	a841-6cf9-a034-f5a7	0
+renewable resource|jn	has property	natural|j	a8dc-5ad8-3e2b-3e2a	0
+replace|v	patient	renewable resource|jn	a8dc-5ad8-3e2b-3e2a	0
+sliding|n	kind of	movement|n	a923-adcf-f552-5902	0
+multicellular organism|jn	kind of	living thing|jn	a92e-cb62-22ee-5ddf	0
+arm|n	kind of	limb|n	a93c-2971-18d2-ebed	0
+fish|n	kind of	aquatic animal|jn	a94e-e849-c066-fecd	0
+ringing|n	derivational morphology	ring|v	a99c-e41a-2a2b-ad6b	0
+ring|v	instrument	doorbell|n	a99c-e41a-2a2b-ad6b	0
+pollinate|v	kind of	function|n	a99f-fa5c-c233-1d3c	0
+pollinating|v	derivational morphology	pollinate|v	a99f-fa5c-c233-1d3c	0
+bunting|n	kind of	bird|n	a9e5-5d52-2c62-c27d	0
+Norfolk|n	kind of	town|n	aa31-b3ca-a8ab-afbd	0
+natural resource|jn	kind of	environmental factor|jn	aa69-b4c1-b1e1-9000	0
+gas|n	kind of	state of matter|ns	aa73-331e-e970-c934	0
+block|n	kind of	object|n	aa85-b969-a168-ebce	0
+cactus|n	kind of	plant|n	aadb-cb93-3373-eefa	0
+amoeba|n	kind of	single-celled organism|jn	ab12-f588-a1af-90a0	0
+wear safety goggle|vp	at location	laboratory|n	ab25-5770-3344-605e	0
+wear safety goggle|vp	kind of	safety measure|ns	ab25-5770-3344-605e	0
+bicycle|n	kind of	object|n	ab39-00a1-7fb7-b1d1	0
+marsh willow herb|ns	kind of	plant|n	ab88-7ab1-d6b7-0e6c	0
+barometer|n	instance of	instrument|n	ab9f-bddf-b450-6260	0
+measure air pressure|vp	instrument	barometer|n	ab9f-bddf-b450-6260	0
+trout|n	kind of	fish|n	ac16-c85f-55f1-0725	0
+avoid|v	kind of	defend|v	ac40-1cc5-4994-7922	0
+avoid|v	kind of	defense|n	ac40-1cc5-4994-7922	0
+defend|v	derivational morphology	defense|n	ac40-1cc5-4994-7922	0
+doorbell|n	kind of	electric device|jn	ac96-5db5-366c-b342	0
+air|n	kind of	medium|n	ac9a-6d31-d96f-51cd	0
+light|n	at location	air|n	ac9a-6d31-d96f-51cd	0
+mountain chorus frog|ns	kind of	frog|n	acb4-aae4-4bf6-25e0	0
+metamorphosis|n	kind of	process|n	ad2b-8827-7838-449a	0
+camouflage|n	derivational morphology	camouflage|v	ad2f-c1c6-5368-4fcd	0
+camouflage|v	instrument	coloration|n	ad2f-c1c6-5368-4fcd	0
+coloration|n	kind of	adaptation|n	ad2f-c1c6-5368-4fcd	0
+hide|v	instrument	coloration|n	ad2f-c1c6-5368-4fcd	0
+hiding|n	derivational morphology	hide|v	ad2f-c1c6-5368-4fcd	0
+anemometer|n	kind of	instrument|n	ad64-e231-181e-0684	0
+measure wind speed|vp	instrument	anemometer|n	ad64-e231-181e-0684	0
+waning crescent|ns	kind of	moon phase|ns	ad73-5c93-32aa-6f1f	0
+metamorphosed rock|jn	kind of	rock|n	ad7e-df9b-5e06-8e42	0
+physicist|n	kind of	scientist|n	add6-007e-31dc-2dda	0
+scientist|n	kind of	human|n	ade4-c403-3219-6cb1	0
+thorn|n	kind of	object|n	ae87-8deb-5a31-1c69	0
+delta|n	kind of	geologic landform|jn	ae9e-0641-6d10-e452	0
+delta|n	kind of	geologic structure|jn	ae9e-0641-6d10-e452	0
+pan|n	kind of	object|n	aeeb-c836-d4a0-9a0c	0
+provide support|vp	kind of	function|n	aefd-91ae-8cfa-8c9e	0
+nest|n	has positive impact on	bird|n	af00-5b27-b27b-3f63	0
+nest|n	kind of	shelter|n	af00-5b27-b27b-3f63	0
+soda|n	kind of	beverage|n	af1a-348d-eec7-2eb8	0
+Sun|n	kind of	star|n	af26-8083-b908-7d3b	0
+rock|n	kind of	nonliving thing|jn	af33-4409-5f16-cd4c	0
+spring|n	kind of	season|n	af84-b2e1-3d77-58f9	0
+crop|n	kind of	food|n	afdc-23b1-2d30-e520	0
+bicycle|n	kind of	vehicle|n	b019-cdb9-47c8-1c40	0
+chemical energy|jn	kind of	energy|n	b043-79cc-a77e-e968	0
+asphalt|n	kind of	road surface|ns	b093-b6c0-74b9-27c2	0
+running|n	derivational morphology	run|v	b096-ec41-5c64-f0d4	0
+run|v	kind of	movement|n	b096-ec41-5c64-f0d4	0
+hen|n	has property	adult|j	b0ce-cf5b-dba3-3b9b	0
+hen|n	has property	female|j	b0ce-cf5b-dba3-3b9b	0
+hen|n	kind of	chicken|n	b0ce-cf5b-dba3-3b9b	0
+lowering|n	derivational morphology	lower|v	b1b9-3449-128c-c247	0
+lower|v	kind of	motion|n	b1b9-3449-128c-c247	0
+shell|n	kind of	fossil|n	b1d2-660c-6f63-cfd8	0
+wildfire|n	kind of	natural disaster|jn	b20b-f9ca-a6c1-68e6	0
+fence|n	kind of	object|n	b241-1f01-1b84-2601	0
+plastic|n	kind of	synthetic material|jn	b24b-be1d-9e0d-4037	0
+synthetic material|jn	kind of	material|n	b24b-be1d-9e0d-4037	0
+Appalachians|n	kind of	mountain range|ns	b2a3-bc18-29f0-d92b	0
+property|n	kind of	information|n	b31b-67cf-066a-859c	0
+inherited characteristic|jn	kind of	hereditary information|jn	b37b-770d-c526-1766	0
+nail|n	kind of	object|n	b3d3-c3da-3c51-659e	0
+duck|n	kind of	bird|n	b40f-032c-a3c4-57f2	0
+monkey|n	kind of	mammal|n	b412-34c8-f228-654b	0
+juice|n	kind of	matter|n	b481-9087-8ebc-502d	0
+leave|v	kind of	move|v	b505-0192-dee3-0797	0
+leaving|n	derivational morphology	leave|v	b505-0192-dee3-0797	0
+movement|n	derivational morphology	move|v	b505-0192-dee3-0797	0
+ice wedging|ns	kind of	mechanical weathering|jn	b525-3c38-249c-23da	0
+eagle|n	kind of	bird|n	b528-99f7-f98d-4a09	0
+juice|n	kind of	solution|n	b52b-5ade-22b4-b42f	0
+roll|v	derivational morphology	rolling|n	b545-b586-fd95-b2af	0
+roll|v	kind of	motion|n	b545-b586-fd95-b2af	0
+electrical energy|jn	kind of	energy|n	b5ca-9f64-d6d6-6783	0
+forest|n	kind of	environment|n	b5d1-0f14-f32e-c6b4	0
+squirrel|n	kind of	animal|n	b5dc-c66c-4d4e-031d	0
+volcanic eruption|ns	kind of	change|n	b5e9-24c9-bf9a-095f	0
+hummingbird|n	kind of	animal|n	b631-3f9d-d4ae-c311	0
+phase change|ns	kind of	physical change|jn	b6d6-89d9-43a5-fd91	0
+jump rope|vp	kind of	skill|n	b70f-fde1-f800-1809	0
+person|n	kind of	animal|n	b749-39eb-d9be-228a	0
+Jupiter|n	kind of	planet|n	b772-8846-82c7-f2d8	0
+cup|n	kind of	container|n	b79e-666e-ccf1-f45c	0
+drinking|n	derivational morphology	drink|v	b79e-666e-ccf1-f45c	0
+drink|v	instrument	cup|n	b79e-666e-ccf1-f45c	0
+thunder|n	kind of	sound|n	b7ba-f45b-5ed8-9205	0
+ivy plant|ns	kind of	plant|n	b7fe-a475-0233-e760	0
+aquatic animal|jn	kind of	animal|n	b80f-f372-967d-6ac4	0
+can|n	kind of	object|n	b85c-d197-cb03-a4f1	0
+happen|v	kind of	event|n	b8b1-9da5-1b1d-a2f7	0
+tea|n	kind of	beverage|n	b906-1552-b7cb-0be1	0
+city|n	kind of	location|n	b912-4b52-7e9c-0d4c	0
+bright|j	antonym	dark|j	b939-e20d-de35-8401	0
+illuminate|v	instrument	light bulb|ns	b939-e20d-de35-8401	0
+illuminate|v	result	bright|j	b939-e20d-de35-8401	0
+light bulb|ns	kind of	tool|n	b939-e20d-de35-8401	0
+see|v	instrument	illuminate|v	b939-e20d-de35-8401	0
+build nest|vp	kind of	adaptation|n	b97c-e53f-7627-7e7e	0
+weathering|n	kind of	process|n	b9ee-1aa0-8736-13c8	0
+measure time|vp	instrument	stopwatch|n	ba0a-4b3e-ff60-ec49	0
+measure time|vp	kind of	tool|n	ba0a-4b3e-ff60-ec49	0
+black-eyed Susan wildflower|ns	kind of	flower|n	ba0c-9558-8ad1-d90d	0
+volcanic eruption|ns	kind of	quick process|jn	ba5a-219b-b187-3b98	0
+nature preserve|ns	kind of	protected area|jn	baab-4c47-5b41-9747	0
+pea|n	kind of	plant|n	bac2-9c22-0662-4dcd	0
+iron|n	kind of	element|n	bb4d-ea33-08e1-7106	0
+pulley|n	kind of	simple machine|jn	bb60-4e0b-60fd-ba84	0
+animal|n	kind of	living thing|jn	bb63-bcc5-0cd8-72db	0
+separate|v	instrument	sifter|n	bb8f-9e8f-0b8b-d4c1	0
+sifter|n	kind of	tool|n	bb8f-9e8f-0b8b-d4c1	0
+coal|n	kind of	fuel|n	bc22-ba46-53be-ea3a	0
+snowstorm|n	kind of	weather|n	bde3-2540-817a-ddf2	0
+decade|n	kind of	duration|n	be17-2cad-5cc5-0f66	0
+decade|n	kind of	time|n	be17-2cad-5cc5-0f66	0
+duration|n	kind of	time|n	be17-2cad-5cc5-0f66	0
+insect|n	has property	baby|j	be4f-b918-8f3b-6a59	0
+insect|n	has property	young|j	be4f-b918-8f3b-6a59	0
+larva|n	kind of	insect|n	be4f-b918-8f3b-6a59	0
+shake|v	derivational morphology	shaking|n	be5f-56dc-4b83-3d4a	0
+shake|v	kind of	motion|n	be5f-56dc-4b83-3d4a	0
+smooth|n	kind of	texture|n	be7f-0242-d76f-3be0	0
+sunlight intensity|ns	has property	seasonal|j	be92-1d31-0922-e113	0
+sunlight intensity|ns	kind of	weather pattern|ns	be92-1d31-0922-e113	0
+Grand Canyon|ns	kind of	canyon|n	bea1-3b11-3955-ffaf	0
+starling|n	kind of	bird|n	bef3-e1f3-4609-53c2	0
+nuclear fusion|ns	kind of	nuclear reaction|jn	bf6e-59c8-a896-c3cb	0
+reduce|v	kind of	change|v	bfda-12f7-b81e-5251	0
+reducing|n	derivational morphology	reduce|v	bfda-12f7-b81e-5251	0
+evaporation|n	kind of	process|n	bfeb-fb56-8937-91c9	0
+radio|n	kind of	tool|n	c000-3986-2fd0-ebb0	0
+food preference|ns	kind of	preference|n	c01f-8454-a55a-ac57	0
+light|n	kind of	nonliving thing|jn	c035-787b-ecbc-b968	0
+beverage|n	kind of	liquid|n	c06c-117e-c8e2-2750	0
+digestion|n	kind of	bodily process|jn	c06c-630c-c3ed-e7a0	0
+red|n	kind of	color|n	c118-527e-6211-a80e	0
+orbit|n	kind of	regular path|jn	c1c4-26a9-2671-aebc	0
+car|n	kind of	vehicle|n	c1de-b3ef-e1c4-0087	0
+snow|n	kind of	ice|n	c2a0-5b9e-4796-94a2	0
+raise|v	kind of	motion|n	c2ad-3683-d3ec-f235	0
+raising|n	derivational morphology	raise|v	c2ad-3683-d3ec-f235	0
+balance ball|vp	kind of	trick|n	c2b0-bd30-2dc8-376e	0
+bird|n	kind of	living thing|jn	c2ef-566c-c356-778f	0
+living thing|jn	has property	alive|j	c2ef-566c-c356-778f	0
+food|n	kind of	substance|n	c31f-f938-8a69-233b	0
+slipping|n	kind of	motion|n	c3ed-2a60-a3c3-a504	0
+exercise|n	kind of	physical activity|jn	c408-fd09-500e-0867	0
+adaptation|n	derivational morphology	adapt|v	c412-a85a-5de1-771a	0
+store water|vp	kind of	adaptation|n	c412-a85a-5de1-771a	0
+conductivity|n	kind of	physical property|jn	c41d-9ce9-3d44-e24a	0
+wash away|v	agent	water|n	c41d-ddb3-ef96-b433	0
+wash away|v	kind of	move|v	c41d-ddb3-ef96-b433	0
+food|n	kind of	chemical energy|jn	c457-baf0-ed17-9213	0
+classification|n	derivational morphology	classify|v	c45b-915d-6c55-4e69	0
+classification|n	kind of	process|n	c45b-915d-6c55-4e69	0
+sand dune|ns	kind of	land formation|ns	c4a5-aa15-26ae-c951	0
+rainwater|n	kind of	water|n	c546-7b47-1430-cf87	0
+lightning|n	kind of	electricity|n	c56e-40f5-5a3e-12cf	0
+waning gibbous|ns	kind of	moon phase|ns	c5a9-9966-e1ba-9643	0
+combustion|n	kind of	exothermic reaction|jn	c647-3cc8-d585-a196	0
+camouflage|n	kind of	adaptation|n	c6ad-76f9-7f5c-33e0	0
+hide|v	at location	environment|n	c6ad-76f9-7f5c-33e0	0
+hide|v	instrument	camouflage|n	c6ad-76f9-7f5c-33e0	0
+hit|v	kind of	touch|v	c6d0-b0ba-ba3b-db1c	0
+carnivore|n	kind of	animal|n	c709-83dd-975c-b05d	0
+herbivore|n	kind of	animal|n	c709-83dd-975c-b05d	0
+omnivore|n	kind of	animal|n	c709-83dd-975c-b05d	0
+stream|n	kind of	body of water|ns	c71c-f0da-3930-67f0	0
+homeowner|n	kind of	human|n	c71e-1ca8-f860-d544	0
+air vibrate|av	result	sound|n	c73c-b25a-5409-a480	0
+sound|n	at location	air|n	c73c-b25a-5409-a480	0
+animal|n	kind of	consumer|n	c799-dee0-451a-dd60	0
+arctic|n	kind of	environment|n	c7b7-2fdc-e793-309e	0
+measure|v	instrument	measuring cup|ns	c7d1-4ec6-f471-6218	0
+measure|v	patient	volume|n	c7d1-4ec6-f471-6218	0
+measuring cup|ns	kind of	tool|n	c7d1-4ec6-f471-6218	0
+rock pile|ns	kind of	landform|n	c7d3-bf39-278c-9647	0
+snowshoe hare|ns	kind of	animal|n	c82d-ab6a-a378-5db3	0
+hydropower|n	kind of	alternative energy resource|jn	c844-5280-4695-c6c6	0
+provide|v	derivational morphology	providing|v	c8c6-5825-8e18-f509	0
+provide|v	kind of	function|n	c8c6-5825-8e18-f509	0
+rattle|v	kind of	motion|n	c946-7dd2-7e3b-c4b7	0
+dog|n	kind of	animal|n	c963-24b2-f50d-a21d	0
+spotted|n	kind of	color pattern|jn	ca03-f52b-b637-957b	0
+glove|n	kind of	tool|n	ca30-823e-fdba-2aab	0
+light|n	kind of	energy|n	ca59-5c7a-3f3d-6f48	0
+coal|n	kind of	fossil fuel|ns	cab1-f3c3-59de-b682	0
+ladybug|n	kind of	insect|n	cad3-7779-cc28-1338	0
+new moon|jn	kind of	moon phase|ns	cb3b-8b0b-8cfe-a3e2	0
+hail|n	kind of	ice|n	cb4c-5229-e5b9-6408	0
+hail|n	kind of	precipitation|n	cb4c-5229-e5b9-6408	0
+reflect|v	kind of	characteristic|n	cc0c-1716-b089-2d07	0
+sea turtle|ns	kind of	animal|n	cc37-fd38-b39c-7eb2	0
+time taken|av	kind of	measurement|n	cc92-3103-fbe1-a87a	0
+food poisoning|ns	kind of	illness|n	ccdf-6c73-fb7c-ab36	0
+sediment|n	kind of	matter|n	ccdf-7e78-c469-dc95	0
+strength|n	kind of	property|n	cd45-3b6d-c0bd-d377	0
+mechanical weathering|jn	kind of	weathering|n	cdbb-0393-4277-215d	0
+telephone|n	kind of	technology|n	cdfd-1234-1b8c-b945	0
+tidal energy|ns	kind of	alternative energy resource|jn	ce51-5349-0ca9-75bc	0
+monitor location|vp	instrument	tag|n	ce71-9833-2959-cb9d	0
+tag|n	kind of	tool|n	ce71-9833-2959-cb9d	0
+sidewalk|n	kind of	object|n	ce7e-f24a-8088-35e6	0
+polar bear|ns	kind of	bear|n	cef3-cbfc-0564-ae29	0
+decompose|v	agent	earthworm|n	cf2d-8332-c29b-2c57	0
+earthworm|n	kind of	decomposer|n	cf2d-8332-c29b-2c57	0
+centimeter|n	kind of	distance|n	cf45-38b5-9810-f308	0
+centimeter|n	kind of	length|n	cf45-38b5-9810-f308	0
+length|n	kind of	unit|n	cf45-38b5-9810-f308	0
+measurement|n	derivational morphology	measure|v	cf45-38b5-9810-f308	0
+measure|v	result	distance|n	cf45-38b5-9810-f308	0
+solid|n	kind of	state of matter|ns	cf49-1b7a-89f0-41f5	0
+spice|n	kind of	material|n	cf70-3fdf-c124-a754	0
+cyan|n	kind of	color|n	cf7f-51fc-f20a-8384	0
+pulling|n	derivational morphology	pull|v	cffc-a299-4321-b49d	0
+pull|v	kind of	motion|n	cffc-a299-4321-b49d	0
+dessert|n	kind of	food|n	d02f-8790-4fd9-da49	0
+user|n	kind of	person|n	d038-d316-c727-61e8	0
+vehicle|n	kind of	object|n	d047-715f-550d-3eaa	0
+sugar|n	kind of	solid|n	d061-b761-db46-512d	0
+lead|n	kind of	element|n	d08f-9cae-ad54-80ed	0
+reproduce|v	kind of	activity|n	d0de-e9fb-4004-8340	0
+reproducing|v	derivational morphology	reproduce|v	d0de-e9fb-4004-8340	0
+octopus|n	kind of	animal|n	d0f6-3d4b-e8bf-dcf4	0
+lay egg|vp	agent	animal|n	d129-c045-1013-af8c	0
+drum|n	kind of	musical instrument|jn	d1b6-8301-bd8c-c627	0
+fruit|n	kind of	food|n	d1e4-c4e1-111b-0f34	0
+ice|n	kind of	food|n	d248-e9d4-d37d-546e	0
+rise|v	derivational morphology	rising|n	d257-69b5-a1b9-f7e7	0
+rise|v	kind of	motion|n	d257-69b5-a1b9-f7e7	0
+cooling|n	derivational morphology	cool|v	d259-7bf2-a54b-5195	0
+cool|v	instrument	fan|n	d259-7bf2-a54b-5195	0
+electric fan|jn	kind of	fan|n	d259-7bf2-a54b-5195	0
+fan|n	kind of	device|n	d259-7bf2-a54b-5195	0
+ventilate|v	instrument	fan|n	d259-7bf2-a54b-5195	0
+ventilation|n	derivational morphology	ventilate|v	d259-7bf2-a54b-5195	0
+gram|n	kind of	mass|n	d2f9-367f-2c90-fbcd	0
+gram|n	kind of	unit|n	d2f9-367f-2c90-fbcd	0
+safety goggle|ns	kind of	safety gear|ns	d308-2f92-6950-1fea	0
+mica|n	kind of	mineral|n	d332-396d-4f4f-cda0	0
+turn on|v	kind of	process|n	d3a2-7e30-c0fc-2ec5	0
+event|n	kind of	action|n	d3ac-d13c-97bb-6a5a	0
+freezing point|ns	kind of	physical property|jn	d3b3-ecd0-5b4d-bedf	0
+land|n	kind of	landform|n	d495-e54a-9fd2-0acc	0
+steel|n	kind of	metal|n	d49f-dde6-0083-0a5b	0
+particle|n	kind of	object|n	d4a7-ea98-8609-0e2d	0
+be sick|v	kind of	harm|n	d509-052f-82a6-4c52	0
+be sick|v	kind of	problem|n	d509-052f-82a6-4c52	0
+wire|n	kind of	object|n	d576-0ead-0543-9136	0
+camper|n	kind of	human|n	d57a-f3b8-87b3-73c6	0
+ice cube|ns	kind of	object|n	d5e1-2384-26cc-edb9	0
+scratch|n	kind of	wound|n	d5e8-c37b-e2ff-958a	0
+Arizona mountain king snake|ns	kind of	snake|n	d5fd-46c9-0da1-cd27	0
+roller skate|ns	kind of	vehicle|n	d628-d467-b7a5-978a	0
+sense|n	kind of	ability|n	d643-d0c5-6eb7-cf62	0
+hatchling|n	has property	baby|j	d68d-0b43-19d2-5526	0
+hatchling|n	has property	newborn|j	d68d-0b43-19d2-5526	0
+hatchling|n	has property	young|j	d68d-0b43-19d2-5526	0
+hatchling|n	kind of	bird|n	d68d-0b43-19d2-5526	0
+hand|n	kind of	object|n	d691-82fb-2145-80e4	0
+container|n	has subcomponent	hole|n	d6ad-b5b4-1186-0117	0
+container|n	kind of	tool|n	d6ad-b5b4-1186-0117	0
+glass|n	kind of	object|n	d709-d70e-7d0f-3f54	0
+predator eat|av	patient	prey|n	d719-81ad-03ff-57f0	0
+prey|n	kind of	food|n	d719-81ad-03ff-57f0	0
+cluck|n	kind of	sound|n	d7da-64da-dcb9-a4ff	0
+pedal|n	kind of	lever|n	d84c-d7b5-8ac9-478f	0
+tungsten|n	kind of	metal|n	d85c-6167-112d-92ae	0
+sugar|n	kind of	food|n	d96d-6f08-5365-2084	0
+ramp|n	kind of	object|n	d99b-5382-b496-b2fd	0
+uv light|ns	kind of	light|n	d9ca-e581-1fad-e095	0
+prong|n	kind of	object|n	d9e7-bba2-e42c-95af	0
+blue|n	kind of	color|n	da13-6af7-4533-d9ca	0
+rain|n	kind of	precipitation|n	da1e-dca3-f46a-5189	0
+adaptation|n	kind of	characteristic|n	da2b-fb92-41aa-b359	0
+computer|n	kind of	tool|n	da4f-8a91-c9d9-0eab	0
+cause|v	kind of	function|n	da58-addb-0630-0b89	0
+bury|v	kind of	hide|v	dad1-ceed-5798-500e	0
+fly|n	kind of	insect|n	dad4-aeac-6f8a-c42b	0
+softball bat|ns	kind of	lever|n	dae9-e208-58cd-a9d8	0
+breathe|v	kind of	process|n	daf3-3001-4bea-9034	0
+rocket|n	kind of	vehicle|n	db13-7d7e-3c0b-55f1	0
+campfire|n	kind of	fire|n	db8c-9eae-6023-0d7b	0
+star|n	kind of	celestial body|jn	dbe8-e776-f804-99a0	0
+star|n	kind of	celestial object|jn	dbe8-e776-f804-99a0	0
+sinking|n	derivational morphology	sink|v	dc32-dc44-96ac-eb1b	0
+sink|v	goal	down|j	dc32-dc44-96ac-eb1b	0
+friction|n	kind of	force|n	dc6a-e211-23ac-d827	0
+hunt|v	kind of	skill|n	dc9f-1fff-15e4-352a	0
+scavenge|v	kind of	skill|n	dc9f-1fff-15e4-352a	0
+atmosphere|n	kind of	area|n	dcb8-493b-65be-44b6	0
+rattle|n	kind of	vibration|n	dcbe-adb9-3be2-6645	0
+rattle|v	derivational morphology	rattle|n	dcbe-adb9-3be2-6645	0
+rattle|v	kind of	vibrate|v	dcbe-adb9-3be2-6645	0
+pound|n	kind of	mass|n	dd24-6f15-cb10-52a2	0
+pound|n	kind of	unit|n	dd24-6f15-cb10-52a2	0
+food|n	kind of	object|n	dd4a-59cf-dde4-11b2	0
+tooth|n	kind of	bone|n	dd90-d920-81f6-416c	0
+behavior|n	kind of	characteristic|n	de41-df04-573b-7370	0
+iron|n	kind of	metal|n	de4c-ca36-c336-540f	0
+skin|n	kind of	material|n	de67-5c47-a55a-04a0	0
+remove waste|vp	kind of	function|n	de82-6668-2baf-1817	0
+material composition|ns	kind of	chemical property|jn	de82-e643-178a-0a7b	0
+speaking|n	derivational morphology	speak|v	de85-5c79-0f87-2066	0
+speak|v	kind of	communication|n	de85-5c79-0f87-2066	0
+orange tree|ns	kind of	tree|n	de9a-8956-c029-70af	0
+bring|v	kind of	action|n	df95-f9f1-8e21-6054	0
+touch|n	kind of	sense|n	e0fe-14d9-9d28-87bb	0
+circuit|n	kind of	electrical component|jn	e112-616e-e25b-4a79	0
+tiger|n	kind of	animal|n	e13e-7a37-14b2-8e23	0
+butter|n	kind of	substance|n	e15d-0c5d-0e78-b5dc	0
+flute|n	kind of	musical instrument|jn	e199-cb9e-c3be-c3de	0
+blubber|n	kind of	fat|n	e1b6-ff98-c47b-fd5a	0
+bird|n	kind of	animal|n	e26b-b21d-d4a3-25fc	0
+erosion|n	kind of	change|n	e28b-677c-4a92-cf3b	0
+zinc|n	kind of	metal|n	e29c-2800-f9a7-6195	0
+cake|n	kind of	baked product|jn	e2a9-870f-4d89-e4b8	0
+moon|n	kind of	celestial body|jn	e2ec-1655-c1fd-cb58	0
+moon|n	kind of	celestial object|jn	e2ec-1655-c1fd-cb58	0
+celestial body move|av	kind of	event|n	e30e-09e8-1ee7-fdf6	0
+flower|n	kind of	plant|n	e337-f5c8-75aa-81b6	0
+string|n	kind of	object|n	e348-689b-5fde-b228	0
+pond|n	kind of	environment|n	e37d-8beb-fc76-3e82	0
+element|n	kind of	material|n	e384-486e-8a78-a853	0
+hearing|n	kind of	sense|n	e3f1-e16c-dd80-32ea	0
+seasonal change|jn	kind of	environmental change|jn	e3f8-1683-0562-bee2	0
+adaptation|n	kind of	change|n	e408-b84f-10e9-cf17	0
+starch|n	kind of	complex carbohydrate|jn	e469-a11a-36a0-3e09	0
+Earth|n	kind of	planet|n	e473-7297-61c1-56fa	0
+sand dune|ns	kind of	hill|n	e481-01da-0d36-2db3	0
+plate tectonic|ns	kind of	process|n	e490-5554-4225-68e2	0
+soft|n	kind of	touch sensation|jn	e4a3-6678-a530-3b3e	0
+sandpaper|n	kind of	paper|n	e4b8-a6da-d588-9518	0
+floodplain|n	kind of	landform|n	e4d7-20bc-aa47-3dd9	0
+floodplain|n	kind of	land|n	e4d7-20bc-aa47-3dd9	0
+raccoon|n	kind of	animal|n	e4ff-648c-242b-c15f	0
+radio|n	has property	electrical|j	e58b-3217-6a20-dde2	0
+radio|n	kind of	electrical device|jn	e58b-3217-6a20-dde2	0
+forest|n	kind of	ecosystem|n	e58d-03a1-b94d-942d	0
+rabbit|n	kind of	mammal|n	e58f-f348-e54d-38fe	0
+horned lizard|ns	kind of	lizard|n	e59c-b8d6-ebb0-b796	0
+statue|n	kind of	object|n	e5d5-338d-263a-84af	0
+increase visibility|vp	instrument	windshield wiper|ns	e6c0-2039-84cd-c6dd	0
+vehicle|n	has subcomponent	windshield wiper|ns	e6c0-2039-84cd-c6dd	0
+windshield wiper|ns	kind of	tool|n	e6c0-2039-84cd-c6dd	0
+pencil|n	kind of	object|n	e729-2ae7-04b3-9240	0
+molecule|n	kind of	object|n	e740-00aa-e89d-8af1	0
+duck|n	kind of	animal|n	e763-d114-af0e-426c	0
+breathe|v	instrument	lung|n	e7d7-9393-dfc8-98bf	0
+breathe|v	patient	air|n	e7d7-9393-dfc8-98bf	0
+breathing|n	derivational morphology	breathe|v	e7d7-9393-dfc8-98bf	0
+lung|n	kind of	organ|n	e7d7-9393-dfc8-98bf	0
+tree|n	kind of	resource|n	e818-cf4a-2d3a-c8c6	0
+brown|n	kind of	color|n	e864-93bd-18ea-8a13	0
+boy|n	kind of	male human|jn	e881-b28d-9433-c19d	0
+boy|n	kind of	young human|jn	e881-b28d-9433-c19d	0
+motion|n	kind of	action|n	e901-c400-086c-8302	0
+motion|n	kind of	event|n	e901-c400-086c-8302	0
+dew|n	kind of	condensation|n	e96e-4426-7f92-f56d	0
+protection|n	derivational morphology	protect|v	e98a-5e1d-e825-0c47	0
+protect|v	instrument	shelter|n	e98a-5e1d-e825-0c47	0
+shelter|n	kind of	building|n	e98a-5e1d-e825-0c47	0
+shelter|n	kind of	place|n	e98a-5e1d-e825-0c47	0
+shelter|n	kind of	structure|n	e98a-5e1d-e825-0c47	0
+product|n	kind of	object|n	e9b5-edaa-0d49-f73a	0
+kilogram|n	kind of	weight|n	e9cb-fdf8-abe6-7d9a	0
+weight|n	kind of	unit|n	e9cb-fdf8-abe6-7d9a	0
+weight|n	similar to	mass|n	e9cb-fdf8-abe6-7d9a	0
+bar|n	kind of	object|n	e9d2-21ea-0bdc-f4ca	0
+bedrock|n	kind of	rock|n	e9d6-4c3d-84ba-0cd0	0
+movement|n	derivational morphology	move|v	e9d9-325b-c54c-5f88	0
+movement|n	kind of	change|n	e9d9-325b-c54c-5f88	0
+echo|n	kind of	sound|n	e9e5-df09-379a-fa17	0
+butter|n	kind of	solid|n	e9ec-d6ef-e1a0-97fd	0
+leaf|n	kind of	plant|n	ea5f-42f2-93e0-9520	0
+soil|n	kind of	nonliving thing|jn	ea61-1f68-79b7-f09f	0
+mushroom|n	kind of	fungus|n	ea91-5664-cefc-e7ee	0
+combustion|n	kind of	chemical change|jn	eaad-89d5-b78f-cf5a	0
+gold|n	kind of	element|n	eb57-77f3-768e-3665	0
+ride|v	kind of	movement|n	eb88-7190-51ea-a396	0
+ride|v	kind of	move|v	eb88-7190-51ea-a396	0
+riding|n	derivational morphology	ride|v	eb88-7190-51ea-a396	0
+leather|n	kind of	natural resource|jn	ebb0-2d7d-5836-60f1	0
+coal|n	kind of	sedimentary rock|jn	ebfc-2409-7596-7174	0
+flood|v	derivational morphology	flooding|n	ec04-9eb8-f263-13ea	0
+flooding|n	kind of	change|n	ec04-9eb8-f263-13ea	0
+flood|v	derivational morphology	flood|n	ec04-9eb8-f263-13ea	0
+flood|v	derivational morphology	flooding|n	ec04-9eb8-f263-13ea	0
+flood|v	result	change|n	ec04-9eb8-f263-13ea	0
+rod|n	kind of	object|n	ec0a-ecbf-8142-bbe8	0
+day|n	kind of	duration|n	ec3f-17e4-7f87-3757	0
+duration|n	kind of	time|n	ec3f-17e4-7f87-3757	0
+duration|n	kind of	time|n	ec3f-17e4-7f87-3757	0
+duration|n	kind of	time|n	ec3f-17e4-7f87-3757	0
+duration|n	kind of	time|n	ec3f-17e4-7f87-3757	0
+transport material|vp	at location	plant|n	ec54-dc25-4e1a-18c7	0
+transport material|vp	kind of	function|n	ec54-dc25-4e1a-18c7	0
+decomposer|n	instance of	role|n	ec9d-6fc5-9cb0-28db	0
+decompose|v	agent	decomposer|n	ec9d-6fc5-9cb0-28db	0
+ecosystem|n	has subcomponent	decomposer|n	ec9d-6fc5-9cb0-28db	0
+food chain|ns	has subcomponent	decomposer|n	ec9d-6fc5-9cb0-28db	0
+lion|n	kind of	mammal|n	eca2-7d3f-2d0b-9f93	0
+pepper|n	kind of	solid|n	ecc4-5d16-aaa4-3595	0
+thunderstorm|n	kind of	storm|n	ed1d-c1cf-76c9-eed3	0
+catch insect|vp	instrument	tongue|n	ed29-4e9b-989d-bae0	0
+sticky tongue|jn	kind of	adaptation|n	ed29-4e9b-989d-bae0	0
+downstream|j	at location	river|n	ed4f-6314-0f55-e413	0
+downstream|j	kind of	direction|n	ed4f-6314-0f55-e413	0
+daisy|n	kind of	flower|n	ed6a-03de-1756-b6bc	0
+north|n	kind of	direction|n	ed71-4003-23bd-6b98	0
+termite|n	kind of	insect|n	ed80-15ae-c493-8ca6	0
+boil|v	kind of	phase change|ns	edd3-cea2-f046-e76f	0
+ice cream|ns	kind of	solid|n	ee58-1bbb-62c4-2c84	0
+chlorophyll|n	kind of	pigment|n	ee81-d31b-b856-0729	0
+learned characteristic|jn	kind of	acquired characteristic|jn	ef15-b075-f83c-0d12	0
+shake|v	derivational morphology	shaking|n	ef35-06f3-5e2e-e454	0
+shiver|v	derivational morphology	shivering|n	ef35-06f3-5e2e-e454	0
+shiver|v	kind of	shake|v	ef35-06f3-5e2e-e454	0
+electromagnet|n	kind of	electric magnet|jn	efca-82f8-2845-8de5	0
+flipper|n	kind of	limb|n	efe5-2110-2946-4748	0
+mountain chorus frog|ns	kind of	animal|n	f050-0c35-8aca-2a52	0
+burn|v	kind of	action|n	f056-ff9c-c044-c99a	0
+grow|v	kind of	process|n	f116-778d-7f8a-6ec6	0
+butterfly|n	kind of	animal|n	f12e-5766-27fb-ebf8	0
+poison|n	kind of	substance|n	f184-e4d0-25d9-d4c7	0
+mineral|n	kind of	natural material|jn	f294-6f62-2e34-4af0	0
+mineral|n	kind of	solid material|jn	f294-6f62-2e34-4af0	0
+steam|n	kind of	gas|n	f2a5-90e6-9cfa-b646	0
+board|n	kind of	object|n	f2d9-9926-adab-4bb0	0
+filter|n	derivational morphology	filter|v	f349-c742-9e3b-e235	0
+filter|n	kind of	tool|n	f349-c742-9e3b-e235	0
+filter|v	patient	liquid|n	f349-c742-9e3b-e235	0
+separate|v	instrument	filter|n	f349-c742-9e3b-e235	0
+diatom|n	kind of	producer|n	f36b-4742-f196-9090	0
+Western Hemisphere|jn	kind of	hemisphere|n	f3ad-4a87-c0a1-f77e	0
+earth|n	has subcomponent	hemisphere|n	f3ad-4a87-c0a1-f77e	0
+drop|n	kind of	liquid|n	f3d7-58e4-df8d-4c5f	0
+book|n	kind of	object|n	f3e2-6d60-0293-35e4	0
+jaguar|n	has property	big|j	f3fc-b375-1da8-64a3	0
+jaguar|n	kind of	cat|n	f3fc-b375-1da8-64a3	0
+kangaroo|n	kind of	animal|n	f40e-296d-660b-f8df	0
+dispose|v	derivational morphology	disposal|n	f43e-ee8c-d2ee-7e60	0
+recycle|v	kind of	dispose|v	f43e-ee8c-d2ee-7e60	0
+redwood tree|ns	kind of	tree|n	f474-99cb-bbd0-140a	0
+opposite|n	kind of	different|n	f4b8-4f96-90d9-7e04	0
+corn|n	kind of	seed|n	f50f-d47e-79e8-e25b	0
+pollinate|v	beneficiary	plant|n	f55b-507a-c8f0-2acf	0
+pollinate|v	causes	reproduce|v	f55b-507a-c8f0-2acf	0
+pollination|n	derivational morphology	pollinate|v	f55b-507a-c8f0-2acf	0
+pollination|n	kind of	process|n	f55b-507a-c8f0-2acf	0
+limestone|n	kind of	sedimentary rock|jn	f5b2-aca4-88b1-e3a4	0
+sedimentary|j	derivational morphology	sediment|n	f5b2-aca4-88b1-e3a4	0
+rotation|n	kind of	motion|n	f603-3c96-a570-1918	0
+plant appear|av	kind of	event|n	f608-68a4-9b75-3800	0
+carbon monoxide detector|ns	at location	building|n	f68e-fb11-a7b3-a72e	0
+carbon monoxide detector|ns	kind of	instrument|n	f68e-fb11-a7b3-a72e	0
+detect carbon monoxide|vp	instrument	carbon monoxide detector|ns	f68e-fb11-a7b3-a72e	0
+earthworm|n	kind of	animal|n	f6bf-c88d-502b-826b	0
+animal|n	has subcomponent	sense|n	f6fb-5aa7-3464-c565	0
+sense|n	kind of	characteristic|n	f6fb-5aa7-3464-c565	0
+sleet|n	kind of	precipitation|n	f704-bbf0-c1f5-b8ba	0
+light|n	kind of	energy|n	f742-384b-744c-10a9	0
+farmer|n	kind of	human|n	f764-c0c4-fc12-70f2	0
+drive|v	kind of	skill|n	f764-ebbe-8f77-1ea2	0
+drive|v	similar to	vehicle|n	f764-ebbe-8f77-1ea2	0
+drive|v	synonym	operate|v	f764-ebbe-8f77-1ea2	0
+driving|n	derivational morphology	drive|v	f764-ebbe-8f77-1ea2	0
+liquid|n	kind of	state|n	f7e9-c6f8-892b-3496	0
+matter|n	has property	state|j	f7e9-c6f8-892b-3496	0
+produce|v	agent	green plant|jn	f812-4338-e44b-e685	0
+electric car|jn	kind of	invention|n	f829-cd8d-c894-e9ee	0
+tie back hair|vp	at location	laboratory|n	f873-b72a-39bf-0deb	0
+tie back hair|vp	kind of	safety measure|ns	f873-b72a-39bf-0deb	0
+automobile|n	kind of	technology|n	f8ad-6ff2-e6fa-3dee	0
+whale shark|ns	kind of	shark|n	f8c1-7c98-7ff9-89ad	0
+variable shape|jn	kind of	property|n	f926-954b-1f50-2b3b	0
+variable volume|jn	kind of	property|n	f926-954b-1f50-2b3b	0
+drought|n	kind of	natural event|jn	f997-a1ce-5dd5-9716	0
+sugar|n	kind of	simple carbohydrate|jn	fa62-7076-3a48-59e3	0
+canyon|n	kind of	place|n	fa65-d947-a5a2-2d1f	0
+balance|n	kind of	instrument|n	fad5-a6d6-cfd6-b9ed	0
+measure mass|vp	instrument	balance|n	fad5-a6d6-cfd6-b9ed	0
+measure weight|vp	instrument	balance|n	fad5-a6d6-cfd6-b9ed	0
+melting|n	kind of	phase change|ns	fae9-3cca-92cd-bf20	0
+float|v	at location	water|n	fb07-29fd-92ad-c6bb	0
+float|v	kind of	adaptation|n	fb07-29fd-92ad-c6bb	0
+refrigerator|n	kind of	appliance|n	fb43-38c7-f8b9-ee5d	0
+spoon|n	kind of	object|n	fb45-a64a-13f3-241c	0
+plant crop|vp	kind of	activity|n	fbe1-1231-31db-cc93	0
+downhill|n	kind of	direction|n	fc5c-acec-f27b-efbd	0
+environment|n	kind of	place|n	fc8a-1dc7-a746-de58	0
+plasma|n	kind of	matter state|ns	fcce-8881-7921-d9d2	0
+migration|n	kind of	behavior|n	fcee-e796-d013-02ae	0
+coast|n	kind of	environment|n	fcf8-5a39-4b2d-ece2	0
+form|v	kind of	change|v	fd3c-8fc5-fc72-8ccf	0
+instinctive behavior|jn	kind of	behavioral adaptation|jn	fdb9-edf0-6759-5f09	0
+instinctive behavior|jn	kind of	inherited characteristic|jn	fdb9-edf0-6759-5f09	0
+nest|n	has positive impact on	bird|n	fe0e-38e0-f82f-e92a	0
+nest|n	kind of	resource|n	fe0e-38e0-f82f-e92a	0
+car|n	kind of	object|n	fe6e-84fa-d289-aee9	0
+conduct|v	derivational morphology	conducting|n	fe85-5892-7823-5d15	0
+conduct|v	kind of	function|n	fe85-5892-7823-5d15	0
+quartz|n	kind of	mineral|n	fe8b-fc9f-5401-dc19	0
+magnet|n	kind of	object|n	fe8e-2342-2aef-4d7b	0
+water|n	kind of	matter|n	fece-0edb-14bf-0a34	0
+skidding|v	derivational morphology	skid|v	ff12-30f0-2d0c-0da9	0
+skid|v	kind of	motion|n	ff12-30f0-2d0c-0da9	0
+deep sea animal|ns	kind of	marine organism|jn	ff7d-b137-62ff-567b	0

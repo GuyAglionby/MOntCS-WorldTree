@@ -1,0 +1,35 @@
+subj	rel	obj	id	flag
+plastic|n	has property	nonrenewable|j	06f5-8cbc-7ae5-111f	0
+plastic|n	kind of	resource|n	06f5-8cbc-7ae5-111f	0
+fossil fuel|ns	has property	nonrenewable|j	0b4c-355e-1cca-d698	0
+fossil fuel|ns	kind of	resource|n	0b4c-355e-1cca-d698	0
+wind|n	has property	renewable|j	0da1-2296-dfe8-6873	0
+wind|n	kind of	resource|n	0da1-2296-dfe8-6873	0
+grow|v	instrument	soil|n	1af4-c273-5b80-34e6	0
+plant|n	at location	soil|n	1af4-c273-5b80-34e6	0
+soil|n	has property	renewable|j	1af4-c273-5b80-34e6	0
+soil|n	kind of	resource|n	1af4-c273-5b80-34e6	0
+alternative fuel|jn	has property	renewable|j	2146-8319-8af6-a8e3	0
+alternative fuel|jn	kind of	resource|n	2146-8319-8af6-a8e3	0
+solar energy|jn	has property	inexhaustible|j	24ed-15e8-f3ce-62a2	0
+solar energy|jn	kind of	resource|n	24ed-15e8-f3ce-62a2	0
+trees|n	has property	renewable|j	27d4-eb24-0630-19ed	0
+trees|n	kind of	resource|n	27d4-eb24-0630-19ed	0
+natural gas|jn	has property	nonrenewable|j	4cbb-5f96-4d29-b4f5	0
+natural gas|jn	kind of	resource|n	4cbb-5f96-4d29-b4f5	0
+wood|n	has property	renewable|j	55b1-a769-b2b4-d023	0
+wood|n	kind of	resource|n	55b1-a769-b2b4-d023	0
+coal|n	has property	nonrenewable|j	77f9-749f-9394-ae34	0
+coal|n	kind of	resource|n	77f9-749f-9394-ae34	0
+wind|n	has property	inexhaustible|j	8aa2-0c1b-b931-8897	0
+wind|n	kind of	resource|n	8aa2-0c1b-b931-8897	0
+oil|n	has property	nonrenewable|j	8c18-c36b-a89a-60ec	0
+oil|n	kind of	resource|n	8c18-c36b-a89a-60ec	0
+aluminum|n	has property	nonrenewable|j	982b-08d3-f40e-289f	0
+aluminum|n	kind of	resource|n	982b-08d3-f40e-289f	0
+metal|n	has property	nonrenewable|j	9e1f-a1a8-643b-0b8c	0
+metal|n	kind of	resource|n	9e1f-a1a8-643b-0b8c	0
+water|n	has property	renewable|j	df02-656d-260a-04d5	0
+water|n	kind of	resource|n	df02-656d-260a-04d5	0
+solar energy|jn	has property	renewable|j	f5c3-d141-1a8b-80c9	0
+solar energy|jn	kind of	resource|n	f5c3-d141-1a8b-80c9	0

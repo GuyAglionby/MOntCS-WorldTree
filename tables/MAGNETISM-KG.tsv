@@ -1,0 +1,68 @@
+subj	rel	obj	id	flag
+stainless steel|ns	has property	magnetic|j	01b1-6b36-b6b8-5c97	0
+stainless steel|ns	has property	nonmagnetic|j	01b1-6b36-b6b8-5c97	0
+wood|n	has property	nonmagnetic|j	07a3-e850-eebe-3043	0
+brass|n	has property	nonmagnetic|j	083b-d47a-2d98-7325	0
+Tantalite|n	has property	magnetic|j	087d-7028-ab8c-12be	0
+chromium|n	has property	nonmagnetic|j	15c4-e9b2-7186-2e43	0
+hematite|n	has property	ferromagnetic|j	168d-a693-2ec1-ee66	0
+hematite|n	has property	magnetic|j	168d-a693-2ec1-ee66	0
+zinc|n	has property	nonmagnetic|j	1dda-2bae-9eb8-0622	0
+Trevorite|n	has property	magnetic|j	22b4-d564-fdae-3786	0
+oxygen|n	has property	nonmagnetic|j	2384-e381-8dba-3a85	0
+Coyoteite|n	has property	magnetic|j	2603-df1f-cacc-b864	0
+Epsomite|n	has property	magnetic|j	2f0f-6f4d-d1b5-95db	0
+Platinum|n	has property	magnetic|j	3344-d76f-5d8f-0c61	0
+Borax|n	has property	magnetic|j	35df-1618-897b-4405	0
+Manganbabingtonite|n	has property	magnetic|j	41fa-fa72-3651-db02	0
+gold|n	has property	nonmagnetic|j	42b6-a8e9-5665-d755	0
+metal|n	has property	magnetic|j	47eb-c4e4-e924-7160	1
+Ludlamite|n	has property	magnetic|j	4bb6-215a-1a0d-97b9	0
+tin|n	has property	nonmagnetic|j	4db8-5861-a56f-c38f	0
+Chromferide|n	has property	magnetic|j	5455-fa26-7125-455e	0
+glass|n	has property	nonmagnetic|j	56c8-cc89-2a22-4eea	0
+cardboard|n	has property	nonmagnetic|j	5968-79e2-9f40-8f2d	0
+fabric|n	has property	nonmagnetic|j	5b8f-dfea-901b-2e62	0
+Chromite|n	has property	magnetic|j	6e0f-fabc-9a30-ed70	0
+lead|n	has property	nonmagnetic|j	7164-31fa-44d7-61b0	0
+Burckhardtite|n	has property	magnetic|j	71a9-9f53-252f-a6be	0
+pewter|n	has property	nonmagnetic|j	753f-5368-a211-ed1e	0
+Nitratine|n	has property	magnetic|j	788b-d16c-c625-db9f	0
+carbon steel|ns	has property	ferromagnetic|j	794a-7ac4-5e27-9d39	0
+carbon steel|ns	has property	magnetic|j	794a-7ac4-5e27-9d39	0
+steel|n	has property	ferromagnetic|j	794a-7ac4-5e27-9d39	0
+steel|n	has property	magnetic|j	794a-7ac4-5e27-9d39	0
+aluminum|n	has property	nonmagnetic|j	7cc7-9198-9358-fdf5	0
+Jacobsite|n	has property	magnetic|j	7fde-80ba-86dd-7deb	0
+paper|n	has property	nonmagnetic|j	814f-7707-4006-bc2d	0
+Magnetite|n	has property	magnetic|j	85b8-671b-6af2-c397	0
+wax|n	has property	nonmagnetic|j	86f2-92cc-134e-880b	0
+Babingtonite|n	has property	magnetic|j	8b95-fe18-dbc1-7c08	0
+iron|n	has property	ferromagnetic|j	8e64-7c6e-2572-2438	0
+iron|n	has property	magnetic|j	8e64-7c6e-2572-2438	0
+soft iron|ns	has property	ferromagnetic|j	8e64-7c6e-2572-2438	0
+soft iron|ns	has property	magnetic|j	8e64-7c6e-2572-2438	0
+Ferberite|n	has property	magnetic|j	94a3-c532-7b7d-7b2d	0
+Magnetoplumbite|n	has property	magnetic|j	95f4-0f32-02aa-0af2	0
+Columbite|n	has property	magnetic|j	9e9a-a8ae-8561-fa20	0
+sand|n	has property	nonmagnetic|j	9f32-c759-d73a-9bf2	0
+Epidote|n	has property	magnetic|j	9fb0-9ec7-8d1d-afbf	0
+Barite|n	has property	magnetic|j	a447-77af-169b-ae1f	0
+plastic|n	has property	nonmagnetic|j	a68f-e428-18de-2f21	0
+iron|n	has property	magnetic|j	a6d3-031b-6398-c30e	0
+Maghemite|n	has property	magnetic|j	a71b-adc1-7504-2a7d	0
+Pyrrhotite|n	has property	magnetic|j	aa8b-6751-e135-d06f	0
+Cadmium|n	has property	magnetic|j	aca8-8280-e839-7671	0
+Siderite|n	has property	magnetic|j	aede-d34c-c7ef-0eea	0
+nickel|n	has property	ferromagnetic|j	b647-16b3-9341-d4de	0
+nickel|n	has property	magnetic|j	b647-16b3-9341-d4de	0
+bronze|n	has property	nonmagnetic|j	bca3-49ef-68a9-7d13	0
+silver|n	has property	nonmagnetic|j	c110-0e79-f545-e341	0
+clay|n	has property	nonmagnetic|j	c3af-7538-795e-ec56	0
+copper|n	has property	nonmagnetic|j	dc80-6330-427e-36ff	0
+Braunite|n	has property	magnetic|j	ead8-2c52-fa03-cf4a	0
+Goslarite|n	has property	magnetic|j	ec72-673d-bd10-028a	0
+cobalt|n	has property	ferromagnetic|j	f0be-8ee2-3dc9-c516	0
+cobalt|n	has property	magnetic|j	f0be-8ee2-3dc9-c516	0
+gravel|n	has property	nonmagnetic|j	f997-a180-795e-e872	0
+Franklinite|n	has property	magnetic|j	fcdf-4c69-0833-c1b9	0

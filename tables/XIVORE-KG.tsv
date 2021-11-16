@@ -1,0 +1,18 @@
+subj	rel	obj	id	flag
+hare|n	kind of	prey|n	0cea-081d-192a-85fe	0
+hawk|n	kind of	predator|n	0dcc-b257-e058-6cab	0
+insect|n	kind of	prey|n	2308-b66f-7997-bcc1	0
+deer|n	kind of	prey|n	30d5-5f2a-1462-4a76	0
+deer|n	kind of	herbivore|n	3958-4821-2eca-d3a9	0
+rabbit|n	kind of	prey|n	5ff9-ab7a-fbdd-10f8	0
+bobcat|n	kind of	predator|n	774c-70fb-21b9-d983	0
+turtle|n	kind of	omnivore|n	8567-fc1a-2b84-3ac6	0
+squirrel|n	kind of	herbivore|n	917a-13e0-ccdc-3673	0
+panther|n	kind of	predator|n	94f4-e876-d801-c20c	0
+mouse|n	kind of	herbivore|n	b063-0f0c-d332-f233	0
+cat|n	kind of	carnivore|n	c13c-3759-cff0-cd36	0
+fish|n	kind of	predator|n	c561-260c-558d-89b4	0
+rabbit|n	kind of	herbivore|n	d825-1694-54c8-7842	0
+cow|n	kind of	herbivore|n	dfcb-6cbb-85ac-9195	0
+owl|n	kind of	predator|n	e4f6-cdf7-74e3-8c27	0
+eagle|n	kind of	predator|n	f5b8-c279-74af-f197	0

@@ -1,0 +1,242 @@
+subj	rel	obj	id	flag
+large|j	instance of	size|n	02eb-d26b-a00c-c559	0
+medium|j	instance of	size|n	02eb-d26b-a00c-c559	0
+microscopic|j	instance of	size|n	02eb-d26b-a00c-c559	0
+object|n	has property	large|j	02eb-d26b-a00c-c559	0
+object|n	has property	medium|j	02eb-d26b-a00c-c559	0
+object|n	has property	microscopic|j	02eb-d26b-a00c-c559	0
+object|n	has property	size|n	02eb-d26b-a00c-c559	0
+object|n	has property	small|j	02eb-d26b-a00c-c559	0
+object|n	has property	tiny|j	02eb-d26b-a00c-c559	0
+small|j	instance of	size|n	02eb-d26b-a00c-c559	0
+tiny|j	instance of	size|n	02eb-d26b-a00c-c559	0
+mineral|n	has property	streak|n	0367-da98-abce-d6f4	0
+flat|j	instance of	flatness|n	046d-7605-f4cd-1f97	0
+flatness|n	kind of	shape|n	046d-7605-f4cd-1f97	0
+object|n	has property	shape|j	046d-7605-f4cd-1f97	0
+surface|n	has property	flatness|n	046d-7605-f4cd-1f97	0
+uneven|j	instance of	flatness|n	046d-7605-f4cd-1f97	0
+object|n	has property	thickness|n	05fc-2dd1-7863-00f2	0
+object|n	has property	thick|j	05fc-2dd1-7863-00f2	0
+object|n	has property	thin|j	05fc-2dd1-7863-00f2	0
+thick|j	instance of	thickness|n	05fc-2dd1-7863-00f2	0
+thin|j	instance of	thickness|n	05fc-2dd1-7863-00f2	0
+object|n	has property	length|n	0969-6f9e-9555-9731	0
+object|n	has property	length|n	0969-6f9e-9555-9731	0
+air|n	has property	air pressure|ns	0b32-125c-d57c-a9fb	0
+atmosphere|n	has property	air pressure|ns	0b32-125c-d57c-a9fb	0
+weather|n	has property	wind speed|ns	1a23-b7e4-5ac6-60c3	0
+wind speed|ns	kind of	speed|n	1a23-b7e4-5ac6-60c3	0
+matter|n	has property	composition|n	1d88-121f-5fd2-6ed8	0
+object|n	has property	composition|n	1d88-121f-5fd2-6ed8	0
+depth|n	kind of	shape|n	1e74-5982-396e-69c8	0
+object|n	has property	shape|j	1e74-5982-396e-69c8	0
+dry|j	instance of	humidity|n	33cb-429a-ce86-2d79	0
+humid|j	instance of	humidity|n	33cb-429a-ce86-2d79	0
+weather|n	has property	dry|j	33cb-429a-ce86-2d79	0
+weather|n	has property	humidity|n	33cb-429a-ce86-2d79	0
+weather|n	has property	humid|j	33cb-429a-ce86-2d79	0
+material|n	has property	smell|n	3a89-10f2-0ff2-f54c	0
+object|n	has property	smell|n	3a89-10f2-0ff2-f54c	0
+substance|n	has property	smell|n	3a89-10f2-0ff2-f54c	0
+cold|j	instance of	heat energy|ns	4084-f2bc-52cf-0f74	0
+cold|j	instance of	temperature|n	4084-f2bc-52cf-0f74	0
+cool|j	instance of	heat energy|ns	4084-f2bc-52cf-0f74	0
+cool|j	instance of	temperature|n	4084-f2bc-52cf-0f74	0
+hot|j	instance of	heat energy|ns	4084-f2bc-52cf-0f74	0
+hot|j	instance of	temperature|n	4084-f2bc-52cf-0f74	0
+object|n	has property	cold|j	4084-f2bc-52cf-0f74	0
+object|n	has property	cold|j	4084-f2bc-52cf-0f74	0
+object|n	has property	cool|j	4084-f2bc-52cf-0f74	0
+object|n	has property	cool|j	4084-f2bc-52cf-0f74	0
+object|n	has property	heat energy|ns	4084-f2bc-52cf-0f74	0
+object|n	has property	hot|j	4084-f2bc-52cf-0f74	0
+object|n	has property	hot|j	4084-f2bc-52cf-0f74	0
+object|n	has property	temperature|n	4084-f2bc-52cf-0f74	0
+object|n	has property	warm|j	4084-f2bc-52cf-0f74	0
+object|n	has property	warm|j	4084-f2bc-52cf-0f74	0
+warm|j	instance of	heat energy|ns	4084-f2bc-52cf-0f74	0
+warm|j	instance of	temperature|n	4084-f2bc-52cf-0f74	0
+weather|n	has property	cold|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	cold|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	cool|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	cool|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	heat energy|ns	4084-f2bc-52cf-0f74	0
+weather|n	has property	hot|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	hot|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	temperature|n	4084-f2bc-52cf-0f74	0
+weather|n	has property	warm|j	4084-f2bc-52cf-0f74	0
+weather|n	has property	warm|j	4084-f2bc-52cf-0f74	0
+material|n	has property	structure|n	46f3-afab-99e4-ee0c	0
+object|n	has property	structure|n	46f3-afab-99e4-ee0c	0
+substance|n	has property	structure|n	46f3-afab-99e4-ee0c	0
+environment|n	has property	weather|n	497d-88e3-9e63-877c	0
+magnetic|j	instance of	magnetism|n	4a27-3046-0e5d-9891	0
+material|n	has property	magnetic|j	4a27-3046-0e5d-9891	0
+material|n	has property	magnetism|n	4a27-3046-0e5d-9891	0
+material|n	has property	nonmagnetic|j	4a27-3046-0e5d-9891	0
+nonmagnetic|j	instance of	magnetism|n	4a27-3046-0e5d-9891	0
+object|n	has property	magnetic|j	4a27-3046-0e5d-9891	0
+object|n	has property	magnetism|n	4a27-3046-0e5d-9891	0
+object|n	has property	nonmagnetic|j	4a27-3046-0e5d-9891	0
+material|n	has property	flexibility|n	5109-65f3-6c0b-cecf	0
+matter|n	has property	shape|j	5364-1d90-a262-32e7	0
+matter|n	has property	volume|n	5364-1d90-a262-32e7	0
+shape|n	has property	definite|j	5364-1d90-a262-32e7	0
+shape|n	has property	variable|j	5364-1d90-a262-32e7	0
+volume|n	has property	definite|j	5364-1d90-a262-32e7	0
+volume|n	has property	variable|j	5364-1d90-a262-32e7	0
+material|n	has property	color|n	5c52-4f26-3883-a4ef	0
+object|n	has property	color|n	5c52-4f26-3883-a4ef	0
+all|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+half|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+least|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+little|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+many|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+most|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+much|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+none|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+something|n	has property	all|j	624a-c1ec-8c85-45ce	0
+something|n	has property	amount|n	624a-c1ec-8c85-45ce	0
+something|n	has property	half|j	624a-c1ec-8c85-45ce	0
+something|n	has property	least|j	624a-c1ec-8c85-45ce	0
+something|n	has property	little|j	624a-c1ec-8c85-45ce	0
+something|n	has property	many|j	624a-c1ec-8c85-45ce	0
+something|n	has property	most|j	624a-c1ec-8c85-45ce	0
+something|n	has property	much|j	624a-c1ec-8c85-45ce	0
+something|n	has property	none|j	624a-c1ec-8c85-45ce	0
+something|n	has property	some|j	624a-c1ec-8c85-45ce	0
+some|j	instance of	amount|n	624a-c1ec-8c85-45ce	0
+material|n	has property	strength|n	635e-4c5d-98ab-31af	0
+object|n	has property	strength|n	635e-4c5d-98ab-31af	0
+material|n	has property	charge|n	681b-df1b-33c5-3ad5	0
+material|n	has property	negatively-charged|j	681b-df1b-33c5-3ad5	0
+material|n	has property	neutral|j	681b-df1b-33c5-3ad5	0
+material|n	has property	positively-charged|j	681b-df1b-33c5-3ad5	0
+negatively-charged|j	instance of	charge|n	681b-df1b-33c5-3ad5	0
+neutral|j	instance of	charge|n	681b-df1b-33c5-3ad5	0
+object|n	has property	charge|n	681b-df1b-33c5-3ad5	0
+object|n	has property	negatively-charged|j	681b-df1b-33c5-3ad5	0
+object|n	has property	neutral|j	681b-df1b-33c5-3ad5	0
+object|n	has property	positively-charged|j	681b-df1b-33c5-3ad5	0
+positively-charged|j	instance of	charge|n	681b-df1b-33c5-3ad5	0
+substance|n	has property	charge|n	681b-df1b-33c5-3ad5	0
+substance|n	has property	negatively-charged|j	681b-df1b-33c5-3ad5	0
+substance|n	has property	neutral|j	681b-df1b-33c5-3ad5	0
+substance|n	has property	positively-charged|j	681b-df1b-33c5-3ad5	0
+acidic|j	instance of	acidity|n	6af8-1d7a-5fcd-3e77	0
+basic|j	instance of	acidity|n	6af8-1d7a-5fcd-3e77	0
+chemical|n	has property	acidic|j	6af8-1d7a-5fcd-3e77	0
+chemical|n	has property	acidity|n	6af8-1d7a-5fcd-3e77	0
+chemical|n	has property	basic|j	6af8-1d7a-5fcd-3e77	0
+chemical|n	has property	neutral|j	6af8-1d7a-5fcd-3e77	0
+neutral|j	instance of	acidity|n	6af8-1d7a-5fcd-3e77	0
+substance|n	has property	acidic|j	6af8-1d7a-5fcd-3e77	0
+substance|n	has property	acidity|n	6af8-1d7a-5fcd-3e77	0
+substance|n	has property	basic|j	6af8-1d7a-5fcd-3e77	0
+substance|n	has property	neutral|j	6af8-1d7a-5fcd-3e77	0
+material|n	has property	boiling point|ns	6c7e-2cf1-8a3f-b14a	0
+substance|n	has property	boiling point|ns	6c7e-2cf1-8a3f-b14a	0
+object|n	has property	opacity|n	6ed2-789b-e3f7-91fa	0
+object|n	has property	opaque|j	6ed2-789b-e3f7-91fa	0
+object|n	has property	translucent|j	6ed2-789b-e3f7-91fa	0
+object|n	has property	transparent|j	6ed2-789b-e3f7-91fa	0
+opaque|j	instance of	opacity|n	6ed2-789b-e3f7-91fa	0
+translucent|j	instance of	opacity|n	6ed2-789b-e3f7-91fa	0
+transparent|j	instance of	opacity|n	6ed2-789b-e3f7-91fa	0
+material|n	has property	melting point|ns	6ffc-7a7e-87d9-9732	0
+substance|n	has property	melting point|ns	6ffc-7a7e-87d9-9732	0
+malleable|j	instance of	hardness|n	72e2-6cde-7faa-4d2b	0
+material|n	has property	hardness|n	72e2-6cde-7faa-4d2b	0
+material|n	has property	malleable|j	72e2-6cde-7faa-4d2b	0
+material|n	has property	rigid|j	72e2-6cde-7faa-4d2b	0
+object|n	has property	hardness|n	72e2-6cde-7faa-4d2b	0
+object|n	has property	malleable|j	72e2-6cde-7faa-4d2b	0
+object|n	has property	rigid|j	72e2-6cde-7faa-4d2b	0
+rigid|j	instance of	hardness|n	72e2-6cde-7faa-4d2b	0
+weather|n	has property	sky condition|ns	75e5-d0aa-9512-f33c	0
+shape|n	has property	sharpness|n	7832-1136-b1ac-6422	0
+loud|j	instance of	sound intensity|ns	8158-a40a-af21-cc53	0
+loud|j	instance of	volume|n	8158-a40a-af21-cc53	0
+normal|j	instance of	sound intensity|ns	8158-a40a-af21-cc53	0
+normal|j	instance of	volume|n	8158-a40a-af21-cc53	0
+quiet|j	instance of	sound intensity|ns	8158-a40a-af21-cc53	0
+quiet|j	instance of	volume|n	8158-a40a-af21-cc53	0
+sound energy|ns	has property	loud|j	8158-a40a-af21-cc53	0
+sound energy|ns	has property	loud|j	8158-a40a-af21-cc53	0
+sound energy|ns	has property	normal|j	8158-a40a-af21-cc53	0
+sound energy|ns	has property	normal|j	8158-a40a-af21-cc53	0
+sound energy|ns	has property	quiet|j	8158-a40a-af21-cc53	0
+sound energy|ns	has property	quiet|j	8158-a40a-af21-cc53	0
+sound energy|ns	has property	sound intensity|ns	8158-a40a-af21-cc53	0
+sound energy|ns	has property	volume|n	8158-a40a-af21-cc53	0
+sound energy|ns	kind of	energy|n	8158-a40a-af21-cc53	0
+sound|n	has property	loud|j	8158-a40a-af21-cc53	0
+sound|n	has property	loud|j	8158-a40a-af21-cc53	0
+sound|n	has property	normal|j	8158-a40a-af21-cc53	0
+sound|n	has property	normal|j	8158-a40a-af21-cc53	0
+sound|n	has property	quiet|j	8158-a40a-af21-cc53	0
+sound|n	has property	quiet|j	8158-a40a-af21-cc53	0
+sound|n	has property	sound intensity|ns	8158-a40a-af21-cc53	0
+sound|n	has property	volume|n	8158-a40a-af21-cc53	0
+matter|n	has property	volume|n	866b-5e77-f131-2b80	0
+change phase|vp	agent	material|n	8fca-420e-f8ad-082b	0
+change phase|vp	agent	substance|n	8fca-420e-f8ad-082b	0
+close|j	instance of	distance|n	91b9-6388-d5b8-58b6	0
+far|j	instance of	distance|n	91b9-6388-d5b8-58b6	0
+space|n	has property	close|j	91b9-6388-d5b8-58b6	0
+space|n	has property	distance|n	91b9-6388-d5b8-58b6	0
+space|n	has property	far|j	91b9-6388-d5b8-58b6	0
+object|n	has property	appearance|n	92e5-34ee-da79-3c25	0
+shape|n	kind of	appearance|n	92e5-34ee-da79-3c25	0
+material|n	has property	rough|j	936a-31ea-b049-fee7	0
+material|n	has property	smooth|j	936a-31ea-b049-fee7	0
+material|n	has property	texture|n	936a-31ea-b049-fee7	0
+object|n	has property	rough|j	936a-31ea-b049-fee7	0
+object|n	has property	smooth|j	936a-31ea-b049-fee7	0
+object|n	has property	texture|n	936a-31ea-b049-fee7	0
+rough|j	instance of	texture|n	936a-31ea-b049-fee7	0
+smooth|j	instance of	texture|n	936a-31ea-b049-fee7	0
+surface|n	has property	rough|j	936a-31ea-b049-fee7	0
+surface|n	has property	smooth|j	936a-31ea-b049-fee7	0
+surface|n	has property	texture|n	936a-31ea-b049-fee7	0
+object|n	has property	shape|n	93fd-6a6f-7782-77d1	0
+weather|n	has property	temperature|n	950c-7489-5659-db44	0
+material|n	has property	freezing point|ns	a665-2771-83e8-adb8	0
+substance|n	has property	freezing point|ns	a665-2771-83e8-adb8	0
+material|n	has property	luster|n	aaca-ecc3-87f7-2658	0
+object|n	has property	luster|n	aaca-ecc3-87f7-2658	0
+location|n	has property	latitude|n	ad6f-9b09-9cd6-69ab	0
+place|n	has property	latitude|n	ad6f-9b09-9cd6-69ab	0
+material|n	has property	nonrecyclable|j	b393-8aa8-f654-e6a9	0
+material|n	has property	recyclability|n	b393-8aa8-f654-e6a9	0
+material|n	has property	recyclable|j	b393-8aa8-f654-e6a9	0
+nonrecyclable|j	instance of	recyclability|n	b393-8aa8-f654-e6a9	0
+recyclable|j	instance of	recyclability|n	b393-8aa8-f654-e6a9	0
+dense|j	instance of	density|n	b765-cf69-400e-c8f8	0
+not dense|j	instance of	density|n	b765-cf69-400e-c8f8	0
+object|n	has property	dense|j	b765-cf69-400e-c8f8	0
+object|n	has property	density|n	b765-cf69-400e-c8f8	0
+object|n	has property	not dense|j	b765-cf69-400e-c8f8	0
+substance|n	has property	dense|j	b765-cf69-400e-c8f8	0
+substance|n	has property	density|n	b765-cf69-400e-c8f8	0
+substance|n	has property	not dense|j	b765-cf69-400e-c8f8	0
+narrow|j	instance of	width|n	ba20-8706-42c6-1f9b	0
+shape|n	has property	narrow|j	ba20-8706-42c6-1f9b	0
+shape|n	has property	wide|j	ba20-8706-42c6-1f9b	0
+shape|n	has property	width|n	ba20-8706-42c6-1f9b	0
+size|n	has property	narrow|j	ba20-8706-42c6-1f9b	0
+size|n	has property	wide|j	ba20-8706-42c6-1f9b	0
+size|n	has property	width|n	ba20-8706-42c6-1f9b	0
+wide|j	instance of	width|n	ba20-8706-42c6-1f9b	0
+environment|n	has property	condition|n	bb76-5bf9-7c9a-e096	0
+object|n	has property	part|j	c4fd-cfe9-18c2-214f	0
+object|n	has property	shape|j	c4fd-cfe9-18c2-214f	0
+material|n	has property	mass|n	d06e-6c86-abe9-f3d5	0
+material|n	has property	weight|n	d06e-6c86-abe9-f3d5	0
+matter|n	has property	mass|n	d06e-6c86-abe9-f3d5	0
+matter|n	has property	weight|n	d06e-6c86-abe9-f3d5	0
+object|n	has property	mass|n	d06e-6c86-abe9-f3d5	0
+object|n	has property	weight|n	d06e-6c86-abe9-f3d5	0
+material|n	has property	conductivity|n	d681-3158-6a99-253a	0
+substance|n	has property	conductivity|n	d681-3158-6a99-253a	0

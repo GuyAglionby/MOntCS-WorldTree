@@ -1,0 +1,144 @@
+subj	rel	obj	id	flag
+mine|v	agent	human|n	0112-d812-4b8a-da17	0
+mine|v	at location	ground|n	0112-d812-4b8a-da17	0
+mine|v	result	mineral|n	0112-d812-4b8a-da17	0
+mine|v	result	rock|n	0112-d812-4b8a-da17	0
+conduct|v	instrument	thermal conductor|ns	04a3-0791-9bd3-602d	0
+decompose|v	agent	dead organism|jn	12d9-60df-23de-f00f	0
+decompose|v	agent	decomposer|n	12d9-60df-23de-f00f	0
+decompose|v	at location	soil|n	12d9-60df-23de-f00f	0
+decompose|v	derivational morphology	decomposer|n	12d9-60df-23de-f00f	0
+decompose|v	instrument	eat|v	12d9-60df-23de-f00f	0
+decompose|v	result	nutrient|n	12d9-60df-23de-f00f	0
+decomposition|n	derivational morphology	decompose|v	12d9-60df-23de-f00f	0
+gravity|n	causes	landslide|n	14a5-1229-3653-681c	0
+landslide|n	has property	quick|j	14a5-1229-3653-681c	0
+landslide|n	has subcomponent	rock|n	14a5-1229-3653-681c	0
+landslide|n	has subcomponent	soil|n	14a5-1229-3653-681c	0
+storm|n	causes	landslide|n	14a5-1229-3653-681c	0
+water|n	causes	landslide|n	14a5-1229-3653-681c	0
+heat|n	kind of	radiation|n	1d10-2a0a-bf2e-7622	0
+radiation|n	has subcomponent	particle|n	1d10-2a0a-bf2e-7622	0
+radiation|n	has subcomponent	wave|n	1d10-2a0a-bf2e-7622	0
+conduct|v	instrument	conductor|n	22ce-038b-ff4f-c5ba	0
+conduct|v	instrument	metal|n	22ce-038b-ff4f-c5ba	0
+conduct|v	patient	electricity|n	22ce-038b-ff4f-c5ba	0
+metal|n	kind of	electrical conductor|jn	22ce-038b-ff4f-c5ba	0
+wire|n	kind of	electrical conductor|jn	22ce-038b-ff4f-c5ba	0
+digest|v	agent	organism|n	244b-03a0-929e-0095	0
+digest|v	patient	food|n	244b-03a0-929e-0095	0
+digest|v	result	nutrient|n	244b-03a0-929e-0095	0
+eat|v	agent	organism|n	244b-03a0-929e-0095	0
+eat|v	patient	food|n	244b-03a0-929e-0095	0
+eat|v	result	nutrient|n	244b-03a0-929e-0095	0
+body|n	has subcomponent	excretory system|jn	262d-6ddb-ec8a-5ea7	0
+remove waste|vp	instrument	excretory system|jn	262d-6ddb-ec8a-5ea7	0
+reflect|v	patient	light|n	264f-5a85-6765-8c90	0
+plant|n	has subcomponent	material|n	26d4-7eb1-9874-3e50	0
+plant|n	has subcomponent	xylem|n	26d4-7eb1-9874-3e50	0
+transport material|vp	instrument	xylem|n	26d4-7eb1-9874-3e50	0
+dispose waste|vp	instrument	landfill|n	27ab-3140-60ab-8b03	0
+store waste|vp	instrument	landfill|n	27ab-3140-60ab-8b03	0
+waste|n	at location	landfill|n	27ab-3140-60ab-8b03	0
+thermal conductor|ns	has subcomponent	heat|n	3dcc-05e2-48cc-db62	0
+transfer heat|vp	instrument	thermal conductor|ns	3dcc-05e2-48cc-db62	0
+fall|v	agent	precipitation|n	4347-84dc-10ce-8007	0
+hail|n	kind of	precipitation|n	4347-84dc-10ce-8007	0
+precipitation|n	at location	cloud|n	4347-84dc-10ce-8007	0
+rain|n	kind of	precipitation|n	4347-84dc-10ce-8007	0
+snow|n	kind of	precipitation|n	4347-84dc-10ce-8007	0
+gravity|n	causes	soil erosion|ns	4c93-e1e3-546a-8cfa	0
+move soil|vp	result	soil erosion|ns	4c93-e1e3-546a-8cfa	0
+soil erosion|ns	at location	field|n	4c93-e1e3-546a-8cfa	0
+water|n	causes	soil erosion|ns	4c93-e1e3-546a-8cfa	0
+wind|n	causes	soil erosion|ns	4c93-e1e3-546a-8cfa	0
+pollinate|v	agent	animal|n	5900-59b1-bb87-4115	0
+pollinate|v	agent	water|n	5900-59b1-bb87-4115	0
+pollinate|v	agent	wind|n	5900-59b1-bb87-4115	0
+pollinate|v	at location	flower|n	5900-59b1-bb87-4115	0
+pollinate|v	derivational morphology	pollination|n	5900-59b1-bb87-4115	0
+food|n	at location	esophagus|n	5eb8-13fa-556f-bf9e	0
+food|n	at location	mouth|n	5eb8-13fa-556f-bf9e	0
+food|n	at location	stomach|n	5eb8-13fa-556f-bf9e	0
+move food|vp	goal	stomach|n	5eb8-13fa-556f-bf9e	0
+move food|vp	instrument	esophagus|n	5eb8-13fa-556f-bf9e	0
+move food|vp	source	mouth|n	5eb8-13fa-556f-bf9e	0
+carry water|vp	instrument	xylem|n	65e8-ad8b-7ec0-23ce	0
+plant|n	has subcomponent	leaf|n	65e8-ad8b-7ec0-23ce	0
+plant|n	has subcomponent	root|n	65e8-ad8b-7ec0-23ce	0
+plant|n	has subcomponent	xylem|n	65e8-ad8b-7ec0-23ce	0
+inhale|v	agent	animal|n	66c7-4db4-da79-6ae9	0
+inhale|v	goal	lung|n	66c7-4db4-da79-6ae9	0
+inhale|v	patient	air|n	66c7-4db4-da79-6ae9	0
+fall|v	agent	snow|n	6a0e-b352-1831-e2b8	0
+snow|n	at location	cloud|n	6a0e-b352-1831-e2b8	0
+snowing|v	derivational morphology	snow|n	6a0e-b352-1831-e2b8	0
+biofuel|n	causes	carbon dioxide|ns	6b63-3618-ee96-78b4	0
+move air|vp	instrument	wind|n	6c89-6ed2-9da5-f75d	0
+prevailing westerlies|jn	kind of	wind|n	6c89-6ed2-9da5-f75d	0
+transport dirt|vp	instrument	wind|n	777e-579e-46b3-50aa	0
+transport sand|vp	instrument	wind|n	777e-579e-46b3-50aa	0
+exhale|v	agent	animal|n	7889-c90a-31ff-9e04	0
+exhale|v	goal	air|n	7889-c90a-31ff-9e04	0
+exhale|v	result	carbon dioxide|ns	7889-c90a-31ff-9e04	0
+exhale|v	source	lung|n	7889-c90a-31ff-9e04	0
+transfer|v	kind of	move|v	799d-7170-d15d-812f	0
+refract|v	at location	medium|n	888c-d0df-12df-c3b6	0
+refract|v	patient	light|n	888c-d0df-12df-c3b6	0
+image|n	has subcomponent	visual information|jn	88cf-d036-3079-3423	0
+fire|n	causes	heat|n	8a8a-5122-efe7-7c20	0
+migrate|v	agent	animal|n	8cce-a771-334c-a119	0
+migrate|v	derivational morphology	migration|n	8cce-a771-334c-a119	0
+migrate|v	goal	warm climate|jn	8cce-a771-334c-a119	0
+migrate|v	source	cool climate|jn	8cce-a771-334c-a119	0
+sun|n	causes	sunlight|n	a3c3-47f1-32ba-5c7f	0
+sunlight|n	has subcomponent	heat energy|ns	a3c3-47f1-32ba-5c7f	0
+sunlight|n	has subcomponent	light energy|ns	a3c3-47f1-32ba-5c7f	0
+sunlight|n	has subcomponent	solar energy|jn	a3c3-47f1-32ba-5c7f	0
+transfer energy|vp	instrument	sunlight|n	a3c3-47f1-32ba-5c7f	0
+battery|n	causes	electrical energy|jn	ad2f-42da-43e2-dbf3	0
+battery|n	has subcomponent	chemical energy|jn	ad2f-42da-43e2-dbf3	0
+telephone|n	has subcomponent	electrical energy|jn	b48f-450b-c280-659d	0
+telephone|n	has subcomponent	sound energy|ns	b48f-450b-c280-659d	0
+fall|v	agent	rain|n	b4bc-3e75-5b39-8122	0
+rain|n	at location	cloud|n	b4bc-3e75-5b39-8122	0
+rain|n	kind of	liquid|n	b4bc-3e75-5b39-8122	0
+move|v	patient	object|n	b870-3f32-ad2b-c308	0
+circulatory system|ns	has subcomponent	blood|n	b9cc-cb02-801d-bce7	0
+transport blood|vp	agent	circulatory system|ns	b9cc-cb02-801d-bce7	0
+radiate|v	agent	Earth|n	c909-3a31-93ec-003f	0
+radiate|v	patient	heat|n	c909-3a31-93ec-003f	0
+plant|n	has subcomponent	leaf|n	ca98-bf5f-0d40-00ce	0
+plant|n	has subcomponent	root|n	ca98-bf5f-0d40-00ce	0
+plant|n	has subcomponent	sugar|n	ca98-bf5f-0d40-00ce	0
+oxygen|n	at location	circulatory system|ns	cd92-04a0-8f80-387c	0
+oxygen|n	at location	respiratory system|ns	cd92-04a0-8f80-387c	0
+move|v	result	motion|n	d067-f0ea-b5ff-d34e	0
+carry food|vp	instrument	esophagus|n	d28c-c1d1-8ba6-630e	0
+food|n	at location	esophagus|n	d28c-c1d1-8ba6-630e	0
+food|n	at location	mouth|n	d28c-c1d1-8ba6-630e	0
+food|n	at location	stomach|n	d28c-c1d1-8ba6-630e	0
+transport food|vp	instrument	esophagus|n	d28c-c1d1-8ba6-630e	0
+absorb nutrient|vp	agent	root|n	d7c1-cdfd-2de5-6b7d	0
+absorb nutrient|vp	source	soil|n	d7c1-cdfd-2de5-6b7d	0
+absorb|v	agent	root|n	d7c1-cdfd-2de5-6b7d	0
+absorb|v	patient	nutrient|n	d7c1-cdfd-2de5-6b7d	0
+absorb|v	patient	oxygen|n	d7c1-cdfd-2de5-6b7d	0
+absorb|v	patient	water|n	d7c1-cdfd-2de5-6b7d	0
+plant|n	has subcomponent	root|n	d7c1-cdfd-2de5-6b7d	0
+move seed|vp	instrument	seed dispersal|ns	dbc7-1c37-35fd-e1f8	0
+plant|n	has subcomponent	seed|n	dbc7-1c37-35fd-e1f8	0
+spread seed|vp	instrument	seed dispersal|ns	dbc7-1c37-35fd-e1f8	0
+deposit|v	kind of	move|v	e1fb-b791-3945-02db	0
+material|n	at location	pholem|n	e9c2-0dff-cd9a-7fb0	0
+plant|n	has subcomponent	pholem|n	e9c2-0dff-cd9a-7fb0	0
+fall|v	agent	hail|n	eba3-d0ec-be26-0d48	0
+hailing|v	derivational morphology	hail|v	eba3-d0ec-be26-0d48	0
+hail|v	at location	cloud|n	eba3-d0ec-be26-0d48	0
+inherit|v	instrument	dna|n	ee78-0795-be47-6ad8	0
+inherit|v	instrument	genetics|n	ee78-0795-be47-6ad8	0
+inherit|v	patient	inherited characteristic|jn	ee78-0795-be47-6ad8	0
+offspring|n	has subcomponent	inherited characteristic|jn	ee78-0795-be47-6ad8	0
+reproduce|v	agent	organism|n	f484-95d0-af56-d834	0
+reproduce|v	instrument	genetic information|jn	f484-95d0-af56-d834	0
+reproduction|n	derivational morphology	reproduce|v	f484-95d0-af56-d834	0

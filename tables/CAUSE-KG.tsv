@@ -1,0 +1,347 @@
+subj	rel	obj	id	flag
+extreme temperature|jn	causes	energy level decrease|av	0025-a087-5991-7f66	0
+weather|v	instrument	material|n	02f0-b4ba-41d8-0483	0
+weather|v	instrument	rock|n	02f0-b4ba-41d8-0483	0
+weather|v	instrument	soil|n	02f0-b4ba-41d8-0483	0
+weather|v	instrument	water|n	02f0-b4ba-41d8-0483	0
+weather|v	instrument	wind|n	02f0-b4ba-41d8-0483	0
+weather|v	result	weathering|v	02f0-b4ba-41d8-0483	0
+refract|v	result	change appearance|vp	052f-26fc-455b-c202	0
+skid|v	causes	friction|n	0781-1abe-a590-378c	0
+destroy|v	causes	harm|n	07c1-be64-120e-f54b	0
+scrape|v	result	small object break off|av	0887-9c82-3ec7-f2d7	0
+earth's tilt|ns	causes	seasons|n	0b7b-cf23-e64f-4200	0
+lightning|n	causes	thunder|n	0c89-cc86-5c75-810c	0
+water|n	causes	rock erosion|ns	0d14-c53e-d23c-17d9	0
+water|n	causes	soil erosion|ns	0d14-c53e-d23c-17d9	0
+burn living thing|vp	has negative impact on	living thing|jn	0e47-2c50-6be2-5375	0
+burn living thing|vp	result	harm|n	0e47-2c50-6be2-5375	0
+chemical reaction|jn	causes	change|n	0f0d-2cc5-fcc1-3c1f	0
+chemical reaction|jn	synonym	reaction|n	0f0d-2cc5-fcc1-3c1f	0
+paint object|vp	result	change colour|vp	10c6-c21e-e54b-036e	0
+food spoil|av	instrument	microorganism|n	123c-6e70-ccd0-1f3d	0
+cell phone|ns	causes	distraction|n	1368-7e6c-b1cf-28db	0
+distraction|n	derivational morphology	distract|v	1368-7e6c-b1cf-28db	0
+decrease visibility|vp	result	crash car|vp	13f7-a730-e457-60bf	0
+medicine|n	causes	bad reaction|jn	159e-ed52-d9e3-76ed	0
+debris|n	causes	harm|n	166f-d4e8-1bed-b031	0
+snap|v	agent	rubber band|ns	1746-191d-7cbb-69c4	0
+snap|v	result	particle vibrate|av	1746-191d-7cbb-69c4	0
+skid|v	has negative impact on	speed|n	1af6-b1e2-ade4-b6af	0
+earth revolve|av	at location	axis|n	1cca-1ac1-5bea-5cf6	0
+earth revolve|av	result	season change|av	1cca-1ac1-5bea-5cf6	0
+little food|qn	causes	starvation|n	2562-da3c-5a61-e440	0
+starvation|n	derivational morphology	starve|v	2562-da3c-5a61-e440	0
+starve|v	instrument	little food|qn	2562-da3c-5a61-e440	0
+friction|n	causes	heat|n	26cb-7582-a17c-a0d6	0
+heat|n	similar to	temperature|n	26cb-7582-a17c-a0d6	0
+push tectonic plate|vp	result	earthquake|n	2b70-ecb7-15fb-441c	0
+knowledge|n	derivational morphology	know|v	2b90-3d2b-39c8-bd3b	0
+learn information|vp	result	know information|vp	2b90-3d2b-39c8-bd3b	0
+learn|v	result	knowledge|n	2b90-3d2b-39c8-bd3b	0
+study information|vp	result	know information|vp	2b90-3d2b-39c8-bd3b	0
+study|v	result	knowledge|n	2b90-3d2b-39c8-bd3b	0
+natural disaster|jn	causes	animal leave environment|avp	2e42-1ae7-02c4-eb40	0
+glacier|n	causes	mechanical weathering|jn	2f61-1e65-c812-3feb	0
+condense|v	result	liquid|n	2fe0-4073-c775-8925	0
+change environment|vp	agent	human|n	305d-ed38-7824-6cc0	0
+change environment|vp	result	destroy environment|vp	305d-ed38-7824-6cc0	0
+remove dead organism|vp	at location	environment|n	30cb-93b0-59c3-f2e0	0
+remove dead organism|vp	result	remove nutrient|vp	30cb-93b0-59c3-f2e0	0
+earth's tilt|ns	has negative impact on	sunlight|n	31d9-98d7-6a10-9053	0
+earth's tilt|ns	has positive impact on	sunlight|n	31d9-98d7-6a10-9053	0
+discard waste|vp	agent	human|n	330a-482c-2f0d-0d81	0
+discard waste|vp	result	environmental harm|jn	330a-482c-2f0d-0d81	0
+waste|n	causes	environmental harm|jn	330a-482c-2f0d-0d81	0
+body|n	has property	strength|n	3449-56cb-7bf5-72be	0
+exercise|v	causes	strength|n	3449-56cb-7bf5-72be	0
+exercising|n	derivational morphology	exercise|v	3449-56cb-7bf5-72be	0
+animal|n	kind of	living entity|jn	34e8-e10d-e464-de1f	0
+cold|n	causes	shiver|v	34e8-e10d-e464-de1f	0
+shiver|v	agent	animal|n	34e8-e10d-e464-de1f	0
+live|v	has subcomponent	adapt|v	3605-d626-ee3a-e15f	0
+building collapse|av	causes	death|n	3762-b90b-1f83-4068	0
+die|v	derivational morphology	death|n	3762-b90b-1f83-4068	0
+combine substance|vp	result	chemical reaction|jn	37e1-5b9e-00a1-5e21	0
+sugar|n	causes	sweet|j	38f5-e7de-0b18-696a	0
+taste sweet|vp	instrument	sugar|n	38f5-e7de-0b18-696a	0
+earthquake|n	causes	rock layer fold|av	3bbf-bcf5-c798-f7e7	0
+rock layer fold|av	result	old rock rise|av	3bbf-bcf5-c798-f7e7	0
+object|n	has property	temperature|n	3c4c-8c33-8499-fc99	0
+warmth|n	causes	increase temperature|vp	3c4c-8c33-8499-fc99	0
+drop|v	causes	fall|v	3d1b-c195-8dca-4587	0
+lose soil|vp	result	decrease size|vp	3d6c-d91c-8bd2-a3ca	0
+chemical reaction|jn	causes	substance|n	3dca-07f2-1404-d404	0
+electricity flow|av	result	wire heat up|av	3e57-14d2-b5aa-9c07	0
+plant grow|av	has subcomponent	seed sprout|av	3ed4-657f-7748-220b	0
+plant grow|av	instrument	seed|n	3ed4-657f-7748-220b	0
+sprout|v	agent	seed|n	3ed4-657f-7748-220b	0
+attract|v	goal	location|n	4029-a596-3625-db81	0
+attract|v	result	near|n	4029-a596-3625-db81	0
+push|v	result	move|v	4048-519e-258b-fc12	0
+mass|n	causes	gravity|n	4181-3ee0-c35b-5e30	0
+planet|n	has subcomponent	mass|n	4181-3ee0-c35b-5e30	0
+refract|v	instrument	water|n	42ae-c748-dc98-8669	0
+refract|v	patient	light|n	42ae-c748-dc98-8669	0
+build home|vp	agent	human|n	4533-919e-b56d-820b	0
+build home|vp	result	ecosystem change|av	4533-919e-b56d-820b	0
+earthquake|n	at location	ground|n	457d-1a26-5f9e-04e6	0
+earthquake|n	causes	shake|v	457d-1a26-5f9e-04e6	0
+harm animal species|vp	result	population decrease|av	458c-0ba5-e5dd-00b8	0
+freeze|v	result	ice wedging|ns	4730-e0f3-6d20-0e0e	0
+thaw|v	result	ice wedging|ns	4730-e0f3-6d20-0e0e	0
+force|n	causes	move|v	4916-08e1-51ef-8c63	0
+earth rotate|av	at location	axis|n	49f5-727d-92b5-03aa	0
+earth rotate|av	result	star move|av	49f5-727d-92b5-03aa	0
+brake|v	result	skid|v	4a43-f8d5-b9e8-39c8	0
+fire|n	causes	burn|n	4dc5-13bf-3c46-af74	0
+lose soil|vp	result	groove|n	4e04-6bfe-af71-63de	0
+cut down tree|vp	at location	forest|n	521a-5b49-3683-2b01	0
+cut down tree|vp	result	tree number decrease|av	521a-5b49-3683-2b01	0
+block light|vp	result	shadow|n	5226-28ef-2ae2-0f6e	0
+fold|v	result	change shape|vp	522b-1df0-7e74-363f	0
+pluck string|vp	result	string vibrate|av	5347-48a6-e352-a6f8	0
+strum string|vp	result	string vibrate|av	5347-48a6-e352-a6f8	0
+river flow|av	instrument	slope|n	5420-e4ea-f9e9-357a	0
+bacteria|n	causes	food poisoning|ns	5611-cf44-6cd6-2aed	0
+virus|n	causes	food poisoning|ns	5611-cf44-6cd6-2aed	0
+wind|n	causes	erode|v	562c-c77b-8ec7-4ab5	0
+rain|n	causes	rainbow|n	5a4c-b508-a1b7-4639	0
+sun|n	causes	rainbow|n	5a4c-b508-a1b7-4639	0
+sharpen|v	result	change shape|vp	5db0-e85b-34b3-b679	0
+light candle|vp	result	candle burn|av	615c-9023-3957-0501	0
+vibrate|v	agent	matter|n	6191-80db-d5e3-b23e	0
+vibrate|v	agent	molecule|n	6191-80db-d5e3-b23e	0
+vibrate|v	result	sound|n	6191-80db-d5e3-b23e	0
+refract|v	instrument	glass|n	6241-2463-513a-73d8	0
+refract|v	patient	light|n	6241-2463-513a-73d8	0
+temperature change|av	result	same mass|qn	6547-5706-4e4b-6323	0
+crash car|vp	result	harm person|vp	66d6-b4c3-4854-2197	0
+earth's tilt|ns	result	season change|av	66df-2200-f730-17c3	0
+rain|n	causes	flood|v	6757-76c5-8bf9-33b8	0
+cook|v	result	chemical reaction|jn	69b4-687c-33bd-2f27	0
+kill|v	kind of	harm|v	6a6c-3183-436e-898b	0
+kill|v	result	death|n	6a6c-3183-436e-898b	0
+kill|v	result	die|v	6a6c-3183-436e-898b	0
+crack|v	result	break apart|v	7007-3239-2cab-e863	0
+dangerous object|jn	causes	harm|n	70a1-9e7d-18aa-7495	0
+change environment|vp	result	animal adapt|av	724f-c315-2d06-364b	0
+change environment|vp	result	plant adapt|av	724f-c315-2d06-364b	0
+survive|v	instrument	animal adapt|av	724f-c315-2d06-364b	0
+survive|v	instrument	plant adapt|av	724f-c315-2d06-364b	0
+bacteria|n	causes	illness|n	72a4-c6f3-e68c-7836	0
+illness|n	derivational morphology	ill|n	72a4-c6f3-e68c-7836	0
+earthquake|n	causes	rock layer fold|av	72a7-76e4-7f5d-03ab	0
+dissolve|v	at location	water|n	735a-963c-130f-059c	0
+dissolve|v	patient	substance|n	735a-963c-130f-059c	0
+dissolve|v	result	change taste|vp	735a-963c-130f-059c	0
+earth rotate|av	result	sun move|av	73fa-1e22-26a8-1a7c	0
+sun move|av	at location	sky|n	73fa-1e22-26a8-1a7c	0
+electrocution|n	derivational morphology	electrocute|v	7409-4a52-a23a-0c5c	0
+electrocution|n	has negative impact on	organism|n	7409-4a52-a23a-0c5c	0
+organism|n	kind of	living entity|jn	7409-4a52-a23a-0c5c	0
+body|n	has subcomponent	heat|n	7560-5c0d-bc49-026c	0
+cold|j	antonym	warm|j	7560-5c0d-bc49-026c	0
+heat transfer|av	result	cold|j	7560-5c0d-bc49-026c	0
+insulate|v	result	warm|j	7560-5c0d-bc49-026c	0
+explode|v	derivational morphology	explosion|n	774b-6b2d-30c6-71c0	0
+explode|v	result	harm|n	774b-6b2d-30c6-71c0	0
+change animal habitat|vp	result	animal harm|ns	7828-f424-7e86-a420	0
+planet rotate|av	result	day|n	7959-4428-d766-0494	0
+planet rotate|av	result	night|n	7959-4428-d766-0494	0
+play music|vp	result	sound|n	7a4e-445e-25de-5994	0
+smoke|v	has negative impact on	lung|n	7bc6-352d-2d67-1ca0	0
+smoking|n	derivational morphology	smoke|v	7bc6-352d-2d67-1ca0	0
+look|v	instrument	eye|n	7c08-d816-b5ae-fb99	0
+sun|n	has negative impact on	eye|n	7c08-d816-b5ae-fb99	0
+sun|n	has subcomponent	eclipse|n	7c08-d816-b5ae-fb99	0
+erode|v	derivational morphology	erosion|n	7c09-899f-1401-2b64	0
+erode|v	result	deep river|jn	7c09-899f-1401-2b64	0
+erode|v	result	wide river|jn	7c09-899f-1401-2b64	0
+crop|n	causes	soil nutrient decrease|av	7dcd-a12c-54b1-a787	0
+farming|n	derivational morphology	farm|v	7dcd-a12c-54b1-a787	0
+farm|v	result	soil nutrient decrease|av	7dcd-a12c-54b1-a787	0
+deposition|n	derivational morphology	deposit|n	7e2e-e161-5c98-444e	0
+erosion|n	causes	deposition|n	7e2e-e161-5c98-444e	0
+acid|n	causes	chemical change|jn	8224-9b5f-01f9-ba94	0
+evaporate|v	agent	water|n	824e-1bf6-29b5-9624	0
+sun|n	causes	heat|n	824e-1bf6-29b5-9624	0
+water evaporate|av	instrument	heat|n	824e-1bf6-29b5-9624	0
+water evaporate|av	instrument	sun|n	824e-1bf6-29b5-9624	0
+orbit|v	instrument	gravity|n	828a-1af1-a7bd-61e8	0
+erosion|n	derivational morphology	erode|v	82b3-4291-31b5-2502	0
+rain|n	derivational morphology	rain|v	82b3-4291-31b5-2502	0
+rain|v	causes	erode|v	82b3-4291-31b5-2502	0
+combust|v	instrument	heat|n	8309-d5c8-048c-7198	0
+heat|n	kind of	temperature|n	8309-d5c8-048c-7198	0
+fire|n	causes	burn|n	8341-4d61-aa1c-ffbd	0
+fire|n	has negative impact on	forest|n	8341-4d61-aa1c-ffbd	0
+fire|n	has negative impact on	living ent|ns	8341-4d61-aa1c-ffbd	0
+forest|n	has subcomponent	tree|n	8341-4d61-aa1c-ffbd	0
+chemical|n	has negative impact on	eye|n	891a-752f-b9c8-25e1	0
+chemical|n	has negative impact on	human|n	891a-752f-b9c8-25e1	0
+act|v	agent	force|n	897e-080a-cbfa-6224	0
+act|v	patient	object|n	897e-080a-cbfa-6224	0
+force|n	causes	speed|n	897e-080a-cbfa-6224	0
+uneven heating|jn	causes	convection|n	89a0-8211-85bb-2905	0
+offshore oil platform|jn	at location	sea|n	8cf3-b5ef-e8a7-1202	0
+oil leak|av	at location	water exposure|ns	8cf3-b5ef-e8a7-1202	0
+oil leak|av	instrument	offshore oil platform|jn	8cf3-b5ef-e8a7-1202	0
+blow whistle|vp	instrument	blow air|vp	8dea-02f7-6e65-1e16	0
+blow whistle|vp	result	air vibrate|av	8dea-02f7-6e65-1e16	0
+blow whistle|vp	result	noise|n	8dea-02f7-6e65-1e16	0
+act|v	agent	force|n	8ee7-24ec-255f-d9fe	0
+act|v	patient	object|n	8ee7-24ec-255f-d9fe	0
+force|n	causes	slow|j	8ee7-24ec-255f-d9fe	0
+warm front|jn	causes	cloud|n	9436-c8e4-c0e1-914f	0
+warm front|jn	causes	wind|n	9436-c8e4-c0e1-914f	0
+pasteurize|v	derivational morphology	pasteurization|n	95aa-eaf8-1c9b-066b	0
+reduce bacterium|vp	at location	milk|n	95aa-eaf8-1c9b-066b	0
+reduce bacterium|vp	instrument	pasteurize|v	95aa-eaf8-1c9b-066b	0
+friction|n	causes	less speed|qn	965e-d62d-3e68-c22c	0
+object|n	has subcomponent	surface|n	967c-c4d5-4455-0e4b	0
+push|v	patient	object|n	967c-c4d5-4455-0e4b	0
+fall|v	instrument	gravity|n	9773-5df7-84db-74b3	0
+gravitational force|jn	synonym	gravity|n	9773-5df7-84db-74b3	0
+gravity|n	at location	planet|n	9773-5df7-84db-74b3	0
+gravity|n	kind of	force|n	9773-5df7-84db-74b3	0
+pull down|v	instrument	gravity|n	9773-5df7-84db-74b3	0
+flow|v	at location	channel|n	97cf-2a2b-0019-aa66	0
+flow|v	at location	pipe|n	97cf-2a2b-0019-aa66	0
+liquid|n	at location	channel|n	97cf-2a2b-0019-aa66	0
+liquid|n	at location	pipe|n	97cf-2a2b-0019-aa66	0
+produce energy|vp	instrument	nuclear reaction|jn	9bc8-f1da-ee78-f8e5	0
+produce light|vp	agent	star|n	9bc8-f1da-ee78-f8e5	0
+produce light|vp	instrument	nuclear reaction|jn	9bc8-f1da-ee78-f8e5	0
+produce nuclear energy|vp	instrument	nuclear reaction|jn	9bc8-f1da-ee78-f8e5	0
+star|n	has subcomponent	nuclear reaction|jn	9bc8-f1da-ee78-f8e5	0
+animal find shelter|avp	instrument	animal move|av	9fa0-9f6a-3b04-00f8	0
+destroy habitat|vp	result	animal move|av	9fa0-9f6a-3b04-00f8	0
+erode|v	result	harm|n	a12e-c34a-ab3d-d601	0
+freeze|v	causes	form solid|vp	a1a8-b11b-e127-8797	0
+rain|n	causes	erode|v	a4ff-959e-a3ef-5a67	0
+storm|n	causes	erode|v	a4ff-959e-a3ef-5a67	0
+drought|n	causes	wildfire|n	a603-7574-10cf-966e	0
+ice wedging|ns	at location	rock|n	a7ea-1134-ae5c-b085	0
+ice wedging|ns	causes	crack|n	a7ea-1134-ae5c-b085	0
+ice wedging|ns	causes	expand|v	a7ea-1134-ae5c-b085	0
+ice wedging|ns	has negative impact on	rock|n	a7ea-1134-ae5c-b085	0
+day|n	antonym	night|n	aacf-3442-3b46-b964	0
+sun rise|av	result	day|n	aacf-3442-3b46-b964	0
+sun set|av	result	night|n	aacf-3442-3b46-b964	0
+excess water|qn	has negative impact on	plant|n	aad8-afa8-11f3-d7d7	0
+erode|v	result	landslide|n	ad27-ad14-2ed7-2b55	0
+storm|n	causes	landslide|n	ad27-ad14-2ed7-2b55	0
+earth's surface change|av	instrument	natural event|jn	aeea-2fd9-666a-930d	0
+bike|n	has subcomponent	bike pedal|ns	afe8-fef7-01ec-6fbb	0
+push bike pedal|vp	result	bike move|av	afe8-fef7-01ec-6fbb	0
+earth revolve|av	result	star move|av	b018-4375-d391-cb98	0
+star move|av	at location	sky|n	b018-4375-d391-cb98	0
+add heat|vp	result	chemical reaction|jn	b124-8e3c-f8ec-e3c5	0
+attract|v	antonym	repel|v	b210-62f3-af10-197e	0
+magnetism|n	causes	attract|v	b210-62f3-af10-197e	0
+magnetism|n	causes	repel|v	b210-62f3-af10-197e	0
+pour water|vp	result	soil wash away|av	b253-7987-ac7d-04e6	0
+operate toy|vp	result	toy move|av	b332-6003-5331-6516	0
+remote-control toy|jn	kind of	toy|n	b332-6003-5331-6516	0
+rock contact|av	result	smooth|j	b3f4-9bbd-487f-8643	0
+bike|n	has property	emission-free|j	b44c-810f-461c-c314	0
+emission-free|j	antonym	polluting|v	b44c-810f-461c-c314	0
+polluting|v	derivational morphology	pollute|v	b44c-810f-461c-c314	0
+ride|v	instrument	bike|n	b44c-810f-461c-c314	0
+reflect|v	result	backward|j	b493-5d63-c5bb-8ab2	0
+light refract|av	result	light split|av	b743-7732-00bc-dc06	0
+light split|av	result	different colors|jn	b743-7732-00bc-dc06	0
+sunlight refract|av	result	light split|av	b743-7732-00bc-dc06	0
+environmental|j	derivational morphology	environment|n	b7b3-2705-8edd-318a	0
+human waste|jn	causes	environmental harm|jn	b7b3-2705-8edd-318a	0
+hurricane|n	causes	harm|n	ba16-9fd4-d675-b0fd	0
+hurricane|n	causes	harm building|vp	ba16-9fd4-d675-b0fd	0
+hurricane|n	causes	harm living thing|vp	ba16-9fd4-d675-b0fd	0
+poison|n	derivational morphology	poison|v	ba3c-7ba2-c37a-cb76	0
+poison|n	has negative impact on	living thing|jn	ba3c-7ba2-c37a-cb76	0
+poison|v	has negative impact on	organism|n	ba3c-7ba2-c37a-cb76	0
+poison|v	causes	harm|v	ba3c-7ba2-c37a-cb76	0
+break rock|vp	result	debris|n	be59-b752-2bd5-629d	0
+destroy habitat|vp	agent	human|n	bebb-ed5a-4b7a-235d	0
+destroy habitat|vp	has negative impact on	native species|jn	bebb-ed5a-4b7a-235d	0
+drop|v	causes	vibration|n	bee4-7433-0096-8f52	0
+vibration|n	derivational morphology	vibrate|v	bee4-7433-0096-8f52	0
+electric fan|jn	kind of	fan|n	c03d-b40e-6fdb-52e0	0
+fan|n	causes	air move|av	c03d-b40e-6fdb-52e0	0
+eat poison|vp	causes	sickness|n	c130-54eb-43da-154f	0
+monarch butterfly|ns	has property	poisonous|j	c130-54eb-43da-154f	0
+monarch butterfly|ns	instance of	butterfly|n	c130-54eb-43da-154f	0
+poisonous|j	derivational morphology	poison|n	c130-54eb-43da-154f	0
+sickness|n	derivational morphology	sick|v	c130-54eb-43da-154f	0
+octopus|n	has subcomponent	ink|n	c135-b400-0c92-8c7b	0
+release ink|vp	beneficiary	octopus|n	c135-b400-0c92-8c7b	0
+rain|v	result	water|n	c1bf-db54-7c40-a799	0
+storm|n	causes	water|n	c1bf-db54-7c40-a799	0
+scratch|v	agent	glacier|n	c323-6873-c26d-4c0b	0
+scratch|v	causes	scratch|n	c323-6873-c26d-4c0b	0
+water vapour condense|av	result	rain|n	c43e-7b5f-7d4e-0bdf	0
+electricity|n	causes	pollution|n	c560-8c82-4151-235c	0
+gasoline|n	causes	many pollution|qn	c560-8c82-4151-235c	0
+uneven heating|jn	at location	earth surface|ns	cbc2-6249-b853-4e4b	0
+uneven heating|jn	causes	wind|n	cbc2-6249-b853-4e4b	0
+evaporate|v	result	less water|qn	cdb8-46e7-0df7-0a20	0
+thrust|v	result	move|v	cf16-244b-9e54-f4ee	0
+force|n	causes	less speed|qn	d10e-17d2-b2db-e326	0
+force|n	causes	more speed|qn	d10e-17d2-b2db-e326	0
+electric current flow|av	at location	conductor|n	d12e-268f-1b21-6879	0
+electricity flow|av	at location	conductor|n	d12e-268f-1b21-6879	0
+send electricity|vp	instrument	conductor|n	d12e-268f-1b21-6879	0
+send electricity|vp	result	electric current flow|av	d12e-268f-1b21-6879	0
+send electricity|vp	result	electricity flow|av	d12e-268f-1b21-6879	0
+pollution|n	has negative impact on	environment|n	d1ac-a510-1958-0100	0
+pollution|n	kind of	poison|n	d1ac-a510-1958-0100	0
+salt water evaporate|av	result	salt|n	d1f5-66f7-d352-a42b	0
+salt water|ns	has subcomponent	salt|n	d1f5-66f7-d352-a42b	0
+hit|v	result	particle vibrate|av	d4b3-702a-31e7-3f17	0
+high pressure system|ns	causes	clear weather|jn	d4b6-eb95-4bc2-c80f	0
+resource|n	has subcomponent	money|n	d55d-1df7-94a7-708c	0
+human|n	causes	pollution|n	d951-095d-6862-917c	0
+pollute|v	agent	human|n	d951-095d-6862-917c	0
+lightning|n	causes	forest fire|ns	dc88-39d4-99eb-b07d	0
+absorb sunlight|vp	result	heat|v	dcbe-9523-4529-c54e	0
+gravity|n	causes	tide|n	ddca-37d6-9e7b-d216	0
+moon|n	causes	tide|n	ddca-37d6-9e7b-d216	0
+ocean|n	has subcomponent	tide|n	ddca-37d6-9e7b-d216	0
+exposure|n	derivational morphology	expose|v	ddd5-9774-f7cb-82f6	0
+rock erode|av	instrument	animal exposure|ns	ddd5-9774-f7cb-82f6	0
+rock erode|av	instrument	heat exposure|ns	ddd5-9774-f7cb-82f6	0
+rock erode|av	instrument	water exposure|ns	ddd5-9774-f7cb-82f6	0
+rock erode|av	instrument	wind exposure|ns	ddd5-9774-f7cb-82f6	0
+soil erode|av	instrument	animal exposure|ns	ddd5-9774-f7cb-82f6	0
+soil erode|av	instrument	heat exposure|ns	ddd5-9774-f7cb-82f6	0
+soil erode|av	instrument	water exposure|ns	ddd5-9774-f7cb-82f6	0
+soil erode|av	instrument	wind exposure|ns	ddd5-9774-f7cb-82f6	0
+complete circuit|vp	result	electric current flow|av	e215-a276-5a10-38a1	0
+complete circuit|vp	result	electricity flow|av	e215-a276-5a10-38a1	0
+harm eye|vp	instrument	vinegar|n	e216-7a5d-1433-b719	0
+low pressure system|ns	causes	precipitation|n	e228-46ac-0cee-0559	0
+precipitate|v	instrument	low pressure system|ns	e228-46ac-0cee-0559	0
+dam river|vp	result	lake|n	e361-414d-74d6-ee0e	0
+moon revolve|av	result	moon phase|ns	e70b-e515-02a3-8958	0
+tap|v	result	vibrate|v	e7b4-d306-73b9-3098	0
+vibrate|v	derivational morphology	vibration|n	e7b4-d306-73b9-3098	0
+harm organism|vp	result	organism die|av	ebf1-9fe9-324d-b205	0
+remove process inhibitor|vp	causes	process|n	edb7-8723-f5ce-c5d8	0
+car|n	causes	pollution|n	eee7-145c-8532-ac27	0
+explode|v	instrument	baking soda|ns	eeeb-2d28-4390-8610	0
+change environment|vp	result	decrease animal population|vp	ef93-3430-85b9-d8f0	0
+decrease animal population|vp	at location	environment|n	ef93-3430-85b9-d8f0	0
+bacteria|n	causes	disease|n	efa9-d54e-94fb-7f4e	0
+temperature change|av	result	phase change|ns	f45b-e36a-7934-50a5	0
+water vapour cool|av	result	condense|v	f461-ef68-36cf-0f91	0
+crash|v	has negative impact on	car|n	f535-7c05-1612-0e99	0
+crash|v	patient	car|n	f535-7c05-1612-0e99	0
+distraction|n	causes	crash|v	f535-7c05-1612-0e99	0
+drive|v	instrument	car|n	f535-7c05-1612-0e99	0
+earth orbit sun|avp	result	season change|av	f59f-261f-52a9-1771	0
+season|n	causes	change environment|vp	f5ca-b95b-fd83-47d8	0
+harm environment|vp	result	harm living thing|vp	fcf3-cad2-b199-4da1	0
+harm environment|vp	result	harm organism|vp	fcf3-cad2-b199-4da1	0
+friction|n	causes	less speed|qn	fd7f-e7b7-79fa-6ff9	0
+hit|v	result	harm|v	ff14-fa19-a544-0cc4	0

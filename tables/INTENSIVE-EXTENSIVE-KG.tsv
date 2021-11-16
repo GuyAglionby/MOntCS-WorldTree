@@ -1,0 +1,12 @@
+subj	rel	obj	id	flag
+boiling point|ns	has property	intensive|j	0f8b-28e6-6305-a476	0
+mass|n	has property	extensive|j	1e9c-bb95-3934-82d2	0
+weight|n	has property	extensive|j	1e9c-bb95-3934-82d2	0
+color|n	has property	intensive|j	3885-322a-8509-b74c	0
+density|n	has property	intensive|j	95a8-9d17-fc2e-069e	0
+temperature|n	has property	intensive|j	a0a4-b960-6631-1c3b	0
+freezing point|ns	has property	intensive|j	c93f-5b27-4efb-2c0c	0
+shape|n	has property	extensive|j	e347-e59c-af7d-189c	0
+hardness|n	has property	intensive|j	e788-238b-8464-b4c6	0
+volume|n	has property	extensive|j	f3a4-a6b2-e1d0-7258	0
+size|n	has property	extensive|j	fa14-fed7-728a-8147	0

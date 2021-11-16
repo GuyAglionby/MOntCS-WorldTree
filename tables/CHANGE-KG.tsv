@@ -1,0 +1,198 @@
+subj	rel	obj	id	flag
+light bulb|ns	causes	light|n	0259-62d6-90d1-5285	0
+light bulb|ns	has subcomponent	electrical energy|jn	0259-62d6-90d1-5285	0
+switch on|v	patient	light bulb|ns	0259-62d6-90d1-5285	0
+switch on|v	synonym	turn on|v	0259-62d6-90d1-5285	0
+transpire|v	agent	water vapor|ns	03c0-59bd-bf14-aaa0	0
+transpire|v	goal	atmosphere|n	03c0-59bd-bf14-aaa0	0
+transpire|v	source	leaf|n	03c0-59bd-bf14-aaa0	0
+transpire|v	source	plant|n	03c0-59bd-bf14-aaa0	0
+photosynthesis|n	derivational morphology	photosynthesize|v	0962-4a47-4e17-ce97	0
+photosynthesize|v	agent	green plant|jn	0962-4a47-4e17-ce97	0
+photosynthesize|v	agent	producer|n	0962-4a47-4e17-ce97	0
+photosynthesize|v	beneficiary	green plant|jn	0962-4a47-4e17-ce97	0
+photosynthesize|v	instrument	carbon dioxide|ns	0962-4a47-4e17-ce97	0
+photosynthesize|v	instrument	solar energy|jn	0962-4a47-4e17-ce97	0
+photosynthesize|v	instrument	water|n	0962-4a47-4e17-ce97	0
+photosynthesize|v	kind of	change|v	0962-4a47-4e17-ce97	0
+photosynthesize|v	result	carbohydrate|n	0962-4a47-4e17-ce97	0
+photosynthesize|v	result	food|n	0962-4a47-4e17-ce97	0
+photosynthesize|v	result	oxygen|n	0962-4a47-4e17-ce97	0
+ecological succession|jn	synonym	entire community change|av	0ff9-ee4f-fb1b-1627	0
+car engine run|av	instrument	combust|v	144d-b049-cabe-6198	0
+car engine run|av	instrument	gasoline|n	144d-b049-cabe-6198	0
+car engine run|av	result	heat energy|ns	144d-b049-cabe-6198	0
+car engine run|av	result	motion|n	144d-b049-cabe-6198	0
+car engine run|av	result	move|v	144d-b049-cabe-6198	0
+combust|v	derivational morphology	combustion|n	144d-b049-cabe-6198	0
+animal become oil|avp	at location	sea bottom|ns	1661-ce4a-34f0-7409	0
+animal become oil|avp	instrument	bury animal|vp	1661-ce4a-34f0-7409	0
+animal become oil|avp	instrument	extreme heat|jn	1661-ce4a-34f0-7409	0
+animal become oil|avp	instrument	extreme pressure|jn	1661-ce4a-34f0-7409	0
+plant become oil|avp	at location	sea bottom|ns	1661-ce4a-34f0-7409	0
+plant become oil|avp	instrument	bury plant|vp	1661-ce4a-34f0-7409	0
+plant become oil|avp	instrument	extreme heat|jn	1661-ce4a-34f0-7409	0
+plant become oil|avp	instrument	extreme pressure|jn	1661-ce4a-34f0-7409	0
+sea bottom|ns	has subcomponent	mud|n	1661-ce4a-34f0-7409	0
+sea bottom|ns	has subcomponent	soil|n	1661-ce4a-34f0-7409	0
+tear|v	kind of	change|v	23d7-086d-e662-8fd4	0
+tear|v	patient	whole|n	23d7-086d-e662-8fd4	0
+tear|v	result	piece|n	23d7-086d-e662-8fd4	0
+condense|v	instrument	remove heat|vp	2aba-39fa-3a07-5ee4	0
+condense|v	kind of	change|v	2aba-39fa-3a07-5ee4	0
+condense|v	patient	gas|n	2aba-39fa-3a07-5ee4	0
+condense|v	result	liquid|n	2aba-39fa-3a07-5ee4	0
+move seed|vp	synonym	seed dispersal|ns	2b90-a4f5-326a-d34f	0
+plant|n	has subcomponent	seed|n	2b90-a4f5-326a-d34f	0
+seed dispersal|ns	at location	environment|n	2b90-a4f5-326a-d34f	0
+condense|v	agent	gas|n	2c44-c2fa-bff1-5946	0
+condense|v	instrument	reduce heat energy|vp	2c44-c2fa-bff1-5946	0
+condense|v	result	liquid|n	2c44-c2fa-bff1-5946	0
+material|n	has subcomponent	sound speed|jn	35de-03a6-5a5e-50e6	0
+glow|v	kind of	produce light|vp	3b85-dd90-794d-80b6	0
+object cool|av	at location	cold place|jn	3feb-296d-6a76-286f	0
+object cool|av	result	cold|j	3feb-296d-6a76-286f	0
+break down|v	kind of	change|v	400d-d80d-09a3-3206	0
+break down|v	patient	whole|n	400d-d80d-09a3-3206	0
+break down|v	result	piece|n	400d-d80d-09a3-3206	0
+swamp|n	has subcomponent	mud|n	43e2-442b-4572-2279	0
+swamp|n	has subcomponent	soil|n	43e2-442b-4572-2279	0
+vegetation become peat|avp	at location	swamp|n	43e2-442b-4572-2279	0
+vegetation become peat|avp	instrument	bury vegetation|vp	43e2-442b-4572-2279	0
+vegetation become peat|avp	instrument	extreme heat|jn	43e2-442b-4572-2279	0
+vegetation become peat|avp	instrument	extreme pressure|jn	43e2-442b-4572-2279	0
+move|v	instrument	stored energy|ns	48d9-21f5-7bf4-c99e	0
+move|v	result	heat|n	48d9-21f5-7bf4-c99e	0
+move|v	result	motion|n	48d9-21f5-7bf4-c99e	0
+baby develop|av	result	adult|n	4bd2-ea7f-6dec-3c54	0
+incandescent light bulb|ns	causes	heat|n	536f-f053-aca7-9bed	0
+incandescent light bulb|ns	causes	light|n	536f-f053-aca7-9bed	0
+incandescent light bulb|ns	has subcomponent	filament|n	536f-f053-aca7-9bed	0
+incandescent light bulb|ns	kind of	light bulb|ns	536f-f053-aca7-9bed	0
+light bulb|ns	has subcomponent	electricity|n	536f-f053-aca7-9bed	0
+hunt|v	agent	human|n	54ee-e44b-06a1-c4cf	0
+hunt|v	at location	wild|n	54ee-e44b-06a1-c4cf	0
+hunt|v	instrument	kill animal|vp	54ee-e44b-06a1-c4cf	0
+breathe|v	instrument	gill|n	571a-0a31-ad7b-e097	0
+breathe|v	kind of	convert|v	571a-0a31-ad7b-e097	0
+breathe|v	patient	oxygenated water|jn	571a-0a31-ad7b-e097	0
+breathe|v	result	oxygenated blood|jn	571a-0a31-ad7b-e097	0
+oxygenated|v	derivational morphology	oxygen|n	571a-0a31-ad7b-e097	0
+crumple|v	instrument	physical force|jn	57f8-2232-d549-6dbc	0
+crumple|v	kind of	change shape|vp	57f8-2232-d549-6dbc	0
+crumple|v	patient	smooth object|jn	57f8-2232-d549-6dbc	0
+crumple|v	result	compact|v	57f8-2232-d549-6dbc	0
+crumple|v	result	irregular object|jn	57f8-2232-d549-6dbc	0
+electrical device|jn	has subcomponent	electricity|n	5e4d-6ae2-e556-9200	0
+electricity|n	kind of	energy|n	5e4d-6ae2-e556-9200	0
+mine|v	result	change ecosystem|vp	61ef-2bed-1bb3-4f10	0
+melt|v	instrument	add heat|vp	6abc-4443-f672-9a97	0
+melt|v	instrument	heat energy|ns	6abc-4443-f672-9a97	0
+melt|v	kind of	change|v	6abc-4443-f672-9a97	0
+melt|v	patient	solid|n	6abc-4443-f672-9a97	0
+melt|v	result	liquid|n	6abc-4443-f672-9a97	0
+cell respire|av	instrument	carbohydrate|n	7272-bf77-2331-1b55	0
+cell respire|av	instrument	oxygen|n	7272-bf77-2331-1b55	0
+cell respire|av	result	carbon dioxide|ns	7272-bf77-2331-1b55	0
+cell respire|av	result	energy|n	7272-bf77-2331-1b55	0
+cell respire|av	result	water|n	7272-bf77-2331-1b55	0
+cellular respiration|ns	synonym	cell respire|av	7272-bf77-2331-1b55	0
+respiration|n	derivational morphology	respire|v	7272-bf77-2331-1b55	0
+phase change|av	agent	matter|n	72bd-5535-598e-82e8	0
+phase change|av	agent	substance|n	72bd-5535-598e-82e8	0
+phase change|av	result	new state|jn	72bd-5535-598e-82e8	0
+shed|v	result	lose fur|vp	7345-c073-962f-2597	0
+shed|v	result	lose hair|vp	7345-c073-962f-2597	0
+shed|v	result	lose skin|vp	7345-c073-962f-2597	0
+tear|v	result	change shape|vp	735e-0af2-549d-a69a	0
+weather|v	instrument	weather|n	791e-1c71-7a1d-d10a	0
+weather|v	kind of	break down|v	791e-1c71-7a1d-d10a	0
+weather|v	patient	large piece|jn	791e-1c71-7a1d-d10a	0
+weather|v	patient	rock|n	791e-1c71-7a1d-d10a	0
+weather|v	patient	surface material|ns	791e-1c71-7a1d-d10a	0
+weather|v	patient	whole|n	791e-1c71-7a1d-d10a	0
+weather|v	result	small piece|jn	791e-1c71-7a1d-d10a	0
+light bulb|ns	causes	heat energy|ns	7f24-876a-678f-6339	0
+light bulb|ns	causes	light energy|ns	7f24-876a-678f-6339	0
+light bulb|ns	has subcomponent	electricity|n	7f24-876a-678f-6339	0
+moon phase change|av	result	moon appearance change|av	8987-49e2-b4bd-59bd	0
+flower become|av	result	fruit|n	8fe8-675d-6005-472c	0
+break down|v	result	change mass|vp	9697-ac7b-6ca7-7421	0
+break down|v	result	change shape|vp	9697-ac7b-6ca7-7421	0
+metamorphose|v	instrument	extreme heat|jn	a029-482a-dd71-9829	0
+metamorphose|v	instrument	extreme pressure|jn	a029-482a-dd71-9829	0
+metamorphose|v	kind of	change|v	a029-482a-dd71-9829	0
+metamorphose|v	patient	rock|n	a029-482a-dd71-9829	0
+metamorphose|v	result	metamorphic rock|jn	a029-482a-dd71-9829	0
+boil|v	kind of	change|v	a0b2-a45f-01e1-4bf4	0
+boil|v	patient	liquid|n	a0b2-a45f-01e1-4bf4	0
+boil|v	result	gas|n	a0b2-a45f-01e1-4bf4	0
+evaporate|v	kind of	change|v	a0b2-a45f-01e1-4bf4	0
+evaporate|v	patient	liquid|n	a0b2-a45f-01e1-4bf4	0
+evaporate|v	result	gas|n	a0b2-a45f-01e1-4bf4	0
+electrical energy|jn	synonym	electricity|n	a4f3-2cdc-e2e8-292d	0
+toaster|n	causes	heat energy|ns	a4f3-2cdc-e2e8-292d	0
+toaster|n	causes	toast|v	a4f3-2cdc-e2e8-292d	0
+toaster|n	has subcomponent	electricity|n	a4f3-2cdc-e2e8-292d	0
+bee convert nectar|avp	result	honey|n	a6ad-5582-fb3b-6c50	0
+tadpole|n	causes	frog|n	ac3a-0599-cef5-f015	0
+disguise|v	instrument	change appearance|vp	ae70-e79a-1335-ece4	0
+disguise|v	result	hide|v	ae70-e79a-1335-ece4	0
+farm|v	result	change environment|vp	b6e6-07f0-9768-dc45	0
+peat become coal|avp	at location	swamp|n	b9b5-a8fe-7c6e-bde2	0
+peat become coal|avp	instrument	bury peat|vp	b9b5-a8fe-7c6e-bde2	0
+peat become coal|avp	instrument	extreme heat|jn	b9b5-a8fe-7c6e-bde2	0
+peat become coal|avp	instrument	extreme pressure|jn	b9b5-a8fe-7c6e-bde2	0
+swamp|n	has subcomponent	mud|n	b9b5-a8fe-7c6e-bde2	0
+swamp|n	has subcomponent	soil|n	b9b5-a8fe-7c6e-bde2	0
+kill|v	kind of	harm|v	ba9c-311b-f2d0-caa9	0
+kill|v	kind of	harm|v	ba9c-311b-f2d0-caa9	0
+kill|v	patient	living entity|jn	ba9c-311b-f2d0-caa9	0
+kill|v	result	change|v	ba9c-311b-f2d0-caa9	0
+kill|v	result	death|n	ba9c-311b-f2d0-caa9	0
+solar panel|ns	causes	electricity|n	bc35-178c-432b-77f5	0
+solar panel|ns	has subcomponent	sunlight|n	bc35-178c-432b-77f5	0
+break down food|vp	beneficiary	body|n	c154-aa1a-96fe-291c	0
+break down food|vp	instrument	digestive system|ns	c154-aa1a-96fe-291c	0
+break down food|vp	result	nutrient|n	c154-aa1a-96fe-291c	0
+doorbell|n	causes	sound|n	c334-b118-4a5a-13dc	0
+doorbell|n	has subcomponent	electrical energy|jn	c334-b118-4a5a-13dc	0
+break down rock|vp	synonym	mechanical weathering|jn	c387-e1db-3890-b003	0
+replace|v	goal	new location|jn	c75e-3346-5e3e-1b26	0
+replace|v	kind of	change|v	c75e-3346-5e3e-1b26	0
+move|v	instrument	potential energy|jn	c9b6-9842-0512-9757	0
+move|v	result	kinetic energy|jn	c9b6-9842-0512-9757	0
+earthquake|n	has property	quick|j	d08c-6817-560e-4660	0
+flashlight|n	causes	light energy|ns	d2c1-85ff-d317-0612	0
+flashlight|n	has subcomponent	chemical energy|jn	d2c1-85ff-d317-0612	0
+windmill|n	causes	electricity|n	d68e-b9c5-62d5-f63e	0
+windmill|n	has subcomponent	wind energy|ns	d68e-b9c5-62d5-f63e	0
+bend light|vp	synonym	refract|v	dc5d-599a-9815-c89b	0
+prehistoric living thing become natural gas|avp	instrument	heat|n	e239-f208-23e0-a9cb	0
+prehistoric living thing become natural gas|avp	instrument	heat energy|ns	e239-f208-23e0-a9cb	0
+prehistoric living thing become natural gas|avp	instrument	pressure|n	e239-f208-23e0-a9cb	0
+phase change|av	result	same mass|qn	e6a7-0f6f-8904-60da	0
+battery convert|av	instrument	chemical energy|jn	e83b-d62e-d528-3e9f	0
+battery convert|av	result	electrical energy|jn	e83b-d62e-d528-3e9f	0
+battery convert|av	result	electricity|n	e83b-d62e-d528-3e9f	0
+filament glow|av	instrument	electricity|n	e8a3-8aa3-fa7f-cb91	0
+filament glow|av	result	heat|n	e8a3-8aa3-fa7f-cb91	0
+filament glow|av	result	light|n	e8a3-8aa3-fa7f-cb91	0
+glow|v	agent	filament|n	e8a3-8aa3-fa7f-cb91	0
+glow|v	result	light|n	e8a3-8aa3-fa7f-cb91	0
+freeze|v	instrument	remove heat|vp	f03c-decc-030f-b860	0
+freeze|v	kind of	change|v	f03c-decc-030f-b860	0
+freeze|v	patient	liquid|n	f03c-decc-030f-b860	0
+freeze|v	result	solid|n	f03c-decc-030f-b860	0
+decompose|v	agent	decomposer|n	f0e5-d444-871d-9ea3	0
+decompose|v	kind of	break down|v	f0e5-d444-871d-9ea3	0
+decompose|v	patient	dead organism|jn	f0e5-d444-871d-9ea3	0
+decomposition|n	derivational morphology	decompose|v	f0e5-d444-871d-9ea3	0
+breathe|v	instrument	lung|n	f99f-c36a-d00d-742d	0
+breathe|v	kind of	convert|v	f99f-c36a-d00d-742d	0
+breathe|v	patient	oxygenated air|jn	f99f-c36a-d00d-742d	0
+breathe|v	result	oxygenated blood|jn	f99f-c36a-d00d-742d	0
+oxygenated|v	derivational morphology	oxygen|n	f99f-c36a-d00d-742d	0
+metamorphose|v	agent	immature animal|jn	fc9b-e584-5d83-bb7a	0
+metamorphose|v	result	adult|n	fc9b-e584-5d83-bb7a	0
+move|v	result	change position|vp	fe39-10c4-9dd9-d745	0

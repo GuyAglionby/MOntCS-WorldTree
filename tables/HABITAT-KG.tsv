@@ -1,0 +1,45 @@
+subj	rel	obj	id	flag
+coral|n	at location	ocean|n	01d7-f9ae-c6ee-8eee	0
+coral|n	at location	warm water|jn	01d7-f9ae-c6ee-8eee	0
+ocean|n	has subcomponent	water|n	01d7-f9ae-c6ee-8eee	0
+eagle|n	at location	tree|n	02d1-f752-297f-d80c	0
+clam|n	at location	ocean|n	0c78-0876-00af-2ff0	0
+bat|n	at location	cave|n	1673-5f05-00d9-9d1c	0
+bat|n	at location	tree|n	1673-5f05-00d9-9d1c	0
+sea animal|ns	at location	ocean|n	1c57-e18b-f776-c5eb	0
+tadpole|n	at location	water|n	1d82-f584-7ea3-52d7	0
+bluebird|n	at location	open space|jn	1d87-2d59-27e9-b392	0
+rabbit|n	at location	forest|n	22a5-e62f-1151-60f2	0
+deer|n	at location	forest|n	2974-683f-6607-88e7	0
+grass snake|ns	at location	grass|n	2d21-2f1c-4af5-033f	0
+desert|n	kind of	habitat|n	2ffc-4513-8fad-bf73	0
+lizard|n	at location	desert|n	2ffc-4513-8fad-bf73	0
+human|n	at location	land|n	319f-36ec-626d-1c21	0
+bird|n	at location	forest|n	3ac8-28fa-96ea-4658	0
+hare|n	at location	field|n	4ba5-ce2c-afde-ac24	0
+mouse|n	at location	field|n	4bab-ef45-71e4-0f19	0
+mouse|n	at location	forest|n	4bab-ef45-71e4-0f19	0
+mouse|n	at location	hole|n	4bab-ef45-71e4-0f19	0
+mouse|n	derivational morphology	mice|n	4bab-ef45-71e4-0f19	0
+polar bear|ns	at location	cold|j	544b-b9d9-1ef5-42c4	0
+animal|n	at location	forest|n	583b-9241-f02c-05bb	0
+sea turtle|ns	at location	ocean|n	67d8-3f5e-c78b-7cc7	0
+fish|n	at location	water|n	6e0c-4bc9-7e10-351a	0
+living entity|jn	at location	habitat|n	8af3-1381-b634-8b97	0
+living entity|jn	at location	home|n	8af3-1381-b634-8b97	0
+organism|n	at location	habitat|n	8af3-1381-b634-8b97	0
+organism|n	at location	home|n	8af3-1381-b634-8b97	0
+coral|n	at location	warm|j	969d-a910-8943-e775	0
+coral|n	at location	water|n	969d-a910-8943-e775	0
+water|n	has property	warm|j	969d-a910-8943-e775	0
+animal|n	at location	zoo|n	a2d0-fb25-9c0c-89c4	0
+human|n	at location	house|n	a5ac-815e-8402-d5f8	0
+cactus|n	at location	desert|n	aa72-3082-aba6-fb00	0
+trout|n	at location	lake|n	b075-df0d-bb78-3bea	0
+cricket|n	at location	forest|n	b9fd-85c7-f651-4365	0
+raccoon|n	at location	log|n	bfbd-1a45-3d5c-eb6c	0
+climate|n	has property	warm|j	cd15-3f60-6ecd-86dd	0
+predator|n	at location	prey|n	d8f5-21a9-4c14-b105	0
+animal|n	at location	environment|n	f252-528b-78fa-6956	0
+arctic|n	kind of	environment|n	f252-528b-78fa-6956	0
+arctic animal|jn	at location	arctic|n	f252-528b-78fa-6956	0

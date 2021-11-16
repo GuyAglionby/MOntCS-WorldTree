@@ -1,0 +1,170 @@
+subj	rel	obj	id	flag
+crop rotation|ns	has positive impact on	soil|n	025a-3b8a-b5f2-f320	0
+communication|n	derivational morphology	communicate|v	03f4-694a-d986-eb3a	0
+communication|n	has positive impact on	life|n	03f4-694a-d986-eb3a	0
+less required item|qjn	has negative impact on	resource consumer|ns	09f9-ddfd-fa69-b278	0
+illness|n	has negative impact on	health|n	0c02-ef0b-7f35-1468	0
+national park|ns	has positive impact on	ecosystem|n	0c65-2951-3811-5f6a	0
+availability|n	has positive impact on	consumer|n	0f63-0b4e-b0a3-6638	0
+available|j	derivational morphology	availability|n	0f63-0b4e-b0a3-6638	0
+living entity|jn	kind of	consumer|n	0f63-0b4e-b0a3-6638	0
+resource|n	has positive impact on	consumer|n	0f63-0b4e-b0a3-6638	0
+quick travel|jn	has positive impact on	person|n	14a9-afe5-f64a-d254	0
+eat|v	agent	human|n	1900-f929-b3a7-b605	0
+eat|v	patient	food|n	1900-f929-b3a7-b605	0
+food|n	has subcomponent	pesticide|n	1900-f929-b3a7-b605	0
+pesticide|n	has negative impact on	human|n	1900-f929-b3a7-b605	0
+living entity|jn	has property	health|n	1992-cbd3-6534-a7f7	0
+protect living entity|vp	has positive impact on	health|n	1992-cbd3-6534-a7f7	0
+protect living entity|vp	result	survive|v	1992-cbd3-6534-a7f7	0
+protect|v	has positive impact on	living entity|jn	1992-cbd3-6534-a7f7	0
+protect|v	patient	living entity|jn	1992-cbd3-6534-a7f7	0
+survive|v	beneficiary	living entity|jn	1992-cbd3-6534-a7f7	0
+native plants|jn	has positive impact on	ecosystem|n	1f99-d3ee-86cc-008f	0
+plant|v	patient	plant|n	1f99-d3ee-86cc-008f	0
+erode soil|vp	has negative impact on	environment|n	1fc9-87b3-4b09-6451	0
+erode soil|vp	has negative impact on	soil|n	1fc9-87b3-4b09-6451	0
+plant|n	has subcomponent	seed|n	2337-f998-9a82-5444	0
+reproduce|v	agent	plant|n	2337-f998-9a82-5444	0
+reproduce|v	instrument	seed|n	2337-f998-9a82-5444	0
+seed|n	causes	plant|n	2337-f998-9a82-5444	0
+zinc|n	has positive impact on	wound heal|av	2a71-fe32-5eeb-9a92	0
+animal|n	has property	health|n	2aff-8cb6-a4f9-5fd9	0
+warmth|n	has positive impact on	health|n	2aff-8cb6-a4f9-5fd9	0
+warmth|n	has positive impact on	survival|n	2aff-8cb6-a4f9-5fd9	0
+waste|n	has negative impact on	environment|n	2d23-54ce-1de1-e3a8	0
+advantage|n	has positive impact on	person|n	2f27-9c3b-1811-e537	0
+crack entity|vp	has negative impact on	entity|n	331a-fc1c-2a90-be69	0
+many sleep|qn	has negative impact on	health|n	33a9-52c2-ab75-070d	0
+many sleep|qn	result	unhealthy|j	33a9-52c2-ab75-070d	0
+unhealthy|j	antonym	healthy|j	33a9-52c2-ab75-070d	0
+conserve resource|vp	has positive impact on	environment|n	3891-6bf5-33a7-0c5e	0
+warn|v	has positive impact on	safety|n	3f22-c269-a38b-5f52	0
+animal|n	kind of	living entity|jn	43bf-25d8-a9a1-8d90	0
+eat|v	agent	living entity|jn	43bf-25d8-a9a1-8d90	0
+eat|v	patient	food|n	43bf-25d8-a9a1-8d90	0
+eat|v	patient	food|n	43bf-25d8-a9a1-8d90	0
+spoiled food|jn	has negative impact on	living entity|jn	43bf-25d8-a9a1-8d90	0
+fast action|jn	has positive impact on	life|n	4893-838a-20f6-131a	0
+animal|n	kind of	living entity|jn	4a99-8800-c83e-73fb	0
+animal|n	has subcomponent	bodily process|jn	4a99-8800-c83e-73fb	0
+help|v	has positive impact on	living entity|jn	4a99-8800-c83e-73fb	0
+food|n	has positive impact on	health|n	4d6a-a765-2231-eee7	0
+compete|v	agent	living entity|jn	5023-29ed-9f25-f7cf	0
+compete|v	has positive impact on	survive|v	5023-29ed-9f25-f7cf	0
+survive|v	has positive impact on	compete|v	5023-29ed-9f25-f7cf	0
+survive|v	instrument	compete|v	5023-29ed-9f25-f7cf	0
+rest|v	has positive impact on	health|n	50de-3baf-f64e-f3fb	0
+plant|v	patient	tree|n	53a9-7d7d-dbcb-98aa	0
+tree|n	has positive impact on	ecosystem|n	53a9-7d7d-dbcb-98aa	0
+harm entity|vp	has negative impact on	entity|n	57d4-79ba-a97d-0f9a	0
+exercise|v	has positive impact on	health|n	5875-4a46-39fe-053f	0
+exercise|v	result	healthy|j	5875-4a46-39fe-053f	0
+healthy|j	derivational morphology	health|n	5875-4a46-39fe-053f	0
+tube-like body|jn	at location	soil|n	59cc-fafd-ca02-2f99	0
+tube-like body|jn	has positive impact on	move|v	59cc-fafd-ca02-2f99	0
+food|n	has positive impact on	baby|n	6aab-57ff-4d45-9ebf	0
+food|n	has positive impact on	birth|n	6aab-57ff-4d45-9ebf	0
+food|n	has positive impact on	give birth|v	6aab-57ff-4d45-9ebf	0
+food|n	has positive impact on	hatch|v	6aab-57ff-4d45-9ebf	0
+fertilizer|n	has positive impact on	algae grow|av	6cb9-7da9-1e1b-119b	0
+body|n	has subcomponent	strength|n	768d-b035-c9fc-da67	0
+exercise|v	has positive impact on	strength|n	768d-b035-c9fc-da67	0
+organic matter|ns	has positive impact on	soil texture|ns	770f-d0fc-866d-3bfc	0
+access resource|vp	has positive impact on	health|n	78ba-5668-31d9-7285	0
+find resource|vp	has positive impact on	health|n	78ba-5668-31d9-7285	0
+require resource|vp	has positive impact on	health|n	78ba-5668-31d9-7285	0
+survive|v	instrument	access resource|vp	78ba-5668-31d9-7285	0
+survive|v	instrument	find resource|vp	78ba-5668-31d9-7285	0
+survive|v	instrument	require resource|vp	78ba-5668-31d9-7285	0
+food variety|ns	has positive impact on	person|n	7f82-8a0b-a3e0-26c5	0
+recycle resource|vp	has positive impact on	environment|n	813f-2778-ed53-0c9f	0
+recycle|v	patient	nonrenewable resources|jn	813f-2778-ed53-0c9f	0
+recycle|v	patient	resources|n	813f-2778-ed53-0c9f	0
+recycling|n	derivational morphology	recycle|v	813f-2778-ed53-0c9f	0
+recycling|n	has positive impact on	conservation|n	813f-2778-ed53-0c9f	0
+build|v	patient	furniture|n	8697-ef37-f85f-edcd	0
+furniture|n	has subcomponent	material|n	8697-ef37-f85f-edcd	0
+sturdy material|jn	has positive impact on	furniture|n	8697-ef37-f85f-edcd	0
+insect|n	has negative impact on	crop|n	8abe-8679-9624-5b42	0
+harm species|vp	has negative impact on	population size|ns	8bb1-de8d-5925-74c6	0
+species|n	has property	population size|ns	8bb1-de8d-5925-74c6	0
+dark|j	antonym	light|j	8be8-72e2-0326-1f4b	0
+dark|j	has negative impact on	photosynthesize|v	8be8-72e2-0326-1f4b	0
+photosynthesis|n	derivational morphology	photosynthesize|v	8be8-72e2-0326-1f4b	0
+photosynthesize|v	instrument	light|n	8be8-72e2-0326-1f4b	0
+acid rain|ns	has negative impact on	water|n	8c01-39ba-c26c-f060	0
+look bright object|vp	has negative impact on	eye|n	9209-73ec-9b0b-56a0	0
+light ray|ns	has negative impact on	eye|n	9430-e769-9be8-f995	0
+lose resource|vp	has negative impact on	local organisms|jn	9b1c-6275-14cd-43e5	0
+stay cool|vj	has positive impact on	comfort|n	9e69-51bc-d488-fd6e	0
+fishing|n	derivational morphology	fish|v	9ea7-0ab4-73cf-d2e1	0
+fishing|n	has negative impact on	ecosystem|n	9ea7-0ab4-73cf-d2e1	0
+protect nature|vp	has positive impact on	environment|n	a4c9-298f-e5c2-eb55	0
+many required item|qjn	has positive impact on	resource consumer|ns	a6e1-01e9-def3-d510	0
+avoid predator|vp	agent	living entity|jn	a6f0-93ef-5850-b78f	0
+avoid predator|vp	agent	prey|n	a6f0-93ef-5850-b78f	0
+avoid predator|vp	has positive impact on	health|n	a6f0-93ef-5850-b78f	0
+avoid predator|vp	has positive impact on	prey|n	a6f0-93ef-5850-b78f	0
+avoid predator|vp	result	healthy|j	a6f0-93ef-5850-b78f	0
+avoid predator|vp	result	survive|v	a6f0-93ef-5850-b78f	0
+predator|n	has negative impact on	prey|n	a6f0-93ef-5850-b78f	0
+money|n	has positive impact on	company|n	aa8d-f63d-7aba-2b48	0
+money|n	has positive impact on	happiness|n	aa8d-f63d-7aba-2b48	0
+money|n	has positive impact on	person|n	aa8d-f63d-7aba-2b48	0
+save money|vp	has positive impact on	company|n	aa8d-f63d-7aba-2b48	0
+save money|vp	has positive impact on	happiness|n	aa8d-f63d-7aba-2b48	0
+save money|vp	has positive impact on	person|n	aa8d-f63d-7aba-2b48	0
+save money|vp	has positive impact on	person|n	aa8d-f63d-7aba-2b48	0
+warmth|n	has positive impact on	baby|n	afdd-eda7-b0e6-ad1a	0
+warmth|n	has positive impact on	birth|n	afdd-eda7-b0e6-ad1a	0
+warmth|n	has positive impact on	give birth|v	afdd-eda7-b0e6-ad1a	0
+warmth|n	has positive impact on	hatch|v	afdd-eda7-b0e6-ad1a	0
+many water|qn	has negative impact on	plant grow|av	b421-66e0-479f-cc4e	0
+plant grow|av	instrument	water|n	b421-66e0-479f-cc4e	0
+ability|n	has positive impact on	health|n	b48d-28f4-b020-de9f	0
+ability|n	has positive impact on	reproduce|v	b48d-28f4-b020-de9f	0
+ability|n	has positive impact on	survival|n	b48d-28f4-b020-de9f	0
+adaptation|n	derivational morphology	adapt|v	b48d-28f4-b020-de9f	0
+adaptation|n	has positive impact on	health|n	b48d-28f4-b020-de9f	0
+adaptation|n	has positive impact on	reproduce|v	b48d-28f4-b020-de9f	0
+adapt|v	result	survive|v	b48d-28f4-b020-de9f	0
+survive|v	instrument	ability|n	b48d-28f4-b020-de9f	0
+survive|v	instrument	adaptation|n	b48d-28f4-b020-de9f	0
+help entity|vp	has positive impact on	entity|n	b5b8-ce64-6568-4a6c	0
+cure disease|vp	instrument	learn|v	b78b-23bd-d0fc-8d81	0
+pathogen|n	causes	disease|n	b78b-23bd-d0fc-8d81	0
+pathogen|n	has negative impact on	living entity|jn	b78b-23bd-d0fc-8d81	0
+air|n	has subcomponent	oxygen|n	cb44-c094-9e51-f22c	0
+oxygen|n	has positive impact on	air quality|ns	cb44-c094-9e51-f22c	0
+cold temperature|jn	has negative impact on	organism|n	cf66-dfc6-48d2-57ce	0
+pollution|n	has negative impact on	air quality|ns	d116-6f25-b3ac-7d88	0
+pollution|n	has negative impact on	environment|n	d116-6f25-b3ac-7d88	0
+decrease negative thing|vp	has positive impact on	entity|n	d390-3d50-786d-4e9f	0
+recycling|n	has positive impact on	environment|n	da14-61d8-ad00-8a01	0
+glacier melt|av	has negative impact on	glacial environment|ns	e170-b8a2-8292-67af	0
+fertilizer|n	has negative impact on	environment|n	e65a-df84-fcd2-733c	0
+fertilizer|n	has negative impact on	natural resource|jn	e65a-df84-fcd2-733c	0
+loose soil|jn	has positive impact on	root grow|av	e7ae-7d71-673a-aff7	0
+plant|n	has subcomponent	root|n	e7ae-7d71-673a-aff7	0
+crop grow|vp	has positive impact on	farmer|n	e9be-b235-ac20-1a20	0
+organism|n	has property	health|n	ef33-d8a6-2168-2d74	0
+organism|n	synonym	living entity|jn	ef33-d8a6-2168-2d74	0
+strength|n	has positive impact on	living entity|jn	ef33-d8a6-2168-2d74	0
+strength|n	has positive impact on	organism|n	ef33-d8a6-2168-2d74	0
+cut down tree|vp	has negative impact on	ecosystem|n	f178-8a67-81c1-e3fb	0
+organism|n	at location	ecosystem|n	f178-8a67-81c1-e3fb	0
+organism|n	kind of	living entity|jn	f178-8a67-81c1-e3fb	0
+less required item|qjn	has negative impact on	survival|n	f346-e8eb-6338-4e34	0
+change ecosystem|vp	agent	human|n	f4dc-5030-6255-a1f8	0
+change|v	has negative impact on	ecosystem|n	f4dc-5030-6255-a1f8	0
+organism|n	at location	ecosystem|n	f4dc-5030-6255-a1f8	0
+organism|n	kind of	living entity|jn	f4dc-5030-6255-a1f8	0
+good bacteria|jn	has positive impact on	health|n	f542-77fe-59a4-e55f	0
+good bacteria|jn	has positive impact on	living entity|jn	f542-77fe-59a4-e55f	0
+good bacteria|jn	has positive impact on	survival|n	f542-77fe-59a4-e55f	0
+living entity|jn	has property	health|n	f542-77fe-59a4-e55f	0
+living entity|jn	has property	survival|n	f542-77fe-59a4-e55f	0
+money|n	has positive impact on	person|n	fae8-a262-8845-ae7b	0
+landfill|n	has negative impact on	community|n	fbcb-2151-6afa-c1c5	0
+landfill|n	has negative impact on	environment|n	fbcb-2151-6afa-c1c5	0

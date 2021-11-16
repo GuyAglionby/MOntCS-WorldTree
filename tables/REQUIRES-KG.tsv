@@ -1,0 +1,200 @@
+subj	rel	obj	id	flag
+build housing development|vp	instrument	destroy animal habitat|vp	02d9-ec74-0c49-8fcd	0
+build housing development|vp	instrument	replace animal habitat|vp	02d9-ec74-0c49-8fcd	0
+electric device function|av	instrument	electrical energy|jn	0584-393a-7b86-9c70	0
+hunt|v	instrument	see prey|vp	0857-a14d-3376-70f7	0
+hunt|v	instrument	sense prey|vp	0857-a14d-3376-70f7	0
+living thing grow|av	instrument	nutrient|n	085c-28bf-bb51-79e6	0
+plant grow|av	instrument	nutrient|n	085c-28bf-bb51-79e6	0
+reading|n	derivational morphology	read|v	09ac-6563-7f9f-67ca	0
+read|v	instrument	see|v	09ac-6563-7f9f-67ca	0
+seeing|n	derivational morphology	see|v	09ac-6563-7f9f-67ca	0
+electricity flow|av	instrument	closed circuit|jn	0b18-91e7-5692-5753	0
+power electrical device|vp	instrument	battery|n	0b18-91e7-5692-5753	0
+power electrical device|vp	instrument	closed circuit|jn	0b18-91e7-5692-5753	0
+power electrical device|vp	instrument	electricity|n	0b18-91e7-5692-5753	0
+vehicle operate|av	instrument	gasoline|n	0bb0-16b1-30de-d0e2	0
+tree grow|av	instrument	space|n	0d05-923d-7ac4-0ae8	0
+invent|v	agent	human|n	0f69-e684-8421-00ae	0
+invent|v	instrument	new information|jn	0f69-e684-8421-00ae	0
+build|v	instrument	cut down tree|vp	0fb6-467a-43af-1af8	0
+grow|v	agent	animal|n	12ed-f3da-04db-3ddc	0
+grow|v	instrument	nutrient|n	12ed-f3da-04db-3ddc	0
+heal|v	agent	animal|n	12ed-f3da-04db-3ddc	0
+heal|v	instrument	nutrient|n	12ed-f3da-04db-3ddc	0
+investigate|v	instrument	measure|v	131b-dab0-cb1e-e896	0
+measuring|n	derivational morphology	measure|v	131b-dab0-cb1e-e896	0
+burn gasoline|vp	instrument	gasoline engine|ns	1893-0c1c-dddc-e8c4	0
+gasoline engine|ns	kind of	engine|n	1893-0c1c-dddc-e8c4	0
+experimentation|n	derivational morphology	experiment|v	195d-1a9a-bd8f-5d4d	0
+experiment|v	instrument	measure|v	195d-1a9a-bd8f-5d4d	0
+survive|v	instrument	warmth|n	2280-1ce3-3320-9547	0
+run|v	instrument	energy|n	2401-2216-1d73-27d3	0
+investigate life cycle|vp	instrument	living thing|jn	24a0-6fbe-c3ae-d6ee	0
+living thing|jn	has property	alive|j	24a0-6fbe-c3ae-d6ee	0
+study|v	instrument	see|v	2530-6efd-e282-feb0	0
+pollinate|v	agent	pollinating animal|ns	2c1d-72c3-3a94-c25b	0
+pollinate|v	agent	pollinator|n	2c1d-72c3-3a94-c25b	0
+pollinating animal|ns	synonym	pollinator|n	2c1d-72c3-3a94-c25b	0
+slip ice|vp	instrument	walk ice|vp	30eb-7982-028c-4f0f	0
+aquatic animal survive|av	instrument	water|n	335b-df55-9aa4-74ac	0
+aquatic animal thrive|av	instrument	water|n	335b-df55-9aa4-74ac	0
+aquatic plant survive|av	instrument	water|n	335b-df55-9aa4-74ac	0
+aquatic plant thrive|av	instrument	water|n	335b-df55-9aa4-74ac	0
+plant survive|av	instrument	food|n	3796-e9f2-e94c-634d	0
+cook food|vp	instrument	heat energy|ns	3d03-670e-3580-8f82	0
+be active|v	instrument	energy|n	3e47-33d1-5c3d-ae35	0
+plant grow|av	instrument	water|n	3ee7-7f5c-c890-460e	0
+pop popcorn|vp	instrument	heat energy|ns	4102-0f86-9ded-c9db	0
+discover|v	instrument	see|v	4274-6c15-d627-27b7	0
+testing|n	derivational morphology	test|v	4478-6d20-87bd-2cd1	0
+test|v	instrument	measure|v	4478-6d20-87bd-2cd1	0
+plant grow|av	instrument	sunlight|n	4480-75c2-5b75-c32a	0
+animal survive|av	instrument	shelter|n	44e1-a4d0-f534-fb1b	0
+observe celestial object|vp	instrument	telescope|n	44f4-634f-79d8-75d7	0
+remove hot object|vp	instrument	touch hot object|vp	4a89-0774-ec0d-d44f	0
+remove hot object|vp	source	heat source|ns	4a89-0774-ec0d-d44f	0
+touch hot object|vp	instrument	thermal insulator|ns	4a89-0774-ec0d-d44f	0
+make|v	instrument	resource|n	4b08-9460-5cec-02ba	0
+electric device turn on|av	instrument	electricity|n	4ba9-2d5a-0284-2882	0
+be awake|v	instrument	much energy|qn	4c78-546e-273d-30c8	0
+sleep|v	instrument	little energy|qn	4c78-546e-273d-30c8	0
+toast|v	instrument	heat energy|ns	5023-ad88-20d0-adfa	0
+record observation|vp	instrument	measure|v	50a5-5c13-ea54-0220	0
+produce electricity|vp	instrument	burn oil|vp	524e-2e12-7c8b-f5cb	0
+living thing survive|av	instrument	energy|n	54ed-5fd9-0f44-64b7	0
+heal|v	agent	broken bone|jn	55ad-db14-b2ff-b591	0
+wheeled vehicle|jn	has subcomponent	smooth surface|jn	57ff-11f6-5854-80c5	0
+compare|v	instrument	measure|v	5a5b-62f9-095f-8447	0
+growth|n	derivational morphology	grow|v	5aba-6d6d-1c38-fe18	0
+organism grow|av	instrument	energy|n	5aba-6d6d-1c38-fe18	0
+organism repair|av	instrument	energy|n	5aba-6d6d-1c38-fe18	0
+healthy|j	derivational morphology	health|n	5b55-22e0-6067-9ef9	0
+human|n	has property	healthy|j	5b55-22e0-6067-9ef9	0
+rest|v	causes	health|n	5b55-22e0-6067-9ef9	0
+sleep|v	causes	health|n	5b55-22e0-6067-9ef9	0
+measure|v	instrument	read measurement|vp	5c44-235c-9a3d-6182	0
+use object|vp	instrument	create object|vp	5c98-332a-07bc-25e6	0
+plant grow|av	instrument	soil|n	5ebe-099f-fd30-b713	0
+plant survive|av	instrument	soil|n	5ebe-099f-fd30-b713	0
+survival|n	derivational morphology	survive|v	5ebe-099f-fd30-b713	0
+electrical insulation|ns	has subcomponent	insulator|n	6152-0048-10b7-5dd7	0
+insulate|v	instrument	insulator|n	6152-0048-10b7-5dd7	0
+insulation|n	derivational morphology	insulate|v	6152-0048-10b7-5dd7	0
+insulator|n	derivational morphology	insulate|v	6152-0048-10b7-5dd7	0
+wrap conductor|vp	instrument	insulator|n	6152-0048-10b7-5dd7	0
+wrap conductor|vp	result	insulate|v	6152-0048-10b7-5dd7	0
+photosynthesize|v	agent	plant|n	619e-a5d1-b505-4f69	0
+photosynthesize|v	derivational morphology	photosynthesis|n	619e-a5d1-b505-4f69	0
+photosynthesize|v	instrument	sunlight|n	619e-a5d1-b505-4f69	0
+build tool|vp	instrument	know part|vp	667d-b7b6-7a2f-41ac	0
+tool|n	kind of	object|n	667d-b7b6-7a2f-41ac	0
+tool|n	has subcomponent	part|n	667d-b7b6-7a2f-41ac	0
+predict weather|vp	instrument	study weather|vp	66f7-f191-3c2b-d38e	0
+polar bear|ns	at location	cold environment|jn	682c-7e2c-8f66-0543	0
+eat prey|vp	instrument	catch prey|vp	69cc-d300-368f-169b	0
+vegetation decay|av	result	coal|n	69e3-9034-d59c-1674	0
+vegetation decay|av	result	fossil fuel|ns	69e3-9034-d59c-1674	0
+count|v	instrument	see|v	6ace-d8ec-0ac5-9dd2	0
+create paper|vp	instrument	cut down tree|vp	6b51-f1bc-8a3b-f29a	0
+animal survive|av	instrument	water|n	732f-cb0b-50b4-ad0d	0
+light bulb produce light|avp	instrument	electrical energy|jn	737b-c59a-2215-29e1	0
+measure hardness|vp	instrument	scratch|v	757d-cd70-0857-0d35	0
+measure hardness|vp	patient	material|n	757d-cd70-0857-0d35	0
+answer question|vp	instrument	information|n	7717-15e3-f50d-464a	0
+plant reproduce|av	instrument	pollinate|v	7b88-0a72-7d90-ea1d	0
+animal survive|av	instrument	eat food|vp	7d29-0a2c-6959-b1dd	0
+animal survive|av	instrument	nutrient|n	7d29-0a2c-6959-b1dd	0
+animal survive|av	instrument	nutrient|n	7d29-0a2c-6959-b1dd	0
+animal survive|av	instrument	nutrient|n	7d29-0a2c-6959-b1dd	0
+animal survive|av	instrument	nutrient|n	7d29-0a2c-6959-b1dd	0
+food|n	has subcomponent	nutrient|n	7d29-0a2c-6959-b1dd	0
+animal|n	has subcomponent	nutrient|n	7db0-1827-aaaa-cc30	0
+plant grow|av	instrument	space|n	7e26-1fd1-3e55-4816	0
+animal eat|av	patient	nutrient|n	80de-489f-48b2-16f4	0
+animal eat|av	result	survive|v	80de-489f-48b2-16f4	0
+animal move|av	instrument	energy|n	838c-30bf-9b24-714b	0
+cut material|vp	instrument	measure length|vp	8eef-9fa6-ffe3-c079	0
+create simple circuit|vp	instrument	battery|n	963a-dc3b-646b-8187	0
+create simple circuit|vp	instrument	wire|n	963a-dc3b-646b-8187	0
+pesticide|n	at location	crop|n	977b-ea07-b44f-bca9	0
+spray|v	patient	pesticide|n	977b-ea07-b44f-bca9	0
+calculate speed|vp	instrument	know distance|vp	98dd-55cb-7cfa-5e19	0
+respiration|n	derivational morphology	respire|v	995d-01f9-c9a9-9896	0
+respire|v	agent	living entity|jn	995d-01f9-c9a9-9896	0
+use energy|vp	instrument	respire|v	995d-01f9-c9a9-9896	0
+investigation|n	has subcomponent	conclusion|n	9975-ef8f-39de-60bf	0
+make valid conclusion|vp	instrument	testable hypothesis|jn	9975-ef8f-39de-60bf	0
+simple machine function|av	instrument	mechanical energy|jn	9ad1-61b5-f824-eac7	0
+hydropower|n	has subcomponent	dam river|vp	9b27-4e05-92ed-e884	0
+cast image|vp	instrument	pinhole camera|ns	9b3e-7893-591c-c45a	0
+look in container|vp	instrument	open container|vp	a280-cb5c-23dc-75f5	0
+egg develop|av	instrument	warmth|n	a395-cfde-0f24-1823	0
+egg hatch|av	instrument	warmth|n	a395-cfde-0f24-1823	0
+egg survive|av	instrument	warmth|n	a395-cfde-0f24-1823	0
+determine type|vp	instrument	information|n	a7a2-bae8-2f22-634d	0
+bicycle|n	has subcomponent	pedal|n	aa32-7fa4-4468-3d58	0
+pedal|v	patient	bicycle|n	aa32-7fa4-4468-3d58	0
+pedal|v	synonym	move pedal|vp	aa32-7fa4-4468-3d58	0
+survive|v	instrument	warm body temperature|jn	b08a-c1bc-23ee-1815	0
+assemble kit|vp	agent	person|n	b18d-21e4-cd6b-fc65	0
+assemble kit|vp	instrument	instructions|n	b18d-21e4-cd6b-fc65	0
+assemble something|vp	agent	person|n	b18d-21e4-cd6b-fc65	0
+assemble something|vp	instrument	instructions|n	b18d-21e4-cd6b-fc65	0
+wire|n	has subcomponent	electrical conductor|jn	b5f8-afed-3d08-707b	0
+plant survive|av	instrument	habitat|n	b7e4-dce3-2bc1-dc3e	0
+tree grow|av	instrument	sunlight|n	ba77-8e71-e07b-08fe	0
+prepare storm|vp	instrument	predict storm|vp	bbef-5cd8-4316-7358	0
+grow crop|vp	instrument	plant crop|vp	be6c-e07f-062e-3207	0
+find|v	instrument	sense|v	beb5-0b99-d9ac-b8e5	0
+use raw material|vp	instrument	absorb|v	bef0-f566-d2cd-a523	0
+perform experiment|vp	instrument	read instruction|vp	c003-e5f0-d0c5-e922	0
+perform experiment|vp	instrument	understand instruction|vp	c003-e5f0-d0c5-e922	0
+wood-free paper|jn	has subcomponent	cotton waste|ns	c154-63ca-6d35-92b4	0
+wood-free paper|jn	has subcomponent	rice waste|ns	c154-63ca-6d35-92b4	0
+mineral|n	has subcomponent	streak|n	c275-7629-09d4-66e3	0
+test streak|vp	instrument	powdered mineral|jn	c275-7629-09d4-66e3	0
+cell|n	has subcomponent	oxygen|n	c37e-1c44-bf2c-3755	0
+oxygen|n	kind of	fuel|n	c37e-1c44-bf2c-3755	0
+plant reproduce|av	instrument	seed disperse|av	c814-78ab-6951-9f93	0
+reproduction|n	derivational morphology	reproduce|v	c814-78ab-6951-9f93	0
+tadpole breathe|av	instrument	water|n	c962-dbaf-be19-1b47	0
+plant grow|av	instrument	specific climate|jn	ca89-72df-289d-eb5a	0
+plant survive|av	instrument	specific climate|jn	ca89-72df-289d-eb5a	0
+compare|v	instrument	observe|v	cafd-1d6e-a47f-022b	0
+push object|vp	instrument	force|n	cd52-a711-b031-51a8	0
+take trip|v	instrument	vehicle|n	ce92-ccfe-ccdf-061f	0
+fly kite|vp	instrument	wind|n	d042-a628-d170-532f	0
+study moving habit|vp	instrument	know location|vp	d5a9-c02e-a6e4-392f	0
+learn|v	instrument	observe|v	d8a6-5c7b-d762-e968	0
+predict|v	derivational morphology	prediction|n	ddaf-860d-fe67-ae1e	0
+warn|v	instrument	knowledge|n	ddaf-860d-fe67-ae1e	0
+warn|v	instrument	prediction|n	ddaf-860d-fe67-ae1e	0
+animal move|av	result	find shelter|vp	df9f-982c-aa68-428a	0
+investigate|v	instrument	experiment|v	e0c1-2f0f-8fa6-28d2	0
+flashlight|n	causes	light|n	e1cb-6dbd-0bf8-8d18	0
+flashlight|n	has subcomponent	electricity|n	e1cb-6dbd-0bf8-8d18	0
+experiment|v	instrument	measure|v	e1e1-8127-43cc-b6bf	0
+see|v	instrument	light|n	e5ab-6c07-c15d-90f2	0
+animal survive|av	instrument	air|n	e918-e402-e4c8-3977	0
+survival|n	derivational morphology	survive|v	e918-e402-e4c8-3977	0
+navigate|v	instrument	know direction|vp	e97b-a0ad-44fb-fbc3	0
+living thing grow|av	instrument	water|n	f3ed-dedc-2aad-109c	0
+living thing survive|av	instrument	water|n	f3ed-dedc-2aad-109c	0
+living thing|jn	synonym	living entity|jn	f3ed-dedc-2aad-109c	0
+plant grow|av	instrument	water|n	f3ed-dedc-2aad-109c	0
+plant survive|av	instrument	water|n	f3ed-dedc-2aad-109c	0
+build|v	instrument	measure material|vp	f58a-4d4f-e0ae-6833	0
+animal survive|av	instrument	oxygen|n	f59c-9a1b-f57b-d689	0
+breathe oxygen|vp	result	survive|v	f59c-9a1b-f57b-d689	0
+breathe|v	instrument	oxygen|n	f59c-9a1b-f57b-d689	0
+sprinkler|n	has subcomponent	water|n	fa4f-3f9e-68fa-1b79	0
+heal|v	instrument	energy|n	fae2-7a13-e5eb-07b7	0
+heal|v	instrument	nutrient|n	fae2-7a13-e5eb-07b7	0
+heal|v	instrument	rest|v	fae2-7a13-e5eb-07b7	0
+animal survive|av	instrument	habitat|n	fc71-7a5d-6e7b-5f5a	0
+determine|v	instrument	measure|v	fc75-dfcd-e46e-e318	0
+determine|v	instrument	observe|v	fc75-dfcd-e46e-e318	0
+plant grow|av	instrument	photosynthesize|v	fe74-c2b4-98c2-9496	0
+plant survive|av	instrument	photosynthesize|v	fe74-c2b4-98c2-9496	0
+magnetism|n	at location	air|n	ffdf-9b51-2f63-0791	0

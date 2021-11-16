@@ -1,0 +1,35 @@
+subj	rel	obj	id	flag
+northern winter|jn	has subcomponent	January|n	13ac-fd63-feca-f384	0
+winter|n	has subcomponent	snow fall|av	1c78-f04e-5974-e03c	0
+hemisphere|n	has subcomponent	pole|n	32c6-adaa-af1c-f49f	0
+pole tilt from sun|avp	result	winter|n	32c6-adaa-af1c-f49f	0
+northern winter|jn	has subcomponent	December|n	39e2-fb06-b946-62df	0
+northern winter solstice|jn	synonym	december 21|ns	50a6-138c-0abe-6496	0
+different time|jn	has subcomponent	different season|jn	54cf-cc71-b887-3b08	0
+northern summer|jn	has subcomponent	southern winter|jn	5510-64d4-c9fc-9719	0
+southern summer|jn	has subcomponent	northern winter|jn	5510-64d4-c9fc-9719	0
+northern winter|jn	has subcomponent	August|n	5d96-5bf8-3746-7842	0
+snow fall|av	at location	arctic environment|jn	5deb-66f8-1413-678d	0
+winter|n	has subcomponent	snow fall|av	5deb-66f8-1413-678d	0
+lightning storm|ns	has subcomponent	lightning|n	6699-e590-cde9-3908	0
+experiment|n	has subcomponent	chemical splash|av	69e9-672f-1f1c-84a1	0
+new moon|jn	causes	first quarter moon|ns	6f48-4e3d-21dc-e605	0
+thunderstorm|n	has subcomponent	thunder|n	765b-d080-8cd8-7a98	0
+thunderstorm|n	kind of	storm|n	765b-d080-8cd8-7a98	0
+1903|n	has subcomponent	invent refrigerator|vp	7d89-3509-8e8b-f868	0
+new moon|jn	has subcomponent	solar eclipse|ns	86d9-dd35-a5bf-7a09	0
+adulthood|n	derivational morphology	adult|n	abd0-8f9f-e0e5-4a64	0
+lay egg|vp	agent	adult female insect|jn	abd0-8f9f-e0e5-4a64	0
+life cycle|ns	has subcomponent	adulthood|n	abd0-8f9f-e0e5-4a64	0
+northern summer solstice|jn	synonym	june 21|ns	b2ac-b8b2-5d1c-40b8	0
+northern summer|jn	has subcomponent	June|n	b789-c5df-3b5c-272b	0
+reproduce|v	agent	adult|n	bb00-a468-9749-1825	0
+1923|n	has subcomponent	invent refrigerator|vp	bb06-72d6-bb30-97d8	0
+southern summer|jn	has subcomponent	December|n	bd19-8646-deb7-e368	0
+long ago|jn	has subcomponent	history|n	d839-570a-60f4-5bc9	0
+season change|av	has subcomponent	leaf change colour|avp	e1be-4636-b374-a6c2	0
+life cycle|ns	has subcomponent	pupa stage|ns	e6ee-4811-a5db-94ee	0
+pupa stage|ns	has subcomponent	create cocoon|vp	e6ee-4811-a5db-94ee	0
+southern winter solstice|jn	synonym	june 21|ns	ecff-60c1-7d9d-d0b8	0
+night|n	has subcomponent	nocturnal predator hunt|av	f299-26e4-a84d-d705	0
+southern winter|jn	has subcomponent	June|n	fc7f-85ca-56d1-d7d5	0
